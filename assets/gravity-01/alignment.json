@@ -1,0 +1,148 @@
+{
+  "audio_duration": 9.116625,
+  "segments": [
+    {
+      "text": "Gravity",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "is",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "not",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "text": "a",
+      "start": 0.96,
+      "end": 0.96
+    },
+    {
+      "text": "force",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "text": "pulling",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "text": "you",
+      "start": 1.68,
+      "end": 1.76
+    },
+    {
+      "text": "down",
+      "start": 1.76,
+      "end": 2.16
+    },
+    {
+      "text": "at",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "text": "all",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "text": "Massive",
+      "start": 3.2,
+      "end": 3.76
+    },
+    {
+      "text": "things",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "text": "bend",
+      "start": 4.08,
+      "end": 4.4
+    },
+    {
+      "text": "space",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "text": "and",
+      "start": 4.88,
+      "end": 4.96
+    },
+    {
+      "text": "time",
+      "start": 4.96,
+      "end": 5.28
+    },
+    {
+      "text": "around",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "them",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "text": "and",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "text": "everything",
+      "start": 6.24,
+      "end": 6.64
+    },
+    {
+      "text": "else",
+      "start": 6.64,
+      "end": 6.88
+    },
+    {
+      "text": "just",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "follows",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "that",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "text": "curve",
+      "start": 7.76,
+      "end": 8.16
+    },
+    {
+      "text": "as",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "it",
+      "start": 8.32,
+      "end": 8.4
+    },
+    {
+      "text": "falls",
+      "start": 8.4,
+      "end": 8.96
+    }
+  ],
+  "text": "Gravity is not a force pulling you down at all. Massive things bend space and time around them, and everything else just follows that curve as it falls.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,523 @@
+{
+  "audio_duration": 34.089688,
+  "segments": [
+    {
+      "text": "One",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "of",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "text": "these",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "planets",
+      "start": 0.48,
+      "end": 0.96
+    },
+    {
+      "text": "spins",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "text": "backwards",
+      "start": 1.36,
+      "end": 2.08
+    },
+    {
+      "text": "Eight",
+      "start": 2.4,
+      "end": 2.64
+    },
+    {
+      "text": "planets",
+      "start": 2.64,
+      "end": 3.2
+    },
+    {
+      "text": "Here",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "text": "is",
+      "start": 3.68,
+      "end": 3.76
+    },
+    {
+      "text": "what",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "text": "makes",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "text": "each",
+      "start": 4.32,
+      "end": 4.56
+    },
+    {
+      "text": "one",
+      "start": 4.56,
+      "end": 4.8
+    },
+    {
+      "text": "strange",
+      "start": 4.8,
+      "end": 5.44
+    },
+    {
+      "text": "Mercury",
+      "start": 5.76,
+      "end": 6.32
+    },
+    {
+      "text": "has",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "text": "no",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "text": "atmosphere",
+      "start": 6.72,
+      "end": 7.44
+    },
+    {
+      "text": "so",
+      "start": 7.6,
+      "end": 7.76
+    },
+    {
+      "text": "its",
+      "start": 7.76,
+      "end": 7.84
+    },
+    {
+      "text": "sky",
+      "start": 7.84,
+      "end": 8.32
+    },
+    {
+      "text": "is",
+      "start": 8.32,
+      "end": 8.4
+    },
+    {
+      "text": "always",
+      "start": 8.4,
+      "end": 8.8
+    },
+    {
+      "text": "black",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "text": "Venus",
+      "start": 9.52,
+      "end": 9.92
+    },
+    {
+      "text": "spins",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "text": "backwards",
+      "start": 10.24,
+      "end": 10.8
+    },
+    {
+      "text": "and",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "a",
+      "start": 11.2,
+      "end": 11.2
+    },
+    {
+      "text": "day",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "text": "there",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "lasts",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "text": "longer",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "text": "than",
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "text": "its",
+      "start": 12.64,
+      "end": 12.8
+    },
+    {
+      "text": "year",
+      "start": 12.8,
+      "end": 13.2
+    },
+    {
+      "text": "Earth",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "text": "is",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "the",
+      "start": 13.92,
+      "end": 14.08
+    },
+    {
+      "text": "only",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "place",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "we",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "text": "have",
+      "start": 14.88,
+      "end": 14.96
+    },
+    {
+      "text": "ever",
+      "start": 15.04,
+      "end": 15.28
+    },
+    {
+      "text": "found",
+      "start": 15.28,
+      "end": 15.6
+    },
+    {
+      "text": "life",
+      "start": 15.6,
+      "end": 15.92
+    },
+    {
+      "text": "Mars",
+      "start": 16.434648526077098,
+      "end": 16.834648526077096
+    },
+    {
+      "text": "is",
+      "start": 16.834648526077096,
+      "end": 16.994648526077096
+    },
+    {
+      "text": "red",
+      "start": 16.994648526077096,
+      "end": 17.3946485260771
+    },
+    {
+      "text": "because",
+      "start": 17.5546485260771,
+      "end": 17.794648526077097
+    },
+    {
+      "text": "its",
+      "start": 17.794648526077097,
+      "end": 17.954648526077097
+    },
+    {
+      "text": "soil",
+      "start": 17.954648526077097,
+      "end": 18.3546485260771
+    },
+    {
+      "text": "is",
+      "start": 18.3546485260771,
+      "end": 18.514648526077096
+    },
+    {
+      "text": "basically",
+      "start": 18.514648526077096,
+      "end": 18.994648526077096
+    },
+    {
+      "text": "rust",
+      "start": 18.994648526077096,
+      "end": 19.474648526077097
+    },
+    {
+      "text": "Jupiter's",
+      "start": 19.794648526077097,
+      "end": 20.274648526077097
+    },
+    {
+      "text": "great",
+      "start": 20.274648526077097,
+      "end": 20.594648526077098
+    },
+    {
+      "text": "red",
+      "start": 20.594648526077098,
+      "end": 20.914648526077098
+    },
+    {
+      "text": "spot",
+      "start": 20.914648526077098,
+      "end": 21.314648526077097
+    },
+    {
+      "text": "is",
+      "start": 21.314648526077097,
+      "end": 21.474648526077097
+    },
+    {
+      "text": "a",
+      "start": 21.474648526077097,
+      "end": 21.474648526077097
+    },
+    {
+      "text": "storm",
+      "start": 21.474648526077097,
+      "end": 22.0346485260771
+    },
+    {
+      "text": "wider",
+      "start": 22.0346485260771,
+      "end": 22.3546485260771
+    },
+    {
+      "text": "than",
+      "start": 22.3546485260771,
+      "end": 22.514648526077096
+    },
+    {
+      "text": "Earth",
+      "start": 22.514648526077096,
+      "end": 22.834648526077096
+    },
+    {
+      "text": "Saturn",
+      "start": 23.154648526077096,
+      "end": 23.634648526077097
+    },
+    {
+      "text": "is",
+      "start": 23.634648526077097,
+      "end": 23.7146485260771
+    },
+    {
+      "text": "so",
+      "start": 23.7146485260771,
+      "end": 23.954648526077097
+    },
+    {
+      "text": "light",
+      "start": 23.954648526077097,
+      "end": 24.274648526077097
+    },
+    {
+      "text": "it",
+      "start": 24.3546485260771,
+      "end": 24.434648526077098
+    },
+    {
+      "text": "would",
+      "start": 24.434648526077098,
+      "end": 24.594648526077098
+    },
+    {
+      "text": "float",
+      "start": 24.594648526077098,
+      "end": 24.914648526077098
+    },
+    {
+      "text": "in",
+      "start": 24.914648526077098,
+      "end": 25.074648526077098
+    },
+    {
+      "text": "water",
+      "start": 25.074648526077098,
+      "end": 25.474648526077097
+    },
+    {
+      "text": "Uranus",
+      "start": 25.634648526077097,
+      "end": 26.114648526077097
+    },
+    {
+      "text": "is",
+      "start": 26.114648526077097,
+      "end": 26.194648526077096
+    },
+    {
+      "text": "tipped",
+      "start": 26.194648526077096,
+      "end": 26.514648526077096
+    },
+    {
+      "text": "on",
+      "start": 26.514648526077096,
+      "end": 26.6746485260771
+    },
+    {
+      "text": "its",
+      "start": 26.6746485260771,
+      "end": 26.754648526077098
+    },
+    {
+      "text": "side",
+      "start": 26.754648526077098,
+      "end": 27.154648526077096
+    },
+    {
+      "text": "rolling",
+      "start": 27.314648526077097,
+      "end": 27.794648526077097
+    },
+    {
+      "text": "around",
+      "start": 27.794648526077097,
+      "end": 28.0346485260771
+    },
+    {
+      "text": "the",
+      "start": 28.0346485260771,
+      "end": 28.114648526077097
+    },
+    {
+      "text": "sun",
+      "start": 28.114648526077097,
+      "end": 28.514648526077096
+    },
+    {
+      "text": "And",
+      "start": 28.754648526077098,
+      "end": 28.914648526077098
+    },
+    {
+      "text": "on",
+      "start": 28.914648526077098,
+      "end": 29.074648526077098
+    },
+    {
+      "text": "Neptune",
+      "start": 29.074648526077098,
+      "end": 29.634648526077097
+    },
+    {
+      "text": "the",
+      "start": 29.794648526077097,
+      "end": 29.874648526077095
+    },
+    {
+      "text": "wind",
+      "start": 29.874648526077095,
+      "end": 30.194648526077096
+    },
+    {
+      "text": "blows",
+      "start": 30.194648526077096,
+      "end": 30.514648526077096
+    },
+    {
+      "text": "faster",
+      "start": 30.514648526077096,
+      "end": 30.914648526077098
+    },
+    {
+      "text": "than",
+      "start": 30.914648526077098,
+      "end": 31.074648526077098
+    },
+    {
+      "text": "the",
+      "start": 31.074648526077098,
+      "end": 31.154648526077096
+    },
+    {
+      "text": "speed",
+      "start": 31.154648526077096,
+      "end": 31.474648526077097
+    },
+    {
+      "text": "of",
+      "start": 31.474648526077097,
+      "end": 31.554648526077095
+    },
+    {
+      "text": "sound",
+      "start": 31.554648526077095,
+      "end": 32.0346485260771
+    },
+    {
+      "text": "Follow",
+      "start": 32.3546485260771,
+      "end": 32.67464852607709
+    },
+    {
+      "text": "for",
+      "start": 32.67464852607709,
+      "end": 32.7546485260771
+    },
+    {
+      "text": "one",
+      "start": 32.7546485260771,
+      "end": 33.0746485260771
+    },
+    {
+      "text": "fact",
+      "start": 33.0746485260771,
+      "end": 33.3946485260771
+    },
+    {
+      "text": "a",
+      "start": 33.3946485260771,
+      "end": 33.4746485260771
+    },
+    {
+      "text": "day",
+      "start": 33.4746485260771,
+      "end": 33.874648526077095
+    }
+  ],
+  "text": "One of these planets spins backwards. Eight planets. Here is what makes each one strange. Mercury has no atmosphere, so its sky is always black. Venus spins backwards, and a day there lasts longer than its year. Earth is the only place we have ever found life. Mars is red because its soil is basically rust. Jupiter's great red spot is a storm wider than Earth. Saturn is so light it would float in water. Uranus is tipped on its side, rolling around the sun. And on Neptune, the wind blows faster than the speed of sound. Follow for one fact a day.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro"
+}

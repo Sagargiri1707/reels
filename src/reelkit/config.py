@@ -91,6 +91,24 @@ DEFAULT_POST = {
 }
 
 
+# The sign-off, appended as a real final beat to every reel by script.load().
+# It is here rather than copied into each script on purpose: it has to be word
+# for word and frame for frame identical every time, because that repetition is
+# the entire point -- a viewer should recognise the ending before it finishes.
+# A script can drop it with "outro": false.
+DEFAULT_OUTRO = {
+    "id": "outro",
+    "role": "outro",
+    "text": "One of these every day. Follow so you do not miss tomorrow.",
+    "image_prompt": (
+        "a chunky red enamel push button on a round metal base, the mascot "
+        "leaping off the ground to slam it down with both arms"
+    ),
+    "image_text": "FOLLOW",
+    "anchored": False,   # identical in every reel, so no per-reel subject
+}
+
+
 def load_dotenv(path=None):
     """
     Read KEY=VALUE lines from .env into os.environ without overwriting

@@ -15,10 +15,25 @@ repo are in "What we change" below, and they are not negotiable per-reel.
 
 ## The two halves
 
-**Realistic half.** Real objects, rendered like studio product photography: a
-laptop, a broom, a balance scale, a paper chart. Correct materials, correct
-weight, one consistent soft light, a light contact shadow under each object.
-Never a flat vector icon, never a drawing of the object.
+**Realistic half.** Real objects, shot like commercial product photography: a
+laptop, a broom, a balance scale, a paper chart. It should look photographed,
+not illustrated — sharp focus, visible surface texture, real reflections in
+metal and glass, correct weight, one consistent softbox light, a light contact
+shadow under each object. Never a flat vector icon, never a drawing of the
+object, never a 3D render that looks like a render.
+
+Naming the material in the prompt is what buys this. "a brass egg timer" gets a
+photograph; "a timer" gets an icon.
+
+**The canonical `style_lock`.** Copy this string verbatim into every new
+script. It is the only place style is allowed to live:
+
+```text
+photorealistic macro product photograph of a real physical object on a clean seamless pure white #FFFFFF background, sharp focus and fine surface texture, true material detail with real reflections and micro scratches, physically accurate softbox studio lighting, only a light contact shadow beneath the object, no environment and no gradient; composited with one small flat hand-drawn anime mascot character standing in the scene: a solid matte black bean-shaped body about one tenth of the frame height, two small white dot eyes, thin simple stick arms and legs, slightly irregular hand-drawn outline, calm deadpan expression with no mouth, no clothing; a few small colour accents only, blue or yellow tape, a small green or red dot; generous empty white space, vertical portrait composition
+```
+
+`glass-rain-01` and `8-planets-01` predate this string and are not being
+re-rendered, so they will look slightly softer than everything after them.
 
 **Anime half.** One small mascot, drawn flat over the photograph:
 
@@ -123,21 +138,73 @@ is one or two words, and has a real surface to sit on — a plaque, a page, a
 sticky note. Uppercase and plain. English only; never Chinese, whatever the
 source skill's examples show.
 
-## Writing a prompt
+## The pattern
 
-Structure: **the real object → what the mascot is doing to it → one small
-detail.**
+Every prompt in every reel is the same four slots in the same order. Not a
+suggestion — write them in this order every time, so twelve frames read as one
+set instead of twelve separate ideas.
 
-> a small grey rock on a white museum pedestal, the mascot straining with both
-> arms to hold its name plaque on as the last screw drops away
+```
+<ONE REAL OBJECT, named with its material>,
+<the mascot's single physical action on it>,
+<one physical detail that shows the action is happening>
+```
 
-Around 15–30 words. No style words — style lives in `style_lock`. No background
-colour — that is handled for you. Every frame renders alone, so restate the
-subject in full every time; never "the same object as before".
+Worked, from the reels in this repo:
+
+| slot | example |
+|---|---|
+| object | `a chrome desk fan running at full speed` |
+| action | `the mascot gripping its wire guard with both arms` |
+| detail | `and streaming out sideways like a flag` |
+
+| slot | example |
+|---|---|
+| object | `a ball of pale wool unravelling into one long trailing thread` |
+| action | `the mascot hauling back on the loose end with both arms` |
+| detail | `and losing` |
+
+Rules for the slots:
+
+1. **Object — name the material.** "a brass egg timer", "a chrome desk fan", "a
+   grey rock cracked open". Material is what makes the render photoreal;
+   "a timer" gets you a generic icon of a timer.
+2. **Action — one verb, and say what the mascot grips.** `gripping with both
+   arms`, `leaning its whole body against`, `hanging off with both arms`,
+   `prying apart with a small crowbar`. A mascot with nothing to hold reads as
+   standing nearby, which fails the delete test.
+3. **Detail — show the action mid-happening.** The thread trailing, the last
+   screw dropping, the fragments streaking past, the rock refusing to fit. This
+   is the slot that stops the frame being a posed product shot.
+4. **Length: 15–30 words.** Past that the model starts dropping slots.
+
+Pick the object family before writing any beats. One reel's objects should feel
+like they came out of the same cupboard — glassware and marbles and lab trays,
+or timers and tools and workshop parts. Wandering across families beat to beat
+is what made the frames look unrelated the first time round.
+
+No style words — style lives in `style_lock`. No background colour — handled for
+you. Every frame renders alone, so restate the object in full every time; never
+"the same object as before".
 
 Give the viewer a way in: a familiar everyday object, scale shown by comparison
 rather than by number, the consequence rather than the mechanism. The narration
 explains how it works; the frame shows what it does to someone.
+
+## The sign-off
+
+Every reel ends with the same beat, appended automatically by `script.load()`
+from `DEFAULT_OUTRO` in `src/reelkit/config.py`. Spoken line, mascot slamming a
+red push button, the word `FOLLOW` on it.
+
+Do not write it into a script, do not reword it per reel, and do not add your
+own closing beat on top of it. It is identical every time on purpose — that
+repetition is the whole value, because a returning viewer should recognise the
+ending before it finishes. It is also the one beat that skips the subject
+anchor, so the button never turns into a space button.
+
+A script can drop it with `"outro": false`, which is for one-offs that are not
+going on the feed.
 
 ## Before you build
 

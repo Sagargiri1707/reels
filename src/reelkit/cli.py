@@ -11,7 +11,7 @@ reelkit command line.
 
 import argparse
 
-from . import (images, post as post_mod, script as script_mod, stitch,
+from . import (images, plan, post as post_mod, script as script_mod, stitch,
                thumbs, timeline, voice)
 from .ffmpeg import require_tools
 
@@ -87,6 +87,15 @@ def cmd_build(args):
     thumbs.generate(s, spans, beat=args.beat, video=out)
     print("-- post")
     post_mod.write(s)
+    # The mp4 exists, so the idea is done. Doing this here rather than leaving
+    # it to whoever ran the build is what stops the next run rebuilding the
+    # same reel and paying for the images twice.
+    print("-- plan")
+    if plan.mark_done(s):
+        print(f"  ticked off in list.md  ({s.topic})")
+    else:
+        print(f"  ! no unchecked list.md entry matches {s.topic!r} "
+              f"-- nothing to tick off")
 
 
 def cmd_timeline(args):

@@ -24,7 +24,7 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 - `topic`: the Day title (e.g. "Why we only have 8 planets")
 - `slug`: as above
 - `music`: null unless user asks
-- `beats`: 6–12 beats, written to the storytelling rules below
+- `beats`: 6–12 beats, written to the storytelling rules below. **Do not write a follow/subscribe beat** — the build appends the standard sign-off itself (`DEFAULT_OUTRO` in `src/reelkit/config.py`): same spoken line, same mascot-slams-a-red-button frame, every reel. Writing your own would double it.
 - `subject_anchor`: one line naming what the reel is about, in objects — e.g. `"the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, the night sky"`. Required; the loader refuses a script without one. It rides on every image prompt so no frame drifts off topic.
 - `style_lock`: leave a placeholder for now; Step 3 replaces it.
 - `post`: the feed caption and cover-frame choice — written in Step 4.
@@ -74,6 +74,16 @@ Strong: `Your brain physically shrinks every night, and that's the point.`
 
 The visuals carry retention as much as the words do.
 
+**Every prompt is the same three slots in the same order**, so twelve frames read as one set:
+
+```
+<ONE REAL OBJECT, named with its material>, <the mascot's single physical action on it>, <one detail showing the action mid-happening>
+```
+
+> `a chrome desk fan running at full speed`, `the mascot gripping its wire guard with both arms`, `and streaming out sideways like a flag`
+
+Name the material — "a brass egg timer" renders as a photograph, "a timer" renders as an icon. Say what the mascot grips; a mascot holding nothing reads as standing nearby. Pick the object family for the whole reel before writing any beats, so the objects feel like they came out of one cupboard.
+
 - **One real object, one mascot action.** The frame is a real object photographed on white, with the small mascot physically doing the thing the beat is about. Simple and explanatory, readable in a second.
 - **The mascot carries the idea.** Delete it from the frame in your head — if the idea still reads, rewrite the frame. Standing beside the object or pointing at it is a failure.
 - **Every beat must look different from the beat before it.** Two similar-looking frames in a row read as a stall and get swiped. Change the object, the camera distance, or what the mascot is doing.
@@ -97,7 +107,7 @@ It is built on the `ian-xiaohei-scenes` skill, vendored in this repo at `.claude
 
 Then do two passes over the json:
 
-1. **`style_lock`** — copy it verbatim from the most recent script in `scripts/`. Do not reword it or add per-reel flourishes. Reel 40 has to look like reel 1. If it genuinely must change, change it in every script at once and say so in the final report.
+1. **`style_lock`** — copy the canonical string verbatim from the "The two halves" section of `references/visual-style.md`. That file is the source of truth, not the older scripts; `glass-rain-01` and `8-planets-01` predate it and are not being re-rendered. Do not reword it or add per-reel flourishes. Reel 40 has to look like reel 1. If it genuinely must change, change it in `visual-style.md` and say so in the final report.
 2. **Every `image_prompt`** — rewrite it in full against the whole of `visual-style.md`, not just its checklist. Each prompt is judged on:
    - **The delete test.** The mascot performs the beat's core physical action. Remove it from the frame; if the idea still reads completely, the frame has failed. Standing beside the object, pointing at it, or watching it are all failures.
    - **One object, one action.** One real main object plus at most one or two small accessories. Readable in about a second at scroll speed. No diagrams, no panel strips, no labelled process rows.
@@ -156,9 +166,8 @@ If the build fails, read the error, fix the json (common: schema validation in `
 
 1. Confirm the mp4 exists at the path the build printed (check file size > 0).
 2. Confirm `out/<slug>-thumb.jpg` and `assets/<slug>/post.txt` exist.
-3. **Flip the idea's `- [ ]` to `- [x]` in `list.md`. This is not optional and it is not the last thing you get to.** The mp4 rendered, so the idea is done — do it immediately after step 2, before writing the report, before committing, before anything else. An unchecked finished idea means the next run rebuilds the same reel and burns the image spend twice.
-4. Read the line back and confirm it now shows `- [x]`. If the edit did not apply, say so in the report rather than assuming it landed.
-5. Report to the user: idea, slug, beat count, mp4 path, cover path, and the post text itself so it can be pasted without opening a file.
+3. **The build ticks the idea off `list.md` itself** — that is the `-- plan` line at the end of its output, handled by `src/reelkit/plan.py`. Do not edit `list.md` by hand. Read the build output: if it printed `! no unchecked list.md entry matches ...`, the topic did not match any open entry, so check whether the idea is worded differently in the plan and say so in the report.
+4. Report to the user: idea, slug, beat count, mp4 path, cover path, and the post text itself so it can be pasted without opening a file.
 
 To try a different cover without re-rendering: `python3 reel.py thumb scripts/<slug>.json --beat 07`. `assets/<slug>/thumbs/contact.jpg` shows every candidate at once — offer it when the hook frame is weak.
 

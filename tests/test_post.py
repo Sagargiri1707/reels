@@ -13,12 +13,13 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from reelkit import post, thumbs  # noqa: E402
+from reelkit import plan, post, thumbs  # noqa: E402
 
 
 @dataclass
 class FakeScript:
     post: dict = field(default_factory=dict)
+    topic: str = ""
 
 
 @dataclass
@@ -108,6 +109,54 @@ class SelectTests(unittest.TestCase):
         made = [(FakeSpan("1", 0, 0.0, 2.0), Path("/tmp/1.jpg"))]
         s = FakeScript(post={"thumbnail_beat": 1})
         self.assertEqual(thumbs.choose(s, made), Path("/tmp/1.jpg"))
+
+
+class PlanTests(unittest.TestCase):
+    """list.md is ticked off by the build, not by whoever ran it. A missed tick
+    makes the next run rebuild a reel that already exists and pay for the
+    images twice, so these guard the matching that decides."""
+
+    def setUp(self):
+        import tempfile
+        self.path = Path(tempfile.mkdtemp()) / "list.md"
+        self.path.write_text(
+            "- [ ] **Day 1 — Why we only have 8 planets**\n"
+            "      Hook: something\n"
+            "- [ ] **Day 2 — The planet where it rains glass, sideways**\n"
+            "- [x] **Day 3 — A day on Venus lasts longer than a year**\n",
+            encoding="utf-8")
+
+    def test_topic_matches_across_the_day_prefix_and_dash(self):
+        """The script's topic is the bare title; list.md prefixes it with
+        'Day N —'. Matching on the raw string would never hit and every reel
+        would silently go unticked."""
+        self.assertEqual(
+            plan.find_entry("The planet where it rains glass, sideways",
+                            self.path), 2)
+
+    def test_an_already_checked_idea_is_not_found_again(self):
+        """Only '- [ ]' lines are candidates. Re-matching a done idea would let
+        a rebuild move the tick onto the wrong entry."""
+        self.assertIsNone(
+            plan.find_entry("A day on Venus lasts longer than a year",
+                            self.path))
+
+    def test_marking_flips_only_the_matched_line(self):
+        """The plan is 180 entries of near-identical shape; a replace that hit
+        more than its own line would mark unbuilt reels as done."""
+        s = FakeScript(post={})
+        s.topic = "The planet where it rains glass, sideways"
+        self.assertTrue(plan.mark_done(s, self.path))
+        lines = self.path.read_text(encoding="utf-8").splitlines()
+        self.assertTrue(lines[2].startswith("- [x]"))
+        self.assertTrue(lines[0].startswith("- [ ]"))   # Day 1 untouched
+
+    def test_a_topic_that_is_not_in_the_plan_is_not_an_error(self):
+        """Building a one-off reel from a topic the user named directly is
+        normal. Failing the build over it would punish a legitimate use."""
+        s = FakeScript(post={})
+        s.topic = "Something never planned"
+        self.assertFalse(plan.mark_done(s, self.path))
 
 
 if __name__ == "__main__":

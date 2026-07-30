@@ -11,8 +11,8 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from .config import (DEFAULT_IMAGE, DEFAULT_POST, DEFAULT_STYLE,
-                     DEFAULT_VOICE, ROOT)
+from .config import (DEFAULT_IMAGE, DEFAULT_OUTRO, DEFAULT_POST,
+                     DEFAULT_STYLE, DEFAULT_VOICE, ROOT)
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*$")
 ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")
@@ -50,6 +50,10 @@ class Beat:
     role: str = ""
     index: int = 0
     image_text: str = ""
+    # The sign-off is the same frame in every reel, so it must not pick up the
+    # per-reel subject anchor -- an anchored outro would be a space button in
+    # one reel and a kitchen button in the next.
+    anchored: bool = True
 
     @property
     def filename(self):
@@ -135,8 +139,10 @@ class Script:
         subject anchor that keeps it on topic, then the art direction, then the
         paper, and the text rule last because it is the one the model most needs
         to obey."""
-        parts = [beat.image_prompt, ANCHOR_RULE.format(anchor=self.subject_anchor),
-                 self.style_lock]
+        parts = [beat.image_prompt]
+        if beat.anchored:
+            parts.append(ANCHOR_RULE.format(anchor=self.subject_anchor))
+        parts.append(self.style_lock)
         paper = self.paper_for(beat)
         if paper:
             parts.append(f"drawn on {paper['name']} paper, "
@@ -169,9 +175,17 @@ def load(path):
     if not SLUG_RE.match(slug):
         _fail(f"slug {slug!r} must be lowercase alphanumeric, dot, dash or underscore")
 
-    raw_beats = data.get("beats") or []
+    raw_beats = list(data.get("beats") or [])
     if not raw_beats:
         _fail("script has no beats")
+
+    # The sign-off is appended here, not written into each script, so it stays
+    # identical across every reel and cannot drift one beat at a time. Adding
+    # it as a real beat means narration, timeline, images and stitch all pick
+    # it up with no special case anywhere downstream.
+    outro = data.get("outro", True)
+    if outro:
+        raw_beats.append(dict(DEFAULT_OUTRO, **(outro if isinstance(outro, dict) else {})))
 
     beats, seen = [], set()
     for i, b in enumerate(raw_beats):
@@ -196,7 +210,8 @@ def load(path):
 
         beats.append(Beat(id=bid, text=text, image_prompt=prompt,
                           role=b.get("role", ""), index=i,
-                          image_text=image_text))
+                          image_text=image_text,
+                          anchored=b.get("anchored", True)))
 
     style_lock = (data.get("style_lock") or "").strip()
     if not style_lock:

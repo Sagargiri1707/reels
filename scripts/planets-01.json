@@ -2,7 +2,6 @@
   "topic": "The 8 planets",
   "slug": "planets-01",
   "music": null,
-
   "style": {
     "bg": "#F2EDE4",
     "caption_font": "Poppins",
@@ -10,16 +9,14 @@
     "caption_upper": true,
     "caption_words_per_chunk": 3
   },
-
   "image": {
     "model": "openai/gpt-image-2",
     "image_size": {
-      "width": 1024,
-      "height": 1280
+      "width": 1152,
+      "height": 2048
     },
     "quality": "low"
   },
-
   "voice": {
     "model": "s2.1-pro",
     "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
@@ -28,9 +25,7 @@
       "speed": 1.0
     }
   },
-
   "style_lock": "minimal black ink doodle illustration, thin uniform line weight, simple stick-figure and flat-shape style, no shading, no gradients, no colour except black lines, plain off-white paper background #F2EDE4, generous white space, centred composition, hand-drawn cartoon feel",
-
   "beats": [
     {
       "id": "01",

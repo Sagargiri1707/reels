@@ -20,9 +20,15 @@ DEFAULT_STYLE = {
     "fps": 30,
     "bg": "#F2EDE4",
 
-    "image_box_w": 0.92,      # artwork width as a fraction of the frame
-    "image_box_h": 0.62,      # artwork height as a fraction of the frame
-    "image_top": 0.13,        # where the artwork sits from the top
+    # "cover" fills the whole frame, cropping any overflow, so the artwork's
+    # own background IS the reel background and no seam can show. "contain"
+    # is the old behaviour: fit the art into a box and pad around it, which
+    # only looks right when the image background exactly matches `bg`.
+    "image_fit": "cover",
+
+    "image_box_w": 0.92,      # contain only: artwork width as a frame fraction
+    "image_box_h": 0.62,      # contain only: artwork height as a frame fraction
+    "image_top": 0.13,        # contain only: artwork offset from the top
 
     "zoom_amount": 0.09,      # how much Ken Burns drift per beat
     "zoom_supersample": 2,    # raise to 3 for silkier motion, slower render
@@ -44,9 +50,10 @@ DEFAULT_STYLE = {
 DEFAULT_IMAGE = {
     "model": "openai/gpt-image-2",
     # fal accepts a preset name or {"width": w, "height": h}. Concrete sizes
-    # must be multiples of 16 and total 0.65-8.3 megapixels. 4:5 portrait fills
-    # more of the 9:16 frame than a square does.
-    "image_size": {"width": 1024, "height": 1280},
+    # must be multiples of 16 and total 0.65-8.3 megapixels. Exact 9:16 needs
+    # w=144k, h=256k; k=8 gives 1152x2048, which matches the reel frame and
+    # downscales into 1080x1920 rather than being blown up.
+    "image_size": {"width": 1152, "height": 2048},
     "quality": "low",
     "output_format": "png",
 }

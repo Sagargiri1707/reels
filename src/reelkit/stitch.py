@@ -70,10 +70,18 @@ def build_segment(script, span, image_path, build_dir):
     frames = max(2, int(round(dur * FPS)))
     seg = build_dir / f"seg_{span.index:03d}.mp4"
 
-    # Fit the artwork into a safe box, sat on the paper-coloured canvas.
-    box_w = int(W * style["image_box_w"])
-    box_h = int(H * style["image_box_h"])
-    top = int(H * style["image_top"])
+    if style.get("image_fit", "cover") == "cover":
+        # Fill the frame and crop the overflow. The artwork's own background
+        # becomes the reel background, so there is no edge to see.
+        fit = (f"scale={W}:{H}:force_original_aspect_ratio=increase,"
+               f"crop={W}:{H}")
+    else:
+        # Fit the artwork into a safe box, sat on the paper-coloured canvas.
+        box_w = int(W * style["image_box_w"])
+        box_h = int(H * style["image_box_h"])
+        top = int(H * style["image_top"])
+        fit = (f"scale={box_w}:{box_h}:force_original_aspect_ratio=decrease,"
+               f"pad={W}:{H}:(ow-iw)/2:{top}:color={style['bg']}")
 
     # Alternate the zoom direction so consecutive beats don't feel identical.
     amp = style["zoom_amount"]
@@ -86,8 +94,7 @@ def build_segment(script, span, image_path, build_dir):
     ss = style["zoom_supersample"]
 
     vf = (
-        f"scale={box_w}:{box_h}:force_original_aspect_ratio=decrease,"
-        f"pad={W}:{H}:(ow-iw)/2:{top}:color={style['bg']},"
+        f"{fit},"
         f"scale={W * ss}:{H * ss}:flags=bicubic,"
         f"zoompan=z='{z}'"
         f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"

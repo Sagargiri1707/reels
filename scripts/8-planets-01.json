@@ -29,75 +29,75 @@
     "caption": "Pluto never moved and never shrank. It stopped being a planet because a room of astronomers in Prague changed what the word means.\n\nOne science fact a day. Follow so you don't miss tomorrow's.\n\n#pluto #planets #solarsystem #space #astronomy #science #eris #dwarfplanet #spacefacts #sciencefacts #didyouknow",
     "thumbnail_beat": "01"
   },
-  "subject_anchor": "the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky",
-  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "subject_anchor": "planets, moons, orbits, star charts and the night sky",
+  "style_lock": "photorealistic studio product photograph of a real physical object on a clean seamless pure white #FFFFFF background, soft even studio light, accurate materials and weight, only a light contact shadow beneath the object, no environment and no gradient; composited with one small flat hand-drawn anime mascot character standing in the scene: a solid matte black bean-shaped body about one tenth of the frame height, two small white dot eyes, thin simple stick arms and legs, slightly irregular hand-drawn outline, calm deadpan expression with no mouth, no clothing; a few small colour accents only, blue or yellow tape, a small green or red dot; generous empty white space, vertical portrait composition",
   "beats": [
     {
       "id": "01",
       "role": "hook",
       "text": "Pluto never moved, never shrank, and still stopped being a planet.",
-      "image_prompt": "a small cratered grey world sitting alone on a low museum pedestal beneath a dark domed ceiling of painted stars, its name plaque already unscrewed and lying face up on the floor beside it",
+      "image_prompt": "a small grey rock resting on a low white museum pedestal, the mascot straining with both thin arms to hold its metal name plaque on as the last screw drops out",
       "image_text": "PLUTO"
     },
     {
       "id": "02",
       "role": "setup",
       "text": "For seventy six years it was the ninth dot on every classroom poster.",
-      "image_prompt": "seen from the back of an empty classroom, a curling paper chart of nine planets in a tall column taped above a chalk tray, the smallest one at the bottom peeling away from the wall"
+      "image_prompt": "a paper chart of the planets pinned to a white wall, the mascot hanging off its bottom corner so its weight peels the smallest planet at the end of the row away from the sheet"
     },
     {
       "id": "03",
       "text": "Then astronomers found Eris, further out than Pluto and slightly heavier.",
-      "image_prompt": "a close overhead view of a glass photographic sky plate pinned under two fingertips, a dense field of stars across it and one faint dot ringed in fresh ink, a cold half drunk mug at the frame edge"
+      "image_prompt": "a small brass balance scale holding one round grey rock in each pan, the mascot standing on tiptoe on the higher pan trying to weigh its side back down"
     },
     {
       "id": "04",
       "text": "So either we had a tenth planet, or the word planet meant nothing.",
-      "image_prompt": "a chalkboard seen at a slight angle carrying nine chalk planets drawn in a neat column, a tenth added below them in a smaller hesitant hand, chalk dust heaped along the rail"
+      "image_prompt": "a neat row of nine small planet models standing on a white shelf, the mascot shoving a tenth model with both arms trying to wedge it into the end of the full row"
     },
     {
       "id": "05",
       "text": "It had never actually been defined.",
-      "image_prompt": "a close overhead view of a heavy open dictionary on a desk beside a brass orrery, one entry left as empty ruled space, a magnifying glass resting across the blank line",
+      "image_prompt": "a heavy open dictionary lying flat, the mascot kneeling on the page and peering down into one completely blank entry space through a magnifying glass twice its size",
       "image_text": "PLANET"
     },
     {
       "id": "06",
       "text": "So in two thousand six, astronomers finally wrote the rules.",
-      "image_prompt": "an open notebook propped on a windowsill at night showing three short empty ruled boxes, a telescope standing silhouetted against the stars through the glass behind it"
+      "image_prompt": "a single sheet of white paper carrying three empty ruled boxes, the mascot dragging an oversized pencil across it with both arms to finish ruling the third line"
     },
     {
       "id": "07",
       "text": "Orbit the Sun. Be round. Sweep your own lane clean.",
-      "image_prompt": "three small drawn panels stacked in a vertical column, the top a planet looping around a sun, the middle a round world beside a drafting compass, the bottom a worn broom pushing rocks out of a curved orbit track"
+      "image_prompt": "a curved chalk track drawn on a white surface, the mascot sweeping loose grey pebbles off the track with a real broom, one round planet model parked on the cleared stretch behind it"
     },
     {
       "id": "08",
       "text": "Pluto passes the first two easily.",
-      "image_prompt": "a close view of two weathered hands holding a small round world up against the night sky, checking its curve against a circle drawn on a sheet of tracing paper"
+      "image_prompt": "a round grey rock held up against a circular drafting template, the mascot pressing the two together with both arms to check the curve matches"
     },
     {
       "id": "09",
       "text": "But its orbit is crowded with thousands of icy chunks it never cleared.",
-      "image_prompt": "a far overhead view of a wide crowded belt of thousands of tiny icy rocks, one slightly larger round world pushing through the middle of them and leaving no gap behind it"
+      "image_prompt": "a curved track buried under a thick spill of small ice cubes, the mascot shoving a round grey rock along it and getting nowhere, cubes piling up ahead of the rock"
     },
     {
       "id": "10",
       "role": "turn",
       "text": "So a few hundred astronomers in a hall in Prague raised their hands.",
-      "image_prompt": "seen from the very back row of a packed lecture hall, a field of small raised hands above the seat backs, a huge projected photograph of a distant icy world glowing on the far wall"
+      "image_prompt": "one wooden auditorium seat with a small folded paper ballot lying on it, the mascot standing on the seat cushion with one thin arm raised straight up"
     },
     {
       "id": "11",
       "role": "payoff",
       "text": "Pluto did not change that day. Our definition did.",
-      "image_prompt": "a macro view of a pencil eraser being lifted away from a notebook page where one word is half rubbed out, a small untouched pencil sketch of a ringed planet still intact beside it, eraser crumbs scattered",
+      "image_prompt": "an open notebook page with a handwritten word on it, the mascot gripping a large pink eraser with both arms and rubbing the word half away, a small grey rock sitting untouched beside the page",
       "image_text": "PLANET"
     },
     {
       "id": "12",
       "text": "And every planet still on that list is stranger than the one we removed.",
-      "image_prompt": "a tall vertical column of eight planets seen edge on against open sky, one tipped fully onto its side, one wearing a broad flat ring, one marked with a single huge swirling storm"
+      "image_prompt": "eight planet models stacked in a tall vertical line on a white surface, the mascot at the base shouldering one of them over so it tips onto its side"
     }
   ]
 }

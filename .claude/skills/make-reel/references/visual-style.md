@@ -1,28 +1,91 @@
 # Visual style
 
-The house look for every reel in this repo. Distilled from the ian handdrawn
-technical-illustration system and adapted to what this pipeline actually is:
-vertical 9:16 frames, one per spoken beat, English only.
+The house look for every reel in this repo: **photoreal objects on a white
+studio background, with one small hand-drawn mascot doing something to them.**
 
-Read this instead of invoking `ian-handdrawn-ppt`. That skill targets 16:9
-Chinese slide decks with pastel fills and page furniture — roughly 80% of it
-has to be overridden here, and overriding it at runtime is where the style
-drifts. The usable parts are below.
+It comes from the `ian-xiaohei-scenes` skill, vendored at
+`.claude/skills/ian-xiaohei-scenes/`. Read its `references/xiaohei-ip.md` and
+`references/style-dna.md` when you need the source of truth on the character or
+the composition. `assets/examples/` there are the quality bar — look at them
+before writing prompts. Do not let that skill generate anything; `reel.py` owns
+image generation.
 
-## The lock
+Its defaults are Chinese 16:9 article illustrations. The overrides for this
+repo are in "What we change" below, and they are not negotiable per-reel.
 
-`style_lock` is one comma-separated English clause and it is the same string in
-every script in this repo. Copy it verbatim from the most recent script. Do not
-reword it, do not "improve" it, do not add per-reel flourishes — the whole point
-is that reel 40 looks like reel 1.
+## The two halves
 
-It carries style and only style — no subject, no background colour, no text
-rule. Scene goes in `image_prompt`, topic in `subject_anchor`, background in
-`image.palette`, text per beat. The pipeline assembles the final prompt in
-exactly one place, `Script.prompt_for` in `src/reelkit/script.py`.
+**Realistic half.** Real objects, rendered like studio product photography: a
+laptop, a broom, a balance scale, a paper chart. Correct materials, correct
+weight, one consistent soft light, a light contact shadow under each object.
+Never a flat vector icon, never a drawing of the object.
 
-If the lock genuinely needs to change, change it in every script at once and
-say so — a silent one-off edit is the failure mode this file exists to prevent.
+**Anime half.** One small mascot, drawn flat over the photograph:
+
+- solid black bean or capsule body, roughly 1.5:1 to 2.2:1 tall
+- two small white dot eyes
+- thin stick arms and legs
+- slightly irregular hand-drawn outline
+- calm, deadpan, blank expression — no mouth, or one minimal line
+- no clothing, no props to explain who it is
+- about 8–13% of the frame height, never the giant main subject
+
+It is not a cute mascot and not a children's cartoon. No big shiny eyes, no
+smile, no emoji face. Its charm comes from doing an absurd thing seriously.
+
+## The mascot must carry the action
+
+This is the rule that makes or breaks a frame. The mascot performs the beat's
+core physical action — it is not standing beside the object looking at it.
+
+> **The delete test.** Remove the mascot from the frame. If the idea still
+> reads completely, the frame has failed. Rewrite it.
+
+Good: straining to hold a name plaque on as the last screw drops. Wedging a
+tenth planet into a full shelf. Sweeping rocks off a track. Rubbing out a word
+with an eraser twice its size.
+
+Bad: standing in the corner. Pointing at the object. Holding up a sign.
+Watching something happen. Posing next to it.
+
+## One object, one action
+
+Each frame is **one real main object** (or one tight cluster that reads as one),
+plus at most one or two small accessories — a paperclip, a binder clip, a sticky
+note, a length of tape. Plus the mascot, mid-action.
+
+Simple and explanatory, not busy. The frame should be readable in about a
+second at scroll speed. If a beat needs three objects to make sense, it is
+three beats, or it is one object chosen better.
+
+Do not build a diagram, a flowchart, a process strip or a labelled panel set.
+The previous version of this file allowed stacked panels; it produced cluttered
+frames and is gone.
+
+## Background and colour
+
+- Background is clean white, near `#FFFFFF`. Not warm white, not grey, not
+  beige, no gradient, no vignette, no paper texture, no room around it.
+- Shadows are light contact shadows under objects only. They never spread into
+  a grey background.
+- Colour is accent only: blue tape, pink tape, yellow sticky, small green dot,
+  red underline for a pain point. Four to six small touches per frame, no more.
+  Large colour areas make it look cheap.
+- The mascot's black and the object's real colours carry the frame.
+
+## What we change from the source skill
+
+| ian-xiaohei-scenes default | this repo |
+|---|---|
+| Chinese handwritten labels | English, and usually no words at all |
+| 16:9 article illustration | 9:16 portrait, always |
+| Long-scroll ultra-wide egg mode | never — one beat is one frame |
+| Labels on tags, 2–4 per image | at most one short word, via `image_text` |
+| Scene covers 60–72% of width | compose tall; leave the top and bottom open |
+
+Portrait is the big one. The source composes wide, so state the vertical
+arrangement explicitly: stack the object and the mascot, shoot from a low angle,
+or let a tall object fill the height. A wide row renders thin and small.
 
 ## The subject anchor
 
@@ -31,175 +94,58 @@ say so — a silent one-off edit is the failure mode this file exists to prevent
 > the solar system and the people who study it: planets, moons, orbits,
 > telescopes, star charts, the night sky
 
-`prompt_for` welds it onto every single prompt, so no frame can drift off the
-subject. It is required — the loader refuses a script without one.
+`prompt_for` welds it onto every prompt, so no frame drifts off the subject.
+Required — the loader refuses a script without one.
 
-This exists because of a specific failure. Beats get written one at a time and
-rendered one at a time, so each frame ends up illustrating its own sentence in
-isolation. Do that across twelve beats about Pluto and you get a dictionary, a
-broom, a signpost and a kitchen table — every frame defensible on its own, and
-a reel that reads as being about stationery. Someone scrubbing the timeline with
-the sound off must be able to name the topic from the pictures alone.
+It exists because beats are written and rendered one at a time, so each frame
+drifts into illustrating its own sentence. Twelve beats about Pluto once came
+back as a dictionary, a broom, a signpost and a kitchen table: every frame
+defensible alone, and a reel that read as being about stationery. Someone
+scrubbing with the sound off must be able to name the topic from the pictures.
 
-**The two-in-three rule.** At least two frames in every three contain a literal
-object from the topic — the actual planet, the actual telescope, the actual
-night sky. Metaphor is the exception you spend when the topic object genuinely
-cannot carry the beat, and even then the anchor has to show up somewhere in the
-frame: put the orrery on the desk next to the dictionary.
-
-**Prefer the literal thing.** "Nine chalk planets on a classroom board, a tenth
-added lower in a hesitant hand" beats "a signpost with two arms" for the same
-beat. It carries the same idea and it stays on topic.
-
-## Paper tones
-
-`image.palette` is a list of muted paper colours; the beat's position picks one,
-wrapping at the end. So neighbouring frames never share a background.
-
-Twelve frames on one paper tone read as a single held image no matter how
-different the drawings are — the cut has nothing to land against. Rotating the
-paper is the cheapest variance in the pipeline and costs no prompt budget.
-
-Do not name a colour inside an `image_prompt`; `prompt_for` appends the paper
-clause. Every tone stays muted and light enough that ink still reads on top. If
-you add tones, keep them adjacent in mood and far apart in hue, and never let
-one go saturated — the ink has to stay the loudest thing on the page.
-
-## What carries over from ian
-
-- **Detailed ink and pencil, not doodle.** Fine varied line weight, real
-  cross-hatching and stippling for shade, believable proportions and material
-  texture. A rock should look like rock, cloth like cloth.
-- **Object drawing over icon.** Draw the real thing with its construction
-  details — a broom with bristles, a plate with a corner chipped — not a flat
-  vector glyph of it.
-- **Large negative space.** The subject sits small and calm in the frame. A
-  filled canvas reads as cheap.
-- **One idea per frame.** Two subjects maximum. If the beat needs three things
-  to make sense, it is two beats.
-- **Faint corner construction marks only.** Grid ticks, a stray ruler line.
-  Incidental and very quiet. Never a border or full frame around the image.
-- **No people unless the beat is about people.** At most one small figure, off
-  to a side. Never a figure next to every element.
-- **Props stay blank.** Books, screens, signs and papers carry no writing
-  unless that beat opts into text. No fake English, no invented labels, no
-  gibberish, no watermark.
-
-## What does not carry over
-
-| ian default | this repo |
-|---|---|
-| Simplified Chinese in the image | English, and usually nothing at all |
-| 16:9 body page, 21:9 cover | 9:16 portrait, always |
-| Pastel marker label fills | sparing muted washes, ink stays dominant |
-| One fixed paper tone across a deck | a tone per beat, rotated |
-| Page numbers, title block, underline | none — there is no page furniture |
-| Deck of slides sharing a shell | independent frames sharing a lock |
-
-## Framing for 9:16
-
-The image config is portrait (`1152x2048`). Compose tall:
-
-- Prefer subjects that stack vertically — a column, a falling thing, a figure,
-  a tall object seen head-on — over ones that spread sideways.
-- A row of items across the frame goes small and thin in portrait. If a beat
-  needs a row, say so explicitly and keep it to three or four items.
-- Say the vantage point out loud in the prompt: *seen from far above*, *from the
-  very back of the room*, *close overhead*, *from a low angle*. This is the
-  single most effective lever for making neighbouring frames look different.
+**Anchor through the main object, not through scenery.** Make the real object
+itself belong to the subject — a planet model, a star chart, a telescope. Do
+not satisfy the anchor by parking a small observatory in the corner of every
+frame; that reads as a repeated watermark and it is a mistake this repo has
+already made once.
 
 ## Text in the frame
 
-Default is **no text**. `prompt_for` appends the no-text rule automatically, so
+Default is no text. `prompt_for` appends the no-text rule automatically, so
 never write "no text" into an `image_prompt` or into `style_lock`.
 
-A beat may opt in with the optional `image_text` field. Use it sparingly —
-two or three beats in a twelve-beat reel, never most of them. Every rendered
-word is a chance for the image model to produce garbled lettering, and garbled
-lettering is the most obviously-AI thing a frame can do.
+A beat opts in with `image_text`, holding the literal words only. Two or three
+beats in a twelve-beat reel at most. Every rendered word is a chance for
+garbled lettering, which is the most obviously-AI thing a frame can do.
 
-Opt in only when **all** of these hold:
-
-1. The word is the payload of the beat, not decoration.
-2. It is genuinely undrawable — a name, a label, a single number.
-3. It is short: one or two words, ideally under 20 characters.
-4. It has a natural surface to sit on — a plaque, a page, a chalkboard, a
-   readout — not floating in space.
-
-Good: an eraser rubbing out the word `PLANET`. A blank dictionary entry whose
-headword is `PLANET`. A pedestal plaque reading `PLUTO`.
-
-Bad: labelling all three panels of a diagram. Captioning what the narration
-already said. A number that a drawn quantity would show better.
-
-Keep it uppercase and plain. `prompt_for` handles the phrasing — the field
-holds only the literal words.
+Opt in only when the word is the payload of the beat, is genuinely undrawable,
+is one or two words, and has a real surface to sit on — a plaque, a page, a
+sticky note. Uppercase and plain. English only; never Chinese, whatever the
+source skill's examples show.
 
 ## Writing a prompt
 
-Structure each `image_prompt` as: **vantage point → subject → what the subject
-is doing → one supporting detail.**
+Structure: **the real object → what the mascot is doing to it → one small
+detail.**
 
-> a far overhead view of a wide ring of hundreds of tiny irregular ice
-> fragments, one slightly larger round body drifting among them
+> a small grey rock on a white museum pedestal, the mascot straining with both
+> arms to hold its name plaque on as the last screw drops away
 
-No style words. No "the same man as before" — every frame renders alone, so
-restate the subject in full every time.
+Around 15–30 words. No style words — style lives in `style_lock`. No background
+colour — that is handled for you. Every frame renders alone, so restate the
+subject in full every time; never "the same object as before".
 
-## Depth: write the whole frame, not the noun
-
-A one-noun prompt gets you a one-noun image floating in the middle of nothing.
-Aim for 15–30 words carrying **three** specifics the model can act on. Cheap
-adjectives do not count — "beautiful", "detailed", "amazing" change nothing.
-These do:
-
-- **Vantage and distance.** *from the very back of a lecture hall*, *close
-  overhead*, *from a low angle looking up*.
-- **A verb.** The subject should be mid-action, not posed. An eraser being
-  *lifted*, a hand *still touching* the page, ice *drifting*. Frozen motion
-  reads alive; a static object reads like clip art.
-- **One imperfection.** Real things have wear. A chipped corner, a curled page
-  edge, crumbs scattered, one bulb missing, a chair pushed out. This single
-  detail is what separates a drawing from a stock icon.
-- **A second plane.** Something small and quiet behind or beside the subject
-  that implies a world continuing past the frame edge. Not clutter — one thing.
-
-Stop before it becomes a paragraph. Four good specifics beat ten weak ones, and
-past ~30 words the image model starts dropping whichever ones it likes least.
-
-## Relatability: anchor it to the viewer's own life
-
-The viewer will not feel a number. They feel a thing they have touched. Before
-committing a prompt, ask: **where has this person seen this object before?**
-
-- **Prefer the domestic and the everyday** over the institutional and the
-  cosmic. A kitchen sink beats a laboratory. A classroom wall chart beats an
-  observatory dome. A supermarket shelf beats a data centre.
-- **Put a human trace in the frame even with no human in it.** A hand at the
-  edge, a worn handle, a half-drunk mug, a chair still pushed back. It tells
-  the viewer a person was here, which makes the idea feel like it happened to
-  someone rather than to physics.
-- **Scale by comparison, never by number.** The viewer cannot picture 143,000
-  kilometres. They can picture a marble dropped into a swimming pool. Whenever
-  a beat's line contains a big number, the frame's job is to make that number
-  feel like an amount — put a familiar object beside it.
-- **Show the consequence, not the mechanism.** The narration explains how it
-  works. The frame shows who it lands on. If the line is about a storm that
-  never stops, draw the same window on the same house, unchanged, across three
-  generations of curtains — not a diagram of wind shear.
-- **Everyday, not decorative.** The point is recognition, not charm. Avoid
-  whimsy for its own sake — cute animals, mascots, smiling suns. They read as
-  a children's book and cost the reel its credibility.
-
-Test: if the frame would look equally at home in a textbook diagram and in
-nobody's actual memory, rewrite it.
+Give the viewer a way in: a familiar everyday object, scale shown by comparison
+rather than by number, the consequence rather than the mechanism. The narration
+explains how it works; the frame shows what it does to someone.
 
 ## Before you build
 
-Scan the prompts as a column, ignoring the text:
+Scan the prompts as a column:
 
-- Do any two neighbours share a vantage point and a subject scale? Rewrite one.
-- Is anything drawn that the narration already says out loud? Replace it with
-  what the narration leaves out.
-- Do more than three beats carry `image_text`? Cut back to the strongest.
-- Is any beat trying to draw an abstraction? Find its physical stand-in.
+- Does every frame pass the delete test?
+- Is any frame carrying more than one main object?
+- Do any two neighbours share an object type and a camera distance?
+- Does more than three beats carry `image_text`?
+- Is anything drawn as a diagram or a panel strip instead of a real object?
+- Is the anchor coming through the main object, or through corner scenery?

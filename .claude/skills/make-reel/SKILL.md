@@ -1,11 +1,11 @@
 ---
 name: make-reel
-description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt through the ian-handdrawn-ppt visual style, builds the final mp4 with reel.py, picks a cover frame, writes the feed caption and hashtags, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list. Also use when they want a caption, hashtags or a thumbnail/cover for an existing reel.
+description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt against the house visual style, builds the final mp4 with reel.py, picks a cover frame, writes the feed caption and hashtags, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list. Also use when they want a caption, hashtags or a thumbnail/cover for an existing reel.
 ---
 
 # Make Reel
 
-Turn one idea into a finished mp4: pick idea → write script.json → refine image prompts via ian-handdrawn-ppt → build with reel.py → mark idea done.
+Turn one idea into a finished mp4: pick idea → write script.json → refine image prompts against `references/visual-style.md` → build with reel.py → mark idea done.
 
 ## Step 1 — Pick the idea
 
@@ -33,7 +33,8 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 Each beat has:
 
 - `text`: one spoken sentence — this becomes the narration
-- `image_prompt`: a **scene-only** description (what is drawn, not how it's styled). Style comes from `style_lock` — the pipeline assembles the final prompt as `image_prompt + ", " + style_lock` (see `src/reelkit/script.py`), so any style words in the beat prompt would fight the lock.
+- `image_prompt`: a **scene-only** description (what is drawn, not how it's styled). Style comes from `style_lock` — the pipeline assembles the final prompt as `image_prompt + ", " + style_lock + ", " + text rule` (see `Script.prompt_for` in `src/reelkit/script.py`), so any style words in the beat prompt would fight the lock.
+- `image_text` (optional): the literal words to letter into this one frame. Omit it and the frame renders with no writing at all, which is the default. See Step 3 before using it.
 
 ## Story shape
 
@@ -77,7 +78,9 @@ The visuals carry retention as much as the words do.
 - **Draw the concrete noun, not the abstraction.** "Trust" isn't drawable; "two hands over an unsigned contract" is. If a beat is conceptual, find its physical stand-in.
 - **Add, don't echo.** The image should show something the narration doesn't say. If the line is "the engine failed at 30,000 feet", don't draw a failing engine — draw the passengers' faces.
 - **Each prompt renders independently.** No "the same man as before", no "the other side of the room". Restate the subject in full every time.
-- One or two subjects max, no text or lettering in the frame, scene-only — no style words.
+- One or two subjects max, scene-only — no style words. Frames carry no lettering unless the beat opts in via `image_text` (Step 3).
+- **Write the whole frame, not the noun.** 15–30 words, with a vantage point, the subject mid-action, one imperfection, and one quiet second plane. A bare noun renders as clip art.
+- **Anchor it to something the viewer has touched.** Domestic over institutional, a human trace even with nobody in frame, scale shown by comparison rather than by number. Full rules in `references/visual-style.md`.
 
 ## Before writing the file, check
 
@@ -86,20 +89,36 @@ The visuals carry retention as much as the words do.
 - Check each adjacent pair for _but/so_ logic, not _and then_.
 - Scan the image prompts as a column. Any two neighbors that would render alike get rewritten.
 
-## Step 3 — Refine prompts with ian-handdrawn-ppt
+## Step 3 — Refine every prompt against the visual style
 
-Invoke the `ian-handdrawn-ppt` skill. Use it for **prompt crafting only** — read its `references/visual-dna-v6.md` and `references/prompt-patterns.md` and apply that visual system to this script. Do NOT let it generate images, pages, or decks; reel.py owns image generation.
+**Read `references/visual-style.md` in this skill directory. Not optional, not skippable, and not something to do from memory — read the file.** It is the house look, distilled from the ian handdrawn technical-illustration system and already adapted to this pipeline.
 
-Two outputs, both written back into the json:
+Do **not** invoke the `ian-handdrawn-ppt` skill. It targets 16:9 Chinese slide decks with pastel fills and page furniture; roughly 80% of it has to be overridden here, and overriding it at runtime is exactly where the style drifts. Everything usable from it is in `visual-style.md`.
 
-1. **`style_lock`**: one comma-separated English style clause distilled from the ian visual DNA (handdrawn technical illustration feel, line quality, palette, paper background, composition rules). This is the single place style lives.
-2. **Each `image_prompt`**: rewrite the scene description in the ian prompt-pattern voice — concrete drawable elements, clear focal subject, diagram-like clarity.
+Then do two passes over the json:
 
-Hard constraints on the refined prompts:
+1. **`style_lock`** — copy it verbatim from the most recent script in `scripts/`. Do not reword it or add per-reel flourishes. Reel 40 has to look like reel 1. If it genuinely must change, change it in every script at once and say so in the final report.
+2. **Every `image_prompt`** — rewrite it in full against the whole of `visual-style.md`, not just its checklist. Each prompt is judged on:
+   - **Depth.** 15–30 words carrying real specifics: vantage and distance, a verb putting the subject mid-action, one imperfection, one quiet second plane. A bare noun renders as clip art.
+   - **Relatability.** Anchor it to something the viewer has actually touched — domestic over institutional, a human trace in the frame even with nobody in it, scale shown by comparison rather than by number, consequence rather than mechanism.
+   - **Separation.** No two neighbouring frames sharing a vantage point and a subject scale.
 
-- **English only. Any text that appears inside the image must be English.** The ian skill defaults to Chinese baked-in text — override that explicitly. No Chinese characters anywhere in the prompt.
-- Keep prompts scene-only; style stays in `style_lock` (reason in Step 2).
-- Keep vertical 9:16 framing in mind (the image config is portrait) — ignore the ian skill's 16:9/21:9 defaults.
+Hard constraints:
+
+- **English only.** No Chinese characters anywhere in a prompt.
+- Prompts are scene-only. No style words — style lives in `style_lock`, and the pipeline appends it (`Script.prompt_for`).
+- Never write "no text" into a prompt or into `style_lock`. `prompt_for` appends the text rule automatically, per beat.
+- Portrait 9:16. Compose tall; a wide row of items renders thin and small.
+
+### Text inside a frame
+
+Default is no text. A beat opts in with the optional `image_text` field, holding the literal words only:
+
+```json
+{ "id": "01", "text": "...", "image_prompt": "...", "image_text": "PLUTO" }
+```
+
+Use it on **two or three beats at most**, never on most of them — every rendered word is a chance for garbled lettering, which is the most obviously-AI thing a frame can do. Opt in only when the word is the payload of the beat, is genuinely undrawable, is one or two words, and has a real surface to sit on: a plaque, a page, a chalkboard, a readout. `visual-style.md` has the full rule and worked examples.
 
 ## Step 4 — Write the `post` block
 

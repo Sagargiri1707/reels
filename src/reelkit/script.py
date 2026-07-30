@@ -18,6 +18,19 @@ SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*$")
 ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")
 
 
+# Image models will happily letter a frame with invented captions and gibberish
+# unless told not to, so every prompt ends with one of these two rules. A beat
+# opts into lettering by naming the exact words; everything else stays wordless.
+NO_TEXT_RULE = "no text, no letters and no numbers anywhere in the image"
+TEXT_RULE = ('the only writing anywhere in the image is the exact word {words!r}, '
+             'hand-lettered in plain block capitals on the surface it belongs to, '
+             'with no other writing, caption or label of any kind')
+
+# Long strings render as garbled lettering far more often than short ones, and a
+# beat that needs a sentence on screen is a beat that should have been drawn.
+MAX_IMAGE_TEXT = 24
+
+
 @dataclass
 class Beat:
     id: str
@@ -25,6 +38,7 @@ class Beat:
     image_prompt: str
     role: str = ""
     index: int = 0
+    image_text: str = ""
 
     @property
     def filename(self):
@@ -97,8 +111,10 @@ class Script:
 
     def prompt_for(self, beat):
         """The only place image prompts are assembled. style_lock always wins
-        the trailing position so it reads as the art direction."""
-        return f"{beat.image_prompt}, {self.style_lock}"
+        the trailing position so it reads as the art direction, and the text
+        rule sits last because it is the one the model most needs to obey."""
+        rule = TEXT_RULE.format(words=beat.image_text) if beat.image_text else NO_TEXT_RULE
+        return f"{beat.image_prompt}, {self.style_lock}, {rule}"
 
     @property
     def narration_text(self):
@@ -144,8 +160,14 @@ def load(path):
         if not prompt:
             _fail(f"beat {bid} has no image_prompt")
 
+        image_text = (b.get("image_text") or "").strip()
+        if len(image_text) > MAX_IMAGE_TEXT:
+            _fail(f"beat {bid} image_text is {len(image_text)} characters; keep it "
+                  f"under {MAX_IMAGE_TEXT} or the model will garble it")
+
         beats.append(Beat(id=bid, text=text, image_prompt=prompt,
-                          role=b.get("role", ""), index=i))
+                          role=b.get("role", ""), index=i,
+                          image_text=image_text))
 
     style_lock = (data.get("style_lock") or "").strip()
     if not style_lock:

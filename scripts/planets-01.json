@@ -25,6 +25,22 @@
       "speed": 1.0
     }
   },
+  "post": {
+    "caption": "One of these eight planets spins backwards. Here's what makes every single one strange.\n\nOne science fact a day. Follow so you don't miss tomorrow's.",
+    "hashtags": [
+      "planets",
+      "solarsystem",
+      "space",
+      "astronomy",
+      "science",
+      "venus",
+      "jupiter",
+      "saturn",
+      "sciencefacts",
+      "didyouknow"
+    ],
+    "thumbnail_beat": "01"
+  },
   "style_lock": "minimal black ink doodle illustration, thin uniform line weight, simple stick-figure and flat-shape style, no shading, no gradients, no colour except black lines, plain off-white paper background #F2EDE4, generous white space, centred composition, hand-drawn cartoon feel",
   "beats": [
     {

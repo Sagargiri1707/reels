@@ -8,6 +8,11 @@ build/
 out/
 *.mp4
 
+# assets/ is for things that cost money to make. These are regenerated for
+# free from the rendered mp4 and the script, so they are not worth versioning.
+assets/*/thumbs/
+assets/*/post.txt
+
 # python
 __pycache__/
 *.py[cod]

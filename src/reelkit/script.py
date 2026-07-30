@@ -11,7 +11,8 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from .config import DEFAULT_IMAGE, DEFAULT_STYLE, DEFAULT_VOICE, ROOT
+from .config import (DEFAULT_IMAGE, DEFAULT_POST, DEFAULT_STYLE,
+                     DEFAULT_VOICE, ROOT)
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*$")
 ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")
@@ -40,6 +41,7 @@ class Script:
     style: dict
     image: dict
     voice: dict
+    post: dict = field(default_factory=dict)
     music: str = None
     raw: dict = field(default_factory=dict)
 
@@ -74,6 +76,21 @@ class Script:
     @property
     def music_path(self):
         return (ROOT / self.music) if self.music else None
+
+    @property
+    def post_path(self):
+        """The description to paste when posting. Lives in assets/ because it
+        is written by hand and losing it means rewriting it."""
+        return self.assets_dir / "post.txt"
+
+    @property
+    def thumbs_dir(self):
+        return self.assets_dir / "thumbs"
+
+    @property
+    def thumb_path(self):
+        """The promoted cover frame, next to the video it belongs to."""
+        return ROOT / "out" / f"{self.slug}-thumb.jpg"
 
     def image_path(self, beat):
         return self.assets_dir / beat.filename
@@ -145,6 +162,14 @@ def load(path):
     if not voice.get("reference_id"):
         _fail("voice.reference_id is required -- pick a voice at fish.audio")
 
+    post = dict(DEFAULT_POST)
+    post.update(data.get("post") or {})
+    # Catch a bad cover-frame reference now, not after a full render.
+    wanted = post.get("thumbnail_beat")
+    if wanted is not None and str(wanted) not in seen:
+        _fail(f"post.thumbnail_beat {wanted!r} is not a beat id in this script "
+              f"(have: {', '.join(sorted(seen))})")
+
     return Script(
         path=path,
         topic=data.get("topic", slug),
@@ -154,6 +179,7 @@ def load(path):
         style=style,
         image=image,
         voice=voice,
+        post=post,
         music=data.get("music"),
         raw=data,
     )

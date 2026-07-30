@@ -1,6 +1,6 @@
 ---
 name: make-reel
-description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt through the ian-handdrawn-ppt visual style, builds the final mp4 with reel.py, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list.
+description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt through the ian-handdrawn-ppt visual style, builds the final mp4 with reel.py, picks a cover frame, writes the feed caption and hashtags, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list. Also use when they want a caption, hashtags or a thumbnail/cover for an existing reel.
 ---
 
 # Make Reel
@@ -26,6 +26,7 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 - `music`: null unless user asks
 - `beats`: 6–12 beats, written to the storytelling rules below
 - `style_lock`: leave a placeholder for now; Step 3 replaces it.
+- `post`: the feed caption, hashtags and cover-frame choice — written in Step 4.
 
 ## Beat schema
 
@@ -100,18 +101,43 @@ Hard constraints on the refined prompts:
 - Keep prompts scene-only; style stays in `style_lock` (reason in Step 2).
 - Keep vertical 9:16 framing in mind (the image config is portrait) — ignore the ian skill's 16:9/21:9 defaults.
 
-## Step 4 — Build
+## Step 4 — Write the `post` block
+
+A rendered mp4 still isn't postable. Add a `post` block to the json — the build reads it and writes `assets/<slug>/post.txt` plus the cover frame.
+
+Careful with the name: `post.caption` is the description that sits **beside** the reel in the feed. The `style.caption_*` keys are the subtitles burned into the picture — different thing, don't cross them.
+
+```json
+"post": {
+  "caption": "<hook restated flat, then the follow line>",
+  "hashtags": ["topic", "science", "..."],
+  "thumbnail_beat": "01"
+}
+```
+
+- `caption`: 1–2 sentences. Restate the hook plainly — someone reading the feed with sound off decides from this line alone. Then a blank line, then the follow prompt. Don't paste the narration; it reads as a transcript.
+- `hashtags`: 8–12, written without the `#` (the code adds it). Mix broad (`science`, `space`) with specific (`spacetime`, `venus`) — the broad ones are pure competition, the specific ones are how anyone actually finds you. Over 30 gets silently dropped by the apps.
+- `thumbnail_beat`: which beat becomes the cover. Default `"01"` (the hook). Pick a different beat only when a later frame is visually stronger on its own — the cover is judged with no narration behind it.
+
+## Step 5 — Build
 
 ```bash
 python3 reel.py build scripts/<slug>.json --no-captions
 ```
 
+This renders the mp4, extracts one cover candidate per beat, and writes the post text — the last two are local ffmpeg and cost nothing.
+
+`--no-captions` is required on this machine: its ffmpeg is built without libass, so burned-in subtitles can't render (the `.ass` file is still written to `build/<slug>/`, so they can be muxed in later). If `ffmpeg -hide_banner -filters | grep ' ass '` ever returns a match, drop the flag — burned-in captions measurably help retention on muted autoplay.
+
 If the build fails, read the error, fix the json (common: schema validation in `src/reelkit/script.py`), and retry. Do not check off the idea while the build is broken.
 
-## Step 5 — Verify and mark done
+## Step 6 — Verify and mark done
 
 1. Confirm the mp4 exists at the path the build printed (check file size > 0).
-2. Flip the idea's `- [ ]` to `- [x]` in `list.md`.
-3. Report to the user: idea, slug, beat count, mp4 path.
+2. Confirm `out/<slug>-thumb.jpg` and `assets/<slug>/post.txt` exist.
+3. Flip the idea's `- [ ]` to `- [x]` in `list.md`.
+4. Report to the user: idea, slug, beat count, mp4 path, cover path, and the post text itself so it can be pasted without opening a file.
+
+To try a different cover without re-rendering: `python3 reel.py thumb scripts/<slug>.json --beat 07`. `assets/<slug>/thumbs/contact.jpg` shows every candidate at once — offer it when the hook frame is weak.
 
 If anything was skipped or unverified (e.g. build succeeded but you couldn't confirm the file), say so explicitly — don't report success you didn't see.

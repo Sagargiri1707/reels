@@ -98,6 +98,43 @@ image and burned-in captions. Add `--keep` to inspect intermediates in `build/`.
 Background music: set `"music": "music/bed.mp3"` in the script. It loops and is
 ducked to 8% under the voice.
 
+## 5. Cover frame and caption
+
+A finished mp4 is not a finished post. Two more things ship with it, both
+local and free, and `build` produces them automatically:
+
+```bash
+python3 reel.py build  scripts/gravity-01.json     # mp4 + cover + caption
+python3 reel.py thumb  scripts/gravity-01.json     # covers only
+python3 reel.py post   scripts/gravity-01.json     # caption only
+```
+
+**Cover frame.** `thumb` grabs one candidate per beat from the *rendered*
+video — so what you pick is exactly what a viewer sees, crop and Ken Burns
+position included — and writes them to `assets/<slug>/thumbs/` along with a
+`contact.jpg` sheet showing all of them at once. One is promoted to
+`out/<slug>-thumb.jpg`. Which one:
+
+1. `--beat 07` on the command line, for trying an alternative
+2. `post.thumbnail_beat` in the script, once you have decided
+3. otherwise beat 1 — the hook is what the script was written to open on
+
+**Caption.** The `post` block holds the description that sits beside the reel
+in the feed. Note this is *not* the burned-in subtitles; those are the
+`style.caption_*` keys further down.
+
+```json
+"post": {
+  "caption": "Gravity isn't pulling you down...\n\nOne fact a day. Follow.",
+  "hashtags": ["gravity", "physics", "space"],
+  "thumbnail_beat": "01"
+}
+```
+
+Hashtags may be written with or without the `#`, as a list or one
+space-separated string; duplicates are dropped. The rendered result is written
+to `assets/<slug>/post.txt`, ready to copy in one go.
+
 ---
 
 ## Tuning

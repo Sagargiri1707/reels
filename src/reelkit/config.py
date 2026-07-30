@@ -66,6 +66,17 @@ DEFAULT_VOICE = {
     "prosody": {"speed": 1.0},
 }
 
+# What you paste into the app, and which frame sells it in the feed. Kept in
+# the script so the words and the cover travel with the video that needs them.
+# Note the namespace: these are NOT the burned-in subtitles, which live in
+# DEFAULT_STYLE as caption_font / caption_size / caption_* above.
+DEFAULT_POST = {
+    "caption": "",
+    "hashtags": [],
+    "thumbnail_beat": None,   # beat id to use as cover; None = the hook beat
+    "thumbnail_quality": 2,   # ffmpeg -q:v, 2 is near-lossless jpeg
+}
+
 
 def load_dotenv(path=None):
     """

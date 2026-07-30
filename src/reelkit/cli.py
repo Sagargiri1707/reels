@@ -4,12 +4,15 @@ reelkit command line.
     python3 reel.py images  scripts/planets-01.json
     python3 reel.py voice   scripts/planets-01.json
     python3 reel.py stitch  scripts/planets-01.json
-    python3 reel.py build   scripts/planets-01.json    # all three
+    python3 reel.py thumb   scripts/planets-01.json    # cover frames
+    python3 reel.py post    scripts/planets-01.json    # caption to paste
+    python3 reel.py build   scripts/planets-01.json    # the whole thing
 """
 
 import argparse
 
-from . import images, script as script_mod, stitch, timeline, voice
+from . import (images, post as post_mod, script as script_mod, stitch,
+               thumbs, timeline, voice)
 from .ffmpeg import require_tools
 
 
@@ -47,6 +50,24 @@ def cmd_stitch(args):
                   captions=args.captions)
 
 
+def cmd_thumb(args):
+    """Cover frames from an already rendered video."""
+    require_tools()
+    s = _load(args)
+    spans = _spans(s, args.even_split)
+    thumbs.generate(s, spans, beat=args.beat, video=args.video)
+
+
+def cmd_post(args):
+    """Write (and show) the description to paste when posting."""
+    s = _load(args)
+    post_mod.write(s)
+    text = post_mod.render(s)
+    if text:
+        print()
+        print(text, end="")
+
+
 def cmd_build(args):
     require_tools()
     s = _load(args)
@@ -58,8 +79,14 @@ def cmd_build(args):
     print("-- stitch")
     images.verify(s)
     spans = _spans(s, args.even_split)
-    stitch.render(s, spans, out=args.out, keep=args.keep,
-                  captions=args.captions)
+    out = stitch.render(s, spans, out=args.out, keep=args.keep,
+                        captions=args.captions)
+    # Both are local ffmpeg / file writes, so they cost nothing and a reel is
+    # not actually postable without them.
+    print("-- cover")
+    thumbs.generate(s, spans, beat=args.beat, video=out)
+    print("-- post")
+    post_mod.write(s)
 
 
 def cmd_timeline(args):
@@ -97,6 +124,14 @@ def main(argv=None):
         if flags.get("only"):
             p.add_argument("--only", default=None,
                            help="comma separated beat ids to regenerate")
+        if flags.get("cover"):
+            p.add_argument("--beat", default=None,
+                           help="beat id to use as the cover frame "
+                                "(default: post.thumbnail_beat, else the hook)")
+        if flags.get("source"):
+            p.add_argument("--video", default=None, type=_path,
+                           help="video to grab frames from "
+                                "(default out/<slug>.mp4)")
         p.set_defaults(fn=fn)
         return p
 
@@ -104,8 +139,11 @@ def main(argv=None):
     add("voice", cmd_voice, "generate narration + alignment with fish", force=True)
     add("timeline", cmd_timeline, "print beat cut points", timing=True)
     add("stitch", cmd_stitch, "render the video", render=True, timing=True)
-    add("build", cmd_build, "images + voice + stitch",
-        force=True, render=True, timing=True)
+    add("thumb", cmd_thumb, "pick cover frames from the rendered video",
+        timing=True, cover=True, source=True)
+    add("post", cmd_post, "write the caption + hashtags to paste")
+    add("build", cmd_build, "images + voice + stitch + cover + caption",
+        force=True, render=True, timing=True, cover=True)
 
     args = ap.parse_args(argv)
     args.fn(args)

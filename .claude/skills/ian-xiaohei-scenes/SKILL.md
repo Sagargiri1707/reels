@@ -1,6 +1,9 @@
 ---
 name: ian-xiaohei-scenes
 description: |
+  LOCAL BUILD: writes English image PROMPTS only -- it never generates images. Use it to
+  craft prompts in the "xiaohei mascot + real object + physical action + white space"
+  style; reel.py does the actual rendering. All output is English.
   生成“小黑 + 真实物件 + 物理动作 + 留白叙事”的中文配图。默认输出 16:9 正文配图，用于互联网打工人共鸣图、AI 时代职场焦虑、程序员/产品/创作者处境和正文观点隐喻图；遇到“彩蛋模式 / 长卷故事图 / 超横版 / 个人经历 / 项目复盘 / 产品演化 / 成长路径”时，输出小黑长卷故事图。标准模式默认 #FFFFFF 纯白背景；彩蛋长卷模式使用高级近白背景和一条真实物件人生线。样例是高质量模板母版和出图质量标尺；必须对齐其比例、留白、动作清晰度和叙事关系，但不能复刻其物件组合、空间拓扑、小黑姿态或标签位置。
 when-to-use: |
   用户需要为中文文章、帖子、教程、案例、项目复盘或个人经历生成“小黑 + 真实物件 + 物理动作”的高质量配图时触发。
@@ -8,10 +11,48 @@ when-to-use: |
   输入状态：可以是一段正文、一个主题、一组节点、一个项目/经历说明，或用户给定的参考母版。
 allowed-tools:
   - Read
-  - Write
-  - Edit
-  - Bash
 context: fork
+---
+
+# LOCAL OVERRIDES — read these first
+
+This copy is vendored into the `reels` repo and modified. Two rules override
+everything below, including any instruction to the contrary later in this file
+or in `references/`:
+
+## 1. Output prompts only. Never generate an image.
+
+This skill's job here is **writing image prompts as text**. It does not produce
+pictures, files, decks or candidate renders.
+
+- Ignore every instruction to 生图 / 出图 / 输出效果图 / 生成候选图, including
+  the ones in "输出规格", "母版锁定" and the QA-and-regenerate loop.
+- Ignore the candidate-review and regenerate steps. There is no candidate image
+  to review, because none gets made.
+- The deliverable is the prompt text, handed back to the caller.
+- `reel.py` owns image generation in this repo. It reads the finished prompts
+  out of `scripts/<slug>.json` and calls the image model itself. Anything this
+  skill rendered would be thrown away and billed for.
+- `allowed-tools` is `Read` only, so there is no way to write an image even by
+  accident. That is deliberate; do not work around it.
+
+## 2. Write in English. Always.
+
+The source skill is Chinese-first. In this repo:
+
+- **Every prompt is written in English.** No Chinese characters anywhere in a
+  prompt, including the 短标签 / label text.
+- Any words meant to appear inside the picture are English, uppercase and short.
+  Most frames carry no words at all.
+- The reference files stay in Chinese — read them as-is, then write English.
+  Translate the intent, not the characters.
+
+Everything else — the 小黑 character definition, the real-object rule, the white
+studio, the negative space, the delete test — applies unchanged. The frame this
+repo needs is 9:16 portrait, not 16:9; see
+`.claude/skills/make-reel/references/visual-style.md` for the full set of
+repo-specific overrides.
+
 ---
 
 # Ian 小黑实物场景图

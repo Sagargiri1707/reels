@@ -25,6 +25,7 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 - `slug`: as above
 - `music`: null unless user asks
 - `beats`: 6–12 beats, written to the storytelling rules below
+- `subject_anchor`: one line naming what the reel is about, in objects — e.g. `"the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, the night sky"`. Required; the loader refuses a script without one. It rides on every image prompt so no frame drifts off topic.
 - `style_lock`: leave a placeholder for now; Step 3 replaces it.
 - `post`: the feed caption, hashtags and cover-frame choice — written in Step 4.
 
@@ -99,8 +100,9 @@ Then do two passes over the json:
 
 1. **`style_lock`** — copy it verbatim from the most recent script in `scripts/`. Do not reword it or add per-reel flourishes. Reel 40 has to look like reel 1. If it genuinely must change, change it in every script at once and say so in the final report.
 2. **Every `image_prompt`** — rewrite it in full against the whole of `visual-style.md`, not just its checklist. Each prompt is judged on:
+   - **On topic.** At least two frames in every three contain a literal object from the reel's subject. Metaphor is the exception you spend when the topic object genuinely can't carry the beat — and even then the subject has to appear somewhere in the frame. **This is the failure mode to watch for**: beats get written and rendered one at a time, so each frame drifts into illustrating its own sentence, and twelve beats about Pluto come back as a dictionary, a broom and a kitchen table. Someone scrubbing with the sound off must be able to name the topic from the pictures alone.
    - **Depth.** 15–30 words carrying real specifics: vantage and distance, a verb putting the subject mid-action, one imperfection, one quiet second plane. A bare noun renders as clip art.
-   - **Relatability.** Anchor it to something the viewer has actually touched — domestic over institutional, a human trace in the frame even with nobody in it, scale shown by comparison rather than by number, consequence rather than mechanism.
+   - **Relatability.** Give the viewer a way in — a human trace in the frame even with nobody in it, scale shown by comparison rather than by number, consequence rather than mechanism. Do this *inside* the subject's world, not by leaving it.
    - **Separation.** No two neighbouring frames sharing a vantage point and a subject scale.
 
 Hard constraints:
@@ -108,6 +110,7 @@ Hard constraints:
 - **English only.** No Chinese characters anywhere in a prompt.
 - Prompts are scene-only. No style words — style lives in `style_lock`, and the pipeline appends it (`Script.prompt_for`).
 - Never write "no text" into a prompt or into `style_lock`. `prompt_for` appends the text rule automatically, per beat.
+- Never name a background colour in a prompt. `image.palette` rotates a paper tone per beat and `prompt_for` appends it.
 - Portrait 9:16. Compose tall; a wide row of items renders thin and small.
 
 ### Text inside a frame

@@ -30,6 +30,12 @@ TEXT_RULE = ('the only writing anywhere in the image is the exact word {words!r}
 # beat that needs a sentence on screen is a beat that should have been drawn.
 MAX_IMAGE_TEXT = 24
 
+# Every beat is written and rendered on its own, which is how a reel ends up as
+# twelve unrelated pictures that each illustrate one sentence. The anchor is the
+# one line that names what the whole reel is about, and it rides on every prompt
+# so no frame can wander off the subject.
+ANCHOR_RULE = "the scene belongs to {anchor} and must visibly read as part of it"
+
 
 @dataclass
 class Beat:
@@ -51,6 +57,7 @@ class Script:
     topic: str
     slug: str
     style_lock: str
+    subject_anchor: str
     beats: list
     style: dict
     image: dict
@@ -109,12 +116,29 @@ class Script:
     def image_path(self, beat):
         return self.assets_dir / beat.filename
 
+    def paper_for(self, beat):
+        """Which paper tone this beat is drawn on. Rotating through the palette
+        by position means neighbouring frames never share a background, which is
+        the cheapest way to stop a reel reading as one long static image."""
+        palette = self.image.get("palette") or []
+        if not palette:
+            return None
+        return palette[beat.index % len(palette)]
+
     def prompt_for(self, beat):
-        """The only place image prompts are assembled. style_lock always wins
-        the trailing position so it reads as the art direction, and the text
-        rule sits last because it is the one the model most needs to obey."""
-        rule = TEXT_RULE.format(words=beat.image_text) if beat.image_text else NO_TEXT_RULE
-        return f"{beat.image_prompt}, {self.style_lock}, {rule}"
+        """The only place image prompts are assembled. Scene first, then the
+        subject anchor that keeps it on topic, then the art direction, then the
+        paper, and the text rule last because it is the one the model most needs
+        to obey."""
+        parts = [beat.image_prompt, ANCHOR_RULE.format(anchor=self.subject_anchor),
+                 self.style_lock]
+        paper = self.paper_for(beat)
+        if paper:
+            parts.append(f"drawn on {paper['name']} paper, "
+                         f"flat background colour {paper['hex']}")
+        parts.append(TEXT_RULE.format(words=beat.image_text) if beat.image_text
+                     else NO_TEXT_RULE)
+        return ", ".join(parts)
 
     @property
     def narration_text(self):
@@ -173,11 +197,19 @@ def load(path):
     if not style_lock:
         _fail("style_lock is required -- it is what keeps reels looking alike")
 
+    subject_anchor = (data.get("subject_anchor") or "").strip()
+    if not subject_anchor:
+        _fail("subject_anchor is required -- without it every beat gets drawn "
+              "as its own sentence and the reel stops looking like one story")
+
     style = dict(DEFAULT_STYLE)
     style.update(data.get("style") or {})
 
     image = dict(DEFAULT_IMAGE)
     image.update(data.get("image") or {})
+    for i, paper in enumerate(image.get("palette") or []):
+        if not isinstance(paper, dict) or not paper.get("name") or not paper.get("hex"):
+            _fail(f"image.palette[{i}] needs both a name and a hex")
 
     voice = dict(DEFAULT_VOICE)
     voice.update(data.get("voice") or {})
@@ -197,6 +229,7 @@ def load(path):
         topic=data.get("topic", slug),
         slug=slug,
         style_lock=style_lock,
+        subject_anchor=subject_anchor,
         beats=beats,
         style=style,
         image=image,

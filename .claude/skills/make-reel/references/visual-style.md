@@ -16,17 +16,60 @@ every script in this repo. Copy it verbatim from the most recent script. Do not
 reword it, do not "improve" it, do not add per-reel flourishes — the whole point
 is that reel 40 looks like reel 1.
 
-It carries style and only style. Scene goes in `image_prompt`, text policy is
-handled per beat (below). The pipeline assembles the final prompt in exactly
-one place, `Script.prompt_for` in `src/reelkit/script.py`.
+It carries style and only style — no subject, no background colour, no text
+rule. Scene goes in `image_prompt`, topic in `subject_anchor`, background in
+`image.palette`, text per beat. The pipeline assembles the final prompt in
+exactly one place, `Script.prompt_for` in `src/reelkit/script.py`.
 
 If the lock genuinely needs to change, change it in every script at once and
 say so — a silent one-off edit is the failure mode this file exists to prevent.
 
+## The subject anchor
+
+`subject_anchor` is one line naming what the whole reel is about, in objects:
+
+> the solar system and the people who study it: planets, moons, orbits,
+> telescopes, star charts, the night sky
+
+`prompt_for` welds it onto every single prompt, so no frame can drift off the
+subject. It is required — the loader refuses a script without one.
+
+This exists because of a specific failure. Beats get written one at a time and
+rendered one at a time, so each frame ends up illustrating its own sentence in
+isolation. Do that across twelve beats about Pluto and you get a dictionary, a
+broom, a signpost and a kitchen table — every frame defensible on its own, and
+a reel that reads as being about stationery. Someone scrubbing the timeline with
+the sound off must be able to name the topic from the pictures alone.
+
+**The two-in-three rule.** At least two frames in every three contain a literal
+object from the topic — the actual planet, the actual telescope, the actual
+night sky. Metaphor is the exception you spend when the topic object genuinely
+cannot carry the beat, and even then the anchor has to show up somewhere in the
+frame: put the orrery on the desk next to the dictionary.
+
+**Prefer the literal thing.** "Nine chalk planets on a classroom board, a tenth
+added lower in a hesitant hand" beats "a signpost with two arms" for the same
+beat. It carries the same idea and it stays on topic.
+
+## Paper tones
+
+`image.palette` is a list of muted paper colours; the beat's position picks one,
+wrapping at the end. So neighbouring frames never share a background.
+
+Twelve frames on one paper tone read as a single held image no matter how
+different the drawings are — the cut has nothing to land against. Rotating the
+paper is the cheapest variance in the pipeline and costs no prompt budget.
+
+Do not name a colour inside an `image_prompt`; `prompt_for` appends the paper
+clause. Every tone stays muted and light enough that ink still reads on top. If
+you add tones, keep them adjacent in mood and far apart in hue, and never let
+one go saturated — the ink has to stay the loudest thing on the page.
+
 ## What carries over from ian
 
-- **Fine, stable handdrawn ink line.** Slightly irregular, never wobbly-cute,
-  never thick marker.
+- **Detailed ink and pencil, not doodle.** Fine varied line weight, real
+  cross-hatching and stippling for shade, believable proportions and material
+  texture. A rock should look like rock, cloth like cloth.
 - **Object drawing over icon.** Draw the real thing with its construction
   details — a broom with bristles, a plate with a corner chipped — not a flat
   vector glyph of it.
@@ -48,7 +91,8 @@ say so — a silent one-off edit is the failure mode this file exists to prevent
 |---|---|
 | Simplified Chinese in the image | English, and usually nothing at all |
 | 16:9 body page, 21:9 cover | 9:16 portrait, always |
-| Pastel fills, hatching, shadows | flat black ink on off-white, no colour |
+| Pastel marker label fills | sparing muted washes, ink stays dominant |
+| One fixed paper tone across a deck | a tone per beat, rotated |
 | Page numbers, title block, underline | none — there is no page furniture |
 | Deck of slides sharing a shell | independent frames sharing a lock |
 

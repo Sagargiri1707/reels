@@ -1,0 +1,116 @@
+{
+  "topic": "Why we only have 8 planets",
+  "slug": "8-planets-01",
+  "music": null,
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "model": "s2.1-pro",
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "post": {
+    "caption": "Pluto never moved and never shrank. It stopped being a planet because a room of astronomers in Prague changed what the word means.\n\nOne science fact a day. Follow so you don't miss tomorrow's.",
+    "hashtags": [
+      "pluto",
+      "planets",
+      "solarsystem",
+      "space",
+      "astronomy",
+      "science",
+      "eris",
+      "dwarfplanet",
+      "spacefacts",
+      "sciencefacts",
+      "didyouknow"
+    ],
+    "thumbnail_beat": "01"
+  },
+  "subject_anchor": "the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Pluto never moved, never shrank, and still stopped being a planet.",
+      "image_prompt": "a small cratered grey world sitting alone on a low museum pedestal beneath a dark domed ceiling of painted stars, its name plaque already unscrewed and lying face up on the floor beside it",
+      "image_text": "PLUTO"
+    },
+    {
+      "id": "02",
+      "role": "setup",
+      "text": "For seventy six years it was the ninth dot on every classroom poster.",
+      "image_prompt": "seen from the back of an empty classroom, a curling paper chart of nine planets in a tall column taped above a chalk tray, the smallest one at the bottom peeling away from the wall"
+    },
+    {
+      "id": "03",
+      "text": "Then astronomers found Eris, further out than Pluto and slightly heavier.",
+      "image_prompt": "a close overhead view of a glass photographic sky plate pinned under two fingertips, a dense field of stars across it and one faint dot ringed in fresh ink, a cold half drunk mug at the frame edge"
+    },
+    {
+      "id": "04",
+      "text": "So either we had a tenth planet, or the word planet meant nothing.",
+      "image_prompt": "a chalkboard seen at a slight angle carrying nine chalk planets drawn in a neat column, a tenth added below them in a smaller hesitant hand, chalk dust heaped along the rail"
+    },
+    {
+      "id": "05",
+      "text": "It had never actually been defined.",
+      "image_prompt": "a close overhead view of a heavy open dictionary on a desk beside a brass orrery, one entry left as empty ruled space, a magnifying glass resting across the blank line",
+      "image_text": "PLANET"
+    },
+    {
+      "id": "06",
+      "text": "So in two thousand six, astronomers finally wrote the rules.",
+      "image_prompt": "an open notebook propped on a windowsill at night showing three short empty ruled boxes, a telescope standing silhouetted against the stars through the glass behind it"
+    },
+    {
+      "id": "07",
+      "text": "Orbit the Sun. Be round. Sweep your own lane clean.",
+      "image_prompt": "three small drawn panels stacked in a vertical column, the top a planet looping around a sun, the middle a round world beside a drafting compass, the bottom a worn broom pushing rocks out of a curved orbit track"
+    },
+    {
+      "id": "08",
+      "text": "Pluto passes the first two easily.",
+      "image_prompt": "a close view of two weathered hands holding a small round world up against the night sky, checking its curve against a circle drawn on a sheet of tracing paper"
+    },
+    {
+      "id": "09",
+      "text": "But its orbit is crowded with thousands of icy chunks it never cleared.",
+      "image_prompt": "a far overhead view of a wide crowded belt of thousands of tiny icy rocks, one slightly larger round world pushing through the middle of them and leaving no gap behind it"
+    },
+    {
+      "id": "10",
+      "role": "turn",
+      "text": "So a few hundred astronomers in a hall in Prague raised their hands.",
+      "image_prompt": "seen from the very back row of a packed lecture hall, a field of small raised hands above the seat backs, a huge projected photograph of a distant icy world glowing on the far wall"
+    },
+    {
+      "id": "11",
+      "role": "payoff",
+      "text": "Pluto did not change that day. Our definition did.",
+      "image_prompt": "a macro view of a pencil eraser being lifted away from a notebook page where one word is half rubbed out, a small untouched pencil sketch of a ringed planet still intact beside it, eraser crumbs scattered",
+      "image_text": "PLANET"
+    },
+    {
+      "id": "12",
+      "text": "And every planet still on that list is stranger than the one we removed.",
+      "image_prompt": "a tall vertical column of eight planets seen edge on against open sky, one tipped fully onto its side, one wearing a broad flat ring, one marked with a single huge swirling storm"
+    }
+  ]
+}

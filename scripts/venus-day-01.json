@@ -1,0 +1,103 @@
+{
+  "topic": "A day on Venus lasts longer than a year",
+  "slug": "venus-day-01",
+  "music": null,
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "model": "s2.1-pro-free",
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "post": {
+    "caption": "Venus takes two hundred and forty three days to spin once, and only two hundred and twenty five to go around the Sun. So the year there ends before the morning does. It also spins backwards, and nobody is sure what stopped it.\n\nOne science fact a day. Follow so you don't miss tomorrow's.\n\n#venus #space #astronomy #science #planets #solarsystem #spacefacts #didyouknow #universe #nasa",
+    "thumbnail_beat": "01"
+  },
+  "subject_anchor": "the planet Venus and the instruments used to track it: planet globes, orbit rings, orreries, clock faces, star charts and the night sky",
+  "style_lock": "photorealistic macro product photograph of a real physical object on a clean seamless pure white #FFFFFF background, sharp focus and fine surface texture, true material detail with real reflections and micro scratches, physically accurate softbox studio lighting, only a light contact shadow beneath the object, no environment and no gradient; composited with one flat cel-shaded cartoon owl mascot standing in the scene at about one fifth of the frame height: round dark navy body with two pointed ear tufts, a large cream facial disc around both eyes, big round black eyes with golden yellow irises and a single white highlight, round thin wire-frame glasses, a small golden yellow beak open in a friendly smile, a golden yellow scalloped belly patch, navy wings with cream tips, yellow feet with small black claws, bold clean black outline and flat colour with no gradients; generous empty white space, vertical portrait composition",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "On Venus, a single day lasts longer than the whole year.",
+      "image_prompt": "a heavy pale yellow planet globe on a polished brass stand with a small engraved nameplate, the owl shoving it with both wings, its feet skidding as the globe refuses to turn",
+      "image_text": "VENUS"
+    },
+    {
+      "id": "02",
+      "role": "setup",
+      "text": "Here you spin once a day, and lap the Sun in three hundred sixty five.",
+      "image_prompt": "a small brass orrery with a crank handle, the owl winding the crank with both wings, the inner ball whipping round in a blur while the outer arm barely creeps"
+    },
+    {
+      "id": "03",
+      "text": "Venus needs two hundred and forty three of our days to turn around once.",
+      "image_prompt": "a large steel clock face lying flat with its glass lifted off, the owl hauling the long minute hand round with both wings, the hand bending under the strain"
+    },
+    {
+      "id": "04",
+      "text": "But it finishes a full orbit in only two hundred and twenty five.",
+      "image_prompt": "a thick desk calendar block, the owl ripping pages off in a fast spray with both wings, a whole year of loose paper drifting past its feet"
+    },
+    {
+      "id": "05",
+      "text": "And the slow spin is not even the strange part.",
+      "image_prompt": "a tall brass and glass hourglass tipped onto its side, the owl bracing both wings under the frame as the pale sand freezes mid stream"
+    },
+    {
+      "id": "06",
+      "role": "reveal",
+      "text": "Venus turns backwards, so the Sun there rises in the west.",
+      "image_prompt": "a chrome weather vane arrow on a lettered compass rose, the owl hauling the arrow backwards against its bearing with both wings as it swings the wrong way",
+      "image_text": "WEST"
+    },
+    {
+      "id": "07",
+      "text": "Something stopped that spin, then pushed it back the other way.",
+      "image_prompt": "a heavy black record turntable platter spinning, the owl jamming both wings against its edge and shoving it round the opposite way, the platter shuddering"
+    },
+    {
+      "id": "08",
+      "text": "One idea is a huge impact that knocked the whole planet over.",
+      "image_prompt": "a polished steel Newton's cradle, the owl heaving the end ball back with both wings and letting it crack into the row, the far ball flying up"
+    },
+    {
+      "id": "09",
+      "text": "The other is its own air, heavy enough to drag the ground to a stop.",
+      "image_prompt": "a thick glass bell jar pressed down over a small brass desk fan, the owl leaning its whole body onto the jar as the blades slow and stall"
+    },
+    {
+      "id": "10",
+      "role": "turn",
+      "text": "Venus is not slow by nature. It is a planet that was stopped.",
+      "image_prompt": "a brass metronome with its pendulum arm dead mid swing, the owl gripping the sliding weight with both wings and holding the whole arm still"
+    },
+    {
+      "id": "11",
+      "role": "payoff",
+      "text": "Which is why the year there ends before the morning does.",
+      "image_prompt": "a large pale yellow planet globe wedged motionless on a brass stand, the owl slumped face down over the top of it with both wings hanging limp"
+    },
+    {
+      "id": "12",
+      "text": "Venus is slow. Jupiter is violent.",
+      "image_prompt": "a big striped cream and orange ball with one deep red swirl on its side, the owl clinging to that swirl with both wings as the ball spins under it"
+    }
+  ]
+}

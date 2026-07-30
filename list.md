@@ -29,7 +29,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: dark, cinematic renders, one planet per beat, name and one stat on screen.
       End on: "But you don't need to leave the solar system for strange. Look at Venus."
 
-- [ ] **Day 3 — A day on Venus lasts longer than a year**
+- [x] **Day 3 — A day on Venus lasts longer than a year**
       Hook: "Venus takes 243 days to spin once. It orbits the Sun in 225."
       Explain the two clocks side by side, then the second oddity: it spins backwards, so the Sun rises in the west.
       Angle: leading theory is an ancient collision or the thick atmosphere's drag literally slowing and flipping the rotation over billions of years.

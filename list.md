@@ -15,7 +15,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 1 — PLANETS (Days 1–6)
 
-- [ ] **Day 1 — Why we only have 8 planets**
+- [x] **Day 1 — Why we only have 8 planets**
       Hook: "Pluto didn't change. We did."
       Cover the 2006 definition — orbit the Sun, be round, clear your orbital neighbourhood — and that Pluto only fails the third one. Bring in Eris, the object whose discovery forced the vote in the first place.
       Angle: this is a human committee decision, not a law of nature, which is why the fight never actually ended.

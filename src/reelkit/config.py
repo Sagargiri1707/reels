@@ -1,0 +1,90 @@
+"""
+Defaults, environment loading and path layout.
+
+Nothing here talks to the network or the filesystem beyond reading .env.
+"""
+
+import os
+from pathlib import Path
+
+# Repo root = two levels up from src/reelkit/config.py
+ROOT = Path(__file__).resolve().parents[2]
+
+FAL_QUEUE = "https://queue.fal.run"
+FISH_TTS_TIMESTAMP = "https://api.fish.audio/v1/tts/stream/with-timestamp"
+
+
+DEFAULT_STYLE = {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "bg": "#F2EDE4",
+
+    "image_box_w": 0.92,      # artwork width as a fraction of the frame
+    "image_box_h": 0.62,      # artwork height as a fraction of the frame
+    "image_top": 0.13,        # where the artwork sits from the top
+
+    "zoom_amount": 0.09,      # how much Ken Burns drift per beat
+    "zoom_supersample": 2,    # raise to 3 for silkier motion, slower render
+
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_color": "#1A1A1A",
+    "caption_outline": "#F2EDE4",
+    "caption_outline_w": 4,
+    "caption_shadow": "#000000",
+    "caption_margin_v": 380,  # distance from the bottom edge
+    "caption_words_per_chunk": 3,
+    "caption_upper": True,
+
+    "music_volume": 0.08,     # ducked under the voiceover
+    "voice_volume": 1.0,
+}
+
+DEFAULT_IMAGE = {
+    "model": "openai/gpt-image-2",
+    # fal accepts a preset name or {"width": w, "height": h}. Concrete sizes
+    # must be multiples of 16 and total 0.65-8.3 megapixels. 4:5 portrait fills
+    # more of the 9:16 frame than a square does.
+    "image_size": {"width": 1024, "height": 1280},
+    "quality": "low",
+    "output_format": "png",
+}
+
+DEFAULT_VOICE = {
+    "model": "s2.1-pro",
+    "reference_id": None,
+    "format": "mp3",
+    "latency": "normal",
+    "prosody": {"speed": 1.0},
+}
+
+
+def load_dotenv(path=None):
+    """
+    Read KEY=VALUE lines from .env into os.environ without overwriting
+    anything already set. Deliberately tiny -- no external dependency, and
+    values never get logged.
+    """
+    path = Path(path) if path else ROOT / ".env"
+    if not path.exists():
+        return
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+def require_env(name):
+    load_dotenv()
+    value = os.environ.get(name)
+    if not value:
+        raise SystemExit(
+            f"{name} is not set. Put it in {ROOT / '.env'} or export it."
+        )
+    return value

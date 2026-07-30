@@ -1,14 +1,19 @@
 # Visual style
 
 The house look for every reel in this repo: **photoreal objects on a white
-studio background, with one small hand-drawn mascot doing something to them.**
+studio background, with the owl mascot doing something to them.**
 
-It comes from the `ian-xiaohei-scenes` skill, vendored at
-`.claude/skills/ian-xiaohei-scenes/`. Read its `references/xiaohei-ip.md` and
-`references/style-dna.md` when you need the source of truth on the character or
-the composition. `assets/examples/` there are the quality bar — look at them
-before writing prompts. Do not let that skill generate anything; `reel.py` owns
-image generation.
+Two sources, and they cover different things:
+
+- **The character** is `mascot.jpg` in this folder — the channel's own owl. It
+  is the only authority on what the mascot looks like.
+- **The composition** comes from the `ian-xiaohei-scenes` skill, vendored at
+  `.claude/skills/ian-xiaohei-scenes/`. Read its `references/style-dna.md` and
+  look at its `assets/examples/` for the object-on-white staging, the negative
+  space and the quality bar. **Ignore its `references/xiaohei-ip.md` entirely** —
+  that describes a deadpan black bean and explicitly forbids big eyes and
+  smiles, which is exactly what our owl is. Do not let that skill generate
+  anything; `reel.py` owns image generation.
 
 Its defaults are Chinese 16:9 article illustrations. The overrides for this
 repo are in "What we change" below, and they are not negotiable per-reel.
@@ -29,24 +34,42 @@ photograph; "a timer" gets an icon.
 script. It is the only place style is allowed to live:
 
 ```text
-photorealistic macro product photograph of a real physical object on a clean seamless pure white #FFFFFF background, sharp focus and fine surface texture, true material detail with real reflections and micro scratches, physically accurate softbox studio lighting, only a light contact shadow beneath the object, no environment and no gradient; composited with one small flat hand-drawn anime mascot character standing in the scene: a solid matte black bean-shaped body about one tenth of the frame height, two small white dot eyes, thin simple stick arms and legs, slightly irregular hand-drawn outline, calm deadpan expression with no mouth, no clothing; a few small colour accents only, blue or yellow tape, a small green or red dot; generous empty white space, vertical portrait composition
+photorealistic macro product photograph of a real physical object on a clean seamless pure white #FFFFFF background, sharp focus and fine surface texture, true material detail with real reflections and micro scratches, physically accurate softbox studio lighting, only a light contact shadow beneath the object, no environment and no gradient; composited with one flat cel-shaded cartoon owl mascot standing in the scene at about one fifth of the frame height: round dark navy body with two pointed ear tufts, a large cream facial disc around both eyes, big round black eyes with golden yellow irises and a single white highlight, round thin wire-frame glasses, a small golden yellow beak open in a friendly smile, a golden yellow scalloped belly patch, navy wings with cream tips, yellow feet with small black claws, bold clean black outline and flat colour with no gradients; generous empty white space, vertical portrait composition
 ```
 
 `glass-rain-01` and `8-planets-01` predate this string and are not being
-re-rendered, so they will look slightly softer than everything after them.
+re-rendered. They have the old black-bean mascot and a softer lock, so they will
+not match anything built after them.
 
-**Anime half.** One small mascot, drawn flat over the photograph:
+**Anime half.** One mascot: **a cartoon owl**, drawn flat over the photograph.
 
-- solid black bean or capsule body, roughly 1.5:1 to 2.2:1 tall
-- two small white dot eyes
-- thin stick arms and legs
-- slightly irregular hand-drawn outline
-- calm, deadpan, blank expression — no mouth, or one minimal line
-- no clothing, no props to explain who it is
-- about 8–13% of the frame height, never the giant main subject
+The reference is `mascot.jpg` in this folder. Look at it before writing prompts
+and check every render against it. It cannot be sent to the image model —
+`images.py` posts a prompt and nothing else — so the description below is the
+only thing the model ever sees. Keep it word for word.
 
-It is not a cute mascot and not a children's cartoon. No big shiny eyes, no
-smile, no emoji face. Its charm comes from doing an absurd thing seriously.
+- round dark navy body, two pointed ear tufts
+- large cream facial disc covering both eyes
+- big round black eyes, golden yellow irises, one white highlight each
+- round thin wire-frame glasses over both eyes
+- small golden yellow beak, open in a small friendly smile
+- golden yellow belly patch with scalloped feather lines
+- navy wings with cream tips; yellow feet with small black claws
+- bold clean black outline, flat cel-shaded colour, no gradients
+- about a fifth of the frame height — present, but never the main subject
+
+**It grips with its wings.** Write `with both wings`, `in one wing`, `in its
+talons` — never "arms" or "hands". Prompts written before this mascot existed
+say "both arms"; those reels are not being re-rendered.
+
+**No quill.** The reference holds one; the owl in a reel needs its wings free
+for the object. Only give it the quill when the beat is about writing.
+
+It is a friendly scholar, not a deadpan blob — glasses, a small smile, and it
+takes the absurd task seriously. That is the opposite of the character in
+`ian-xiaohei-scenes`, whose rules explicitly forbid big eyes and smiles. Take
+that skill's **composition** rules — real object on white, one action, the
+delete test, negative space — and ignore its character definition entirely.
 
 ## The mascot must carry the action
 
@@ -83,10 +106,12 @@ frames and is gone.
   beige, no gradient, no vignette, no paper texture, no room around it.
 - Shadows are light contact shadows under objects only. They never spread into
   a grey background.
-- Colour is accent only: blue tape, pink tape, yellow sticky, small green dot,
-  red underline for a pain point. Four to six small touches per frame, no more.
-  Large colour areas make it look cheap.
-- The mascot's black and the object's real colours carry the frame.
+- Colour is accent only: blue tape, a small green or red dot, a length of
+  masking tape. A few small touches per frame, no more. Large colour areas make
+  it look cheap.
+- The owl's navy and gold plus the object's real colours carry the frame. The
+  mascot is already the brightest thing in it, so do not add a second accent
+  colour competing with the gold.
 
 ## What we change from the source skill
 
@@ -155,13 +180,13 @@ Worked, from the reels in this repo:
 | slot | example |
 |---|---|
 | object | `a chrome desk fan running at full speed` |
-| action | `the mascot gripping its wire guard with both arms` |
+| action | `the owl gripping its wire guard with both wings` ||
 | detail | `and streaming out sideways like a flag` |
 
 | slot | example |
 |---|---|
 | object | `a ball of pale wool unravelling into one long trailing thread` |
-| action | `the mascot hauling back on the loose end with both arms` |
+| action | `the owl hauling back on the loose end with both wings` ||
 | detail | `and losing` |
 
 Rules for the slots:
@@ -170,7 +195,7 @@ Rules for the slots:
    grey rock cracked open". Material is what makes the render photoreal;
    "a timer" gets you a generic icon of a timer.
 2. **Action — one verb, and say what the mascot grips.** `gripping with both
-   arms`, `leaning its whole body against`, `hanging off with both arms`,
+   wings`, `leaning its whole body against`, `hanging off with both wings`,
    `prying apart with a small crowbar`. A mascot with nothing to hold reads as
    standing nearby, which fails the delete test.
 3. **Detail — show the action mid-happening.** The thread trailing, the last

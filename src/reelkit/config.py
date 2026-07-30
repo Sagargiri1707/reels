@@ -102,7 +102,7 @@ DEFAULT_OUTRO = {
     "text": "One of these every day. Follow so you do not miss tomorrow.",
     "image_prompt": (
         "a chunky red enamel push button on a round metal base, the mascot "
-        "leaping off the ground to slam it down with both arms"
+        "leaping up to slam it down with both wings"
     ),
     "image_text": "FOLLOW",
     "anchored": False,   # identical in every reel, so no per-reel subject

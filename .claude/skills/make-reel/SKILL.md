@@ -80,7 +80,7 @@ The visuals carry retention as much as the words do.
 <ONE REAL OBJECT, named with its material>, <the mascot's single physical action on it>, <one detail showing the action mid-happening>
 ```
 
-> `a chrome desk fan running at full speed`, `the mascot gripping its wire guard with both arms`, `and streaming out sideways like a flag`
+> `a chrome desk fan running at full speed`, `the owl gripping its wire guard with both wings`, `and streaming out sideways like a flag`
 
 Name the material — "a brass egg timer" renders as a photograph, "a timer" renders as an icon. Say what the mascot grips; a mascot holding nothing reads as standing nearby. Pick the object family for the whole reel before writing any beats, so the objects feel like they came out of one cupboard.
 

@@ -14,12 +14,12 @@
   "image": {
     "model": "openai/gpt-image-2",
     "image_size": "1024x1024",
-    "quality": "high"
+    "quality": "low"
   },
 
   "voice": {
     "model": "s2.1-pro",
-    "reference_id": "REPLACE_WITH_FISH_VOICE_ID",
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
     "format": "mp3",
     "prosody": {
       "speed": 1.0

@@ -57,16 +57,19 @@ DEFAULT_IMAGE = {
     "quality": "low",
     "output_format": "png",
 
-    # Rotated one per beat, wrapping at the end, so no two neighbouring frames
-    # share a background -- twelve frames on one tone read as a single held
-    # image no matter how different the drawings are.
-    #
-    # Off by default. The house style is a clean white studio, and that white
-    # is load-bearing: tinting it turns the object photography grey and the
-    # mascot stops reading as drawn-on-top. A reel that wants tinted paper can
-    # set image.palette itself, e.g.
-    #     [{"name": "soft sand", "hex": "#EFE3D8"}, ...]
-    "palette": [],
+    # Rotated one per beat, in order, wrapping at the end. Twelve frames on one
+    # paper tone read as a single held image no matter how different the
+    # drawings are; changing the paper underneath is what makes a cut land.
+    # All muted and light enough that black ink still reads on top, and ordered
+    # so no two neighbours sit close on the wheel.
+    "palette": [
+        {"name": "warm off-white", "hex": "#F2EDE4"},
+        {"name": "pale slate blue", "hex": "#DFE4E9"},
+        {"name": "soft sand",       "hex": "#EFE3D8"},
+        {"name": "pale sage",       "hex": "#E4E9DF"},
+        {"name": "faint rose grey", "hex": "#EDE1E4"},
+        {"name": "cool pale grey",  "hex": "#E5E7E6"},
+    ],
 }
 
 DEFAULT_VOICE = {
@@ -101,8 +104,8 @@ DEFAULT_OUTRO = {
     "role": "outro",
     "text": "One of these every day. Follow so you do not miss tomorrow.",
     "image_prompt": (
-        "a chunky red enamel push button on a round metal base, the mascot "
-        "leaping up to slam it down with both wings"
+        "a chunky red enamel push button on a round metal base, drawn head on "
+        "and pressed halfway down, a hand withdrawing from it at the frame edge"
     ),
     "image_text": "FOLLOW",
     "anchored": False,   # identical in every reel, so no per-reel subject

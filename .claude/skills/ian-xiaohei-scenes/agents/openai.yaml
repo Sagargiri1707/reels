@@ -1,6 +1,0 @@
-interface:
-  display_name: "Ian xiaohei object scenes (prompts only)"
-  short_description: "Writes English image prompts in the xiaohei + real object + white space style. Never generates images."
-  default_prompt: "Use $ian-xiaohei-scenes to write English image prompts in the xiaohei + real object + physical action style for this content. Output prompt text only; do not generate any images."
-policy:
-  allow_implicit_invocation: true

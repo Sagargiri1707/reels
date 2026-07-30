@@ -24,7 +24,7 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 - `topic`: the Day title (e.g. "Why we only have 8 planets")
 - `slug`: as above
 - `music`: null unless user asks
-- `beats`: 6–12 beats, written to the storytelling rules below. **Do not write a follow/subscribe beat** — the build appends the standard sign-off itself (`DEFAULT_OUTRO` in `src/reelkit/config.py`): same spoken line, same mascot-slams-a-red-button frame, every reel. Writing your own would double it.
+- `beats`: 6–12 beats, written to the storytelling rules below. **Do not write a follow/subscribe beat** — the build appends the standard sign-off itself (`DEFAULT_OUTRO` in `src/reelkit/config.py`): same spoken line, same red-button frame, every reel. Writing your own would double it.
 - `subject_anchor`: one line naming what the reel is about, in objects — e.g. `"the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, the night sky"`. Required; the loader refuses a script without one. It rides on every image prompt so no frame drifts off topic.
 - `style_lock`: leave a placeholder for now; Step 3 replaces it.
 - `post`: the feed caption and cover-frame choice — written in Step 4.
@@ -74,23 +74,14 @@ Strong: `Your brain physically shrinks every night, and that's the point.`
 
 The visuals carry retention as much as the words do.
 
-**Every prompt is the same three slots in the same order**, so twelve frames read as one set:
-
-```
-<ONE REAL OBJECT, named with its material>, <the mascot's single physical action on it>, <one detail showing the action mid-happening>
-```
-
-> `a chrome desk fan running at full speed`, `the owl gripping its wire guard with both wings`, `and streaming out sideways like a flag`
-
-Name the material — "a brass egg timer" renders as a photograph, "a timer" renders as an icon. Say what the mascot grips; a mascot holding nothing reads as standing nearby. Pick the object family for the whole reel before writing any beats, so the objects feel like they came out of one cupboard.
-
-- **One real object, one mascot action.** The frame is a real object photographed on white, with the small mascot physically doing the thing the beat is about. Simple and explanatory, readable in a second.
-- **The mascot carries the idea.** Delete it from the frame in your head — if the idea still reads, rewrite the frame. Standing beside the object or pointing at it is a failure.
-- **Every beat must look different from the beat before it.** Two similar-looking frames in a row read as a stall and get swiped. Change the object, the camera distance, or what the mascot is doing.
-- **Pick the concrete object, not the abstraction.** "Trust" isn't an object; "an unsigned contract the mascot is pinning down" is. If a beat is conceptual, find the object that stands in for it.
-- **Each prompt renders independently.** No "the same object as before", no "the other side of the room". Restate the object in full every time.
-- Structure: **the real object → what the mascot is doing to it → one small detail.** 15–30 words. No style words, no background colour, no lettering unless the beat opts in via `image_text` (Step 3).
-- Full rules, including the character definition and the white-studio composition, in `references/visual-style.md`.
+- **Every beat must look different from the beat before it.** Two similar-looking frames in a row read as a stall and get swiped. Change the subject, the scale, or the vantage point.
+- **Vary shot scale on purpose**: wide establishing → medium → close detail → back out. Eight wides in a row is a slideshow.
+- **Draw the concrete noun, not the abstraction.** "Trust" isn't drawable; "two hands over an unsigned contract" is. If a beat is conceptual, find its physical stand-in.
+- **Add, don't echo.** The image should show something the narration doesn't say. If the line is "the engine failed at 30,000 feet", don't draw a failing engine — draw the passengers' faces.
+- **Each prompt renders independently.** No "the same man as before", no "the other side of the room". Restate the subject in full every time.
+- One or two subjects max, scene-only — no style words. Frames carry no lettering unless the beat opts in via `image_text` (Step 3).
+- **Write the whole frame, not the noun.** 15–30 words, with a vantage point, the subject mid-action, one imperfection, and one quiet second plane. A bare noun renders as clip art.
+- **Anchor it to something the viewer has touched.** Domestic over institutional, a human trace even with nobody in frame, scale shown by comparison rather than by number. Full rules in `references/visual-style.md`.
 
 ## Before writing the file, check
 
@@ -101,27 +92,26 @@ Name the material — "a brass egg timer" renders as a photograph, "a timer" ren
 
 ## Step 3 — Refine every prompt against the visual style
 
-**Read `references/visual-style.md` in this skill directory. Not optional, not skippable, and not something to do from memory — read the file.** It is the house look: photoreal objects on white, with one small hand-drawn mascot doing something to them.
+**Read `references/visual-style.md` in this skill directory. Not optional, not skippable, and not something to do from memory — read the file.** It is the house look, distilled from the ian handdrawn technical-illustration system and already adapted to this pipeline.
 
-It is built on the `ian-xiaohei-scenes` skill, vendored in this repo at `.claude/skills/ian-xiaohei-scenes/`. Read that skill's `references/xiaohei-ip.md` and `references/style-dna.md` for the character and composition rules, and look at its `assets/examples/` — those are the quality bar. Do **not** let it generate anything; `reel.py` owns image generation, and its 16:9 Chinese-label defaults are overridden in `visual-style.md`.
+Do **not** invoke the `ian-handdrawn-ppt` skill. It targets 16:9 Chinese slide decks with pastel fills and page furniture; roughly 80% of it has to be overridden here, and overriding it at runtime is exactly where the style drifts. Everything usable from it is in `visual-style.md`.
 
 Then do two passes over the json:
 
-1. **`style_lock`** — copy the canonical string verbatim from the "The two halves" section of `references/visual-style.md`. That file is the source of truth, not the older scripts; `glass-rain-01` and `8-planets-01` predate it and are not being re-rendered. Do not reword it or add per-reel flourishes. Reel 40 has to look like reel 1. If it genuinely must change, change it in `visual-style.md` and say so in the final report.
+1. **`style_lock`** — copy it verbatim from `8-planets-01.json`. Do not reword it or add per-reel flourishes. **Do not copy the lock from `glass-rain-01.json` or `venus-day-01.json`** — those two were built during a retired photoreal-object-and-mascot experiment and carry a lock that is no longer the house look. Reel 40 has to look like reel 1. If it genuinely must change, change it in every script at once and say so in the final report.
 2. **Every `image_prompt`** — rewrite it in full against the whole of `visual-style.md`, not just its checklist. Each prompt is judged on:
-   - **The delete test.** The mascot performs the beat's core physical action. Remove it from the frame; if the idea still reads completely, the frame has failed. Standing beside the object, pointing at it, or watching it are all failures.
-   - **One object, one action.** One real main object plus at most one or two small accessories. Readable in about a second at scroll speed. No diagrams, no panel strips, no labelled process rows.
-   - **On topic.** The anchor comes through the **main object itself** — a planet model, a star chart — not through scenery parked in the corner of every frame. Beats get written and rendered one at a time, so each frame drifts into illustrating its own sentence; twelve beats about Pluto once came back as a dictionary, a broom and a kitchen table. Someone scrubbing with the sound off must be able to name the topic from the pictures alone.
-   - **Relatability.** A familiar everyday object, scale shown by comparison rather than by number, consequence rather than mechanism. The narration explains how it works; the frame shows what it does to someone.
-   - **Separation.** No two neighbouring frames sharing an object type and a camera distance.
+   - **On topic.** At least two frames in every three contain a literal object from the reel's subject. Metaphor is the exception you spend when the topic object genuinely can't carry the beat — and even then the subject has to appear somewhere in the frame. **This is the failure mode to watch for**: beats get written and rendered one at a time, so each frame drifts into illustrating its own sentence, and twelve beats about Pluto come back as a dictionary, a broom and a kitchen table. Someone scrubbing with the sound off must be able to name the topic from the pictures alone.
+   - **Depth.** 15–30 words carrying real specifics: vantage and distance, a verb putting the subject mid-action, one imperfection, one quiet second plane. A bare noun renders as clip art.
+   - **Relatability.** Give the viewer a way in — a human trace in the frame even with nobody in it, scale shown by comparison rather than by number, consequence rather than mechanism. Do this *inside* the subject's world, not by leaving it.
+   - **Separation.** No two neighbouring frames sharing a vantage point and a subject scale.
 
 Hard constraints:
 
 - **English only.** No Chinese characters anywhere in a prompt.
 - Prompts are scene-only. No style words — style lives in `style_lock`, and the pipeline appends it (`Script.prompt_for`).
 - Never write "no text" into a prompt or into `style_lock`. `prompt_for` appends the text rule automatically, per beat.
-- Never name a background colour in a prompt. The white studio is part of `style_lock`. `image.palette` still exists for tinted-paper reels but is off by default — the mascot style needs clean white.
-- Portrait 9:16. Compose tall; a wide row of items renders thin and small. The source skill composes for 16:9, so say the vertical arrangement out loud.
+- Never name a background colour in a prompt. `image.palette` rotates a paper tone per beat and `prompt_for` appends it.
+- Portrait 9:16. Compose tall; a wide row of items renders thin and small.
 
 ### Text inside a frame
 

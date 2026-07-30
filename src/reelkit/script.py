@@ -34,12 +34,7 @@ MAX_IMAGE_TEXT = 24
 # twelve unrelated pictures that each illustrate one sentence. The anchor is the
 # one line that names what the whole reel is about, and it rides on every prompt
 # so no frame can wander off the subject.
-#
-# Keep it soft. An earlier version demanded the scene "must visibly read as part
-# of" the subject, and the model satisfied that by parking a tiny observatory in
-# the corner of nearly every frame -- on topic, but a repeated watermark. The
-# subject is supposed to arrive through the main object, not through scenery.
-ANCHOR_RULE = "the object in the scene comes from the world of {anchor}"
+ANCHOR_RULE = "the scene belongs to {anchor} and must visibly read as part of it"
 
 
 @dataclass

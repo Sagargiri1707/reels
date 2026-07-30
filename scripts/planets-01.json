@@ -1,0 +1,91 @@
+{
+  "topic": "The 8 planets",
+  "slug": "planets-01",
+  "music": null,
+
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": "1024x1024",
+    "quality": "high"
+  },
+
+  "voice": {
+    "model": "s2.1-pro",
+    "reference_id": "REPLACE_WITH_FISH_VOICE_ID",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+
+  "style_lock": "minimal black ink doodle illustration, thin uniform line weight, simple stick-figure and flat-shape style, no shading, no gradients, no colour except black lines, plain off-white paper background #F2EDE4, generous white space, centred composition, hand-drawn cartoon feel",
+
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "One of these planets spins backwards.",
+      "image_prompt": "a single doodle planet with a circular arrow curving the wrong way around it, a small stick figure below scratching its head"
+    },
+    {
+      "id": "02",
+      "role": "setup",
+      "text": "Eight planets. Here is what makes each one strange.",
+      "image_prompt": "eight small doodle circles of increasing size in a row across the page, a tiny sun doodle at the far left"
+    },
+    {
+      "id": "03",
+      "text": "Mercury has no atmosphere, so its sky is always black.",
+      "image_prompt": "a small cratered doodle planet with a black square of sky above it dotted with tiny stars"
+    },
+    {
+      "id": "04",
+      "text": "Venus spins backwards, and a day there lasts longer than its year.",
+      "image_prompt": "a doodle planet with a reversed circular arrow around it and a small doodle clock beside it"
+    },
+    {
+      "id": "05",
+      "text": "Earth is the only place we have ever found life.",
+      "image_prompt": "a doodle globe with simple continent shapes and one tiny stick figure standing on top waving"
+    },
+    {
+      "id": "06",
+      "text": "Mars is red because its soil is basically rust.",
+      "image_prompt": "a doodle planet with hatched shading, a small doodle rover with wheels beside it leaving tracks"
+    },
+    {
+      "id": "07",
+      "text": "Jupiter's great red spot is a storm wider than Earth.",
+      "image_prompt": "a large doodle planet with horizontal stripes and one big spiral swirl, a tiny circle next to it for scale"
+    },
+    {
+      "id": "08",
+      "text": "Saturn is so light it would float in water.",
+      "image_prompt": "a doodle ringed planet bobbing in a simple doodle bathtub with wavy water lines"
+    },
+    {
+      "id": "09",
+      "text": "Uranus is tipped on its side, rolling around the sun.",
+      "image_prompt": "a doodle planet with vertical rings, tilted sideways, a dashed orbit line curving around it"
+    },
+    {
+      "id": "10",
+      "text": "And on Neptune, the wind blows faster than the speed of sound.",
+      "image_prompt": "a doodle planet with long horizontal speed lines streaking off one side, a tiny stick figure holding onto its hat"
+    },
+    {
+      "id": "11",
+      "role": "cta",
+      "text": "Follow for one fact a day.",
+      "image_prompt": "a stick figure holding up a blank hand-drawn sign, plenty of empty space above it"
+    }
+  ]
+}

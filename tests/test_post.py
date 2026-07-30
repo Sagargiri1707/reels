@@ -33,51 +33,33 @@ class FakeSpan:
         return self.end - self.start
 
 
-class HashtagTests(unittest.TestCase):
-    def test_bare_words_become_tags(self):
-        """A script is hand-edited, so tags get written without the hash as
-        often as with it. Both must post identically."""
+class HashtagCountTests(unittest.TestCase):
+    def test_tags_are_counted_wherever_they_sit_in_the_caption(self):
+        """The count only drives the over-limit warning, and tags are written
+        inline now, so a counter that only looked at a trailing block would
+        under-report and the warning would never fire."""
         self.assertEqual(
-            post.hashtags({"hashtags": ["space", "#physics"]}),
-            ["#space", "#physics"],
-        )
+            post.count_hashtags("Why #Pluto lost it.\n\n#space #astronomy"), 3)
 
-    def test_a_single_string_is_accepted(self):
-        """'space physics' is the natural thing to type into one JSON field.
-        Silently treating it as one giant tag would post '#space physics'."""
-        self.assertEqual(
-            post.hashtags({"hashtags": "space #physics"}),
-            ["#space", "#physics"],
-        )
-
-    def test_duplicates_are_dropped_case_insensitively(self):
-        """Apps cap the tag count. A repeat spends a slot and reaches nobody
-        new, and #Space vs #space is the same tag to the platform."""
-        self.assertEqual(
-            post.hashtags({"hashtags": ["space", "Space", "#SPACE", "moon"]}),
-            ["#space", "#moon"],
-        )
-
-    def test_empty_entries_never_produce_a_lone_hash(self):
-        """A stray '' or '#' would render as a bare '#', which reads as a typo
-        in the caption."""
-        self.assertEqual(post.hashtags({"hashtags": ["", "#", "  ", "space"]}),
-                         ["#space"])
+    def test_a_lone_hash_is_not_a_tag(self):
+        """'#' on its own is punctuation. Counting it would push a caption over
+        the limit and print a warning about a tag that does not exist."""
+        self.assertEqual(post.count_hashtags("number # 9 and #space"), 1)
 
 
 class RenderTests(unittest.TestCase):
-    def test_caption_and_tags_are_separated_by_a_blank_line(self):
-        """The tags must be visually detachable from the sentence; run
-        together, the caption reads as spam."""
-        s = FakeScript(post={"caption": "Gravity is not a force.",
-                             "hashtags": ["space"]})
-        self.assertEqual(post.render(s), "Gravity is not a force.\n\n#space\n")
+    def test_the_caption_is_passed_through_verbatim(self):
+        """The caption is written the way it will be pasted. Anything that
+        reflows or re-orders it means the script stops showing the real post."""
+        body = "Pluto never moved.\n\nOne a day.\n\n#pluto #space"
+        self.assertEqual(post.render(FakeScript(post={"caption": body})), body)
 
-    def test_missing_caption_still_renders_the_tags(self):
-        """Half-finished scripts are normal mid-session; losing the tags that
-        were already written would be silent data loss."""
-        s = FakeScript(post={"caption": "", "hashtags": ["space"]})
-        self.assertEqual(post.render(s), "#space\n")
+    def test_surrounding_whitespace_is_trimmed(self):
+        """A caption pasted with a leading blank line shows as an empty first
+        line in the app, which reads as a mistake."""
+        self.assertEqual(
+            post.render(FakeScript(post={"caption": "\n  #space  \n"})),
+            "#space")
 
     def test_nothing_authored_renders_nothing(self):
         """An empty string is the signal write() uses to warn instead of

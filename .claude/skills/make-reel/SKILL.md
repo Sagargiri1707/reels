@@ -1,6 +1,6 @@
 ---
 name: make-reel
-description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt against the house visual style, builds the final mp4 with reel.py, picks a cover frame, writes the feed caption and hashtags, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list. Also use when they want a caption, hashtags or a thumbnail/cover for an existing reel.
+description: End-to-end reel factory for this repo. Picks the next unchecked video idea from list.md, writes a scripts/<slug>.json, refines every image_prompt against the house visual style, builds the final mp4 with reel.py, picks a cover frame, writes the feed caption, and checks the idea off. Use whenever the user says "make a reel", "next reel", "build a video", "new reel from the list", "generate the next idea", or asks to turn an idea into a finished reel — even if they name a specific topic instead of using the list. Also use when they want a caption, hashtags or a thumbnail/cover for an existing reel.
 ---
 
 # Make Reel
@@ -27,7 +27,7 @@ Copy the structural config (`style`, `image`, `voice`) from the most recently co
 - `beats`: 6–12 beats, written to the storytelling rules below
 - `subject_anchor`: one line naming what the reel is about, in objects — e.g. `"the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, the night sky"`. Required; the loader refuses a script without one. It rides on every image prompt so no frame drifts off topic.
 - `style_lock`: leave a placeholder for now; Step 3 replaces it.
-- `post`: the feed caption, hashtags and cover-frame choice — written in Step 4.
+- `post`: the feed caption and cover-frame choice — written in Step 4.
 
 ## Beat schema
 
@@ -131,14 +131,13 @@ Careful with the name: `post.caption` is the description that sits **beside** th
 
 ```json
 "post": {
-  "caption": "<hook restated flat, then the follow line>",
-  "hashtags": ["topic", "science", "..."],
+  "caption": "<hook restated flat>\n\n<follow line>\n\n#topic #science #...",
   "thumbnail_beat": "01"
 }
 ```
 
-- `caption`: 1–2 sentences. Restate the hook plainly — someone reading the feed with sound off decides from this line alone. Then a blank line, then the follow prompt. Don't paste the narration; it reads as a transcript.
-- `hashtags`: 8–12, written without the `#` (the code adds it). Mix broad (`science`, `space`) with specific (`spacetime`, `venus`) — the broad ones are pure competition, the specific ones are how anyone actually finds you. Over 30 gets silently dropped by the apps.
+- `caption`: the entire feed description, exactly as it will be pasted — there is no separate hashtag field. Write it in three blocks separated by blank lines: 1–2 sentences restating the hook plainly (someone reading with sound off decides from this line alone), then the follow prompt, then the tags on their own last line. Don't paste the narration; it reads as a transcript.
+- **Hashtags** go inline in that last line, each with its own `#`. Use 8–12. Mix broad (`#science`, `#space`) with specific (`#spacetime`, `#venus`) — the broad ones are pure competition, the specific ones are how anyone actually finds you. Over 30 gets silently dropped by the apps, and the build warns if you cross it.
 - `thumbnail_beat`: which beat becomes the cover. Default `"01"` (the hook). Pick a different beat only when a later frame is visually stronger on its own — the cover is judged with no narration behind it.
 
 ## Step 5 — Build

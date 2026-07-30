@@ -85,8 +85,10 @@ DEFAULT_VOICE = {
 # Note the namespace: these are NOT the burned-in subtitles, which live in
 # DEFAULT_STYLE as caption_font / caption_size / caption_* above.
 DEFAULT_POST = {
+    # The whole feed description, hashtags written inline with their own '#'.
+    # One field because it is pasted as one block -- splitting it meant the
+    # script never showed what the post would actually look like.
     "caption": "",
-    "hashtags": [],
     "thumbnail_beat": None,   # beat id to use as cover; None = the hook beat
     "thumbnail_quality": 2,   # ffmpeg -q:v, 2 is near-lossless jpeg
 }

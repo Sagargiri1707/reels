@@ -1,0 +1,653 @@
+{
+  "audio_duration": 42.266063,
+  "segments": [
+    {
+      "text": "Pluto",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "never",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "text": "moved",
+      "start": 0.8,
+      "end": 1.28
+    },
+    {
+      "text": "never",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "text": "shrank",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "text": "and",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "still",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "stopped",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "text": "being",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "text": "a",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "text": "planet",
+      "start": 3.6,
+      "end": 4.08
+    },
+    {
+      "text": "For",
+      "start": 4.48,
+      "end": 4.56
+    },
+    {
+      "text": "seventy",
+      "start": 4.56,
+      "end": 5.04
+    },
+    {
+      "text": "six",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "text": "years",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "it",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "was",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "the",
+      "start": 5.92,
+      "end": 6.0
+    },
+    {
+      "text": "ninth",
+      "start": 6.0,
+      "end": 6.4
+    },
+    {
+      "text": "dot",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "on",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "every",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "text": "classroom",
+      "start": 7.28,
+      "end": 7.76
+    },
+    {
+      "text": "poster",
+      "start": 7.76,
+      "end": 8.24
+    },
+    {
+      "text": "Then",
+      "start": 8.64,
+      "end": 8.88
+    },
+    {
+      "text": "astronomers",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "text": "found",
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "text": "Eris",
+      "start": 9.76,
+      "end": 10.24
+    },
+    {
+      "text": "further",
+      "start": 10.56,
+      "end": 10.88
+    },
+    {
+      "text": "out",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "than",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "Pluto",
+      "start": 11.2,
+      "end": 11.6
+    },
+    {
+      "text": "and",
+      "start": 11.6,
+      "end": 11.76
+    },
+    {
+      "text": "slightly",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "text": "heavier",
+      "start": 12.16,
+      "end": 12.72
+    },
+    {
+      "text": "So",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "either",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "text": "we",
+      "start": 13.36,
+      "end": 13.44
+    },
+    {
+      "text": "had",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "text": "a",
+      "start": 13.6,
+      "end": 13.68
+    },
+    {
+      "text": "tenth",
+      "start": 13.68,
+      "end": 14.0
+    },
+    {
+      "text": "planet",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "or",
+      "start": 14.72,
+      "end": 14.8
+    },
+    {
+      "text": "the",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "word",
+      "start": 14.88,
+      "end": 15.2
+    },
+    {
+      "text": "planet",
+      "start": 15.2,
+      "end": 15.52
+    },
+    {
+      "text": "meant",
+      "start": 15.52,
+      "end": 15.76
+    },
+    {
+      "text": "nothing",
+      "start": 15.76,
+      "end": 16.24
+    },
+    {
+      "text": "It",
+      "start": 16.71328798185941,
+      "end": 16.793287981859407
+    },
+    {
+      "text": "had",
+      "start": 16.793287981859407,
+      "end": 16.87328798185941
+    },
+    {
+      "text": "never",
+      "start": 16.87328798185941,
+      "end": 17.113287981859408
+    },
+    {
+      "text": "actually",
+      "start": 17.113287981859408,
+      "end": 17.593287981859408
+    },
+    {
+      "text": "been",
+      "start": 17.593287981859408,
+      "end": 17.83328798185941
+    },
+    {
+      "text": "defined",
+      "start": 17.83328798185941,
+      "end": 18.39328798185941
+    },
+    {
+      "text": "So",
+      "start": 18.63328798185941,
+      "end": 18.793287981859407
+    },
+    {
+      "text": "in",
+      "start": 18.87328798185941,
+      "end": 18.953287981859408
+    },
+    {
+      "text": "two",
+      "start": 18.953287981859408,
+      "end": 19.113287981859408
+    },
+    {
+      "text": "thousand",
+      "start": 19.113287981859408,
+      "end": 19.51328798185941
+    },
+    {
+      "text": "six",
+      "start": 19.51328798185941,
+      "end": 19.91328798185941
+    },
+    {
+      "text": "astronomers",
+      "start": 20.07328798185941,
+      "end": 20.71328798185941
+    },
+    {
+      "text": "finally",
+      "start": 20.71328798185941,
+      "end": 21.113287981859408
+    },
+    {
+      "text": "wrote",
+      "start": 21.113287981859408,
+      "end": 21.35328798185941
+    },
+    {
+      "text": "the",
+      "start": 21.35328798185941,
+      "end": 21.433287981859408
+    },
+    {
+      "text": "rules",
+      "start": 21.433287981859408,
+      "end": 21.99328798185941
+    },
+    {
+      "text": "Orbit",
+      "start": 22.23328798185941,
+      "end": 22.55328798185941
+    },
+    {
+      "text": "the",
+      "start": 22.55328798185941,
+      "end": 22.63328798185941
+    },
+    {
+      "text": "Sun",
+      "start": 22.63328798185941,
+      "end": 23.113287981859408
+    },
+    {
+      "text": "Be",
+      "start": 23.273287981859408,
+      "end": 23.51328798185941
+    },
+    {
+      "text": "round",
+      "start": 23.51328798185941,
+      "end": 23.91328798185941
+    },
+    {
+      "text": "Sweep",
+      "start": 24.153287981859407,
+      "end": 24.473287981859407
+    },
+    {
+      "text": "your",
+      "start": 24.473287981859407,
+      "end": 24.63328798185941
+    },
+    {
+      "text": "own",
+      "start": 24.63328798185941,
+      "end": 24.87328798185941
+    },
+    {
+      "text": "lane",
+      "start": 24.87328798185941,
+      "end": 25.113287981859408
+    },
+    {
+      "text": "clean",
+      "start": 25.113287981859408,
+      "end": 25.593287981859408
+    },
+    {
+      "text": "Pluto",
+      "start": 25.833287981859407,
+      "end": 26.153287981859407
+    },
+    {
+      "text": "passes",
+      "start": 26.153287981859407,
+      "end": 26.55328798185941
+    },
+    {
+      "text": "the",
+      "start": 26.55328798185941,
+      "end": 26.63328798185941
+    },
+    {
+      "text": "first",
+      "start": 26.63328798185941,
+      "end": 26.95328798185941
+    },
+    {
+      "text": "two",
+      "start": 26.95328798185941,
+      "end": 27.19328798185941
+    },
+    {
+      "text": "easily",
+      "start": 27.19328798185941,
+      "end": 27.67328798185941
+    },
+    {
+      "text": "But",
+      "start": 27.99328798185941,
+      "end": 28.07328798185941
+    },
+    {
+      "text": "its",
+      "start": 28.07328798185941,
+      "end": 28.23328798185941
+    },
+    {
+      "text": "orbit",
+      "start": 28.23328798185941,
+      "end": 28.55328798185941
+    },
+    {
+      "text": "is",
+      "start": 28.55328798185941,
+      "end": 28.71328798185941
+    },
+    {
+      "text": "crowded",
+      "start": 28.71328798185941,
+      "end": 29.113287981859408
+    },
+    {
+      "text": "with",
+      "start": 29.113287981859408,
+      "end": 29.27328798185941
+    },
+    {
+      "text": "thousands",
+      "start": 29.27328798185941,
+      "end": 29.67328798185941
+    },
+    {
+      "text": "of",
+      "start": 29.67328798185941,
+      "end": 29.833287981859407
+    },
+    {
+      "text": "icy",
+      "start": 29.833287981859407,
+      "end": 30.153287981859407
+    },
+    {
+      "text": "chunks",
+      "start": 30.153287981859407,
+      "end": 30.55328798185941
+    },
+    {
+      "text": "it",
+      "start": 30.55328798185941,
+      "end": 30.63328798185941
+    },
+    {
+      "text": "never",
+      "start": 30.63328798185941,
+      "end": 30.95328798185941
+    },
+    {
+      "text": "cleared",
+      "start": 30.95328798185941,
+      "end": 31.433287981859408
+    },
+    {
+      "text": "So",
+      "start": 31.7956462585034,
+      "end": 31.9556462585034
+    },
+    {
+      "text": "a",
+      "start": 31.9556462585034,
+      "end": 31.9556462585034
+    },
+    {
+      "text": "few",
+      "start": 31.9556462585034,
+      "end": 32.1956462585034
+    },
+    {
+      "text": "hundred",
+      "start": 32.1956462585034,
+      "end": 32.5156462585034
+    },
+    {
+      "text": "astronomers",
+      "start": 32.5156462585034,
+      "end": 33.1556462585034
+    },
+    {
+      "text": "in",
+      "start": 33.1556462585034,
+      "end": 33.2356462585034
+    },
+    {
+      "text": "a",
+      "start": 33.2356462585034,
+      "end": 33.3156462585034
+    },
+    {
+      "text": "hall",
+      "start": 33.3156462585034,
+      "end": 33.5556462585034
+    },
+    {
+      "text": "in",
+      "start": 33.6356462585034,
+      "end": 33.7156462585034
+    },
+    {
+      "text": "Prague",
+      "start": 33.7156462585034,
+      "end": 34.0356462585034
+    },
+    {
+      "text": "raised",
+      "start": 34.0356462585034,
+      "end": 34.3556462585034
+    },
+    {
+      "text": "their",
+      "start": 34.3556462585034,
+      "end": 34.5156462585034
+    },
+    {
+      "text": "hands",
+      "start": 34.5156462585034,
+      "end": 34.9156462585034
+    },
+    {
+      "text": "Pluto",
+      "start": 35.2356462585034,
+      "end": 35.5556462585034
+    },
+    {
+      "text": "did",
+      "start": 35.5556462585034,
+      "end": 35.7156462585034
+    },
+    {
+      "text": "not",
+      "start": 35.7156462585034,
+      "end": 35.8756462585034
+    },
+    {
+      "text": "change",
+      "start": 35.8756462585034,
+      "end": 36.2756462585034
+    },
+    {
+      "text": "that",
+      "start": 36.2756462585034,
+      "end": 36.435646258503404
+    },
+    {
+      "text": "day",
+      "start": 36.435646258503404,
+      "end": 36.8356462585034
+    },
+    {
+      "text": "Our",
+      "start": 37.0756462585034,
+      "end": 37.2356462585034
+    },
+    {
+      "text": "definition",
+      "start": 37.2356462585034,
+      "end": 37.8756462585034
+    },
+    {
+      "text": "did",
+      "start": 37.8756462585034,
+      "end": 38.1956462585034
+    },
+    {
+      "text": "And",
+      "start": 38.435646258503404,
+      "end": 38.5956462585034
+    },
+    {
+      "text": "every",
+      "start": 38.5956462585034,
+      "end": 38.9156462585034
+    },
+    {
+      "text": "planet",
+      "start": 38.9156462585034,
+      "end": 39.3156462585034
+    },
+    {
+      "text": "still",
+      "start": 39.3156462585034,
+      "end": 39.5556462585034
+    },
+    {
+      "text": "on",
+      "start": 39.5556462585034,
+      "end": 39.7156462585034
+    },
+    {
+      "text": "that",
+      "start": 39.7156462585034,
+      "end": 39.8756462585034
+    },
+    {
+      "text": "list",
+      "start": 39.8756462585034,
+      "end": 40.2756462585034
+    },
+    {
+      "text": "is",
+      "start": 40.3556462585034,
+      "end": 40.5156462585034
+    },
+    {
+      "text": "stranger",
+      "start": 40.5156462585034,
+      "end": 40.9956462585034
+    },
+    {
+      "text": "than",
+      "start": 40.9956462585034,
+      "end": 41.1556462585034
+    },
+    {
+      "text": "the",
+      "start": 41.1556462585034,
+      "end": 41.1556462585034
+    },
+    {
+      "text": "one",
+      "start": 41.1556462585034,
+      "end": 41.4756462585034
+    },
+    {
+      "text": "we",
+      "start": 41.4756462585034,
+      "end": 41.5556462585034
+    },
+    {
+      "text": "removed",
+      "start": 41.5556462585034,
+      "end": 42.1156462585034
+    }
+  ],
+  "text": "Pluto never moved, never shrank, and still stopped being a planet. For seventy six years it was the ninth dot on every classroom poster. Then astronomers found Eris, further out than Pluto and slightly heavier. So either we had a tenth planet, or the word planet meant nothing. It had never actually been defined. So in two thousand six, astronomers finally wrote the rules. Orbit the Sun. Be round. Sweep your own lane clean. Pluto passes the first two easily. But its orbit is crowded with thousands of icy chunks it never cleared. So a few hundred astronomers in a hall in Prague raised their hands. Pluto did not change that day. Our definition did. And every planet still on that list is stranger than the one we removed.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro"
+}

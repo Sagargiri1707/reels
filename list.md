@@ -22,7 +22,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: the eight planets lined up, Pluto sliding out of frame into a "dwarf planet" box next to Ceres, Eris, Makemake.
       End on: "And every planet still in that line-up is weirder than you think."
 
-- [ ] **Day 2 — The planet where it rains glass, sideways**
+- [x] **Day 2 — The planet where it rains glass, sideways**
       Hook: "There's a planet where the rain is molten glass and the wind is 8,000 km/h."
       HD 189733b is the headline, but stack three or four: a planet with a diamond interior, one orbiting so close its year lasts 8 hours, one being actively vaporised into a comet-like tail.
       Angle: we've confirmed 5,000+ exoplanets, and almost none of them look like our neighbourhood — our solar system is the odd one.

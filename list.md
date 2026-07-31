@@ -36,7 +36,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: split screen — a clock face vs an orbit animation, deliberately out of sync so viewers feel the mismatch.
       End on: "Venus is slow. Jupiter is violent."
 
-- [ ] **Day 4 — A storm that's been raging for 350 years**
+- [x] **Day 4 — A storm that's been raging for 350 years**
       Hook: "This storm was already old when your great-great-grandparents were born."
       The Great Red Spot: wider than Earth, winds over 600 km/h, first observed in the 1600s and still going. Note that it's measurably shrinking.
       Angle: it never dies because Jupiter has no land — no surface friction means nothing to break a storm apart.

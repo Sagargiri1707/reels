@@ -1,0 +1,92 @@
+{
+  "topic": "A storm that's been raging for 350 years",
+  "lesson": "A storm on Jupiter never dies because there is no land under it to break it apart.",
+  "slug": "350-year-storm-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "model": "s2.1-pro-free",
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "This storm was already old when your great great grandparents were born.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Close from directly above a cracked leather observation journal lying open on a desk, a hand-inked circle of Jupiter drawn on the page with one long oval marked inside it, the corner of the page stiff with spilled candle wax, a brass telescope eyepiece resting at the edge of the paper. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every storm you have ever sat through was gone within a week.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Seen from inside a kitchen looking out, heavy rain streaking down the window glass, a garden chair blown over on the wet paving outside, a child's cardboard model of Jupiter sitting forgotten on the sill with one band coming unglued. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "Storms die here because they drag across land, hills, coastlines, rooftops.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. From a low angle across a ridge of hills at dusk, the ragged trailing edge of a storm cloud snagging on the rooftops below and tearing into shreds, one roof slate lifted loose in the air, the first faint stars showing in the clear strip above. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "But Jupiter has no land at all, not one square metre of ground.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. From far out in space, the whole of Jupiter hanging low in the frame, banded cloud belts running unbroken all the way around it with no coastline or shore anywhere on its surface, one small moon crossing in front and casting a hard round shadow on the clouds. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "So nothing ever slows the spin, and the storm just keeps turning.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Close overhead on the Great Red Spot itself, the huge oval storm turning between two cloud belts with fine filaments being wound into it, one thin whorl escaping off the trailing edge and curling away alone into calmer cloud. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "That single storm is wider than our entire planet.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Looking straight down at a drafting table where a small brass orrery Earth ball hangs on a thread over a hand-drawn chart of the storm's oval, the ball far too small to cover it, a pencil scale bar and a pair of dividers lying beside the chart with the paper curling at one corner. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "Winds inside it run at over four hundred kilometres an hour.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Close along the outer rim of the storm, cloud ribbons stretched into long streaks by the spin and shearing apart where they meet the slower belt, a small battered spacecraft probe tumbling past on its side with one antenna bent back. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "But here is the strange part. It is getting smaller every year.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. Directly above an observatory desk, three glass photographic plates of the same storm stacked down the frame in a column, the oval on each one visibly smaller than the plate above it, a magnifying glass resting on the lowest plate and a dried coffee ring staining the blotter beneath. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "text": "A hundred and forty years ago it was more than twice as wide.",
+      "image_text": "1880",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. A single old glass photographic plate held up against window light in one hand, the wide oval of the storm drawn over in grease pencil, a thumbprint smudging the lower corner, a smaller modern print pinned to the wall behind it and slightly out of focus. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. The only writing anywhere in the image is the exact four digits 1880, hand-lettered small and plain along the edge of the glass plate, with no other writing, number, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You might be alive when a three hundred year old storm finally stops.",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. From inside a dark bedroom at night, a small telescope on a tripod standing at the open window and pointed up at one bright unblinking planet, the curtain half drawn and caught on the tripod leg, an unfinished pencil sketch of the storm left on the sill. the scene belongs to the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "Jupiter's Great Red Spot has been turning since the 1600s. It never dies because Jupiter has no land for a storm to break apart on. But it is shrinking, and it may stop in our lifetime.\n\nOne science fact a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #jupiter #greatredspot #space #astronomy #science",
+    "thumbnail_beat": "01"
+  }
+}

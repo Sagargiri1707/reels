@@ -43,7 +43,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: drop a to-scale Earth into the spot, then a time-lapse of it shrinking across the last century of observation.
       End on: "Jupiter's storm is fading. So are Saturn's rings."
 
-- [ ] **Day 5 — Saturn is losing its rings**
+- [x] **Day 5 — Saturn is losing its rings**
       Hook: "We're watching Saturn's rings die, and we got lucky enough to see them at all."
       Ring material is raining onto the planet under gravity and magnetic field lines — a swimming pool's worth every half hour. The rings may be under 100 million years old and could be gone within another 100 million.
       Angle: dinosaurs may have looked up at a ringless Saturn. We happen to exist in the narrow window when they're there.

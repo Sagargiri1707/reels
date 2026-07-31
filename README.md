@@ -61,11 +61,24 @@ Kokoro / Piper running locally for free if volume gets high.
 
 Generate one per beat into `images/`, named to match the script.
 
-The whole trick is **style-locking**. Every prompt you send is:
+The whole trick is **style-locking**, and there are two ways a script can do it.
+
+`"prompt_format": "full"` (what new scripts use) means each beat's
+`image_prompt` is already the complete prompt — canvas, scene, subject anchor,
+`style_lock` verbatim, paper tone, text rule — and it is sent to the model
+untouched. The loader refuses the script if a prompt dropped the lock, the
+canvas, its paper colour or its text rule, naming the beat.
+
+`"prompt_format": "assembled"` (the default, and what the older scripts here
+are on) means the beat carries a scene only and the pipeline welds the rest on:
 
 ```
-<the beat's image_prompt>, <the script's style_lock>
+<image_prompt>, <subject_anchor rule>, <style_lock>, <paper>, <text rule>
 ```
+
+Either way beats render concurrently — `image.concurrency`, 4 by default. A
+beat that fails does not cancel the others; everything that landed is kept in
+the manifest and the failures are listed at the end for a `--only` retry.
 
 `style_lock` in the example is the doodle look:
 

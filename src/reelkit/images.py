@@ -8,6 +8,7 @@ The manifest records the hash that decision is based on.
 
 import hashlib
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .config import FAL_QUEUE, require_env
 from .http import get_json, post_json, poll, download
@@ -91,17 +92,30 @@ def _image_url(result):
     return url
 
 
+def _render(script, beat, dest):
+    """Submit, wait, download. Runs on a worker thread, so it touches nothing
+    shared -- the manifest is written by the caller, on the main thread."""
+    result = _await_result(script, _submit(script, script.prompt_for(beat)))
+    return download(_image_url(result), dest)
+
+
 def generate(script, force=False, only=None):
     """
     Ensure every beat has an image on disk. Returns a summary dict.
 
     `only` is an optional set of beat ids, for re-rolling a single frame.
+
+    Beats are rendered concurrently: each one is an independent fal job, and
+    the time is spent almost entirely waiting in that queue. A beat that fails
+    does not cancel the others -- everything that lands is written to the
+    manifest and kept, and the failures are raised together at the end, so a
+    retry re-renders only what is actually missing.
     """
     script.assets_dir.mkdir(parents=True, exist_ok=True)
     manifest = read_manifest(script)
     images = manifest.setdefault("images", {})
 
-    made, skipped = [], []
+    todo, skipped = [], []
     for beat in script.beats:
         if only and beat.id not in only:
             continue
@@ -115,16 +129,39 @@ def generate(script, force=False, only=None):
             print(f"  skip  {beat.id}  {dest.name}")
             continue
 
-        prompt = script.prompt_for(beat)
-        print(f"  gen   {beat.id}  {beat.image_prompt[:56]}")
-        result = _await_result(script, _submit(script, prompt))
-        size = download(_image_url(result), dest)
+        todo.append((beat, dest, want))
 
-        images[beat.id] = {"hash": want, "file": dest.name, "bytes": size}
-        write_manifest(script, manifest)   # after each beat, so a crash mid-run
-        made.append(beat.id)               # does not lose what was paid for
+    made, failed = [], []
+    workers = max(1, int(script.image.get("concurrency") or 1))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        jobs = {}
+        for beat, dest, want in todo:
+            print(f"  gen   {beat.id}  {beat.image_prompt[:56]}")
+            jobs[pool.submit(_render, script, beat, dest)] = (beat, dest, want)
 
-    print(f"images: {len(made)} generated, {len(skipped)} cached")
+        for job in as_completed(jobs):
+            beat, dest, want = jobs[job]
+            try:
+                size = job.result()
+            except (Exception, SystemExit) as e:
+                failed.append(beat.id)
+                print(f"  FAIL  {beat.id}  {e}")
+                continue
+
+            images[beat.id] = {"hash": want, "file": dest.name, "bytes": size}
+            write_manifest(script, manifest)   # after each beat, so a crash
+            made.append(beat.id)               # does not lose what was paid for
+            print(f"  ok    {beat.id}  {dest.name}")
+
+    made.sort()
+    print(f"images: {len(made)} generated, {len(skipped)} cached"
+          + (f", {len(failed)} FAILED" if failed else ""))
+    if failed:
+        raise SystemExit(
+            "image generation failed for beats: " + ", ".join(sorted(failed)) +
+            f"\nwhat rendered is kept; re-run to retry only those:"
+            f"\n  python3 reel.py images {script.path.name} "
+            f"--only {','.join(sorted(failed))}")
     return {"generated": made, "skipped": skipped}
 
 

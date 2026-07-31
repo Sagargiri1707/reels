@@ -18,10 +18,28 @@ SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]*$")
 ID_RE = re.compile(r"^[A-Za-z0-9._-]+$")
 
 
+# How a beat's final prompt is arrived at.
+#
+# "assembled" is the original shape: the beat carries a scene fragment and
+# prompt_for welds the anchor, the lock, the paper and the text rule onto it at
+# render time.
+#
+# "full" is the shape dolze-server's handdrawn carousel uses: one authoring pass
+# writes every beat's complete, self-contained prompt in one go -- lock pasted
+# verbatim, canvas, paper and text rule already inside it -- and the pipeline
+# sends that string to the image model untouched. The point of it is that the
+# prompt the model sees is the prompt sitting in the file, so a frame that came
+# back wrong is debugged by reading the script rather than by re-deriving what
+# the code appended.
+PROMPT_FORMATS = ("assembled", "full")
+
 # Image models will happily letter a frame with invented captions and gibberish
 # unless told not to, so every prompt ends with one of these two rules. A beat
 # opts into lettering by naming the exact words; everything else stays wordless.
-NO_TEXT_RULE = "no text, no letters and no numbers anywhere in the image"
+# The marker is the part a full prompt is checked for -- the skill may phrase
+# the rest of the clause its own way, but this half has to be in there.
+NO_TEXT_MARKER = "no letters and no numbers"
+NO_TEXT_RULE = f"no text, {NO_TEXT_MARKER} anywhere in the image"
 TEXT_RULE = ('the only writing anywhere in the image is the exact word {words!r}, '
              'hand-lettered in plain block capitals on the surface it belongs to, '
              'with no other writing, caption or label of any kind')
@@ -45,6 +63,10 @@ class Beat:
     role: str = ""
     index: int = 0
     image_text: str = ""
+    # Defaults to the script's mode. Per beat because the outro is written by
+    # the pipeline, not by the authoring pass, so it stays assembled even in a
+    # full-prompt script -- see DEFAULT_OUTRO.
+    prompt_format: str = "assembled"
     # The sign-off is the same frame in every reel, so it must not pick up the
     # per-reel subject anchor -- an anchored outro would be a space button in
     # one reel and a kitchen button in the next.
@@ -63,6 +85,7 @@ class Script:
     style_lock: str
     subject_anchor: str
     beats: list
+    prompt_format: str
     style: dict
     image: dict
     voice: dict
@@ -129,11 +152,26 @@ class Script:
             return None
         return palette[beat.index % len(palette)]
 
+    @property
+    def canvas(self):
+        """The pixel canvas as the image model is told about it, e.g. 1152x2048.
+        None when image_size is a fal preset name rather than a size."""
+        size = self.image.get("image_size")
+        if not isinstance(size, dict):
+            return None
+        return f"{size['width']}x{size['height']}"
+
     def prompt_for(self, beat):
         """The only place image prompts are assembled. Scene first, then the
         subject anchor that keeps it on topic, then the art direction, then the
         paper, and the text rule last because it is the one the model most needs
-        to obey."""
+        to obey.
+
+        A full-format beat skips all of that: its prompt was written complete
+        and goes to the model exactly as written."""
+        if beat.prompt_format == "full":
+            return beat.image_prompt
+
         parts = [beat.image_prompt]
         if beat.anchored:
             parts.append(ANCHOR_RULE.format(anchor=self.subject_anchor))
@@ -156,6 +194,40 @@ def _fail(msg):
     raise SystemExit(f"script error: {msg}")
 
 
+def _check_full_prompt(beat, style_lock, canvas, paper):
+    """A full prompt carries everything itself, so nothing downstream can put
+    back what the authoring pass left out. These four things are the ones the
+    pipeline used to guarantee by appending them; checking them here is what
+    keeps 'written by hand once' from quietly becoming 'drifted apart'.
+
+    All of it is a substring check on purpose -- the loader is not trying to
+    grade the writing, only to prove the load-bearing clauses are present."""
+    p = beat.image_prompt
+    where = f"beat {beat.id} is prompt_format 'full' but its image_prompt"
+
+    if style_lock not in p:
+        _fail(f"{where} does not contain style_lock verbatim -- paste the lock "
+              f"into every prompt, unreworded, or the frames stop matching")
+
+    if canvas and canvas not in p:
+        _fail(f"{where} never states the canvas {canvas!r}; the model follows "
+              f"the prompt text over the size parameter and will compose wide")
+
+    if paper and paper["hex"].lower() not in p.lower():
+        _fail(f"{where} does not name this beat's paper colour {paper['hex']} "
+              f"({paper['name']}); paper rotates by beat position, so beat "
+              f"{beat.index} has to be the {beat.index}th tone")
+
+    if beat.image_text:
+        if beat.image_text not in p:
+            _fail(f"{where} does not contain the image_text {beat.image_text!r} "
+                  f"it is supposed to letter into the frame")
+    elif NO_TEXT_MARKER not in p:
+        _fail(f"{where} has no text rule -- a prompt that never forbids "
+              f"lettering comes back captioned in invented gibberish. Say "
+              f"{NO_TEXT_MARKER!r} in it, or set image_text")
+
+
 def load(path):
     path = Path(path).resolve()
     if not path.exists():
@@ -173,6 +245,11 @@ def load(path):
     raw_beats = list(data.get("beats") or [])
     if not raw_beats:
         _fail("script has no beats")
+
+    prompt_format = data.get("prompt_format") or "assembled"
+    if prompt_format not in PROMPT_FORMATS:
+        _fail(f"prompt_format {prompt_format!r} must be one of "
+              f"{', '.join(PROMPT_FORMATS)}")
 
     # The sign-off is appended here, not written into each script, so it stays
     # identical across every reel and cannot drift one beat at a time. Adding
@@ -203,9 +280,15 @@ def load(path):
             _fail(f"beat {bid} image_text is {len(image_text)} characters; keep it "
                   f"under {MAX_IMAGE_TEXT} or the model will garble it")
 
+        beat_format = b.get("prompt_format") or prompt_format
+        if beat_format not in PROMPT_FORMATS:
+            _fail(f"beat {bid} prompt_format {beat_format!r} must be one of "
+                  f"{', '.join(PROMPT_FORMATS)}")
+
         beats.append(Beat(id=bid, text=text, image_prompt=prompt,
                           role=b.get("role", ""), index=i,
                           image_text=image_text,
+                          prompt_format=beat_format,
                           anchored=b.get("anchored", True)))
 
     style_lock = (data.get("style_lock") or "").strip()
@@ -239,13 +322,14 @@ def load(path):
         _fail(f"post.thumbnail_beat {wanted!r} is not a beat id in this script "
               f"(have: {', '.join(sorted(seen))})")
 
-    return Script(
+    s = Script(
         path=path,
         topic=data.get("topic", slug),
         slug=slug,
         style_lock=style_lock,
         subject_anchor=subject_anchor,
         beats=beats,
+        prompt_format=prompt_format,
         style=style,
         image=image,
         voice=voice,
@@ -253,3 +337,12 @@ def load(path):
         music=data.get("music"),
         raw=data,
     )
+
+    # Checked here rather than in the beat loop because a full prompt is judged
+    # against the canvas and the paper rotation, and both of those are only
+    # known once the image config is resolved.
+    for beat in s.beats:
+        if beat.prompt_format == "full":
+            _check_full_prompt(beat, style_lock, s.canvas, s.paper_for(beat))
+
+    return s

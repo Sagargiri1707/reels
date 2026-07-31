@@ -57,6 +57,13 @@ DEFAULT_IMAGE = {
     "quality": "low",
     "output_format": "png",
 
+    # How many beats are rendered at once. Every beat is an independent fal job
+    # -- the old one-at-a-time loop spent a whole reel's wall clock waiting on
+    # a queue it could have been waiting on in parallel. Kept modest rather than
+    # unbounded: a dozen simultaneous jobs is a good way to meet a rate limit
+    # halfway through a reel and pay for the half that landed.
+    "concurrency": 4,
+
     # Rotated one per beat, in order, wrapping at the end. Twelve frames on one
     # paper tone read as a single held image no matter how different the
     # drawings are; changing the paper underneath is what makes a cut land.
@@ -73,7 +80,10 @@ DEFAULT_IMAGE = {
 }
 
 DEFAULT_VOICE = {
-    "model": "s2.1-pro",
+    # The free tier of the same s2.1-pro voice model. Same reference_id, same
+    # read; it costs nothing, so it is what a script gets unless it names
+    # otherwise. The paid tier is one string away if the queue ever bites.
+    "model": "s2.1-pro-free",
     "reference_id": None,
     "format": "mp3",
     "latency": "normal",
@@ -109,6 +119,11 @@ DEFAULT_OUTRO = {
     ),
     "image_text": "FOLLOW",
     "anchored": False,   # identical in every reel, so no per-reel subject
+    # Written by the pipeline, not by the authoring pass, so it stays assembled
+    # even in a full-prompt script: it is one fragment shared by every reel and
+    # its paper tone falls out of how many beats the reel happens to have, so
+    # there is no one finished prompt that could be baked here.
+    "prompt_format": "assembled",
 }
 
 

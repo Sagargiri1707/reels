@@ -50,7 +50,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: timeline bar — 4.5 billion years of Saturn, with a thin bright slice showing the ring era, and "we are here."
       End on: "One last thing about this solar system, and it's the strangest of all."
 
-- [ ] **Day 6 — Why everything orbits on the same flat plane** _(bridge)_
+- [x] **Day 6 — Why everything orbits on the same flat plane** _(bridge)_
       Hook: "The solar system isn't a ball of planets. It's a pancake."
       Every major planet orbits within a few degrees of the same plane. That's not coincidence — it's a fossil of how the system formed, from a spinning collapsing cloud that flattened into a disc.
       Angle: you can see the same shape everywhere — Saturn's rings, galaxies, accretion discs. Spin plus gravity always makes a disc.

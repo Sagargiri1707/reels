@@ -1,6 +1,6 @@
 ---
 name: make-reel
-description: End-to-end reel factory for this repo — one idea to a finished vertical mp4, cover frame and feed caption. Picks the next unchecked idea from list.md, writes scripts/<slug>.json, drafts the beats and narration, expands each scene into a full house-style image prompt, renders with reel.py, picks the cover, and writes the caption with hashtags. Use this whenever the user says "make a reel", "next reel", "build the next video", "new reel from the list", "do the next idea", "make a short", "make a video about X", or hands over a topic and wants a reel of it — including Instagram reels, TikToks and YouTube Shorts. Also use for any single piece of an existing reel: rewriting beats, narration or the hook, fixing or re-rolling image prompts, re-rendering the mp4, choosing a new thumbnail or cover frame, or writing the caption, hashtags and post text. If the request touches list.md, scripts/*.json, reel.py, beats, image prompts, style_lock, voiceover, subtitles, covers or captions, this skill owns it — use it rather than improvising a pipeline.
+description: End-to-end reel factory for this repo — one idea to a finished vertical mp4, cover frame and feed caption. Picks the next unchecked idea from list.md, writes scripts/<slug>.json, drafts the beats and narration, expands each scene into a full house-style image prompt, renders with reel.py, picks the cover, and writes the caption with hashtags. Use this whenever the user says "make a reel", "next reel", "build the next video", "new reel from the list", "do the next idea", "make a short", "make a video about X", or hands over a topic and wants a reel of it — including Instagram reels, TikToks and YouTube Shorts. Also use for any single piece of an existing reel: rewriting beats, narration or the hook, fixing or re-rolling image prompts, re-rendering the mp4, choosing a new thumbnail or cover frame, or writing the caption, hashtags and post text. If the request touches list.md, scripts/*.json, reel.py, beats, image prompts, style_lock, voiceover, subtitles, covers or captions, this skill owns it — use it rather than improvising a pipeline. Also owns standalone image-prompt writing outside the reel look: use it whenever the user asks for a realistic, photorealistic or photoreal image prompt, a product shot, UI mockup, wireframe, logo, infographic or an edit prompt for an existing image — that path writes prompt text only and renders nothing.
 ---
 
 # Make Reel
@@ -21,6 +21,7 @@ You author exactly one artefact: the json. Everything downstream is `python3 ree
 | `references/script-writing.md` | Before the first beat. Story shape, the lesson, narration rules. |
 | `references/visual-style.md` | Before the first image prompt. The house look and the seven-part prompt contract. |
 | `references/pipeline.md` | When a build fails, or you need a CLI flag, config key or cost answer. |
+| `references/realistic-images.md` | When the ask is a realistic / photoreal image, not a reel frame. Prompt-only path — see the last section. |
 
 Read the first two in full, from the files — not from memory of a previous run. They are the accumulated repairs for reels that shipped wrong, and they get edited between runs. A run that skips them reproduces the exact failures they describe.
 
@@ -143,3 +144,16 @@ Never tick the idea off by hand while a build is broken.
 Different cover without re-rendering: `python3 reel.py thumb scripts/<slug>.json --beat 07`. `assets/<slug>/thumbs/contact.jpg` shows every candidate at once — offer it when the hook frame is weak.
 
 If any step was skipped or unverified, say which. A reported success you did not actually see is worse than a reported gap.
+
+## Side path — realistic image prompts
+
+Steps 1–6 above are the reel. They do not apply when the user asks for a **realistic or photoreal image** — a photo, product shot, UI mockup, wireframe, logo, infographic, concept render, or an edit of an image they already have.
+
+That request skips the pipeline entirely. Read `references/realistic-images.md` and write the prompt. Nothing else happens:
+
+- **Output is prompt text in the reply**, in a fenced block, ready to paste into whatever image model the user runs later. This skill generates prompts; it does not generate images.
+- No `scripts/<slug>.json`, no `list.md` entry, no `expand_prompts.py`, no `reel.py`, no files written unless the user asks for a file.
+- No `style_lock`, no paper tone, no 9:16 canvas line, no avoid line. Those belong to the handdrawn reel look in `visual-style.md` and have no business in a photoreal prompt.
+- If the user's own wording is already specific, normalise it into the labeled-line spec and **add nothing creative**. The recipes in the reference are complete examples, not a target amount of embellishment.
+
+A realistic-looking *reel* is a different request: the lock is shared by every script in the repo, so changing it is a change to all of them at once. Say that rather than quietly rendering one frame off-style.

@@ -96,7 +96,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: exaggerated water bulge on a spinning globe, with a fixed observer dot passing through both.
       End on: "Gravity even changes depending on where you stand."
 
-- [ ] **Day 12 — You weigh less on a mountain** _(bridge)_
+- [x] **Day 12 — You weigh less on a mountain** _(bridge)_
       Hook: "Fly to the top of Everest and you lose about 0.3% of your weight. Instantly."
       Gravity weakens with distance from Earth's centre. Add that Earth isn't a sphere — it bulges at the equator, so you're lighter in Ecuador than in Norway. Nothing about you changed.
       Angle: this only makes sense once you realise your weight depends on what's _underneath_ you — and most people have no idea what that actually is.

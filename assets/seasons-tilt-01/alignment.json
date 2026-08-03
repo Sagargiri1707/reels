@@ -1,0 +1,673 @@
+{
+  "audio_duration": 45.740313,
+  "segments": [
+    {
+      "text": "Earth",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "is",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "text": "closest",
+      "start": 0.4,
+      "end": 0.96
+    },
+    {
+      "text": "to",
+      "start": 0.96,
+      "end": 0.96
+    },
+    {
+      "text": "the",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "Sun",
+      "start": 1.04,
+      "end": 1.36
+    },
+    {
+      "text": "in",
+      "start": 1.36,
+      "end": 1.52
+    },
+    {
+      "text": "January",
+      "start": 1.52,
+      "end": 2.16
+    },
+    {
+      "text": "right",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "text": "in",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "the",
+      "start": 2.88,
+      "end": 2.96
+    },
+    {
+      "text": "middle",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "text": "of",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "winter",
+      "start": 3.36,
+      "end": 3.76
+    },
+    {
+      "text": "Hold",
+      "start": 4.24,
+      "end": 4.48
+    },
+    {
+      "text": "your",
+      "start": 4.48,
+      "end": 4.56
+    },
+    {
+      "text": "hand",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "text": "near",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "a",
+      "start": 5.04,
+      "end": 5.04
+    },
+    {
+      "text": "hot",
+      "start": 5.04,
+      "end": 5.36
+    },
+    {
+      "text": "stove",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "text": "Closer",
+      "start": 6.16,
+      "end": 6.64
+    },
+    {
+      "text": "always",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "text": "means",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "warmer",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "text": "But",
+      "start": 8.24,
+      "end": 8.4
+    },
+    {
+      "text": "Earth's",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "text": "orbit",
+      "start": 8.72,
+      "end": 9.12
+    },
+    {
+      "text": "is",
+      "start": 9.12,
+      "end": 9.2
+    },
+    {
+      "text": "almost",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "text": "a",
+      "start": 9.6,
+      "end": 9.68
+    },
+    {
+      "text": "perfect",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "text": "circle",
+      "start": 10.08,
+      "end": 10.56
+    },
+    {
+      "text": "so",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "the",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "distance",
+      "start": 11.04,
+      "end": 11.44
+    },
+    {
+      "text": "barely",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "text": "changes",
+      "start": 11.84,
+      "end": 12.48
+    },
+    {
+      "text": "What",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "changes",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "is",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "text": "the",
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "text": "tilt",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "text": "twenty",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "three",
+      "start": 14.72,
+      "end": 14.96
+    },
+    {
+      "text": "degrees",
+      "start": 14.96,
+      "end": 15.52
+    },
+    {
+      "text": "and",
+      "start": 15.68,
+      "end": 15.84
+    },
+    {
+      "text": "it",
+      "start": 15.84,
+      "end": 15.92
+    },
+    {
+      "text": "never",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "straightens",
+      "start": 16.16,
+      "end": 16.72
+    },
+    {
+      "text": "up",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "text": "That",
+      "start": 17.40988662131519,
+      "end": 17.56988662131519
+    },
+    {
+      "text": "lean",
+      "start": 17.56988662131519,
+      "end": 17.889886621315192
+    },
+    {
+      "text": "aims",
+      "start": 17.889886621315192,
+      "end": 18.209886621315192
+    },
+    {
+      "text": "sunlight",
+      "start": 18.209886621315192,
+      "end": 18.689886621315193
+    },
+    {
+      "text": "straight",
+      "start": 18.689886621315193,
+      "end": 19.08988662131519
+    },
+    {
+      "text": "down",
+      "start": 19.08988662131519,
+      "end": 19.40988662131519
+    },
+    {
+      "text": "on",
+      "start": 19.40988662131519,
+      "end": 19.56988662131519
+    },
+    {
+      "text": "one",
+      "start": 19.56988662131519,
+      "end": 19.72988662131519
+    },
+    {
+      "text": "side",
+      "start": 19.72988662131519,
+      "end": 20.209886621315192
+    },
+    {
+      "text": "low",
+      "start": 20.44988662131519,
+      "end": 20.76988662131519
+    },
+    {
+      "text": "and",
+      "start": 20.76988662131519,
+      "end": 20.92988662131519
+    },
+    {
+      "text": "thin",
+      "start": 20.92988662131519,
+      "end": 21.24988662131519
+    },
+    {
+      "text": "on",
+      "start": 21.24988662131519,
+      "end": 21.40988662131519
+    },
+    {
+      "text": "the",
+      "start": 21.40988662131519,
+      "end": 21.56988662131519
+    },
+    {
+      "text": "other",
+      "start": 21.56988662131519,
+      "end": 21.889886621315192
+    },
+    {
+      "text": "Spread",
+      "start": 22.28988662131519,
+      "end": 22.60988662131519
+    },
+    {
+      "text": "the",
+      "start": 22.60988662131519,
+      "end": 22.68988662131519
+    },
+    {
+      "text": "same",
+      "start": 22.68988662131519,
+      "end": 23.00988662131519
+    },
+    {
+      "text": "sunlight",
+      "start": 23.00988662131519,
+      "end": 23.489886621315193
+    },
+    {
+      "text": "over",
+      "start": 23.489886621315193,
+      "end": 23.64988662131519
+    },
+    {
+      "text": "more",
+      "start": 23.64988662131519,
+      "end": 23.96988662131519
+    },
+    {
+      "text": "ground",
+      "start": 23.96988662131519,
+      "end": 24.44988662131519
+    },
+    {
+      "text": "and",
+      "start": 24.68988662131519,
+      "end": 24.76988662131519
+    },
+    {
+      "text": "every",
+      "start": 24.849886621315193,
+      "end": 25.08988662131519
+    },
+    {
+      "text": "patch",
+      "start": 25.08988662131519,
+      "end": 25.489886621315193
+    },
+    {
+      "text": "gets",
+      "start": 25.489886621315193,
+      "end": 25.72988662131519
+    },
+    {
+      "text": "less",
+      "start": 25.72988662131519,
+      "end": 25.96988662131519
+    },
+    {
+      "text": "heat",
+      "start": 25.96988662131519,
+      "end": 26.28988662131519
+    },
+    {
+      "text": "The",
+      "start": 26.44988662131519,
+      "end": 26.529886621315192
+    },
+    {
+      "text": "tilted",
+      "start": 26.529886621315192,
+      "end": 26.92988662131519
+    },
+    {
+      "text": "side",
+      "start": 26.92988662131519,
+      "end": 27.24988662131519
+    },
+    {
+      "text": "also",
+      "start": 27.24988662131519,
+      "end": 27.64988662131519
+    },
+    {
+      "text": "gets",
+      "start": 27.64988662131519,
+      "end": 27.809886621315194
+    },
+    {
+      "text": "fewer",
+      "start": 27.809886621315194,
+      "end": 28.12988662131519
+    },
+    {
+      "text": "hours",
+      "start": 28.12988662131519,
+      "end": 28.44988662131519
+    },
+    {
+      "text": "of",
+      "start": 28.44988662131519,
+      "end": 28.60988662131519
+    },
+    {
+      "text": "daylight",
+      "start": 28.60988662131519,
+      "end": 29.08988662131519
+    },
+    {
+      "text": "so",
+      "start": 29.32988662131519,
+      "end": 29.56988662131519
+    },
+    {
+      "text": "cold",
+      "start": 29.56988662131519,
+      "end": 29.889886621315192
+    },
+    {
+      "text": "stacks",
+      "start": 29.889886621315192,
+      "end": 30.28988662131519
+    },
+    {
+      "text": "on",
+      "start": 30.28988662131519,
+      "end": 30.529886621315192
+    },
+    {
+      "text": "cold",
+      "start": 30.529886621315192,
+      "end": 30.92988662131519
+    },
+    {
+      "text": "Right",
+      "start": 31.56988662131519,
+      "end": 31.809886621315194
+    },
+    {
+      "text": "now",
+      "start": 31.809886621315194,
+      "end": 32.20988662131519
+    },
+    {
+      "text": "the",
+      "start": 32.36988662131519,
+      "end": 32.52988662131519
+    },
+    {
+      "text": "other",
+      "start": 32.52988662131519,
+      "end": 32.68988662131519
+    },
+    {
+      "text": "hemisphere",
+      "start": 32.68988662131519,
+      "end": 33.169886621315186
+    },
+    {
+      "text": "is",
+      "start": 33.169886621315186,
+      "end": 33.32988662131519
+    },
+    {
+      "text": "having",
+      "start": 33.32988662131519,
+      "end": 33.56988662131519
+    },
+    {
+      "text": "summer",
+      "start": 33.56988662131519,
+      "end": 34.049886621315196
+    },
+    {
+      "text": "Same",
+      "start": 34.28988662131519,
+      "end": 34.689886621315196
+    },
+    {
+      "text": "day",
+      "start": 34.689886621315196,
+      "end": 35.00988662131519
+    },
+    {
+      "text": "Same",
+      "start": 35.50360544217687,
+      "end": 35.82360544217687
+    },
+    {
+      "text": "distance",
+      "start": 35.82360544217687,
+      "end": 36.38360544217687
+    },
+    {
+      "text": "Opposite",
+      "start": 36.62360544217687,
+      "end": 37.02360544217687
+    },
+    {
+      "text": "season",
+      "start": 37.02360544217687,
+      "end": 37.50360544217687
+    },
+    {
+      "text": "So",
+      "start": 37.82360544217687,
+      "end": 37.98360544217687
+    },
+    {
+      "text": "the",
+      "start": 37.98360544217687,
+      "end": 38.06360544217687
+    },
+    {
+      "text": "calendar",
+      "start": 38.06360544217687,
+      "end": 38.54360544217687
+    },
+    {
+      "text": "was",
+      "start": 38.54360544217687,
+      "end": 38.70360544217687
+    },
+    {
+      "text": "never",
+      "start": 38.70360544217687,
+      "end": 39.02360544217687
+    },
+    {
+      "text": "about",
+      "start": 39.02360544217687,
+      "end": 39.343605442176866
+    },
+    {
+      "text": "distance",
+      "start": 39.343605442176866,
+      "end": 39.82360544217687
+    },
+    {
+      "text": "It's",
+      "start": 39.98360544217687,
+      "end": 40.14360544217687
+    },
+    {
+      "text": "about",
+      "start": 40.14360544217687,
+      "end": 40.46360544217687
+    },
+    {
+      "text": "which",
+      "start": 40.46360544217687,
+      "end": 40.62360544217687
+    },
+    {
+      "text": "way",
+      "start": 40.62360544217687,
+      "end": 40.86360544217687
+    },
+    {
+      "text": "the",
+      "start": 40.86360544217687,
+      "end": 40.94360544217687
+    },
+    {
+      "text": "planet",
+      "start": 40.94360544217687,
+      "end": 41.343605442176866
+    },
+    {
+      "text": "leans",
+      "start": 41.343605442176866,
+      "end": 41.82360544217687
+    },
+    {
+      "text": "One",
+      "start": 42.06360544217687,
+      "end": 42.30360544217687
+    },
+    {
+      "text": "of",
+      "start": 42.30360544217687,
+      "end": 42.38360544217687
+    },
+    {
+      "text": "these",
+      "start": 42.38360544217687,
+      "end": 42.703605442176865
+    },
+    {
+      "text": "every",
+      "start": 42.703605442176865,
+      "end": 42.94360544217687
+    },
+    {
+      "text": "day",
+      "start": 42.94360544217687,
+      "end": 43.343605442176866
+    },
+    {
+      "text": "Follow",
+      "start": 43.74360544217687,
+      "end": 44.06360544217687
+    },
+    {
+      "text": "so",
+      "start": 44.06360544217687,
+      "end": 44.22360544217687
+    },
+    {
+      "text": "you",
+      "start": 44.22360544217687,
+      "end": 44.38360544217687
+    },
+    {
+      "text": "do",
+      "start": 44.38360544217687,
+      "end": 44.54360544217687
+    },
+    {
+      "text": "not",
+      "start": 44.54360544217687,
+      "end": 44.703605442176865
+    },
+    {
+      "text": "miss",
+      "start": 44.703605442176865,
+      "end": 45.02360544217687
+    },
+    {
+      "text": "tomorrow",
+      "start": 45.02360544217687,
+      "end": 45.58360544217687
+    }
+  ],
+  "text": "Earth is closest to the Sun in January, right in the middle of winter. Hold your hand near a hot stove. Closer always means warmer. But Earth's orbit is almost a perfect circle, so the distance barely changes. What changes is the tilt, twenty three degrees, and it never straightens up. That lean aims sunlight straight down on one side, low and thin on the other. Spread the same sunlight over more ground, and every patch gets less heat. The tilted side also gets fewer hours of daylight, so cold stacks on cold. Right now, the other hemisphere is having summer. Same day. Same distance. Opposite season. So the calendar was never about distance. It's about which way the planet leans. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

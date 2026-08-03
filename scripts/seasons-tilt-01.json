@@ -1,0 +1,104 @@
+{
+  "topic": "Seasons have nothing to do with distance from the Sun",
+  "lesson": "A season is decided by the angle sunlight hits the ground at, not by how far away the Sun is, so the two hemispheres can feel opposite seasons on the very same day.",
+  "slug": "seasons-tilt-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Earth is closest to the Sun in January, right in the middle of winter.",
+      "scene": "a small tilted desk globe shoved hard against a glowing desk lamp, a small black cartoon figure straining to push it closer still, a torn calendar page pinned beside them",
+      "image_text": "JAN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small tilted desk globe shoved hard against a glowing desk lamp, a small black cartoon figure straining to push it closer still, a torn calendar page pinned beside them. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"JAN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Hold your hand near a hot stove. Closer always means warmer.",
+      "anchored": false,
+      "grounded": "contains no planet, globe, tilted axis or other space object",
+      "scene": "a lit stove burner ring glowing orange on its own, a small black cartoon figure leaning a bare hand slowly toward the heat with fingers spread wide",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lit stove burner ring glowing orange on its own, a small black cartoon figure leaning a bare hand slowly toward the heat with fingers spread wide. this is an ordinary everyday scene and contains no planet, globe, tilted axis or other space object; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But Earth's orbit is almost a perfect circle, so the distance barely changes.",
+      "scene": "a drafting compass pinned to the surface tracing a near perfect circle, a small black cartoon figure pushing the compass arm steadily round, one marble riding at the pencil tip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drafting compass pinned to the surface tracing a near perfect circle, a small black cartoon figure pushing the compass arm steadily round, one marble riding at the pencil tip. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "What changes is the tilt, twenty three degrees, and it never straightens up.",
+      "scene": "a small desk globe tilted on its stand, a small black cartoon figure pressing a protractor against the axis rod to measure the lean, one hand steadying the base",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small desk globe tilted on its stand, a small black cartoon figure pressing a protractor against the axis rod to measure the lean, one hand steadying the base. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "That lean aims sunlight straight down on one side, low and thin on the other.",
+      "scene": "the tilted desk globe lit by one torch held overhead, a small black cartoon figure aiming it so light lands as a tight bright circle up top and a long dim smear low down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the tilted desk globe lit by one torch held overhead, a small black cartoon figure aiming it so light lands as a tight bright circle up top and a long dim smear low down. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Spread the same sunlight over more ground, and every patch gets less heat.",
+      "scene": "a wide oval traced in chalk on a dark tray, a small black cartoon figure tipping one small scoop of flour along its length so it lands as a thin pale dusting",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide oval traced in chalk on a dark tray, a small black cartoon figure tipping one small scoop of flour along its length so it lands as a thin pale dusting. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The tilted side also gets fewer hours of daylight, so cold stacks on cold.",
+      "scene": "an old wind up kitchen timer, a small black cartoon figure gripping the dial with both arms and twisting it back to a much smaller number",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old wind up kitchen timer, a small black cartoon figure gripping the dial with both arms and twisting it back to a much smaller number. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "turn",
+      "text": "Right now, the other hemisphere is having summer. Same day. Same distance. Opposite season.",
+      "scene": "the tilted desk globe lit by one steady torch, a small black cartoon figure straddling the equator line with one arm raised into the bright beam above and the other hanging into shadow below",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the tilted desk globe lit by one steady torch, a small black cartoon figure straddling the equator line with one arm raised into the bright beam above and the other hanging into shadow below. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "So the calendar was never about distance. It's about which way the planet leans.",
+      "scene": "the same cream desk lamp from beat one, now perfectly still, a small black cartoon figure gripping a blank torn calendar page and tilting it at a steep angle under the light, one crisp bright stripe crossing the blank page",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same cream desk lamp from beat one, now perfectly still, a small black cartoon figure gripping a blank torn calendar page and tilting it at a steep angle under the light, one crisp bright stripe crossing the blank page. the scene belongs to the seasons and why Earth's tilt causes them, shown as simple tabletop demonstrations with sunlight and one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Earth is closest to the Sun in January, and that's still the middle of winter. Distance barely changes all year. What actually decides the season is the tilt of the axis, aiming sunlight straight down on one hemisphere and spread thin on the other.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #seasons #earthtilt #astronomy #space #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -135,14 +135,14 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: heat-map cross-section with a temperature scale, and a side-by-side thermometer with the Sun's surface.
       End on: "That heat drives the plates. But the thing that drives your year is much simpler — a tilt."
 
-- [ ] **Day 17 — Seasons have nothing to do with distance from the Sun**
+- [x] **Day 17 — Seasons have nothing to do with distance from the Sun**
       Hook: "Earth is closest to the Sun in January. So why is it winter?"
       Kill the misconception first, then explain the 23.5° tilt: sunlight hits at a shallower angle and spreads the same energy over more ground, plus shorter days.
       Angle: the strongest proof is the southern hemisphere having summer at the exact same moment. One planet, one distance, opposite seasons.
       Visual: torch on a globe at two angles, showing the light patch stretching and dimming.
       End on: "That tilt is slowly shifting. So is the length of your day."
 
-- [ ] **Day 18 — Your days are getting longer** _(bridge)_
+- [x] **Day 18 — Your days are getting longer** _(bridge)_
       Hook: "Dinosaurs had 23-hour days. In 200 million years, ours will be 25."
       Tidal friction from the Moon is stealing Earth's rotational energy, slowing the spin by about 1.7 milliseconds per century — and the Moon drifts 3.8 cm further away each year as a result.
       Angle: we know this precisely from coral growth rings and ancient eclipse records, which act as fossil clocks.

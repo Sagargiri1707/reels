@@ -121,7 +121,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: continents animating together and apart, then a modern GPS drift map with arrows.
       End on: "The movement is powered by something molten — and it also protects your life."
 
-- [ ] **Day 15 — Earth has an invisible shield**
+- [x] **Day 15 — Earth has an invisible shield**
       Hook: "Without this, the atmosphere would have been stripped away long ago. Ask Mars."
       The liquid outer core's motion generates a magnetic field that deflects charged solar particles. Auroras are the visible leak at the poles.
       Angle: the poles have flipped hundreds of times, roughly every few hundred thousand years, and we're overdue. Frozen magnetic stripes on the seafloor are the record.

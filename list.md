@@ -114,7 +114,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: cutaway sphere with the Kola Superdeep Borehole marked as a barely-visible scratch on the surface.
       End on: "And that thin skin? It's broken into pieces. And they move."
 
-- [ ] **Day 14 — Every continent was once one**
+- [x] **Day 14 — Every continent was once one**
       Hook: "South America and Africa fit together because they used to be the same thing."
       Pangaea, the breakup, and the mechanism: convection in the mantle pushing plates a few centimetres a year — about the rate your fingernails grow.
       Angle: it's still happening. India is still ramming into Asia, which is why Everest gains a few millimetres every year and the region gets earthquakes.

@@ -47,16 +47,20 @@ GROUNDED = ("this is an ordinary everyday scene and {leave_out}; it is the "
 # Part 6. NO_TEXT matches the marker script.py checks for; TEXT quotes the words
 # so the loader's `image_text in prompt` check finds them verbatim.
 NO_TEXT = "no text, no letters and no numbers anywhere in the image."
-TEXT = ('the only writing anywhere in the image is the exact word "{words}", '
-        'hand-lettered in plain block capitals on the surface it belongs to, '
-        'with no other writing, caption or label of any kind.')
+TEXT = ('the only writing anywhere in the image is the exact English word '
+        '"{words}", hand-lettered in plain block capitals on the surface it '
+        'belongs to, with no other writing, caption or label of any kind.')
 
-# Part 7, identical on every beat of every reel.
+# Part 7, identical on every beat of every reel. The bans track the failure
+# list in the ian-xiaohei-scenes skill: it wants one real object on white with
+# 小黑 acting on it, so what kills a frame is screenshots, UI, poster gradients
+# and prop-pile compositions -- not mascots, which is the character itself.
 AVOID = ("Avoid: full-page border or frame, page number, title, caption, "
-         "label, watermark, gibberish or invented text, gradients, drop "
-         "shadows, neon or saturated colour, crowded composition, flat vector "
-         "icon look, childish doodles, cute mascots, several people, "
-         "corporate template look.")
+         "watermark, gibberish or invented text, non-English lettering, "
+         "screenshots, app or website UI, logos, gradients, vignette, grey or "
+         "warm-white background, heavy drop shadows, neon or saturated colour, "
+         "crowded composition of many props, flat vector icon look, sticker "
+         "cut-out edges, several people, PPT or infographic layout.")
 
 
 def _fail(msg):
@@ -103,7 +107,8 @@ def build_prompt(beat, index, *, anchor, lock, canvas, palette):
         _sentence(scene),
         anchor_part,
         _sentence(lock),
-        f"drawn on {paper['name']} paper, flat background colour {paper['hex']}.",
+        f"set on a seamless {paper['name']} studio surface, "
+        f"flat background colour {paper['hex']}.",
         TEXT.format(words=words) if words else NO_TEXT,
         AVOID,
     ])

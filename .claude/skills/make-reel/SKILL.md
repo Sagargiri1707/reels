@@ -1,6 +1,6 @@
 ---
 name: make-reel
-description: End-to-end reel factory for this repo — one idea to a finished vertical mp4, cover frame and feed caption. Picks the next unchecked idea from list.md, writes scripts/<slug>.json, drafts the beats and narration, expands each scene into a full house-style image prompt, renders with reel.py, picks the cover, and writes the caption with hashtags. Use this whenever the user says "make a reel", "next reel", "build the next video", "new reel from the list", "do the next idea", "make a short", "make a video about X", or hands over a topic and wants a reel of it — including Instagram reels, TikToks and YouTube Shorts. Also use for any single piece of an existing reel: rewriting beats, narration or the hook, fixing or re-rolling image prompts, re-rendering the mp4, choosing a new thumbnail or cover frame, or writing the caption, hashtags and post text. If the request touches list.md, scripts/*.json, reel.py, beats, image prompts, style_lock, voiceover, subtitles, covers or captions, this skill owns it — use it rather than improvising a pipeline. Also owns standalone image-prompt writing outside the reel look: use it whenever the user asks for a realistic, photorealistic or photoreal image prompt, a product shot, UI mockup, wireframe, logo, infographic or an edit prompt for an existing image — that path writes prompt text only and renders nothing.
+description: End-to-end reel factory for this repo — one idea to a finished vertical mp4, cover frame and feed caption. Picks the next unchecked idea from list.md, writes scripts/<slug>.json, drafts the beats and narration, expands each scene into a full house-style image prompt, renders with reel.py, picks the cover, and writes the caption with hashtags. Use this whenever the user says "make a reel", "next reel", "build the next video", "new reel from the list", "do the next idea", "make a short", "make a video about X", or hands over a topic and wants a reel of it — including Instagram reels, TikToks and YouTube Shorts. Also use for any single piece of an existing reel: rewriting beats, narration or the hook, fixing or re-rolling image prompts, re-rendering the mp4, choosing a new thumbnail or cover frame, or writing the caption, hashtags and post text. If the request touches list.md, scripts/*.json, reel.py, beats, image prompts, style_lock, voiceover, subtitles, covers or captions, this skill owns it — use it rather than improvising a pipeline. Image prompts come from the `ian-xiaohei-scenes` skill; this skill only adds the reel-shaped deltas around it.
 ---
 
 # Make Reel
@@ -19,11 +19,10 @@ You author exactly one artefact: the json. Everything downstream is `python3 ree
 | File | When |
 |---|---|
 | `references/script-writing.md` | Before the first beat. Story shape, the lesson, narration rules. |
-| `references/visual-style.md` | Before the first image prompt. The house look and the seven-part prompt contract. |
+| the `ian-xiaohei-scenes` skill | Before the first image prompt. The house look: 小黑 + real objects + one physical action + white space. Invoke it with the Skill tool; read its `references/style-dna.md`, `xiaohei-ip.md`, `object-patterns.md`, `master-selection.md` and `qa-checklist.md` as that skill directs. |
 | `references/pipeline.md` | When a build fails, or you need a CLI flag, config key or cost answer. |
-| `references/realistic-images.md` | When the ask is a realistic / photoreal image, not a reel frame. Prompt-only path — see the last section. |
 
-Read the first two in full, from the files — not from memory of a previous run. They are the accumulated repairs for reels that shipped wrong, and they get edited between runs. A run that skips them reproduces the exact failures they describe.
+Read `script-writing.md` in full, from the file — not from memory of a previous run. They are the accumulated repairs for reels that shipped wrong, and they get edited between runs. A run that skips them reproduces the exact failures they describe.
 
 ## Step 1 — Pick the idea and name the lesson
 
@@ -43,7 +42,18 @@ Do **not** tick the idea off. The build does that itself, keyed off the rendered
 
 Slug: kebab of the Day title + a 2-digit counter — Day 1 "Why we only have 8 planets" → `8-planets-01`. Bump the counter if the file exists.
 
-Copy `style`, `image` and `voice` **from `scripts/8-planets-01.json`**, not from whatever is newest. That file is the reference reel. `glass-rain-01` and `venus-day-01` came out of a retired photoreal-plus-mascot experiment; their config and their lock are not the house look. One change when copying: drop `voice.model` entirely so it falls through to the free tier in `src/reelkit/config.py`. Keep `voice.reference_id` — the voice is a brand asset and never changes.
+Copy `style`, `image` and `voice` **from `scripts/8-planets-01.json`**, not from whatever is newest. That file is the reference reel for everything except the look. One change when copying: drop `voice.model` entirely so it falls through to the free tier in `src/reelkit/config.py`. Keep `voice.reference_id` — the voice is a brand asset and never changes.
+
+Two things do **not** come from that file any more, because the handdrawn look is retired:
+
+```json
+"style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+"image": { "palette": [{ "name": "clean white", "hex": "#FFFFFF" }] }
+```
+
+Paste both verbatim into every new script. The lock is the xiaohei style DNA compressed into one comma-separated English clause; `Script.load` refuses a script whose prompt has a reworded copy. The palette is one tone because the skill's white studio is non-negotiable — the old six-tone rotation was a property of the retired paper look, and `paper_for` wraps a single-entry palette onto every beat without complaint.
+
+Scripts rendered before this switch (`8-planets-01` through `flat-plane-01`) keep their old handdrawn lock and their six-tone palette. Do not retro-fit them; their mp4s are already out. New reels use the block above.
 
 Write the file with these keys:
 
@@ -55,7 +65,7 @@ Write the file with these keys:
 | `music` | `null` unless the user asks |
 | `prompt_format` | `"full"` — every prompt is complete and goes to the image model untouched |
 | `subject_anchor` | One line naming what the reel is about, in objects: `"the solar system and the people who study it: planets, moons, orbits, telescopes, star charts, observatories and the night sky"`. Required. It governs the reel, not every frame |
-| `style_lock` | Copied verbatim from `8-planets-01.json`. Never reworded, never per-reel flourishes — reel 40 has to look like reel 1 |
+| `style_lock` | The xiaohei clause above, verbatim. Never reworded, never per-reel flourishes — reel 40 has to look like reel 20 |
 | `beats` | 6–12 of them, each `{id, text, scene}` |
 | `post` | Written in Step 4 |
 
@@ -69,30 +79,39 @@ Write the file with these keys:
 ```
 
 - `text` — one spoken sentence, the narration. Rules in `references/script-writing.md`.
-- `scene` — part 2 of the prompt contract and the **only** part you write by hand. 15–30 words: vantage → subject mid-action → one imperfection → one quiet second plane. No style words; style is the lock.
-- `image_text` (optional) — literal words to letter into this one frame. Two or three beats per reel at most. See `visual-style.md`.
+- `scene` — part 2 of the prompt contract and the **only** part you write by hand. 15–30 words: white studio, one real main object, 小黑 mid-action on it, one small prop, generous space. No style words; style is the lock. Derive it with `ian-xiaohei-scenes` — Step 3.
+- `image_text` (optional) — literal words to letter into this one frame, **English**, 1–3 words. Two or three beats per reel at most.
 - `anchored: false` + `grounded` (optional) — for a beat deliberately about the everyday case the subject violates. `grounded` names what to leave out, e.g. `"contains no planet, telescope or other space object"`.
 
 `image_prompt` is not written by hand. Step 3 generates it.
 
 ## Step 3 — Expand scenes into full prompts
 
-Read `references/visual-style.md` first — the whole file, not its checklist. Do **not** invoke `ian-handdrawn-ppt`: it targets 16:9 Chinese slide decks, ~80% of it needs overriding here, and overriding it at runtime is exactly where the style drifts. Everything usable from it is already in `visual-style.md`.
+Invoke the `ian-xiaohei-scenes` skill and follow it as written — its master lock (§2B), its variation budget, its object rules and its QA checklist are the house look now. Do the master lock in your head or in the reply; it does not go in the json.
 
-Then run:
+Four deltas, and only four, because this repo ships vertical English reels and that skill ships 16:9 Chinese article art. Everything else in it applies verbatim:
+
+| Skill says | Here |
+|---|---|
+| 16:9 landscape, or 2.6:1 long scroll | **9:16 vertical, 1152×2048.** The long-scroll 彩蛋 mode never applies — there is no such frame in a reel |
+| 2–4 short **Chinese** handwritten labels | **English**, 1–3 words, and only on the 2–3 beats that carry `image_text`. Everything else gets the no-text rule, because narration is English and a Chinese label argues with the voice |
+| shot list of 4–8 standalone images | one frame per beat, 6–12, reading as one sequence — `subject_anchor` keeps the column on topic |
+| generate, QA the candidate, regenerate | `reel.py` renders; QA by looking at `assets/<slug>/` after the build and re-rolling failures with `--only` |
+
+Compose each beat's `scene` to that, then run:
 
 ```bash
 python3 .claude/skills/make-reel/scripts/expand_prompts.py scripts/<slug>.json
 ```
 
-It reads each `scene` and writes the finished `image_prompt`: canvas line, scene, anchor clause, `style_lock` verbatim, this beat's paper tone by position, text rule, avoid line. Doing it in code rather than by hand is deliberate — the paper rotation, the pasted lock and the text rule are mechanical, and every one of them is something `Script.load` rejects the whole script for. Re-run it any time you edit a `scene`; it is idempotent.
+It reads each `scene` and writes the finished `image_prompt`: canvas line, scene, anchor clause, `style_lock` verbatim, the studio-white background line, text rule, avoid line. Doing it in code rather than by hand is deliberate — the pasted lock, the background and the text rule are mechanical, and every one of them is something `Script.load` rejects the whole script for. Re-run it any time you edit a `scene`; it is idempotent.
 
 Then review what it produced, because the script can only check form, not judgement:
 
 - **True to its own line, first.** A viewer with sound on must see the sentence they are hearing. Nothing is added to a frame to keep it "on topic" — that is how a beat about ordinary Earth storms ends up with a model of Jupiter on the windowsill, which reads as a mistake to everyone who sees it.
 - **On topic across the column.** Someone scrubbing with the sound off should be able to name the subject from the pictures. That is a property of the whole reel, satisfied by writing beats about the subject — never by bolting the subject onto a frame where it does not belong.
-- **Separation.** No two neighbouring frames sharing a vantage point and a subject scale.
-- **Depth.** A bare noun renders as clip art. Vantage, a verb, one imperfection, one second plane.
+- **Separation.** No two neighbouring frames repeating an object class or a 小黑 pose. The paper tones used to do this work; on one white background it is the objects or nothing.
+- **One action, one object.** The skill's budget, and it holds here: one core physical action, one main object, 1–2 small props, ≤4 labels. Listing every noun in the beat is the failure it names 元素清单化.
 
 ## Step 4 — Write the `post` block
 
@@ -145,15 +164,8 @@ Different cover without re-rendering: `python3 reel.py thumb scripts/<slug>.json
 
 If any step was skipped or unverified, say which. A reported success you did not actually see is worse than a reported gap.
 
-## Side path — realistic image prompts
+## One look, no side paths
 
-Steps 1–6 above are the reel. They do not apply when the user asks for a **realistic or photoreal image** — a photo, product shot, UI mockup, wireframe, logo, infographic, concept render, or an edit of an image they already have.
+`ian-xiaohei-scenes` is the only image style this repo has. There is no photoreal path and no handdrawn path — both were removed on purpose, and a request for either is a request to change every reel at once. Say that rather than quietly rendering one frame off-style.
 
-That request skips the pipeline entirely. Read `references/realistic-images.md` and write the prompt. Nothing else happens:
-
-- **Output is prompt text in the reply**, in a fenced block, ready to paste into whatever image model the user runs later. This skill generates prompts; it does not generate images.
-- No `scripts/<slug>.json`, no `list.md` entry, no `expand_prompts.py`, no `reel.py`, no files written unless the user asks for a file.
-- No `style_lock`, no paper tone, no 9:16 canvas line, no avoid line. Those belong to the handdrawn reel look in `visual-style.md` and have no business in a photoreal prompt.
-- If the user's own wording is already specific, normalise it into the labeled-line spec and **add nothing creative**. The recipes in the reference are complete examples, not a target amount of embellishment.
-
-A realistic-looking *reel* is a different request: the lock is shared by every script in the repo, so changing it is a change to all of them at once. Say that rather than quietly rendering one frame off-style.
+Everything in a frame is English: narration, subtitles, `image_text`. That is the one place this repo overrides the skill, and it is not per-reel discretion.

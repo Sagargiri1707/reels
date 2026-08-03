@@ -68,7 +68,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: the bedsheet-and-bowling-ball demo, done properly, then a match cut to a real orbit.
       End on: "Which means astronauts aren't floating. They're falling."
 
-- [ ] **Day 8 — Astronauts are falling, not floating**
+- [x] **Day 8 — Astronauts are falling, not floating**
       Hook: "The ISS is in Earth's gravity. About 90% of it, actually."
       Orbit is falling forward fast enough that you keep missing the ground — 28,000 km/h, one lap every 90 minutes. Weightlessness is just continuous free fall.
       Angle: the newton's-cannon thought experiment sells this instantly — fire a cannonball harder and harder until the curve of its fall matches the curve of the Earth.

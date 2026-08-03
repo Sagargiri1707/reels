@@ -1,0 +1,733 @@
+{
+  "audio_duration": 46.445625,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "space",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "station",
+      "start": 0.48,
+      "end": 0.96
+    },
+    {
+      "text": "is",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "sitting",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "text": "in",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "almost",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "full",
+      "start": 2.0,
+      "end": 2.24
+    },
+    {
+      "text": "Earth",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "text": "gravity",
+      "start": 2.56,
+      "end": 3.12
+    },
+    {
+      "text": "Yet",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "text": "everything",
+      "start": 3.68,
+      "end": 4.16
+    },
+    {
+      "text": "inside",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "text": "it",
+      "start": 4.56,
+      "end": 4.64
+    },
+    {
+      "text": "drifts",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "as",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "text": "if",
+      "start": 5.28,
+      "end": 5.36
+    },
+    {
+      "text": "gravity",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "text": "had",
+      "start": 5.84,
+      "end": 6.0
+    },
+    {
+      "text": "been",
+      "start": 6.0,
+      "end": 6.08
+    },
+    {
+      "text": "switched",
+      "start": 6.08,
+      "end": 6.48
+    },
+    {
+      "text": "off",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "text": "Because",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "text": "those",
+      "start": 7.6,
+      "end": 7.76
+    },
+    {
+      "text": "astronauts",
+      "start": 7.76,
+      "end": 8.32
+    },
+    {
+      "text": "are",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "not",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "floating",
+      "start": 8.8,
+      "end": 9.36
+    },
+    {
+      "text": "They",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "text": "are",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "falling",
+      "start": 9.84,
+      "end": 10.4
+    },
+    {
+      "text": "So",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "is",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "the",
+      "start": 11.04,
+      "end": 11.12
+    },
+    {
+      "text": "station",
+      "start": 11.12,
+      "end": 11.76
+    },
+    {
+      "text": "It",
+      "start": 12.08,
+      "end": 12.16
+    },
+    {
+      "text": "has",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "text": "been",
+      "start": 12.32,
+      "end": 12.48
+    },
+    {
+      "text": "falling",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "text": "since",
+      "start": 12.96,
+      "end": 13.2
+    },
+    {
+      "text": "the",
+      "start": 13.2,
+      "end": 13.28
+    },
+    {
+      "text": "day",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "text": "it",
+      "start": 13.6,
+      "end": 13.68
+    },
+    {
+      "text": "launched",
+      "start": 13.68,
+      "end": 14.24
+    },
+    {
+      "text": "Newton",
+      "start": 14.636371882086168,
+      "end": 15.036371882086168
+    },
+    {
+      "text": "worked",
+      "start": 15.036371882086168,
+      "end": 15.276371882086169
+    },
+    {
+      "text": "out",
+      "start": 15.276371882086169,
+      "end": 15.436371882086167
+    },
+    {
+      "text": "why",
+      "start": 15.436371882086167,
+      "end": 15.916371882086167
+    },
+    {
+      "text": "with",
+      "start": 16.076371882086168,
+      "end": 16.236371882086168
+    },
+    {
+      "text": "a",
+      "start": 16.236371882086168,
+      "end": 16.316371882086166
+    },
+    {
+      "text": "cannon",
+      "start": 16.316371882086166,
+      "end": 16.716371882086168
+    },
+    {
+      "text": "on",
+      "start": 16.716371882086168,
+      "end": 16.87637188208617
+    },
+    {
+      "text": "a",
+      "start": 16.87637188208617,
+      "end": 16.956371882086167
+    },
+    {
+      "text": "mountain",
+      "start": 16.956371882086167,
+      "end": 17.436371882086167
+    },
+    {
+      "text": "Fire",
+      "start": 17.756371882086167,
+      "end": 18.076371882086168
+    },
+    {
+      "text": "it",
+      "start": 18.076371882086168,
+      "end": 18.15637188208617
+    },
+    {
+      "text": "harder",
+      "start": 18.15637188208617,
+      "end": 18.556371882086168
+    },
+    {
+      "text": "and",
+      "start": 18.79637188208617,
+      "end": 18.956371882086167
+    },
+    {
+      "text": "the",
+      "start": 18.956371882086167,
+      "end": 18.956371882086167
+    },
+    {
+      "text": "ball",
+      "start": 18.956371882086167,
+      "end": 19.276371882086167
+    },
+    {
+      "text": "simply",
+      "start": 19.276371882086167,
+      "end": 19.67637188208617
+    },
+    {
+      "text": "lands",
+      "start": 19.67637188208617,
+      "end": 19.996371882086166
+    },
+    {
+      "text": "further",
+      "start": 19.996371882086166,
+      "end": 20.316371882086166
+    },
+    {
+      "text": "out",
+      "start": 20.316371882086166,
+      "end": 20.716371882086168
+    },
+    {
+      "text": "But",
+      "start": 21.03637188208617,
+      "end": 21.19637188208617
+    },
+    {
+      "text": "fire",
+      "start": 21.19637188208617,
+      "end": 21.51637188208617
+    },
+    {
+      "text": "it",
+      "start": 21.51637188208617,
+      "end": 21.596371882086167
+    },
+    {
+      "text": "hard",
+      "start": 21.596371882086167,
+      "end": 21.83637188208617
+    },
+    {
+      "text": "enough",
+      "start": 21.83637188208617,
+      "end": 22.076371882086168
+    },
+    {
+      "text": "and",
+      "start": 22.396371882086168,
+      "end": 22.47637188208617
+    },
+    {
+      "text": "the",
+      "start": 22.47637188208617,
+      "end": 22.556371882086168
+    },
+    {
+      "text": "ground",
+      "start": 22.556371882086168,
+      "end": 22.956371882086167
+    },
+    {
+      "text": "curves",
+      "start": 22.956371882086167,
+      "end": 23.276371882086167
+    },
+    {
+      "text": "away",
+      "start": 23.276371882086167,
+      "end": 23.596371882086167
+    },
+    {
+      "text": "as",
+      "start": 23.596371882086167,
+      "end": 23.756371882086167
+    },
+    {
+      "text": "fast",
+      "start": 23.756371882086167,
+      "end": 24.15637188208617
+    },
+    {
+      "text": "as",
+      "start": 24.15637188208617,
+      "end": 24.316371882086166
+    },
+    {
+      "text": "the",
+      "start": 24.316371882086166,
+      "end": 24.396371882086168
+    },
+    {
+      "text": "ball",
+      "start": 24.396371882086168,
+      "end": 24.636371882086166
+    },
+    {
+      "text": "drops",
+      "start": 24.636371882086166,
+      "end": 25.11637188208617
+    },
+    {
+      "text": "So",
+      "start": 25.276371882086167,
+      "end": 25.51637188208617
+    },
+    {
+      "text": "it",
+      "start": 25.51637188208617,
+      "end": 25.596371882086167
+    },
+    {
+      "text": "never",
+      "start": 25.596371882086167,
+      "end": 25.83637188208617
+    },
+    {
+      "text": "lands",
+      "start": 25.83637188208617,
+      "end": 26.316371882086166
+    },
+    {
+      "text": "It",
+      "start": 26.556371882086168,
+      "end": 26.716371882086168
+    },
+    {
+      "text": "just",
+      "start": 26.716371882086168,
+      "end": 26.956371882086167
+    },
+    {
+      "text": "keeps",
+      "start": 26.956371882086167,
+      "end": 27.19637188208617
+    },
+    {
+      "text": "missing",
+      "start": 27.19637188208617,
+      "end": 27.51637188208617
+    },
+    {
+      "text": "the",
+      "start": 27.51637188208617,
+      "end": 27.596371882086167
+    },
+    {
+      "text": "planet",
+      "start": 27.596371882086167,
+      "end": 28.076371882086168
+    },
+    {
+      "text": "That",
+      "start": 28.316371882086166,
+      "end": 28.636371882086166
+    },
+    {
+      "text": "is",
+      "start": 28.716371882086168,
+      "end": 28.87637188208617
+    },
+    {
+      "text": "orbit",
+      "start": 28.87637188208617,
+      "end": 29.35637188208617
+    },
+    {
+      "text": "Twenty",
+      "start": 29.820884353741498,
+      "end": 30.140884353741498
+    },
+    {
+      "text": "eight",
+      "start": 30.140884353741498,
+      "end": 30.3808843537415
+    },
+    {
+      "text": "thousand",
+      "start": 30.3808843537415,
+      "end": 30.7808843537415
+    },
+    {
+      "text": "kilometres",
+      "start": 30.7808843537415,
+      "end": 31.2608843537415
+    },
+    {
+      "text": "an",
+      "start": 31.2608843537415,
+      "end": 31.3408843537415
+    },
+    {
+      "text": "hour",
+      "start": 31.3408843537415,
+      "end": 31.7408843537415
+    },
+    {
+      "text": "one",
+      "start": 31.980884353741498,
+      "end": 32.220884353741496
+    },
+    {
+      "text": "lap",
+      "start": 32.220884353741496,
+      "end": 32.5408843537415
+    },
+    {
+      "text": "every",
+      "start": 32.5408843537415,
+      "end": 32.7808843537415
+    },
+    {
+      "text": "ninety",
+      "start": 32.7808843537415,
+      "end": 33.1008843537415
+    },
+    {
+      "text": "minutes",
+      "start": 33.1008843537415,
+      "end": 33.580884353741496
+    },
+    {
+      "text": "You",
+      "start": 33.8208843537415,
+      "end": 33.9808843537415
+    },
+    {
+      "text": "feel",
+      "start": 33.9808843537415,
+      "end": 34.220884353741496
+    },
+    {
+      "text": "nothing",
+      "start": 34.220884353741496,
+      "end": 34.7808843537415
+    },
+    {
+      "text": "because",
+      "start": 34.940884353741495,
+      "end": 35.1808843537415
+    },
+    {
+      "text": "you",
+      "start": 35.1808843537415,
+      "end": 35.5008843537415
+    },
+    {
+      "text": "and",
+      "start": 35.5008843537415,
+      "end": 35.580884353741496
+    },
+    {
+      "text": "the",
+      "start": 35.580884353741496,
+      "end": 35.6608843537415
+    },
+    {
+      "text": "walls",
+      "start": 35.6608843537415,
+      "end": 36.0608843537415
+    },
+    {
+      "text": "and",
+      "start": 36.0608843537415,
+      "end": 36.220884353741496
+    },
+    {
+      "text": "your",
+      "start": 36.220884353741496,
+      "end": 36.3808843537415
+    },
+    {
+      "text": "coffee",
+      "start": 36.3808843537415,
+      "end": 36.7808843537415
+    },
+    {
+      "text": "all",
+      "start": 36.8608843537415,
+      "end": 37.1008843537415
+    },
+    {
+      "text": "fall",
+      "start": 37.1008843537415,
+      "end": 37.3408843537415
+    },
+    {
+      "text": "together",
+      "start": 37.3408843537415,
+      "end": 37.8208843537415
+    },
+    {
+      "text": "So",
+      "start": 37.9808843537415,
+      "end": 38.1408843537415
+    },
+    {
+      "text": "nothing",
+      "start": 38.1408843537415,
+      "end": 38.5408843537415
+    },
+    {
+      "text": "up",
+      "start": 38.5408843537415,
+      "end": 38.7008843537415
+    },
+    {
+      "text": "there",
+      "start": 38.7008843537415,
+      "end": 38.8608843537415
+    },
+    {
+      "text": "is",
+      "start": 38.8608843537415,
+      "end": 39.1008843537415
+    },
+    {
+      "text": "floating",
+      "start": 39.1008843537415,
+      "end": 39.580884353741496
+    },
+    {
+      "text": "It",
+      "start": 39.9008843537415,
+      "end": 39.9808843537415
+    },
+    {
+      "text": "is",
+      "start": 39.9808843537415,
+      "end": 40.1408843537415
+    },
+    {
+      "text": "a",
+      "start": 40.1408843537415,
+      "end": 40.1408843537415
+    },
+    {
+      "text": "room",
+      "start": 40.1408843537415,
+      "end": 40.4608843537415
+    },
+    {
+      "text": "falling",
+      "start": 40.4608843537415,
+      "end": 40.940884353741495
+    },
+    {
+      "text": "forever",
+      "start": 40.940884353741495,
+      "end": 41.4208843537415
+    },
+    {
+      "text": "with",
+      "start": 41.580884353741496,
+      "end": 41.7408843537415
+    },
+    {
+      "text": "people",
+      "start": 41.7408843537415,
+      "end": 42.1408843537415
+    },
+    {
+      "text": "inside",
+      "start": 42.1408843537415,
+      "end": 42.7008843537415
+    },
+    {
+      "text": "One",
+      "start": 42.940884353741495,
+      "end": 43.1808843537415
+    },
+    {
+      "text": "of",
+      "start": 43.1808843537415,
+      "end": 43.2608843537415
+    },
+    {
+      "text": "these",
+      "start": 43.2608843537415,
+      "end": 43.5008843537415
+    },
+    {
+      "text": "every",
+      "start": 43.5008843537415,
+      "end": 43.8208843537415
+    },
+    {
+      "text": "day",
+      "start": 43.8208843537415,
+      "end": 44.220884353741496
+    },
+    {
+      "text": "Follow",
+      "start": 44.4608843537415,
+      "end": 44.7808843537415
+    },
+    {
+      "text": "so",
+      "start": 44.7808843537415,
+      "end": 44.940884353741495
+    },
+    {
+      "text": "you",
+      "start": 44.940884353741495,
+      "end": 45.1008843537415
+    },
+    {
+      "text": "do",
+      "start": 45.1008843537415,
+      "end": 45.2608843537415
+    },
+    {
+      "text": "not",
+      "start": 45.2608843537415,
+      "end": 45.4208843537415
+    },
+    {
+      "text": "miss",
+      "start": 45.4208843537415,
+      "end": 45.7408843537415
+    },
+    {
+      "text": "tomorrow",
+      "start": 45.7408843537415,
+      "end": 46.220884353741496
+    }
+  ],
+  "text": "The space station is sitting in almost full Earth gravity. Yet everything inside it drifts as if gravity had been switched off. Because those astronauts are not floating. They are falling. So is the station. It has been falling since the day it launched. Newton worked out why with a cannon on a mountain. Fire it harder and the ball simply lands further out. But fire it hard enough and the ground curves away as fast as the ball drops. So it never lands. It just keeps missing the planet. That is orbit. Twenty eight thousand kilometres an hour, one lap every ninety minutes. You feel nothing, because you and the walls and your coffee all fall together. So nothing up there is floating. It is a room falling forever, with people inside. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

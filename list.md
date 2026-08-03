@@ -107,7 +107,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 3 — EARTH (Days 13–18)
 
-- [ ] **Day 13 — What's actually beneath your feet**
+- [x] **Day 13 — What's actually beneath your feet**
       Hook: "The deepest hole humans ever dug went 12 km. The centre of the Earth is 6,371 km down."
       Crust, mantle, outer core, inner core — with the key correction that the mantle isn't liquid lava, it's solid rock that flows over millions of years.
       Angle: the crust is proportionally thinner than the skin of an apple. Everything we've ever built sits on that skin.

@@ -1,0 +1,738 @@
+{
+  "audio_duration": 47.85625,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "deepest",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "hole",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "text": "humans",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "text": "ever",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "text": "dug",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "went",
+      "start": 2.16,
+      "end": 2.4
+    },
+    {
+      "text": "twelve",
+      "start": 2.4,
+      "end": 2.8
+    },
+    {
+      "text": "kilometres",
+      "start": 2.8,
+      "end": 3.36
+    },
+    {
+      "text": "down",
+      "start": 3.36,
+      "end": 3.76
+    },
+    {
+      "text": "and",
+      "start": 3.92,
+      "end": 4.08
+    },
+    {
+      "text": "then",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "text": "stopped",
+      "start": 4.24,
+      "end": 4.8
+    },
+    {
+      "text": "Twelve",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "kilometres",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "text": "sounds",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "text": "enormous",
+      "start": 6.32,
+      "end": 6.96
+    },
+    {
+      "text": "You",
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "text": "could",
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "text": "drive",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "text": "it",
+      "start": 7.76,
+      "end": 7.84
+    },
+    {
+      "text": "in",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "ten",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "text": "minutes",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "text": "Below",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "text": "that",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "text": "drill",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "text": "bit",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "text": "the",
+      "start": 10.24,
+      "end": 10.32
+    },
+    {
+      "text": "crust",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "text": "simply",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "text": "keeps",
+      "start": 11.12,
+      "end": 11.44
+    },
+    {
+      "text": "going",
+      "start": 11.44,
+      "end": 11.92
+    },
+    {
+      "text": "Then",
+      "start": 12.08,
+      "end": 12.32
+    },
+    {
+      "text": "the",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "mantle",
+      "start": 12.4,
+      "end": 12.96
+    },
+    {
+      "text": "Nearly",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "three",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "text": "thousand",
+      "start": 13.76,
+      "end": 14.24
+    },
+    {
+      "text": "kilometres",
+      "start": 14.24,
+      "end": 14.64
+    },
+    {
+      "text": "of",
+      "start": 14.64,
+      "end": 14.8
+    },
+    {
+      "text": "it",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "And",
+      "start": 15.2,
+      "end": 15.28
+    },
+    {
+      "text": "the",
+      "start": 15.28,
+      "end": 15.36
+    },
+    {
+      "text": "mantle",
+      "start": 15.36,
+      "end": 15.76
+    },
+    {
+      "text": "is",
+      "start": 15.76,
+      "end": 15.92
+    },
+    {
+      "text": "not",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "lava",
+      "start": 16.16,
+      "end": 16.64
+    },
+    {
+      "text": "It",
+      "start": 17.004807256235825,
+      "end": 17.084807256235827
+    },
+    {
+      "text": "is",
+      "start": 17.084807256235827,
+      "end": 17.244807256235827
+    },
+    {
+      "text": "solid",
+      "start": 17.244807256235827,
+      "end": 17.644807256235826
+    },
+    {
+      "text": "rock",
+      "start": 17.644807256235826,
+      "end": 18.044807256235828
+    },
+    {
+      "text": "that",
+      "start": 18.044807256235828,
+      "end": 18.124807256235826
+    },
+    {
+      "text": "flows",
+      "start": 18.124807256235826,
+      "end": 18.68480725623583
+    },
+    {
+      "text": "About",
+      "start": 18.924807256235827,
+      "end": 19.244807256235827
+    },
+    {
+      "text": "as",
+      "start": 19.244807256235827,
+      "end": 19.324807256235825
+    },
+    {
+      "text": "fast",
+      "start": 19.324807256235825,
+      "end": 19.724807256235827
+    },
+    {
+      "text": "as",
+      "start": 19.724807256235827,
+      "end": 19.804807256235826
+    },
+    {
+      "text": "your",
+      "start": 19.804807256235826,
+      "end": 19.884807256235828
+    },
+    {
+      "text": "fingernails",
+      "start": 19.884807256235828,
+      "end": 20.524807256235825
+    },
+    {
+      "text": "grow",
+      "start": 20.524807256235825,
+      "end": 20.844807256235825
+    },
+    {
+      "text": "Given",
+      "start": 21.084807256235827,
+      "end": 21.484807256235825
+    },
+    {
+      "text": "millions",
+      "start": 21.484807256235825,
+      "end": 21.884807256235828
+    },
+    {
+      "text": "of",
+      "start": 21.884807256235828,
+      "end": 21.964807256235826
+    },
+    {
+      "text": "years",
+      "start": 21.964807256235826,
+      "end": 22.364807256235828
+    },
+    {
+      "text": "that",
+      "start": 22.524807256235825,
+      "end": 22.764807256235827
+    },
+    {
+      "text": "is",
+      "start": 22.764807256235827,
+      "end": 22.844807256235825
+    },
+    {
+      "text": "enough",
+      "start": 22.844807256235825,
+      "end": 23.164807256235825
+    },
+    {
+      "text": "Deeper",
+      "start": 23.484807256235825,
+      "end": 23.884807256235828
+    },
+    {
+      "text": "still",
+      "start": 23.884807256235828,
+      "end": 24.364807256235828
+    },
+    {
+      "text": "the",
+      "start": 24.524807256235825,
+      "end": 24.68480725623583
+    },
+    {
+      "text": "metal",
+      "start": 24.68480725623583,
+      "end": 24.924807256235827
+    },
+    {
+      "text": "turns",
+      "start": 24.924807256235827,
+      "end": 25.244807256235827
+    },
+    {
+      "text": "liquid",
+      "start": 25.244807256235827,
+      "end": 25.724807256235827
+    },
+    {
+      "text": "and",
+      "start": 25.804807256235826,
+      "end": 25.884807256235824
+    },
+    {
+      "text": "starts",
+      "start": 25.884807256235824,
+      "end": 26.284807256235826
+    },
+    {
+      "text": "moving",
+      "start": 26.284807256235826,
+      "end": 26.764807256235827
+    },
+    {
+      "text": "And",
+      "start": 26.924807256235827,
+      "end": 27.084807256235827
+    },
+    {
+      "text": "at",
+      "start": 27.084807256235827,
+      "end": 27.164807256235825
+    },
+    {
+      "text": "the",
+      "start": 27.164807256235825,
+      "end": 27.244807256235827
+    },
+    {
+      "text": "very",
+      "start": 27.244807256235827,
+      "end": 27.564807256235827
+    },
+    {
+      "text": "centre",
+      "start": 27.564807256235827,
+      "end": 28.124807256235826
+    },
+    {
+      "text": "iron",
+      "start": 28.364807256235828,
+      "end": 28.68480725623583
+    },
+    {
+      "text": "so",
+      "start": 28.68480725623583,
+      "end": 28.924807256235827
+    },
+    {
+      "text": "squeezed",
+      "start": 28.924807256235827,
+      "end": 29.564807256235827
+    },
+    {
+      "text": "it",
+      "start": 29.564807256235827,
+      "end": 29.724807256235827
+    },
+    {
+      "text": "stays",
+      "start": 29.724807256235827,
+      "end": 30.044807256235828
+    },
+    {
+      "text": "solid",
+      "start": 30.044807256235828,
+      "end": 30.444807256235826
+    },
+    {
+      "text": "at",
+      "start": 30.524807256235825,
+      "end": 30.604807256235826
+    },
+    {
+      "text": "five",
+      "start": 30.604807256235826,
+      "end": 30.924807256235827
+    },
+    {
+      "text": "thousand",
+      "start": 30.924807256235827,
+      "end": 31.32480725623583
+    },
+    {
+      "text": "degrees",
+      "start": 31.32480725623583,
+      "end": 31.804807256235826
+    },
+    {
+      "text": "Shrink",
+      "start": 32.316485260770975,
+      "end": 32.636485260770975
+    },
+    {
+      "text": "all",
+      "start": 32.636485260770975,
+      "end": 32.87648526077098
+    },
+    {
+      "text": "of",
+      "start": 32.87648526077098,
+      "end": 32.956485260770975
+    },
+    {
+      "text": "it",
+      "start": 32.956485260770975,
+      "end": 33.11648526077097
+    },
+    {
+      "text": "to",
+      "start": 33.19648526077098,
+      "end": 33.276485260770976
+    },
+    {
+      "text": "the",
+      "start": 33.276485260770976,
+      "end": 33.356485260770974
+    },
+    {
+      "text": "size",
+      "start": 33.356485260770974,
+      "end": 33.676485260770974
+    },
+    {
+      "text": "of",
+      "start": 33.676485260770974,
+      "end": 33.75648526077097
+    },
+    {
+      "text": "an",
+      "start": 33.75648526077097,
+      "end": 33.83648526077098
+    },
+    {
+      "text": "apple",
+      "start": 33.83648526077098,
+      "end": 34.236485260770976
+    },
+    {
+      "text": "and",
+      "start": 34.47648526077097,
+      "end": 34.55648526077098
+    },
+    {
+      "text": "the",
+      "start": 34.55648526077098,
+      "end": 34.636485260770975
+    },
+    {
+      "text": "crust",
+      "start": 34.636485260770975,
+      "end": 35.036485260770974
+    },
+    {
+      "text": "is",
+      "start": 35.11648526077097,
+      "end": 35.19648526077098
+    },
+    {
+      "text": "thinner",
+      "start": 35.276485260770976,
+      "end": 35.51648526077098
+    },
+    {
+      "text": "than",
+      "start": 35.51648526077098,
+      "end": 35.676485260770974
+    },
+    {
+      "text": "the",
+      "start": 35.676485260770974,
+      "end": 35.75648526077097
+    },
+    {
+      "text": "peel",
+      "start": 35.75648526077097,
+      "end": 36.236485260770976
+    },
+    {
+      "text": "Every",
+      "start": 36.55648526077098,
+      "end": 36.79648526077097
+    },
+    {
+      "text": "city",
+      "start": 36.79648526077097,
+      "end": 37.276485260770976
+    },
+    {
+      "text": "every",
+      "start": 37.43648526077097,
+      "end": 37.75648526077097
+    },
+    {
+      "text": "road",
+      "start": 37.75648526077097,
+      "end": 38.236485260770976
+    },
+    {
+      "text": "every",
+      "start": 38.47648526077097,
+      "end": 38.71648526077097
+    },
+    {
+      "text": "person",
+      "start": 38.71648526077097,
+      "end": 39.11648526077097
+    },
+    {
+      "text": "who",
+      "start": 39.11648526077097,
+      "end": 39.276485260770976
+    },
+    {
+      "text": "ever",
+      "start": 39.276485260770976,
+      "end": 39.51648526077098
+    },
+    {
+      "text": "lived",
+      "start": 39.51648526077098,
+      "end": 39.996485260770974
+    },
+    {
+      "text": "on",
+      "start": 40.15648526077098,
+      "end": 40.47648526077097
+    },
+    {
+      "text": "that",
+      "start": 40.47648526077097,
+      "end": 40.636485260770975
+    },
+    {
+      "text": "peel",
+      "start": 40.636485260770975,
+      "end": 41.036485260770974
+    },
+    {
+      "text": "And",
+      "start": 41.276485260770976,
+      "end": 41.43648526077097
+    },
+    {
+      "text": "that",
+      "start": 41.43648526077097,
+      "end": 41.596485260770976
+    },
+    {
+      "text": "peel",
+      "start": 41.596485260770976,
+      "end": 41.916485260770976
+    },
+    {
+      "text": "is",
+      "start": 41.916485260770976,
+      "end": 41.996485260770974
+    },
+    {
+      "text": "cracked",
+      "start": 41.996485260770974,
+      "end": 42.39648526077097
+    },
+    {
+      "text": "into",
+      "start": 42.39648526077097,
+      "end": 42.55648526077098
+    },
+    {
+      "text": "pieces",
+      "start": 42.55648526077098,
+      "end": 43.036485260770974
+    },
+    {
+      "text": "that",
+      "start": 43.036485260770974,
+      "end": 43.11648526077097
+    },
+    {
+      "text": "are",
+      "start": 43.11648526077097,
+      "end": 43.19648526077097
+    },
+    {
+      "text": "moving",
+      "start": 43.19648526077097,
+      "end": 43.51648526077098
+    },
+    {
+      "text": "right",
+      "start": 43.51648526077098,
+      "end": 43.75648526077097
+    },
+    {
+      "text": "now",
+      "start": 43.75648526077097,
+      "end": 44.15648526077098
+    },
+    {
+      "text": "One",
+      "start": 44.39648526077097,
+      "end": 44.636485260770975
+    },
+    {
+      "text": "of",
+      "start": 44.636485260770975,
+      "end": 44.71648526077097
+    },
+    {
+      "text": "these",
+      "start": 44.71648526077097,
+      "end": 44.956485260770975
+    },
+    {
+      "text": "every",
+      "start": 44.956485260770975,
+      "end": 45.276485260770976
+    },
+    {
+      "text": "day",
+      "start": 45.276485260770976,
+      "end": 45.676485260770974
+    },
+    {
+      "text": "Follow",
+      "start": 45.916485260770976,
+      "end": 46.236485260770976
+    },
+    {
+      "text": "so",
+      "start": 46.236485260770976,
+      "end": 46.39648526077097
+    },
+    {
+      "text": "you",
+      "start": 46.39648526077097,
+      "end": 46.55648526077098
+    },
+    {
+      "text": "do",
+      "start": 46.55648526077098,
+      "end": 46.636485260770975
+    },
+    {
+      "text": "not",
+      "start": 46.636485260770975,
+      "end": 46.87648526077098
+    },
+    {
+      "text": "miss",
+      "start": 46.87648526077098,
+      "end": 47.11648526077097
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.11648526077097,
+      "end": 47.676485260770974
+    }
+  ],
+  "text": "The deepest hole humans ever dug went twelve kilometres down, and then stopped. Twelve kilometres sounds enormous. You could drive it in ten minutes. Below that drill bit, the crust simply keeps going. Then the mantle. Nearly three thousand kilometres of it. And the mantle is not lava. It is solid rock that flows. About as fast as your fingernails grow. Given millions of years, that is enough. Deeper still, the metal turns liquid and starts moving. And at the very centre, iron so squeezed it stays solid at five thousand degrees. Shrink all of it to the size of an apple, and the crust is thinner than the peel. Every city, every road, every person who ever lived, on that peel. And that peel is cracked into pieces that are moving right now. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

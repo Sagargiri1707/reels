@@ -128,7 +128,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: field lines wrapping the planet, particles curving away, then a Mars comparison with no shield.
       End on: "That shield exists because the core is still molten. After 4.5 billion years."
 
-- [ ] **Day 16 — Why the core is still hot**
+- [x] **Day 16 — Why the core is still hot**
       Hook: "Earth should have cooled down billions of years ago. It hasn't."
       Two sources: leftover heat from the planet's violent formation and constant collisions, plus ongoing radioactive decay of uranium, thorium and potassium in the mantle.
       Angle: the core is around 5,400°C — roughly the surface temperature of the Sun — sitting right under your feet, insulated by rock.

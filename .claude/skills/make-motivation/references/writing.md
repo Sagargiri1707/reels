@@ -51,6 +51,11 @@ the answer is "that they should try harder", start over.
 Do not number the slides and do not write "swipe →". The format already tells
 people it swipes, and both are the visual signature of a template account.
 
+**Slide length target.** Aim for 2–3 lines at the fitted size, 4 as a hard
+ceiling — even on a body slide the schema allows six for. A slide that reads
+like a caption is a slide nobody absorbs mid-swipe. If a sentence needs a
+fifth line, cut it; don't rely on the renderer shrinking the font to save it.
+
 ## Reel shape
 
 One line. Eleven seconds. A reel is a carousel that only earned one slide — which

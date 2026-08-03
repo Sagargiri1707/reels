@@ -1,17 +1,15 @@
 {
   "day": 1,
   "type": "carousel",
-  "slug": "not-behind",
-  "topic": "Day 1 — carousel — You are not behind, you are just early",
-  "color": "slate-navy",
-  "align": "center",
+  "slug": "not-a-straight-line",
+  "topic": "Day 1 — carousel — Life isn't a straight line, stop grading yourself like it is",
+  "color": "lavender",
   "slides": [
-    { "text": "You are not [behind].", "tier": "hero" },
-    { "text": "You are measuring yourself against a schedule nobody wrote down." },
-    { "text": "You saw four people your age do a thing.\nThat became the average in your head." },
-    { "text": "The real spread is [decades] wide. You just never see the other end of it." },
-    { "text": "Nobody posts the year they spent figuring it out." },
-    { "text": "You are not late. You are [early], and it is uncomfortable.", "tier": "hero" }
+    { "text": "Life isn't a [straight] line.", "tier": "hero" },
+    { "text": "You're grading a zigzag against a straight line nobody's walking." },
+    { "text": "The version you're comparing to is edited. Yours is happening live." },
+    { "text": "Feeling behind is a measurement error, not a life error." },
+    { "text": "You're not [behind], just off someone's clock.", "tier": "hero" }
   ],
-  "caption": "The timeline you feel late against was never a timeline. It was four examples and a feeling.\n\nFollow for one of these a day.\n\n#reels #trending #viral #explorepage #instagood #motivation #selfimprovement #mindset #growth #discipline"
+  "caption": "Progress zigzags for everyone — we just compare our real path to everyone else's edited highlight reel. That comparison was rigged before it started.\n\nFollow for one of these a day.\n\n#reels #trending #viral #explorepage #instagood #motivation #selfimprovement #discipline #mindset #habits"
 }

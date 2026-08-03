@@ -82,7 +82,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: countdown timer on screen, single continuous shot of a street getting quietly, horribly wrong.
       End on: "Now imagine the opposite — gravity turned all the way up."
 
-- [ ] **Day 10 — Where gravity wins completely**
+- [x] **Day 10 — Where gravity wins completely**
       Hook: "Squeeze Earth to the size of a marble and it becomes a black hole."
       Escape velocity exceeding light speed, the event horizon as a point of no return, and spaghettification from tidal forces stretching you head to foot.
       Angle: black holes aren't cosmic vacuum cleaners. Replace the Sun with an equal-mass black hole and Earth's orbit wouldn't change at all — we'd just freeze.

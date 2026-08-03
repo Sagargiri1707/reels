@@ -89,7 +89,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: the 2019 M87 image and the Interstellar-style lensing, plus a marble-sized Earth for scale.
       End on: "Gravity does gentler things too. Like moving an entire ocean twice a day."
 
-- [ ] **Day 11 — The Moon is dragging the ocean around**
+- [x] **Day 11 — The Moon is dragging the ocean around**
       Hook: "There are two high tides a day. The Moon is only on one side. Why?"
       The near side gets pulled toward the Moon; the far side gets left behind because the Earth itself is pulled away from it. Two bulges, and the planet rotates through both.
       Angle: the Sun helps too — when they line up you get spring tides, when they fight you get neap tides.

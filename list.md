@@ -75,7 +75,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: cannon on a mountain, three arcs, the third one wrapping all the way round.
       End on: "So what if gravity just… stopped?"
 
-- [ ] **Day 9 — If gravity switched off for 5 seconds**
+- [x] **Day 9 — If gravity switched off for 5 seconds**
       Hook: "Five seconds. That's all it would take to ruin everything."
       Walk the timeline: everything not bolted down drifts, oceans and atmosphere start leaving, buildings lose their compression and begin coming apart, then gravity returns and everything falls at once.
       Angle: the damage isn't the floating — it's the landing. And the atmosphere that drifted away doesn't neatly come back.

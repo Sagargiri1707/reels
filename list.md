@@ -61,7 +61,7 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 2 — GRAVITY (Days 7–12)
 
-- [ ] **Day 7 — Gravity isn't a force pulling you down**
+- [x] **Day 7 — Gravity isn't a force pulling you down**
       Hook: "Nothing is pulling you toward the ground. You're falling into a dent."
       Mass bends spacetime; objects follow the straightest available path through curved space. Earth isn't tugging the Moon on a rope — it's carved a valley the Moon rolls around in.
       Angle: this is why gravity affects light, which has no mass. A "force" couldn't do that. A bent road can.

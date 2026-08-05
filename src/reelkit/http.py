@@ -44,6 +44,21 @@ def get_json(url, headers, timeout=60):
         return json.loads(r.read().decode("utf-8"))
 
 
+def post_bytes(url, data, headers, timeout=1800):
+    """
+    POST a raw body with no encoding around it. Meta's resumable upload wants
+    the file itself as the body, not a multipart form, so json/urlencode
+    helpers are no use here.
+    """
+    req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+    with _open(req, timeout) as r:
+        body = r.read().decode("utf-8", "replace")
+    try:
+        return json.loads(body)
+    except json.JSONDecodeError:
+        return {"raw": body}
+
+
 def download(url, dest, timeout=180):
     req = urllib.request.Request(url, method="GET")
     with _open(req, timeout) as r:

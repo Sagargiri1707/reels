@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Wakes every 5 minutes and publishes anything the queue says is due.
+
+  Meta has no scheduling API for Instagram, so this launchd job IS the
+  scheduler. It only fires while this Mac is awake and logged in -- if a slot
+  matters more than that, run `reel.py queue --run` from a machine that stays
+  up (a small VPS, or a GitHub Actions cron with the same .env as secrets).
+
+  Install:
+    cp config/com.sagar.reels.publisher.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.sagar.reels.publisher.plist
+
+  Uninstall:
+    launchctl unload ~/Library/LaunchAgents/com.sagar.reels.publisher.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.sagar.reels.publisher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/sagar/.pyenv/versions/3.11.13/bin/python3</string>
+        <string>/Users/sagar/Documents/reels/reel.py</string>
+        <string>queue</string>
+        <string>--run</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/sagar/Documents/reels</string>
+
+    <key>StartInterval</key>
+    <integer>300</integer>
+
+    <!-- A missed window (lid shut over a slot) should still go out late
+         rather than be skipped, so catch up on the next wake. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/sagar/Documents/reels/build/publisher.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/sagar/Documents/reels/build/publisher.log</string>
+</dict>
+</plist>

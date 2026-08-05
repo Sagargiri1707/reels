@@ -11,8 +11,8 @@ reelkit command line.
 
 import argparse
 
-from . import (images, plan, post as post_mod, script as script_mod, stitch,
-               thumbs, timeline, voice)
+from . import (images, plan, post as post_mod, schedule, script as script_mod,
+               stitch, thumbs, timeline, voice)
 from .ffmpeg import require_tools
 
 
@@ -98,6 +98,29 @@ def cmd_build(args):
               f"-- nothing to tick off")
 
 
+def cmd_publish(args):
+    """Publish a finished out/ directory to Instagram right now."""
+    from . import publish
+    media_id = publish.publish_dir(args.dir, dry_run=args.dry_run,
+                                   share_to_feed=args.share_to_feed)
+    if media_id:
+        print(f"published {media_id}")
+
+
+def cmd_schedule(args):
+    schedule.show(schedule.add(args.dir, args.at,
+                               share_to_feed=args.share_to_feed))
+
+
+def cmd_queue(args):
+    if not args.run:
+        schedule.show(schedule.load())
+        return
+    published, failed = schedule.run(dry_run=args.dry_run)
+    if published or failed:
+        print(f"{published} published, {failed} failed")
+
+
 def cmd_timeline(args):
     """Print the cut points without rendering. Cheap sanity check."""
     s = _load(args)
@@ -153,6 +176,27 @@ def main(argv=None):
     add("post", cmd_post, "write the caption + hashtags to paste")
     add("build", cmd_build, "images + voice + stitch + cover + caption",
         force=True, render=True, timing=True, cover=True)
+
+    # Posting works on a finished out/ directory, not on a script, so these
+    # three sit outside the add() helper and its `script` positional.
+    pub = sub.add_parser("publish", help="post a finished out/ dir to Instagram now")
+    pub.add_argument("dir", type=_path, help="e.g. out/motivation/day-01/carousel")
+    pub.add_argument("--dry-run", action="store_true",
+                     help="show what would be posted, call nothing")
+    pub.add_argument("--no-feed", dest="share_to_feed", action="store_false",
+                     help="reels only: keep it out of the main feed grid")
+    pub.set_defaults(fn=cmd_publish)
+
+    sch = sub.add_parser("schedule", help="queue a finished out/ dir for later")
+    sch.add_argument("dir", type=_path)
+    sch.add_argument("--at", required=True, help='local time, "2026-08-05 18:30"')
+    sch.add_argument("--no-feed", dest="share_to_feed", action="store_false")
+    sch.set_defaults(fn=cmd_schedule)
+
+    q = sub.add_parser("queue", help="list the queue, or publish what is due")
+    q.add_argument("--run", action="store_true", help="publish everything now due")
+    q.add_argument("--dry-run", action="store_true")
+    q.set_defaults(fn=cmd_queue)
 
     args = ap.parse_args(argv)
     args.fn(args)

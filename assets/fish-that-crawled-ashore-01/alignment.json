@@ -1,0 +1,643 @@
+{
+  "audio_duration": 39.75825,
+  "segments": [
+    {
+      "text": "About",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "three",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "hundred",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "and",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "text": "seventy",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "text": "five",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "text": "million",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "text": "years",
+      "start": 2.0,
+      "end": 2.24
+    },
+    {
+      "text": "ago",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "something",
+      "start": 2.72,
+      "end": 3.2
+    },
+    {
+      "text": "with",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "fins",
+      "start": 3.44,
+      "end": 3.76
+    },
+    {
+      "text": "left",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "text": "the",
+      "start": 4.0,
+      "end": 4.08
+    },
+    {
+      "text": "water",
+      "start": 4.08,
+      "end": 4.56
+    },
+    {
+      "text": "Fins",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "are",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "text": "for",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "text": "swimming",
+      "start": 5.44,
+      "end": 6.0
+    },
+    {
+      "text": "They",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "are",
+      "start": 6.4,
+      "end": 6.48
+    },
+    {
+      "text": "not",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "text": "built",
+      "start": 6.8,
+      "end": 7.12
+    },
+    {
+      "text": "to",
+      "start": 7.12,
+      "end": 7.12
+    },
+    {
+      "text": "hold",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "anything",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "text": "up",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "But",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "this",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "text": "one",
+      "start": 8.72,
+      "end": 8.96
+    },
+    {
+      "text": "had",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "text": "bones",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "text": "inside",
+      "start": 9.6,
+      "end": 10.0
+    },
+    {
+      "text": "its",
+      "start": 10.0,
+      "end": 10.16
+    },
+    {
+      "text": "fin",
+      "start": 10.16,
+      "end": 10.48
+    },
+    {
+      "text": "that",
+      "start": 10.72,
+      "end": 10.8
+    },
+    {
+      "text": "look",
+      "start": 10.8,
+      "end": 11.04
+    },
+    {
+      "text": "a",
+      "start": 11.04,
+      "end": 11.04
+    },
+    {
+      "text": "lot",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "text": "like",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "text": "a",
+      "start": 11.6,
+      "end": 11.6
+    },
+    {
+      "text": "wrist",
+      "start": 11.6,
+      "end": 12.16
+    },
+    {
+      "text": "It",
+      "start": 12.4,
+      "end": 12.48
+    },
+    {
+      "text": "also",
+      "start": 12.48,
+      "end": 12.88
+    },
+    {
+      "text": "had",
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "text": "a",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "neck",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "Fish",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "text": "do",
+      "start": 14.0,
+      "end": 14.16
+    },
+    {
+      "text": "not",
+      "start": 14.16,
+      "end": 14.48
+    },
+    {
+      "text": "have",
+      "start": 14.48,
+      "end": 14.64
+    },
+    {
+      "text": "necks",
+      "start": 14.64,
+      "end": 15.12
+    },
+    {
+      "text": "And",
+      "start": 15.28,
+      "end": 15.36
+    },
+    {
+      "text": "lungs",
+      "start": 15.36,
+      "end": 15.92
+    },
+    {
+      "text": "alongside",
+      "start": 16.08,
+      "end": 16.72
+    },
+    {
+      "text": "its",
+      "start": 16.72,
+      "end": 16.88
+    },
+    {
+      "text": "gills",
+      "start": 16.88,
+      "end": 17.36
+    },
+    {
+      "text": "It",
+      "start": 17.78140589569161,
+      "end": 17.861405895691608
+    },
+    {
+      "text": "could",
+      "start": 17.861405895691608,
+      "end": 18.10140589569161
+    },
+    {
+      "text": "gulp",
+      "start": 18.10140589569161,
+      "end": 18.341405895691608
+    },
+    {
+      "text": "air",
+      "start": 18.341405895691608,
+      "end": 18.58140589569161
+    },
+    {
+      "text": "at",
+      "start": 18.58140589569161,
+      "end": 18.66140589569161
+    },
+    {
+      "text": "the",
+      "start": 18.66140589569161,
+      "end": 18.74140589569161
+    },
+    {
+      "text": "surface",
+      "start": 18.74140589569161,
+      "end": 19.30140589569161
+    },
+    {
+      "text": "The",
+      "start": 19.54140589569161,
+      "end": 19.62140589569161
+    },
+    {
+      "text": "strangest",
+      "start": 19.62140589569161,
+      "end": 20.181405895691608
+    },
+    {
+      "text": "part",
+      "start": 20.181405895691608,
+      "end": 20.42140589569161
+    },
+    {
+      "text": "is",
+      "start": 20.42140589569161,
+      "end": 20.501405895691608
+    },
+    {
+      "text": "how",
+      "start": 20.501405895691608,
+      "end": 20.74140589569161
+    },
+    {
+      "text": "we",
+      "start": 20.74140589569161,
+      "end": 20.82140589569161
+    },
+    {
+      "text": "found",
+      "start": 20.82140589569161,
+      "end": 21.14140589569161
+    },
+    {
+      "text": "it",
+      "start": 21.14140589569161,
+      "end": 21.30140589569161
+    },
+    {
+      "text": "Someone",
+      "start": 21.62140589569161,
+      "end": 21.94140589569161
+    },
+    {
+      "text": "predicted",
+      "start": 21.94140589569161,
+      "end": 22.341405895691608
+    },
+    {
+      "text": "exactly",
+      "start": 22.341405895691608,
+      "end": 22.90140589569161
+    },
+    {
+      "text": "where",
+      "start": 22.90140589569161,
+      "end": 23.061405895691607
+    },
+    {
+      "text": "to",
+      "start": 23.061405895691607,
+      "end": 23.14140589569161
+    },
+    {
+      "text": "dig",
+      "start": 23.14140589569161,
+      "end": 23.54140589569161
+    },
+    {
+      "text": "Right",
+      "start": 23.86140589569161,
+      "end": 24.021405895691608
+    },
+    {
+      "text": "age",
+      "start": 24.021405895691608,
+      "end": 24.341405895691608
+    },
+    {
+      "text": "of",
+      "start": 24.341405895691608,
+      "end": 24.501405895691608
+    },
+    {
+      "text": "rock",
+      "start": 24.501405895691608,
+      "end": 24.90140589569161
+    },
+    {
+      "text": "right",
+      "start": 25.061405895691607,
+      "end": 25.30140589569161
+    },
+    {
+      "text": "ancient",
+      "start": 25.30140589569161,
+      "end": 25.701405895691607
+    },
+    {
+      "text": "shoreline",
+      "start": 25.701405895691607,
+      "end": 26.341405895691608
+    },
+    {
+      "text": "They",
+      "start": 26.58140589569161,
+      "end": 26.741405895691607
+    },
+    {
+      "text": "went",
+      "start": 26.741405895691607,
+      "end": 26.98140589569161
+    },
+    {
+      "text": "there",
+      "start": 26.98140589569161,
+      "end": 27.30140589569161
+    },
+    {
+      "text": "and",
+      "start": 27.46140589569161,
+      "end": 27.62140589569161
+    },
+    {
+      "text": "it",
+      "start": 27.62140589569161,
+      "end": 27.701405895691607
+    },
+    {
+      "text": "was",
+      "start": 27.701405895691607,
+      "end": 27.86140589569161
+    },
+    {
+      "text": "there",
+      "start": 27.86140589569161,
+      "end": 28.26140589569161
+    },
+    {
+      "text": "Every",
+      "start": 28.501405895691608,
+      "end": 28.82140589569161
+    },
+    {
+      "text": "land",
+      "start": 28.82140589569161,
+      "end": 29.061405895691607
+    },
+    {
+      "text": "animal",
+      "start": 29.061405895691607,
+      "end": 29.46140589569161
+    },
+    {
+      "text": "since",
+      "start": 29.46140589569161,
+      "end": 29.78140589569161
+    },
+    {
+      "text": "is",
+      "start": 29.78140589569161,
+      "end": 30.021405895691608
+    },
+    {
+      "text": "that",
+      "start": 30.021405895691608,
+      "end": 30.18140589569161
+    },
+    {
+      "text": "same",
+      "start": 30.18140589569161,
+      "end": 30.58140589569161
+    },
+    {
+      "text": "fin",
+      "start": 30.58140589569161,
+      "end": 30.98140589569161
+    },
+    {
+      "text": "rearranged",
+      "start": 31.14140589569161,
+      "end": 31.86140589569161
+    },
+    {
+      "text": "Roll",
+      "start": 32.02140589569161,
+      "end": 32.34140589569161
+    },
+    {
+      "text": "your",
+      "start": 32.34140589569161,
+      "end": 32.501405895691605
+    },
+    {
+      "text": "sleeve",
+      "start": 32.501405895691605,
+      "end": 32.82140589569161
+    },
+    {
+      "text": "up",
+      "start": 32.82140589569161,
+      "end": 33.06140589569161
+    },
+    {
+      "text": "Those",
+      "start": 33.53591836734694,
+      "end": 33.77591836734694
+    },
+    {
+      "text": "are",
+      "start": 33.77591836734694,
+      "end": 33.85591836734694
+    },
+    {
+      "text": "the",
+      "start": 33.85591836734694,
+      "end": 33.935918367346936
+    },
+    {
+      "text": "same",
+      "start": 33.935918367346936,
+      "end": 34.33591836734694
+    },
+    {
+      "text": "bones",
+      "start": 34.33591836734694,
+      "end": 34.81591836734694
+    },
+    {
+      "text": "still",
+      "start": 34.89591836734694,
+      "end": 35.21591836734694
+    },
+    {
+      "text": "in",
+      "start": 35.21591836734694,
+      "end": 35.37591836734694
+    },
+    {
+      "text": "the",
+      "start": 35.37591836734694,
+      "end": 35.37591836734694
+    },
+    {
+      "text": "same",
+      "start": 35.37591836734694,
+      "end": 35.69591836734694
+    },
+    {
+      "text": "order",
+      "start": 35.69591836734694,
+      "end": 36.17591836734694
+    },
+    {
+      "text": "One",
+      "start": 36.33591836734694,
+      "end": 36.57591836734694
+    },
+    {
+      "text": "of",
+      "start": 36.57591836734694,
+      "end": 36.65591836734694
+    },
+    {
+      "text": "these",
+      "start": 36.65591836734694,
+      "end": 36.89591836734694
+    },
+    {
+      "text": "every",
+      "start": 36.89591836734694,
+      "end": 37.21591836734694
+    },
+    {
+      "text": "day",
+      "start": 37.21591836734694,
+      "end": 37.53591836734694
+    },
+    {
+      "text": "Follow",
+      "start": 37.77591836734694,
+      "end": 38.09591836734694
+    },
+    {
+      "text": "so",
+      "start": 38.09591836734694,
+      "end": 38.17591836734694
+    },
+    {
+      "text": "you",
+      "start": 38.17591836734694,
+      "end": 38.33591836734694
+    },
+    {
+      "text": "do",
+      "start": 38.33591836734694,
+      "end": 38.49591836734694
+    },
+    {
+      "text": "not",
+      "start": 38.49591836734694,
+      "end": 38.81591836734694
+    },
+    {
+      "text": "miss",
+      "start": 38.81591836734694,
+      "end": 39.05591836734694
+    },
+    {
+      "text": "tomorrow",
+      "start": 39.05591836734694,
+      "end": 39.53591836734694
+    }
+  ],
+  "text": "About three hundred and seventy five million years ago, something with fins left the water. Fins are for swimming. They are not built to hold anything up. But this one had bones inside its fin that look a lot like a wrist. It also had a neck. Fish do not have necks. And lungs, alongside its gills. It could gulp air at the surface. The strangest part is how we found it. Someone predicted exactly where to dig. Right age of rock, right ancient shoreline. They went there, and it was there. Every land animal since is that same fin, rearranged. Roll your sleeve up. Those are the same bones, still in the same order. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

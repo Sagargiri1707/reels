@@ -245,42 +245,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 6 — OCEAN LIFE (Days 31–36)
 
-- [ ] **Day 31 — The biggest animal that has ever existed**
+- [x] **Day 31 — The biggest animal that has ever existed**
       Hook: "A blue whale's heart is the size of a small car, and its tongue weighs as much as an elephant."
       Stack the numbers: 30 metres, 150 tonnes, a heartbeat you could hear from 3 km away, calves gaining 90 kg a day on milk.
       Angle: it's bigger than any dinosaur, and it only works because water carries the weight. On land, its own body would crush it.
       Visual: the whale laid over a bus, a basketball court, a blue whale next to the largest sauropod.
       End on: "It's the largest. But not the strangest."
 
-- [ ] **Day 32 — The octopus has nine brains and blue blood**
+- [x] **Day 32 — The octopus has nine brains and blue blood**
       Hook: "Two-thirds of an octopus's neurons are in its arms. Each arm partly thinks for itself."
       Cover the central brain plus eight arm clusters, copper-based blood, three hearts, and skin cells that can detect light.
       Angle: our last common ancestor was a simple worm 500+ million years ago, meaning octopus intelligence evolved completely separately from ours. It's the closest thing to alien intelligence we can actually study.
       Visual: escape-artist footage — squeezing through a gap the size of its eye — plus colour-change close-ups.
       End on: "It's a shallow-water genius. Go deeper and the rules change entirely."
 
-- [ ] **Day 33 — Life under a tonne of pressure**
+- [x] **Day 33 — Life under a tonne of pressure**
       Hook: "Bring a deep-sea fish to the surface and it doesn't explode. It melts."
       Adaptations: no gas-filled cavities, proteins stabilised by special molecules, flexible gelatinous bodies. The famous "blobfish" photo is just a fish that's been catastrophically decompressed.
       Angle: it isn't built to withstand pressure — it's built to _equalise_ with it. The danger is always the direction we assume is safe.
       Visual: the blobfish before/after comparison as the central beat.
       End on: "Not all ocean life hides in the dark. Some of it built cities."
 
-- [ ] **Day 34 — Coral is an animal, and it's starving**
+- [x] **Day 34 — Coral is an animal, and it's starving**
       Hook: "Coral doesn't eat enough to survive. It farms."
       Polyps host algae that photosynthesise and hand over most of the sugar. Heat stress makes the polyp expel the algae — that's bleaching, and the white is the bare skeleton showing through.
       Angle: reefs cover under 1% of the seafloor but support around 25% of marine species. It's the densest real estate in the ocean.
       Visual: healthy reef time-lapse into a bleaching event, then the algae-polyp partnership diagrammed.
       End on: "Reefs are recent. Some ocean animals are almost unimaginably older."
 
-- [ ] **Day 35 — Sharks are older than trees**
+- [x] **Day 35 — Sharks are older than trees**
       Hook: "Sharks have been around for 400 million years. Trees showed up about 350 million years ago."
       Stack more deep-time comparisons: sharks predate Saturn's rings, the North Star, and Mount Everest.
       Angle: the body plan barely needed changing. It's not that sharks are primitive — it's that they solved the problem early.
       Visual: a horizontal deep-time bar with sharks, trees, dinosaurs, grass and humans placed on it.
       End on: "But one group of fish did change. They walked out of the water."
 
-- [ ] **Day 36 — The fish that crawled onto land** _(bridge)_
+- [x] **Day 36 — The fish that crawled onto land** _(bridge)_
       Hook: "About 375 million years ago, something with fins decided the shallows were worth leaving."
       Tiktaalik as the transitional fossil — fins with wrist bones, a neck, lungs and gills. And the fact it was found by predicting exactly which rock age and location to dig in.
       Angle: every land vertebrate, including you, is descended from that move. Your arm bones are that fin, rearranged.

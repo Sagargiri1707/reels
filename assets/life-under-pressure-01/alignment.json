@@ -1,0 +1,593 @@
+{
+  "audio_duration": 35.630938,
+  "segments": [
+    {
+      "text": "Bring",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "a",
+      "start": 0.32,
+      "end": 0.32
+    },
+    {
+      "text": "deep",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "text": "sea",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "text": "fish",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "to",
+      "start": 1.12,
+      "end": 1.12
+    },
+    {
+      "text": "the",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "text": "surface",
+      "start": 1.28,
+      "end": 1.76
+    },
+    {
+      "text": "and",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "text": "it",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "does",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "text": "not",
+      "start": 2.32,
+      "end": 2.56
+    },
+    {
+      "text": "explode",
+      "start": 2.56,
+      "end": 3.12
+    },
+    {
+      "text": "It",
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "text": "melts",
+      "start": 3.52,
+      "end": 4.08
+    },
+    {
+      "text": "Squeeze",
+      "start": 4.24,
+      "end": 4.72
+    },
+    {
+      "text": "anything",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "text": "hard",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "text": "enough",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "and",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "it",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "fails",
+      "start": 6.0,
+      "end": 6.4
+    },
+    {
+      "text": "That",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "is",
+      "start": 6.88,
+      "end": 7.04
+    },
+    {
+      "text": "the",
+      "start": 7.04,
+      "end": 7.12
+    },
+    {
+      "text": "intuition",
+      "start": 7.12,
+      "end": 7.68
+    },
+    {
+      "text": "we",
+      "start": 7.68,
+      "end": 7.76
+    },
+    {
+      "text": "start",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "with",
+      "start": 8.08,
+      "end": 8.32
+    },
+    {
+      "text": "But",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "a",
+      "start": 8.8,
+      "end": 8.88
+    },
+    {
+      "text": "deep",
+      "start": 8.88,
+      "end": 9.12
+    },
+    {
+      "text": "sea",
+      "start": 9.12,
+      "end": 9.36
+    },
+    {
+      "text": "body",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "has",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "text": "nothing",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "text": "inside",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "text": "it",
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "text": "that",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "can",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "be",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "crushed",
+      "start": 11.04,
+      "end": 11.52
+    },
+    {
+      "text": "No",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "text": "air",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "pockets",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "text": "No",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "text": "swim",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "bladder",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "text": "Nothing",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "hollow",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "text": "anywhere",
+      "start": 14.8,
+      "end": 15.36
+    },
+    {
+      "text": "The",
+      "start": 15.83092970521542,
+      "end": 15.83092970521542
+    },
+    {
+      "text": "body",
+      "start": 15.83092970521542,
+      "end": 16.23092970521542
+    },
+    {
+      "text": "is",
+      "start": 16.23092970521542,
+      "end": 16.31092970521542
+    },
+    {
+      "text": "mostly",
+      "start": 16.31092970521542,
+      "end": 16.71092970521542
+    },
+    {
+      "text": "water",
+      "start": 16.71092970521542,
+      "end": 17.19092970521542
+    },
+    {
+      "text": "at",
+      "start": 17.43092970521542,
+      "end": 17.510929705215418
+    },
+    {
+      "text": "exactly",
+      "start": 17.510929705215418,
+      "end": 17.990929705215418
+    },
+    {
+      "text": "the",
+      "start": 17.990929705215418,
+      "end": 18.07092970521542
+    },
+    {
+      "text": "pressure",
+      "start": 18.07092970521542,
+      "end": 18.47092970521542
+    },
+    {
+      "text": "of",
+      "start": 18.47092970521542,
+      "end": 18.55092970521542
+    },
+    {
+      "text": "the",
+      "start": 18.55092970521542,
+      "end": 18.63092970521542
+    },
+    {
+      "text": "water",
+      "start": 18.63092970521542,
+      "end": 18.95092970521542
+    },
+    {
+      "text": "outside",
+      "start": 18.95092970521542,
+      "end": 19.510929705215418
+    },
+    {
+      "text": "it",
+      "start": 19.510929705215418,
+      "end": 19.67092970521542
+    },
+    {
+      "text": "Which",
+      "start": 19.99092970521542,
+      "end": 20.23092970521542
+    },
+    {
+      "text": "means",
+      "start": 20.23092970521542,
+      "end": 20.47092970521542
+    },
+    {
+      "text": "the",
+      "start": 20.47092970521542,
+      "end": 20.55092970521542
+    },
+    {
+      "text": "danger",
+      "start": 20.55092970521542,
+      "end": 20.95092970521542
+    },
+    {
+      "text": "was",
+      "start": 20.95092970521542,
+      "end": 21.11092970521542
+    },
+    {
+      "text": "never",
+      "start": 21.11092970521542,
+      "end": 21.43092970521542
+    },
+    {
+      "text": "going",
+      "start": 21.43092970521542,
+      "end": 21.75092970521542
+    },
+    {
+      "text": "down",
+      "start": 21.75092970521542,
+      "end": 22.07092970521542
+    },
+    {
+      "text": "It",
+      "start": 22.31092970521542,
+      "end": 22.47092970521542
+    },
+    {
+      "text": "is",
+      "start": 22.47092970521542,
+      "end": 22.55092970521542
+    },
+    {
+      "text": "coming",
+      "start": 22.55092970521542,
+      "end": 22.87092970521542
+    },
+    {
+      "text": "up",
+      "start": 22.87092970521542,
+      "end": 23.190929705215417
+    },
+    {
+      "text": "That",
+      "start": 23.510929705215418,
+      "end": 23.67092970521542
+    },
+    {
+      "text": "famous",
+      "start": 23.67092970521542,
+      "end": 24.07092970521542
+    },
+    {
+      "text": "ugly",
+      "start": 24.07092970521542,
+      "end": 24.39092970521542
+    },
+    {
+      "text": "blobfish",
+      "start": 24.39092970521542,
+      "end": 24.95092970521542
+    },
+    {
+      "text": "photograph",
+      "start": 24.95092970521542,
+      "end": 25.43092970521542
+    },
+    {
+      "text": "is",
+      "start": 25.59092970521542,
+      "end": 25.75092970521542
+    },
+    {
+      "text": "just",
+      "start": 25.75092970521542,
+      "end": 26.07092970521542
+    },
+    {
+      "text": "a",
+      "start": 26.07092970521542,
+      "end": 26.150929705215418
+    },
+    {
+      "text": "fish",
+      "start": 26.150929705215418,
+      "end": 26.47092970521542
+    },
+    {
+      "text": "that",
+      "start": 26.47092970521542,
+      "end": 26.550929705215417
+    },
+    {
+      "text": "has",
+      "start": 26.550929705215417,
+      "end": 26.71092970521542
+    },
+    {
+      "text": "been",
+      "start": 26.71092970521542,
+      "end": 26.870929705215417
+    },
+    {
+      "text": "decompressed",
+      "start": 26.870929705215417,
+      "end": 27.67092970521542
+    },
+    {
+      "text": "It",
+      "start": 27.91092970521542,
+      "end": 28.07092970521542
+    },
+    {
+      "text": "was",
+      "start": 28.07092970521542,
+      "end": 28.23092970521542
+    },
+    {
+      "text": "never",
+      "start": 28.23092970521542,
+      "end": 28.47092970521542
+    },
+    {
+      "text": "ugly",
+      "start": 28.47092970521542,
+      "end": 28.95092970521542
+    },
+    {
+      "text": "It",
+      "start": 29.11092970521542,
+      "end": 29.27092970521542
+    },
+    {
+      "text": "was",
+      "start": 29.27092970521542,
+      "end": 29.35092970521542
+    },
+    {
+      "text": "perfectly",
+      "start": 29.35092970521542,
+      "end": 29.830929705215418
+    },
+    {
+      "text": "fine",
+      "start": 29.830929705215418,
+      "end": 30.23092970521542
+    },
+    {
+      "text": "until",
+      "start": 30.23092970521542,
+      "end": 30.550929705215417
+    },
+    {
+      "text": "we",
+      "start": 30.550929705215417,
+      "end": 30.63092970521542
+    },
+    {
+      "text": "dragged",
+      "start": 30.63092970521542,
+      "end": 31.03092970521542
+    },
+    {
+      "text": "it",
+      "start": 31.03092970521542,
+      "end": 31.11092970521542
+    },
+    {
+      "text": "into",
+      "start": 31.11092970521542,
+      "end": 31.35092970521542
+    },
+    {
+      "text": "our",
+      "start": 31.35092970521542,
+      "end": 31.510929705215418
+    },
+    {
+      "text": "world",
+      "start": 31.510929705215418,
+      "end": 31.910929705215416
+    },
+    {
+      "text": "One",
+      "start": 32.34111111111111,
+      "end": 32.50111111111111
+    },
+    {
+      "text": "of",
+      "start": 32.50111111111111,
+      "end": 32.58111111111111
+    },
+    {
+      "text": "these",
+      "start": 32.58111111111111,
+      "end": 32.82111111111111
+    },
+    {
+      "text": "every",
+      "start": 32.82111111111111,
+      "end": 33.14111111111111
+    },
+    {
+      "text": "day",
+      "start": 33.14111111111111,
+      "end": 33.46111111111111
+    },
+    {
+      "text": "Follow",
+      "start": 33.78111111111111,
+      "end": 34.10111111111111
+    },
+    {
+      "text": "so",
+      "start": 34.10111111111111,
+      "end": 34.18111111111111
+    },
+    {
+      "text": "you",
+      "start": 34.18111111111111,
+      "end": 34.34111111111111
+    },
+    {
+      "text": "do",
+      "start": 34.34111111111111,
+      "end": 34.50111111111111
+    },
+    {
+      "text": "not",
+      "start": 34.50111111111111,
+      "end": 34.66111111111111
+    },
+    {
+      "text": "miss",
+      "start": 34.66111111111111,
+      "end": 34.90111111111111
+    },
+    {
+      "text": "tomorrow",
+      "start": 34.90111111111111,
+      "end": 35.46111111111111
+    }
+  ],
+  "text": "Bring a deep sea fish to the surface and it does not explode. It melts. Squeeze anything hard enough and it fails. That is the intuition we start with. But a deep sea body has nothing inside it that can be crushed. No air pockets. No swim bladder. Nothing hollow anywhere. The body is mostly water, at exactly the pressure of the water outside it. Which means the danger was never going down. It is coming up. That famous ugly blobfish photograph is just a fish that has been decompressed. It was never ugly. It was perfectly fine until we dragged it into our world. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

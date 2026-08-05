@@ -1,0 +1,103 @@
+{
+  "topic": "The octopus has nine brains and blue blood",
+  "lesson": "Most of an octopus's neurons sit in its arms rather than its head, so each arm partly solves problems on its own, and that intelligence evolved completely separately from ours.",
+  "slug": "octopus-nine-brains-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Two thirds of an octopus's neurons are not in its head. They are in its arms.",
+      "scene": "a long rubber hose coiled on a bare surface, a small black cartoon figure gripping one end while the far end rears up and reaches on its own",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long rubber hose coiled on a bare surface, a small black cartoon figure gripping one end while the far end rears up and reaches on its own. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Your arm waits to be told what to do. Every single time.",
+      "anchored": false,
+      "grounded": "contains no octopus, sea creature, tentacle, water or ocean object",
+      "scene": "a marionette puppet lying on the surface, a small black cartoon figure lifting the control bar while one wooden arm rises on its string",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a marionette puppet lying on the surface, a small black cartoon figure lifting the control bar while one wooden arm rises on its string. this is an ordinary everyday scene and contains no octopus, sea creature, tentacle, water or ocean object; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "An octopus arm does not wait. It works the problem out by itself.",
+      "scene": "a screw top jar on the surface, a small black cartoon figure standing back with hands on hips as a single rubber tube unscrews the lid alone",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a screw top jar on the surface, a small black cartoon figure standing back with hands on hips as a single rubber tube unscrews the lid alone. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "There is a central brain, and then eight more clusters. One in every arm.",
+      "scene": "an open fuse box on the surface, a small black cartoon figure flipping a row of eight small switches while one larger switch sits above them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open fuse box on the surface, a small black cartoon figure flipping a row of eight small switches while one larger switch sits above them. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Its blood runs on copper instead of iron, which is why it is blue.",
+      "scene": "a glass beaker of blue liquid on the surface, a small black cartoon figure lowering a copper coin into it on a string",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass beaker of blue liquid on the surface, a small black cartoon figure lowering a copper coin into it on a string. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Three hearts. And skin cells that can sense light with no eyes involved.",
+      "scene": "a folded cloth lit by a small torch, a small black cartoon figure pressing one hand flat to it while the cloth darkens under the touch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded cloth lit by a small torch, a small black cartoon figure pressing one hand flat to it while the cloth darkens under the touch. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Our last shared ancestor was a simple worm, five hundred million years ago.",
+      "scene": "a long piece of string laid across the surface with a single knot near one end, a small black cartoon figure standing on the knot pointing far away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long piece of string laid across the surface with a single knot near one end, a small black cartoon figure standing on the knot pointing far away. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So this intelligence was built from scratch. None of it is a copy of ours.",
+      "scene": "two identical lumps of grey clay on the surface, a small black cartoon figure shaping one with both arms while the other sits untouched",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical lumps of grey clay on the surface, a small black cartoon figure shaping one with both arms while the other sits untouched. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "It is the closest thing to an alien mind that we can actually keep in a tank.",
+      "scene": "a glass tank on the surface with a narrow gap in the lid, a small black cartoon figure watching a rubber tube pour itself out through the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass tank on the surface with a narrow gap in the lid, a small black cartoon figure watching a rubber tube pour itself out through the gap. the scene belongs to an intelligence spread out into the limbs instead of gathered in a head, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "An octopus has a central brain plus eight arm clusters, and two thirds of its neurons are in the arms, so each arm partly thinks for itself. Copper-based blood makes it blue, and it has three hearts. Our last common ancestor was a worm 500 million years ago, so this intelligence evolved entirely separately.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #octopus #cephalopod #animals #intelligence #science",
+    "thumbnail_beat": "09"
+  }
+}

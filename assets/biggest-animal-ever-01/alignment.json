@@ -1,0 +1,548 @@
+{
+  "audio_duration": 32.914188,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "blue",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "whale's",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "heart",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "is",
+      "start": 1.2,
+      "end": 1.28
+    },
+    {
+      "text": "about",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "text": "the",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "size",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "text": "of",
+      "start": 2.0,
+      "end": 2.08
+    },
+    {
+      "text": "a",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "small",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "car",
+      "start": 2.56,
+      "end": 3.04
+    },
+    {
+      "text": "Its",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "tongue",
+      "start": 3.52,
+      "end": 3.84
+    },
+    {
+      "text": "alone",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "text": "weighs",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "text": "roughly",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "as",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "text": "much",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "text": "as",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "an",
+      "start": 5.6,
+      "end": 5.68
+    },
+    {
+      "text": "elephant",
+      "start": 5.76,
+      "end": 6.24
+    },
+    {
+      "text": "Thirty",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "text": "metres",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "text": "long",
+      "start": 7.12,
+      "end": 7.52
+    },
+    {
+      "text": "A",
+      "start": 7.84,
+      "end": 7.84
+    },
+    {
+      "text": "hundred",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "text": "and",
+      "start": 8.24,
+      "end": 8.32
+    },
+    {
+      "text": "fifty",
+      "start": 8.32,
+      "end": 8.8
+    },
+    {
+      "text": "tonnes",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "text": "A",
+      "start": 9.6,
+      "end": 9.68
+    },
+    {
+      "text": "calf",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "text": "drinks",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "text": "enough",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "text": "milk",
+      "start": 10.72,
+      "end": 11.04
+    },
+    {
+      "text": "to",
+      "start": 11.12,
+      "end": 11.12
+    },
+    {
+      "text": "put",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "text": "on",
+      "start": 11.28,
+      "end": 11.52
+    },
+    {
+      "text": "ninety",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "text": "kilos",
+      "start": 11.84,
+      "end": 12.24
+    },
+    {
+      "text": "a",
+      "start": 12.32,
+      "end": 12.32
+    },
+    {
+      "text": "day",
+      "start": 12.32,
+      "end": 12.72
+    },
+    {
+      "text": "Nothing",
+      "start": 12.96,
+      "end": 13.36
+    },
+    {
+      "text": "on",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "text": "land",
+      "start": 13.52,
+      "end": 13.92
+    },
+    {
+      "text": "ever",
+      "start": 14.0,
+      "end": 14.24
+    },
+    {
+      "text": "came",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "close",
+      "start": 14.48,
+      "end": 14.96
+    },
+    {
+      "text": "Not",
+      "start": 15.2,
+      "end": 15.44
+    },
+    {
+      "text": "one",
+      "start": 15.44,
+      "end": 15.76
+    },
+    {
+      "text": "dinosaur",
+      "start": 15.76,
+      "end": 16.48
+    },
+    {
+      "text": "Because",
+      "start": 16.85260770975057,
+      "end": 17.092607709750567
+    },
+    {
+      "text": "on",
+      "start": 17.092607709750567,
+      "end": 17.33260770975057
+    },
+    {
+      "text": "land",
+      "start": 17.33260770975057,
+      "end": 17.732607709750567
+    },
+    {
+      "text": "it",
+      "start": 17.732607709750567,
+      "end": 17.81260770975057
+    },
+    {
+      "text": "would",
+      "start": 17.81260770975057,
+      "end": 17.97260770975057
+    },
+    {
+      "text": "not",
+      "start": 17.97260770975057,
+      "end": 18.29260770975057
+    },
+    {
+      "text": "work",
+      "start": 18.29260770975057,
+      "end": 18.532607709750568
+    },
+    {
+      "text": "at",
+      "start": 18.532607709750568,
+      "end": 18.61260770975057
+    },
+    {
+      "text": "all",
+      "start": 18.61260770975057,
+      "end": 18.932607709750567
+    },
+    {
+      "text": "Its",
+      "start": 19.17260770975057,
+      "end": 19.412607709750567
+    },
+    {
+      "text": "own",
+      "start": 19.412607709750567,
+      "end": 19.65260770975057
+    },
+    {
+      "text": "weight",
+      "start": 19.65260770975057,
+      "end": 19.892607709750568
+    },
+    {
+      "text": "would",
+      "start": 19.892607709750568,
+      "end": 20.13260770975057
+    },
+    {
+      "text": "crush",
+      "start": 20.13260770975057,
+      "end": 20.452607709750566
+    },
+    {
+      "text": "it",
+      "start": 20.452607709750566,
+      "end": 20.69260770975057
+    },
+    {
+      "text": "In",
+      "start": 21.01260770975057,
+      "end": 21.17260770975057
+    },
+    {
+      "text": "water",
+      "start": 21.17260770975057,
+      "end": 21.572607709750567
+    },
+    {
+      "text": "none",
+      "start": 21.65260770975057,
+      "end": 21.892607709750568
+    },
+    {
+      "text": "of",
+      "start": 21.892607709750568,
+      "end": 21.97260770975057
+    },
+    {
+      "text": "that",
+      "start": 21.97260770975057,
+      "end": 22.132607709750566
+    },
+    {
+      "text": "weight",
+      "start": 22.132607709750566,
+      "end": 22.452607709750566
+    },
+    {
+      "text": "sits",
+      "start": 22.452607709750566,
+      "end": 22.69260770975057
+    },
+    {
+      "text": "on",
+      "start": 22.69260770975057,
+      "end": 22.85260770975057
+    },
+    {
+      "text": "the",
+      "start": 22.85260770975057,
+      "end": 22.93260770975057
+    },
+    {
+      "text": "bones",
+      "start": 22.93260770975057,
+      "end": 23.412607709750567
+    },
+    {
+      "text": "The",
+      "start": 23.65260770975057,
+      "end": 23.732607709750567
+    },
+    {
+      "text": "sea",
+      "start": 23.732607709750567,
+      "end": 24.052607709750568
+    },
+    {
+      "text": "carries",
+      "start": 24.052607709750568,
+      "end": 24.452607709750566
+    },
+    {
+      "text": "all",
+      "start": 24.452607709750566,
+      "end": 24.69260770975057
+    },
+    {
+      "text": "of",
+      "start": 24.69260770975057,
+      "end": 24.772607709750567
+    },
+    {
+      "text": "it",
+      "start": 24.772607709750567,
+      "end": 25.01260770975057
+    },
+    {
+      "text": "The",
+      "start": 25.33260770975057,
+      "end": 25.412607709750567
+    },
+    {
+      "text": "largest",
+      "start": 25.412607709750567,
+      "end": 25.892607709750568
+    },
+    {
+      "text": "animal",
+      "start": 25.892607709750568,
+      "end": 26.29260770975057
+    },
+    {
+      "text": "in",
+      "start": 26.29260770975057,
+      "end": 26.29260770975057
+    },
+    {
+      "text": "history",
+      "start": 26.29260770975057,
+      "end": 26.772607709750567
+    },
+    {
+      "text": "only",
+      "start": 26.772607709750567,
+      "end": 27.092607709750567
+    },
+    {
+      "text": "exists",
+      "start": 27.092607709750567,
+      "end": 27.572607709750567
+    },
+    {
+      "text": "because",
+      "start": 27.572607709750567,
+      "end": 27.812607709750566
+    },
+    {
+      "text": "it",
+      "start": 27.812607709750566,
+      "end": 27.892607709750568
+    },
+    {
+      "text": "never",
+      "start": 27.892607709750568,
+      "end": 28.212607709750568
+    },
+    {
+      "text": "has",
+      "start": 28.212607709750568,
+      "end": 28.452607709750566
+    },
+    {
+      "text": "to",
+      "start": 28.452607709750566,
+      "end": 28.532607709750568
+    },
+    {
+      "text": "stand",
+      "start": 28.532607709750568,
+      "end": 28.85260770975057
+    },
+    {
+      "text": "up",
+      "start": 28.85260770975057,
+      "end": 29.092607709750567
+    },
+    {
+      "text": "One",
+      "start": 29.412607709750567,
+      "end": 29.65260770975057
+    },
+    {
+      "text": "of",
+      "start": 29.65260770975057,
+      "end": 29.732607709750567
+    },
+    {
+      "text": "these",
+      "start": 29.732607709750567,
+      "end": 29.97260770975057
+    },
+    {
+      "text": "every",
+      "start": 29.97260770975057,
+      "end": 30.29260770975057
+    },
+    {
+      "text": "day",
+      "start": 30.29260770975057,
+      "end": 30.61260770975057
+    },
+    {
+      "text": "Follow",
+      "start": 30.93260770975057,
+      "end": 31.25260770975057
+    },
+    {
+      "text": "so",
+      "start": 31.25260770975057,
+      "end": 31.412607709750567
+    },
+    {
+      "text": "you",
+      "start": 31.412607709750567,
+      "end": 31.572607709750567
+    },
+    {
+      "text": "do",
+      "start": 31.572607709750567,
+      "end": 31.65260770975057
+    },
+    {
+      "text": "not",
+      "start": 31.65260770975057,
+      "end": 31.892607709750568
+    },
+    {
+      "text": "miss",
+      "start": 31.892607709750568,
+      "end": 32.21260770975057
+    },
+    {
+      "text": "tomorrow",
+      "start": 32.21260770975057,
+      "end": 32.69260770975057
+    }
+  ],
+  "text": "A blue whale's heart is about the size of a small car. Its tongue alone weighs roughly as much as an elephant. Thirty metres long. A hundred and fifty tonnes. A calf drinks enough milk to put on ninety kilos a day. Nothing on land ever came close. Not one dinosaur. Because on land it would not work at all. Its own weight would crush it. In water none of that weight sits on the bones. The sea carries all of it. The largest animal in history only exists because it never has to stand up. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,103 @@
+{
+  "topic": "Life has almost ended five times",
+  "lesson": "The End-Permian extinction, not the asteroid, was the worst thing that ever happened to life, and each recovery handed the planet to a completely different set of survivors.",
+  "slug": "five-mass-extinctions-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The asteroid one is famous. It is not the worst one.",
+      "scene": "five candles of different heights standing on a bare surface, a small black cartoon figure stretching right up to pinch out the tallest flame",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. five candles of different heights standing on a bare surface, a small black cartoon figure stretching right up to pinch out the tallest flame. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Extinction usually means losing one species. This is a different scale entirely.",
+      "anchored": false,
+      "grounded": "contains no volcano, asteroid, fossil, dinosaur or extinct animal",
+      "scene": "a full egg box open on the surface, a small black cartoon figure lifting out one single egg and closing the lid again",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full egg box open on the surface, a small black cartoon figure lifting out one single egg and closing the lid again. this is an ordinary everyday scene and contains no volcano, asteroid, fossil, dinosaur or extinct animal; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Two hundred and fifty million years ago, ninety percent of sea life died.",
+      "scene": "a big jar of marbles on the surface, a small black cartoon figure tipping nearly all of them out and catching a bare handful in one cupped arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a big jar of marbles on the surface, a small black cartoon figure tipping nearly all of them out and catching a bare handful in one cupped arm. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Siberia had been erupting for two million years without once stopping.",
+      "scene": "a kettle boiling over on the surface, a small black cartoon figure holding the lid down with both arms while it lifts anyway",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a kettle boiling over on the surface, a small black cartoon figure holding the lid down with both arms while it lifts anyway. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "All that carbon went into the sea, and the sea turned acidic.",
+      "scene": "a glass of clear liquid with a seashell fizzing away inside it, a small black cartoon figure fishing for the shell with a pair of tongs",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass of clear liquid with a seashell fizzing away inside it, a small black cartoon figure fishing for the shell with a pair of tongs. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Recovery took millions of years. Every single time.",
+      "scene": "a toppled stack of blocks on the surface, a small black cartoon figure setting them back up one at a time from a full barrow",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a toppled stack of blocks on the surface, a small black cartoon figure setting them back up one at a time from a full barrow. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And every recovery handed the planet to somebody completely different.",
+      "scene": "a small wooden chair on the surface, a small black cartoon figure hauling a different toy animal up onto the seat with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small wooden chair on the surface, a small black cartoon figure hauling a different toy animal up onto the seat with both arms. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Mammals only ever got their turn because the last one cleared the room.",
+      "scene": "an open doorway frame standing on the surface, a small black cartoon figure sweeping a pile of small toy dinosaurs out through it with a broom",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open doorway frame standing on the surface, a small black cartoon figure sweeping a pile of small toy dinosaurs out through it with a broom. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Five times life almost stopped. Five times it restarted as something else.",
+      "scene": "the same five candles, a small black cartoon figure standing on tiptoe to relight the shortest one with a long match",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same five candles, a small black cartoon figure standing on tiptoe to relight the shortest one with a long match. the scene belongs to life being knocked almost all the way down and restarting as something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The asteroid is the famous one, but the End-Permian was far worse: around 90% of marine species gone, driven by two million years of Siberian volcanism, CO₂ and ocean acidification. Recovery took millions of years each time, and each reset changed who inherited the planet. Mammals only got their chance because of the last one.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #extinction #permian #dinosaurs #deeptime #science",
+    "thumbnail_beat": "01"
+  }
+}

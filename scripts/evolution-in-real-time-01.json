@@ -1,0 +1,103 @@
+{
+  "topic": "Evolution you can watch in real time",
+  "lesson": "Evolution is not slow by nature, it is slow when nothing is pushing, and antibiotic resistance is the same process running on a hospital timescale.",
+  "slug": "evolution-in-real-time-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "In thirty years, one lizard population evolved an entirely new gut structure.",
+      "scene": "a small toy lizard on a bare surface, a small black cartoon figure measuring across it with a pair of calipers held in both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy lizard on a bare surface, a small black cartoon figure measuring across it with a pair of calipers held in both arms. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Evolution is meant to be too slow to watch. That is the whole assumption.",
+      "anchored": false,
+      "grounded": "contains no animal, fossil, bacteria, laboratory or medical object",
+      "scene": "an old wind up wall clock lying face up on the surface, a small black cartoon figure sprawled across it with both arms behind their head",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old wind up wall clock lying face up on the surface, a small black cartoon figure sprawled across it with both arms behind their head. this is an ordinary everyday scene and contains no animal, fossil, bacteria, laboratory or medical object; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But it is not slow by nature. It is slow when nothing is pushing.",
+      "scene": "a heavy loaded trolley on the surface, a small black cartoon figure leaning on the handle with one arm while it refuses to budge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy loaded trolley on the surface, a small black cartoon figure leaning on the handle with one arm while it refuses to budge. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Push hard enough and it moves fast. Ten lizards, one island, thirty years.",
+      "scene": "a small toy boat in a shallow tray of water, a small black cartoon figure shoving it with both arms so it shoots right across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy boat in a shallow tray of water, a small black cartoon figure shoving it with both arms so it shoots right across. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Industrial soot turned the moths black in fifty years. Clean air turned them back.",
+      "scene": "a white cloth pegged on a line, a small black cartoon figure rubbing soot into it with both hands until the whole cloth is dark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a white cloth pegged on a line, a small black cartoon figure rubbing soot into it with both hands until the whole cloth is dark. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Under heavy poaching, more and more elephants are born with no tusks at all.",
+      "scene": "a small toy elephant on the surface, a small black cartoon figure unscrewing one ivory tusk away from it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy elephant on the surface, a small black cartoon figure unscrewing one ivory tusk away from it with both arms. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And the fastest example we have is happening in hospitals, right now.",
+      "scene": "a glass petri dish on the surface, a small black cartoon figure pressing a small white disc into the centre of it with tweezers",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass petri dish on the surface, a small black cartoon figure pressing a small white disc into the centre of it with tweezers. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Kill ninety nine percent of the bacteria and you have just chosen the other one percent.",
+      "scene": "a tray of identical marbles on the surface, a small black cartoon figure sweeping nearly all of them off the edge with one long arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of identical marbles on the surface, a small black cartoon figure sweeping nearly all of them off the edge with one long arm. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Evolution is not history. It is a process you are standing inside.",
+      "scene": "the same small toy lizard, a small black cartoon figure laying a fresh measuring tape beside it and scoring one new mark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same small toy lizard, a small black cartoon figure laying a fresh measuring tape beside it and scoring one new mark. the scene belongs to populations visibly changing under hard pressure within a human lifetime, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Pod Mrčaru lizards evolved a new gut structure in about 30 years. Peppered moths turned black under industrial soot and back again with clean air. Elephants are being born tuskless under poaching pressure. Evolution is not slow by nature, it is slow without pressure, and antibiotic resistance is it running on a hospital timescale.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #evolution #antibioticresistance #biology #naturalselection #science",
+    "thumbnail_beat": "08"
+  }
+}

@@ -291,42 +291,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 7 — EVOLUTION (Days 37–42)
 
-- [ ] **Day 37 — You're related to a mushroom**
+- [x] **Day 37 — You're related to a mushroom**
       Hook: "Go back far enough and every living thing on Earth shares one ancestor."
       Explain LUCA and common descent using shared evidence: the same DNA code in every organism, the same basic cell machinery, the same ATP energy currency.
       Angle: humans and mushrooms share roughly half their genes, and fungi are more closely related to animals than to plants. The tree of life is not the shape most people picture.
       Visual: zoom out from a human on a branch until the whole tree is visible and humans are one twig.
       End on: "That tree has some very unexpected branches. Like whales."
 
-- [ ] **Day 38 — Whales used to walk on land**
+- [x] **Day 38 — Whales used to walk on land**
       Hook: "The blue whale's ancestor was a deer-sized animal that hunted on riverbanks."
       Walk the fossil sequence: Pakicetus → Ambulocetus → Rodhocetus → Basilosaurus → modern whales, roughly 50 to 35 million years ago.
       Angle: whales still have vestigial hip and leg bones floating in their bodies, and their fins contain finger bones. They also can't breathe underwater — the land origin never fully left.
       Visual: the fossil lineup morphing, then an X-ray of a whale fin showing the hand.
       End on: "Leftovers like that are everywhere. You've got a few."
 
-- [ ] **Day 39 — Goosebumps are a leftover from fur**
+- [x] **Day 39 — Goosebumps are a leftover from fur**
       Hook: "You're trying to fluff up hair you no longer have."
       Tiny muscles at each follicle raise hairs to trap air for insulation or to look bigger when threatened — extremely effective on a furry animal, useless on us.
       Angle: other leftovers — tailbone, wisdom teeth, the palmaris longus tendon missing in about 14% of people, the ability to wiggle your ears.
       Visual: on-screen self-tests the viewer can do — press wrist tendons together, try the ear wiggle.
       End on: "Evolution isn't finished. You can watch it happen in a human lifetime."
 
-- [ ] **Day 40 — Evolution you can watch in real time**
+- [x] **Day 40 — Evolution you can watch in real time**
       Hook: "In 30 years, a lizard population evolved a new gut structure. Scientists were there for all of it."
       Cases: Pod Mrčaru lizards, peppered moths through industrial soot and back, antibiotic resistance in hospitals, elephants born tuskless under poaching pressure.
       Angle: evolution isn't slow by nature — it's fast when pressure is strong. Antibiotic resistance is evolution happening on a hospital timescale, and it's a practical problem.
       Visual: before/after population graphs with a hard pressure event marked on each.
       End on: "Sometimes the pressure isn't a predator. Sometimes it's the whole planet."
 
-- [ ] **Day 41 — Life has almost ended five times**
+- [x] **Day 41 — Life has almost ended five times**
       Hook: "The asteroid one is famous. It's not the worst."
       Run the Big Five, spending most of the time on the End-Permian, which killed around 90% of marine species, driven by Siberian volcanism, CO₂ and ocean acidification.
       Angle: recovery took millions of years each time, and each reset changed who inherited the planet. Mammals only got their chance because of the last one.
       Visual: a biodiversity line graph with five brutal drops, each labelled with cause and death toll.
       End on: "Every recovery was possible because something had already made the land livable."
 
-- [ ] **Day 42 — Plants got here first** _(bridge)_
+- [x] **Day 42 — Plants got here first** _(bridge)_
       Hook: "Before any animal could leave the water, plants had to make land survivable."
       Around 470 million years ago, plants colonised bare rock, created soil, raised oxygen and pulled CO₂ down — building the food supply and breathable air that made land animals possible.
       Angle: they also caused a mass extinction doing it. The first forests dropped CO₂ so hard they helped trigger an ice age.

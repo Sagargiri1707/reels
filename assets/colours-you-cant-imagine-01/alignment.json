@@ -1,0 +1,578 @@
+{
+  "audio_duration": 34.873375,
+  "segments": [
+    {
+      "text": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "have",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "text": "three",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "text": "colour",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "text": "receptors",
+      "start": 0.96,
+      "end": 1.68
+    },
+    {
+      "text": "A",
+      "start": 2.0,
+      "end": 2.08
+    },
+    {
+      "text": "mantis",
+      "start": 2.08,
+      "end": 2.48
+    },
+    {
+      "text": "shrimp",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "text": "has",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "text": "sixteen",
+      "start": 2.96,
+      "end": 3.68
+    },
+    {
+      "text": "Every",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "text": "colour",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "you",
+      "start": 4.64,
+      "end": 4.8
+    },
+    {
+      "text": "have",
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "text": "ever",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "seen",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "text": "is",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "text": "a",
+      "start": 5.76,
+      "end": 5.76
+    },
+    {
+      "text": "mixture",
+      "start": 5.76,
+      "end": 6.16
+    },
+    {
+      "text": "of",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "three",
+      "start": 6.32,
+      "end": 6.8
+    },
+    {
+      "text": "A",
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "text": "bee",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "text": "sees",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "ultraviolet",
+      "start": 7.84,
+      "end": 8.64
+    },
+    {
+      "text": "which",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "is",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "a",
+      "start": 9.12,
+      "end": 9.12
+    },
+    {
+      "text": "colour",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "text": "you",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "text": "have",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "text": "no",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "text": "name",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "text": "for",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "text": "Flowers",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "have",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "text": "landing",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "text": "stripes",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "text": "painted",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "text": "in",
+      "start": 12.56,
+      "end": 12.72
+    },
+    {
+      "text": "it",
+      "start": 12.72,
+      "end": 12.88
+    },
+    {
+      "text": "Aimed",
+      "start": 13.2,
+      "end": 13.44
+    },
+    {
+      "text": "at",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "text": "insects",
+      "start": 13.6,
+      "end": 14.24
+    },
+    {
+      "text": "invisible",
+      "start": 14.4,
+      "end": 14.96
+    },
+    {
+      "text": "to",
+      "start": 15.04,
+      "end": 15.04
+    },
+    {
+      "text": "you",
+      "start": 15.04,
+      "end": 15.36
+    },
+    {
+      "text": "And",
+      "start": 15.67092970521542,
+      "end": 15.83092970521542
+    },
+    {
+      "text": "many",
+      "start": 15.83092970521542,
+      "end": 16.07092970521542
+    },
+    {
+      "text": "birds",
+      "start": 16.07092970521542,
+      "end": 16.47092970521542
+    },
+    {
+      "text": "look",
+      "start": 16.47092970521542,
+      "end": 16.63092970521542
+    },
+    {
+      "text": "nothing",
+      "start": 16.63092970521542,
+      "end": 16.95092970521542
+    },
+    {
+      "text": "to",
+      "start": 17.03092970521542,
+      "end": 17.11092970521542
+    },
+    {
+      "text": "each",
+      "start": 17.11092970521542,
+      "end": 17.27092970521542
+    },
+    {
+      "text": "other",
+      "start": 17.27092970521542,
+      "end": 17.510929705215418
+    },
+    {
+      "text": "like",
+      "start": 17.510929705215418,
+      "end": 17.67092970521542
+    },
+    {
+      "text": "they",
+      "start": 17.67092970521542,
+      "end": 17.830929705215418
+    },
+    {
+      "text": "look",
+      "start": 17.830929705215418,
+      "end": 18.07092970521542
+    },
+    {
+      "text": "to",
+      "start": 18.07092970521542,
+      "end": 18.150929705215418
+    },
+    {
+      "text": "us",
+      "start": 18.150929705215418,
+      "end": 18.55092970521542
+    },
+    {
+      "text": "But",
+      "start": 18.87092970521542,
+      "end": 18.95092970521542
+    },
+    {
+      "text": "more",
+      "start": 18.95092970521542,
+      "end": 19.19092970521542
+    },
+    {
+      "text": "receptors",
+      "start": 19.19092970521542,
+      "end": 19.830929705215418
+    },
+    {
+      "text": "does",
+      "start": 19.830929705215418,
+      "end": 19.99092970521542
+    },
+    {
+      "text": "not",
+      "start": 19.99092970521542,
+      "end": 20.23092970521542
+    },
+    {
+      "text": "simply",
+      "start": 20.23092970521542,
+      "end": 20.63092970521542
+    },
+    {
+      "text": "mean",
+      "start": 20.63092970521542,
+      "end": 20.87092970521542
+    },
+    {
+      "text": "better",
+      "start": 20.87092970521542,
+      "end": 21.27092970521542
+    },
+    {
+      "text": "That",
+      "start": 21.59092970521542,
+      "end": 21.75092970521542
+    },
+    {
+      "text": "is",
+      "start": 21.75092970521542,
+      "end": 21.91092970521542
+    },
+    {
+      "text": "the",
+      "start": 21.91092970521542,
+      "end": 21.99092970521542
+    },
+    {
+      "text": "twist",
+      "start": 21.99092970521542,
+      "end": 22.47092970521542
+    },
+    {
+      "text": "The",
+      "start": 22.79092970521542,
+      "end": 22.87092970521542
+    },
+    {
+      "text": "mantis",
+      "start": 22.87092970521542,
+      "end": 23.35092970521542
+    },
+    {
+      "text": "shrimp",
+      "start": 23.35092970521542,
+      "end": 23.59092970521542
+    },
+    {
+      "text": "does",
+      "start": 23.59092970521542,
+      "end": 23.75092970521542
+    },
+    {
+      "text": "not",
+      "start": 23.75092970521542,
+      "end": 23.99092970521542
+    },
+    {
+      "text": "see",
+      "start": 23.99092970521542,
+      "end": 24.23092970521542
+    },
+    {
+      "text": "more",
+      "start": 24.23092970521542,
+      "end": 24.47092970521542
+    },
+    {
+      "text": "colours",
+      "start": 24.47092970521542,
+      "end": 24.95092970521542
+    },
+    {
+      "text": "It",
+      "start": 25.11092970521542,
+      "end": 25.27092970521542
+    },
+    {
+      "text": "sorts",
+      "start": 25.27092970521542,
+      "end": 25.67092970521542
+    },
+    {
+      "text": "them",
+      "start": 25.67092970521542,
+      "end": 25.830929705215418
+    },
+    {
+      "text": "much",
+      "start": 25.830929705215418,
+      "end": 26.07092970521542
+    },
+    {
+      "text": "faster",
+      "start": 26.07092970521542,
+      "end": 26.63092970521542
+    },
+    {
+      "text": "So",
+      "start": 26.79092970521542,
+      "end": 26.95092970521542
+    },
+    {
+      "text": "the",
+      "start": 26.95092970521542,
+      "end": 27.03092970521542
+    },
+    {
+      "text": "strange",
+      "start": 27.03092970521542,
+      "end": 27.510929705215418
+    },
+    {
+      "text": "part",
+      "start": 27.510929705215418,
+      "end": 27.830929705215418
+    },
+    {
+      "text": "is",
+      "start": 27.830929705215418,
+      "end": 27.91092970521542
+    },
+    {
+      "text": "not",
+      "start": 27.91092970521542,
+      "end": 28.150929705215418
+    },
+    {
+      "text": "the",
+      "start": 28.150929705215418,
+      "end": 28.23092970521542
+    },
+    {
+      "text": "number",
+      "start": 28.23092970521542,
+      "end": 28.63092970521542
+    },
+    {
+      "text": "It",
+      "start": 28.95092970521542,
+      "end": 29.03092970521542
+    },
+    {
+      "text": "is",
+      "start": 29.03092970521542,
+      "end": 29.190929705215417
+    },
+    {
+      "text": "that",
+      "start": 29.190929705215417,
+      "end": 29.35092970521542
+    },
+    {
+      "text": "seeing",
+      "start": 29.35092970521542,
+      "end": 29.75092970521542
+    },
+    {
+      "text": "has",
+      "start": 29.75092970521542,
+      "end": 29.91092970521542
+    },
+    {
+      "text": "more",
+      "start": 29.91092970521542,
+      "end": 30.150929705215418
+    },
+    {
+      "text": "than",
+      "start": 30.150929705215418,
+      "end": 30.39092970521542
+    },
+    {
+      "text": "one",
+      "start": 30.39092970521542,
+      "end": 30.550929705215417
+    },
+    {
+      "text": "design",
+      "start": 30.550929705215417,
+      "end": 31.11092970521542
+    },
+    {
+      "text": "One",
+      "start": 31.508367346938773,
+      "end": 31.748367346938775
+    },
+    {
+      "text": "of",
+      "start": 31.748367346938775,
+      "end": 31.828367346938773
+    },
+    {
+      "text": "these",
+      "start": 31.828367346938773,
+      "end": 32.06836734693877
+    },
+    {
+      "text": "every",
+      "start": 32.06836734693877,
+      "end": 32.38836734693877
+    },
+    {
+      "text": "day",
+      "start": 32.38836734693877,
+      "end": 32.70836734693877
+    },
+    {
+      "text": "Follow",
+      "start": 33.02836734693877,
+      "end": 33.34836734693877
+    },
+    {
+      "text": "so",
+      "start": 33.34836734693877,
+      "end": 33.508367346938776
+    },
+    {
+      "text": "you",
+      "start": 33.508367346938776,
+      "end": 33.588367346938774
+    },
+    {
+      "text": "do",
+      "start": 33.588367346938774,
+      "end": 33.74836734693877
+    },
+    {
+      "text": "not",
+      "start": 33.74836734693877,
+      "end": 33.908367346938775
+    },
+    {
+      "text": "miss",
+      "start": 33.908367346938775,
+      "end": 34.14836734693878
+    },
+    {
+      "text": "tomorrow",
+      "start": 34.14836734693878,
+      "end": 34.70836734693877
+    }
+  ],
+  "text": "You have three colour receptors. A mantis shrimp has sixteen. Every colour you have ever seen is a mixture of three. A bee sees ultraviolet, which is a colour you have no name for. Flowers have landing stripes painted in it. Aimed at insects, invisible to you. And many birds look nothing to each other like they look to us. But more receptors does not simply mean better. That is the twist. The mantis shrimp does not see more colours. It sorts them much faster. So the strange part is not the number. It is that seeing has more than one design. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

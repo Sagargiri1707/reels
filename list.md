@@ -429,28 +429,28 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 10 — ANIMAL SENSES (Days 55–60)
 
-- [ ] **Day 55 — Some animals see colours you can't imagine**
+- [x] **Day 55 — Some animals see colours you can't imagine**
       Hook: "You have 3 colour receptors. The mantis shrimp has 16."
       Explain trichromatic vision, then birds and many insects seeing ultraviolet — flowers have landing-strip UV patterns invisible to us, and many birds look completely different to each other than to us.
       Angle: the twist — research suggests the mantis shrimp doesn't see _better_, it processes colour differently and faster. The honest version is more interesting than the meme.
       Visual: same flower photographed in visible light and UV, side by side.
       End on: "Other animals skip eyes altogether and use sound."
 
-- [ ] **Day 56 — Bats see with sound**
+- [x] **Day 56 — Bats see with sound**
       Hook: "A bat can detect a wire thinner than a human hair, in complete darkness, at full speed."
       Echolocation: emit a call, time the return, build a spatial picture. Some bats can judge texture and speed, not just distance.
       Angle: the arms race is the best part — some moths evolved to jam bat sonar with ultrasonic clicks, others have sound-absorbing scales that make them acoustically invisible.
       Visual: sonar pulse animation from the bat's point of view, then the moth's countermeasure.
       End on: "Some animals navigate using something with no sound and no light at all."
 
-- [ ] **Day 57 — Birds can see Earth's magnetic field**
+- [x] **Day 57 — Birds can see Earth's magnetic field**
       Hook: "There may be a quantum compass inside a robin's eye."
       Cryptochrome proteins in the retina react to magnetic fields via electron spin, possibly overlaying directional information onto vision. Sea turtles and salmon use magnetic maps too.
       Angle: direct callback to Day 15 — that magnetic shield is also a global navigation system that life learned to read.
       Visual: a bird's-eye view with a faint magnetic overlay, plus field lines around the planet.
       End on: "And some animals don't navigate by sight at all. They navigate by smell."
 
-- [ ] **Day 58 — A dog smells in the past tense**
+- [x] **Day 58 — A dog smells in the past tense**
       Hook: "You see a room. A dog smells who was there, and how long ago they left."
       Around 300 million olfactory receptors against our 6 million, plus a much larger brain region for processing, plus a separate organ for pheromones. They can also smell separately with each nostril to get direction.
       Angle: a scent trail is a _timeline_ — older molecules have faded, so a dog reads which way someone walked. It's a sense we have no intuitive equivalent for.

@@ -1,0 +1,101 @@
+{
+  "topic": "Bats see with sound",
+  "lesson": "A bat builds a picture of the world out of returning echoes, and moths evolved jamming clicks and sound absorbing scales to break that picture.",
+  "slug": "bats-see-with-sound-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A bat can find a wire thinner than a human hair, in total darkness, at full speed.",
+      "scene": "a fine wire stretched taut across a bare surface, a small black cartoon figure feeling blindly towards it with both arms out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fine wire stretched taut across a bare surface, a small black cartoon figure feeling blindly towards it with both arms out. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It is not seeing in the dark. There is nothing down there to see.",
+      "scene": "a torch with no bulb in it on the surface, a small black cartoon figure shaking it hard and squinting down the empty barrel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a torch with no bulb in it on the surface, a small black cartoon figure shaking it hard and squinting down the empty barrel. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It shouts. Then it listens very carefully to what comes back.",
+      "scene": "a paper cone megaphone on the surface, a small black cartoon figure shouting into the narrow end with both arms braced",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper cone megaphone on the surface, a small black cartoon figure shouting into the narrow end with both arms braced. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The delay tells it distance. The change in the sound tells it shape.",
+      "scene": "a rubber ball bouncing off a board on the surface, a small black cartoon figure catching the return with a stopwatch in one hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rubber ball bouncing off a board on the surface, a small black cartoon figure catching the return with a stopwatch in one hand. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Do that fast enough, often enough, and what you have is a picture.",
+      "scene": "a peg board on the surface, a small black cartoon figure pressing pegs into it one by one until a clear outline appears",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a peg board on the surface, a small black cartoon figure pressing pegs into it one by one until a clear outline appears. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which started an arms race. And the moths have won some of it.",
+      "scene": "a small moth model on the surface, a small black cartoon figure carefully fitting a tiny helmet onto its head",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small moth model on the surface, a small black cartoon figure carefully fitting a tiny helmet onto its head. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Some moths jam the sonar with ultrasonic clicks of their own.",
+      "scene": "a small handbell on the surface, a small black cartoon figure ringing it furiously right beside a paper listening cone",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small handbell on the surface, a small black cartoon figure ringing it furiously right beside a paper listening cone. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Others grew scales that soak the sound up. Acoustically invisible.",
+      "scene": "a thick square of felt on the surface, a small black cartoon figure clapping hard beside it and cupping one ear to nothing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick square of felt on the surface, a small black cartoon figure clapping hard beside it and cupping one ear to nothing. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "A battle you cannot hear has been running over your head for fifty million years.",
+      "scene": "the same fine wire, a small black cartoon figure plucking it once and leaning in with one hand cupped to their head",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same fine wire, a small black cartoon figure plucking it once and leaning in with one hand cupped to their head. the scene belongs to building a picture of the world out of sound instead of light, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Echolocation: emit a call, time the return, build a spatial picture. Some bats can judge texture and speed, not just distance. The best part is the arms race — some moths jam bat sonar with ultrasonic clicks, and others evolved sound-absorbing scales that make them acoustically invisible.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bats #echolocation #moths #animals #science",
+    "thumbnail_beat": "01"
+  }
+}

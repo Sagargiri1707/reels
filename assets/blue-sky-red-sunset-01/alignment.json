@@ -1,0 +1,638 @@
+{
+  "audio_duration": 36.780313,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "sky",
+      "start": 0.08,
+      "end": 0.4
+    },
+    {
+      "text": "is",
+      "start": 0.4,
+      "end": 0.56
+    },
+    {
+      "text": "blue",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "text": "for",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "text": "exactly",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "text": "the",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "same",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "text": "reason",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "text": "a",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "sunset",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "text": "is",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "text": "red",
+      "start": 2.88,
+      "end": 3.28
+    },
+    {
+      "text": "Sunlight",
+      "start": 3.52,
+      "end": 4.08
+    },
+    {
+      "text": "looks",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "text": "white",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "text": "but",
+      "start": 5.04,
+      "end": 5.12
+    },
+    {
+      "text": "it",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "is",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "text": "every",
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "text": "colour",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "text": "stacked",
+      "start": 6.0,
+      "end": 6.4
+    },
+    {
+      "text": "on",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "top",
+      "start": 6.56,
+      "end": 6.8
+    },
+    {
+      "text": "of",
+      "start": 6.8,
+      "end": 6.88
+    },
+    {
+      "text": "each",
+      "start": 6.88,
+      "end": 7.04
+    },
+    {
+      "text": "other",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "Air",
+      "start": 7.76,
+      "end": 8.0
+    },
+    {
+      "text": "molecules",
+      "start": 8.0,
+      "end": 8.56
+    },
+    {
+      "text": "are",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "tiny",
+      "start": 8.64,
+      "end": 9.2
+    },
+    {
+      "text": "Far",
+      "start": 9.52,
+      "end": 9.68
+    },
+    {
+      "text": "too",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "text": "tiny",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "text": "to",
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "text": "bounce",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "text": "a",
+      "start": 10.72,
+      "end": 10.72
+    },
+    {
+      "text": "long",
+      "start": 10.72,
+      "end": 11.04
+    },
+    {
+      "text": "red",
+      "start": 11.04,
+      "end": 11.28
+    },
+    {
+      "text": "wave",
+      "start": 11.28,
+      "end": 11.52
+    },
+    {
+      "text": "off",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "text": "But",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "text": "a",
+      "start": 12.4,
+      "end": 12.4
+    },
+    {
+      "text": "short",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "text": "blue",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "wave",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "is",
+      "start": 13.68,
+      "end": 13.84
+    },
+    {
+      "text": "just",
+      "start": 13.84,
+      "end": 14.16
+    },
+    {
+      "text": "the",
+      "start": 14.16,
+      "end": 14.24
+    },
+    {
+      "text": "right",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "size",
+      "start": 14.48,
+      "end": 14.88
+    },
+    {
+      "text": "to",
+      "start": 14.88,
+      "end": 14.96
+    },
+    {
+      "text": "be",
+      "start": 14.96,
+      "end": 15.04
+    },
+    {
+      "text": "knocked",
+      "start": 15.04,
+      "end": 15.36
+    },
+    {
+      "text": "sideways",
+      "start": 15.36,
+      "end": 16.0
+    },
+    {
+      "text": "So",
+      "start": 16.354648526077096,
+      "end": 16.514648526077096
+    },
+    {
+      "text": "blue",
+      "start": 16.514648526077096,
+      "end": 16.914648526077098
+    },
+    {
+      "text": "gets",
+      "start": 16.914648526077098,
+      "end": 17.154648526077096
+    },
+    {
+      "text": "scattered",
+      "start": 17.154648526077096,
+      "end": 17.5546485260771
+    },
+    {
+      "text": "all",
+      "start": 17.634648526077097,
+      "end": 17.8746485260771
+    },
+    {
+      "text": "over",
+      "start": 17.8746485260771,
+      "end": 18.0346485260771
+    },
+    {
+      "text": "the",
+      "start": 18.0346485260771,
+      "end": 18.114648526077097
+    },
+    {
+      "text": "sky",
+      "start": 18.114648526077097,
+      "end": 18.674648526077096
+    },
+    {
+      "text": "and",
+      "start": 18.834648526077096,
+      "end": 18.994648526077096
+    },
+    {
+      "text": "that",
+      "start": 18.994648526077096,
+      "end": 19.154648526077096
+    },
+    {
+      "text": "is",
+      "start": 19.154648526077096,
+      "end": 19.314648526077097
+    },
+    {
+      "text": "what",
+      "start": 19.314648526077097,
+      "end": 19.474648526077097
+    },
+    {
+      "text": "reaches",
+      "start": 19.474648526077097,
+      "end": 19.794648526077097
+    },
+    {
+      "text": "your",
+      "start": 19.794648526077097,
+      "end": 19.954648526077097
+    },
+    {
+      "text": "eyes",
+      "start": 19.954648526077097,
+      "end": 20.434648526077098
+    },
+    {
+      "text": "At",
+      "start": 20.674648526077096,
+      "end": 20.834648526077096
+    },
+    {
+      "text": "sunset",
+      "start": 20.834648526077096,
+      "end": 21.3946485260771
+    },
+    {
+      "text": "the",
+      "start": 21.3946485260771,
+      "end": 21.474648526077097
+    },
+    {
+      "text": "light",
+      "start": 21.474648526077097,
+      "end": 21.7146485260771
+    },
+    {
+      "text": "arrives",
+      "start": 21.7146485260771,
+      "end": 22.114648526077097
+    },
+    {
+      "text": "sideways",
+      "start": 22.114648526077097,
+      "end": 22.754648526077098
+    },
+    {
+      "text": "with",
+      "start": 22.994648526077096,
+      "end": 23.074648526077098
+    },
+    {
+      "text": "far",
+      "start": 23.154648526077096,
+      "end": 23.3946485260771
+    },
+    {
+      "text": "more",
+      "start": 23.3946485260771,
+      "end": 23.5546485260771
+    },
+    {
+      "text": "air",
+      "start": 23.5546485260771,
+      "end": 23.794648526077097
+    },
+    {
+      "text": "to",
+      "start": 23.874648526077095,
+      "end": 23.874648526077095
+    },
+    {
+      "text": "cross",
+      "start": 23.874648526077095,
+      "end": 24.3546485260771
+    },
+    {
+      "text": "By",
+      "start": 24.594648526077098,
+      "end": 24.6746485260771
+    },
+    {
+      "text": "the",
+      "start": 24.6746485260771,
+      "end": 24.754648526077098
+    },
+    {
+      "text": "time",
+      "start": 24.754648526077098,
+      "end": 25.074648526077098
+    },
+    {
+      "text": "it",
+      "start": 25.074648526077098,
+      "end": 25.154648526077096
+    },
+    {
+      "text": "gets",
+      "start": 25.154648526077096,
+      "end": 25.474648526077097
+    },
+    {
+      "text": "to",
+      "start": 25.474648526077097,
+      "end": 25.474648526077097
+    },
+    {
+      "text": "you",
+      "start": 25.474648526077097,
+      "end": 25.7146485260771
+    },
+    {
+      "text": "every",
+      "start": 26.0346485260771,
+      "end": 26.274648526077097
+    },
+    {
+      "text": "bit",
+      "start": 26.274648526077097,
+      "end": 26.514648526077096
+    },
+    {
+      "text": "of",
+      "start": 26.514648526077096,
+      "end": 26.594648526077098
+    },
+    {
+      "text": "blue",
+      "start": 26.594648526077098,
+      "end": 26.914648526077098
+    },
+    {
+      "text": "has",
+      "start": 26.914648526077098,
+      "end": 27.074648526077098
+    },
+    {
+      "text": "already",
+      "start": 27.074648526077098,
+      "end": 27.474648526077097
+    },
+    {
+      "text": "been",
+      "start": 27.474648526077097,
+      "end": 27.634648526077097
+    },
+    {
+      "text": "scattered",
+      "start": 27.634648526077097,
+      "end": 28.0346485260771
+    },
+    {
+      "text": "away",
+      "start": 28.0346485260771,
+      "end": 28.434648526077098
+    },
+    {
+      "text": "So",
+      "start": 28.754648526077098,
+      "end": 28.914648526077098
+    },
+    {
+      "text": "a",
+      "start": 28.914648526077098,
+      "end": 28.9946485260771
+    },
+    {
+      "text": "red",
+      "start": 28.9946485260771,
+      "end": 29.234648526077095
+    },
+    {
+      "text": "sky",
+      "start": 29.234648526077095,
+      "end": 29.7146485260771
+    },
+    {
+      "text": "is",
+      "start": 29.7146485260771,
+      "end": 29.874648526077095
+    },
+    {
+      "text": "not",
+      "start": 29.874648526077095,
+      "end": 30.114648526077097
+    },
+    {
+      "text": "different",
+      "start": 30.114648526077097,
+      "end": 30.434648526077098
+    },
+    {
+      "text": "light",
+      "start": 30.434648526077098,
+      "end": 30.834648526077096
+    },
+    {
+      "text": "It",
+      "start": 31.074648526077098,
+      "end": 31.234648526077095
+    },
+    {
+      "text": "is",
+      "start": 31.234648526077095,
+      "end": 31.314648526077097
+    },
+    {
+      "text": "the",
+      "start": 31.314648526077097,
+      "end": 31.474648526077097
+    },
+    {
+      "text": "leftovers",
+      "start": 31.474648526077097,
+      "end": 32.1146485260771
+    },
+    {
+      "text": "of",
+      "start": 32.1146485260771,
+      "end": 32.194648526077096
+    },
+    {
+      "text": "the",
+      "start": 32.194648526077096,
+      "end": 32.2746485260771
+    },
+    {
+      "text": "same",
+      "start": 32.2746485260771,
+      "end": 32.594648526077094
+    },
+    {
+      "text": "light",
+      "start": 32.594648526077094,
+      "end": 32.9146485260771
+    },
+    {
+      "text": "One",
+      "start": 33.25430839002267,
+      "end": 33.494308390022674
+    },
+    {
+      "text": "of",
+      "start": 33.494308390022674,
+      "end": 33.57430839002267
+    },
+    {
+      "text": "these",
+      "start": 33.57430839002267,
+      "end": 33.89430839002267
+    },
+    {
+      "text": "every",
+      "start": 33.89430839002267,
+      "end": 34.21430839002267
+    },
+    {
+      "text": "day",
+      "start": 34.21430839002267,
+      "end": 34.53430839002267
+    },
+    {
+      "text": "Follow",
+      "start": 34.85430839002267,
+      "end": 35.094308390022675
+    },
+    {
+      "text": "so",
+      "start": 35.094308390022675,
+      "end": 35.25430839002267
+    },
+    {
+      "text": "you",
+      "start": 35.25430839002267,
+      "end": 35.414308390022676
+    },
+    {
+      "text": "do",
+      "start": 35.414308390022676,
+      "end": 35.57430839002267
+    },
+    {
+      "text": "not",
+      "start": 35.57430839002267,
+      "end": 35.814308390022674
+    },
+    {
+      "text": "miss",
+      "start": 35.814308390022674,
+      "end": 36.054308390022676
+    },
+    {
+      "text": "tomorrow",
+      "start": 36.054308390022676,
+      "end": 36.61430839002268
+    }
+  ],
+  "text": "The sky is blue for exactly the same reason a sunset is red. Sunlight looks white, but it is every colour stacked on top of each other. Air molecules are tiny. Far too tiny to bounce a long red wave off. But a short blue wave is just the right size to be knocked sideways. So blue gets scattered all over the sky, and that is what reaches your eyes. At sunset the light arrives sideways, with far more air to cross. By the time it gets to you, every bit of blue has already been scattered away. So a red sky is not different light. It is the leftovers of the same light. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

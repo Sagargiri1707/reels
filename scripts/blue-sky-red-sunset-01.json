@@ -1,0 +1,95 @@
+{
+  "topic": "Why the sky is blue and sunsets are red",
+  "lesson": "Blue light is knocked sideways by air molecules far more than red light, so blue arrives from the whole sky by day, and at sunset the light crosses so much air that the blue has all been scattered away before it reaches you.",
+  "slug": "blue-sky-red-sunset-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The sky is blue for exactly the same reason a sunset is red.",
+      "scene": "a paint colour swatch fan opened wide on a bare surface, a small black cartoon figure tugging one blue chip and one red chip out of the same spread",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paint colour swatch fan opened wide on a bare surface, a small black cartoon figure tugging one blue chip and one red chip out of the same spread. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Sunlight looks white, but it is every colour stacked on top of each other.",
+      "scene": "a heavy glass prism on the surface, a small black cartoon figure feeding a white ribbon into one face while a fan of coloured ribbons spills from the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy glass prism on the surface, a small black cartoon figure feeding a white ribbon into one face while a fan of coloured ribbons spills from the other. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Air molecules are tiny. Far too tiny to bounce a long red wave off.",
+      "scene": "a fine wire mesh strainer held flat, a small black cartoon figure rolling a large red marble across the mesh where it stays on top and drops off the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fine wire mesh strainer held flat, a small black cartoon figure rolling a large red marble across the mesh where it stays on top and drops off the rim. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "But a short blue wave is just the right size to be knocked sideways.",
+      "scene": "a shallow tray of scattered steel ball bearings, a small black cartoon figure flicking one small blue bead in and it ricochets off in every direction",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow tray of scattered steel ball bearings, a small black cartoon figure flicking one small blue bead in and it ricochets off in every direction. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "So blue gets scattered all over the sky, and that is what reaches your eyes.",
+      "scene": "a wide shallow bowl of water glowing faint blue from a few drops of milk, a small black cartoon figure leaning over the rim and stirring it with a spoon",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide shallow bowl of water glowing faint blue from a few drops of milk, a small black cartoon figure leaning over the rim and stirring it with a spoon. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "At sunset the light arrives sideways, with far more air to cross.",
+      "scene": "a long clear plastic tube lying flat, a small black cartoon figure pressing a small torch hard against one open end, the beam travelling its whole length",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long clear plastic tube lying flat, a small black cartoon figure pressing a small torch hard against one open end, the beam travelling its whole length. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "By the time it gets to you, every bit of blue has already been scattered away.",
+      "scene": "a white ribbon threaded through a long row of clothes pegs, a small black cartoon figure pulling blue pegs off one by one until only a red tail is left",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a white ribbon threaded through a long row of clothes pegs, a small black cartoon figure pulling blue pegs off one by one until only a red tail is left. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "So a red sky is not different light. It is the leftovers of the same light.",
+      "scene": "the same colour swatch fan, a small black cartoon figure sliding the blue chip back into the spread and holding the red one up alone",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same colour swatch fan, a small black cartoon figure sliding the blue chip back into the spread and holding the red one up alone. the scene belongs to sunlight being split and filtered by air, shown as simple tabletop light demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Blue light bounces off air molecules far more easily than red light does. By day that scattered blue reaches you from the whole sky. At sunset the light travels through so much more air that the blue is scattered away entirely, and what is left over is red.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #sunset #sky #physics #light #science",
+    "thumbnail_beat": "05"
+  }
+}

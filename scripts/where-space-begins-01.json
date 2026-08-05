@@ -1,0 +1,98 @@
+{
+  "topic": "Where does space actually begin?",
+  "lesson": "The air you can breathe is a shell so thin it is a rounding error on the size of the planet, and the line we call the edge of space is an agreed number rather than a real boundary.",
+  "slug": "where-space-begins-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "If Earth were an apple, the air you breathe would be thinner than the skin.",
+      "scene": "a single red apple on a bare surface, a small black cartoon figure peeling one paper thin curl of skin away and holding it up to the light",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single red apple on a bare surface, a small black cartoon figure peeling one paper thin curl of skin away and holding it up to the light. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "From down here the sky looks like it just keeps going.",
+      "anchored": false,
+      "grounded": "contains no planet, rocket, spacecraft, star or other space object",
+      "scene": "a wooden stepladder standing open on a bare surface, a small black cartoon figure on the top step stretching one arm straight up into empty air",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden stepladder standing open on a bare surface, a small black cartoon figure on the top step stretching one arm straight up into empty air. this is an ordinary everyday scene and contains no planet, rocket, spacecraft, star or other space object; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But almost everything you have ever called sky sits in the bottom twelve kilometres.",
+      "scene": "a tall glass measuring cylinder standing upright, a small black cartoon figure pressing a strip of blue tape across it very near the base",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass measuring cylinder standing upright, a small black cartoon figure pressing a strip of blue tape across it very near the base. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Everest, every cloud, every plane you have ever flown in. All inside that band.",
+      "scene": "a wide glass jar lying on its side, a small black cartoon figure pushing a small paper plane into the lowest layer beside a wisp of cotton",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide glass jar lying on its side, a small black cartoon figure pushing a small paper plane into the lowest layer beside a wisp of cotton. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Go higher and the air just thins out. There is no wall to hit.",
+      "scene": "a spray bottle standing on the surface with fine mist hanging above it, a small black cartoon figure swiping a butterfly net through the thinning droplets and catching nothing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spray bottle standing on the surface with fine mist hanging above it, a small black cartoon figure swiping a butterfly net through the thinning droplets and catching nothing. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "So in the nineteen fifties, someone simply picked a number and called it the edge.",
+      "scene": "a long wooden ruler standing on end, a small black cartoon figure leaning hard on a thick pencil to score one firm line across it",
+      "image_text": "100 KM",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long wooden ruler standing on end, a small black cartoon figure leaning hard on a thick pencil to score one firm line across it. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"100 KM\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Nothing changes at that line. The air had already given up long before it.",
+      "scene": "a length of red ribbon stretched taut between two clamps, a small black cartoon figure striding straight through it as though it were not there",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of red ribbon stretched taut between two clamps, a small black cartoon figure striding straight through it as though it were not there. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "So space does not begin anywhere. We just agreed where to stop calling it sky.",
+      "scene": "the same red apple, a small black cartoon figure smoothing the peeled curl of skin back into place and pressing a tiny paper flag into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same red apple, a small black cartoon figure smoothing the peeled curl of skin back into place and pressing a tiny paper flag into it. the scene belongs to the thinness of Earth's breathable air and the arbitrary line drawn above it, shown as simple tabletop measuring demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "There is no edge of space. The breathable air is a shell so thin that on an apple-sized Earth it would be thinner than the skin, and the hundred kilometre line everyone quotes is an agreed convenience, not a boundary. The air had already run out long before you reach it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #space #atmosphere #karmanline #astronomy #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "audio_duration": 38.7395,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "lightning",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "bolt",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "text": "is",
+      "start": 1.04,
+      "end": 1.2
+    },
+    {
+      "text": "five",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "text": "times",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "text": "hotter",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "text": "than",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "the",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "text": "surface",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "text": "of",
+      "start": 2.72,
+      "end": 2.8
+    },
+    {
+      "text": "the",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "Sun",
+      "start": 2.88,
+      "end": 3.36
+    },
+    {
+      "text": "You",
+      "start": 3.68,
+      "end": 3.92
+    },
+    {
+      "text": "make",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "text": "lightning",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "text": "yourself",
+      "start": 4.56,
+      "end": 5.12
+    },
+    {
+      "text": "Every",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "time",
+      "start": 5.76,
+      "end": 6.0
+    },
+    {
+      "text": "you",
+      "start": 6.0,
+      "end": 6.08
+    },
+    {
+      "text": "touch",
+      "start": 6.08,
+      "end": 6.32
+    },
+    {
+      "text": "a",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "door",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "text": "handle",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "in",
+      "start": 6.96,
+      "end": 7.12
+    },
+    {
+      "text": "winter",
+      "start": 7.12,
+      "end": 7.52
+    },
+    {
+      "text": "Same",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "physics",
+      "start": 8.08,
+      "end": 8.64
+    },
+    {
+      "text": "both",
+      "start": 8.8,
+      "end": 9.04
+    },
+    {
+      "text": "times",
+      "start": 9.04,
+      "end": 9.52
+    },
+    {
+      "text": "Rub",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "text": "two",
+      "start": 10.16,
+      "end": 10.32
+    },
+    {
+      "text": "things",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "text": "together",
+      "start": 10.64,
+      "end": 11.04
+    },
+    {
+      "text": "and",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "the",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "charge",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "separates",
+      "start": 11.68,
+      "end": 12.32
+    },
+    {
+      "text": "Inside",
+      "start": 12.56,
+      "end": 12.96
+    },
+    {
+      "text": "a",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "storm",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "text": "cloud",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "text": "ice",
+      "start": 14.0,
+      "end": 14.32
+    },
+    {
+      "text": "does",
+      "start": 14.32,
+      "end": 14.64
+    },
+    {
+      "text": "the",
+      "start": 14.64,
+      "end": 14.72
+    },
+    {
+      "text": "rubbing",
+      "start": 14.72,
+      "end": 15.2
+    },
+    {
+      "text": "Millions",
+      "start": 15.36,
+      "end": 15.92
+    },
+    {
+      "text": "of",
+      "start": 15.92,
+      "end": 16.0
+    },
+    {
+      "text": "collisions",
+      "start": 16.0,
+      "end": 16.48
+    },
+    {
+      "text": "every",
+      "start": 16.48,
+      "end": 16.8
+    },
+    {
+      "text": "second",
+      "start": 16.8,
+      "end": 17.28
+    },
+    {
+      "text": "Light",
+      "start": 17.701405895691607,
+      "end": 18.021405895691608
+    },
+    {
+      "text": "ice",
+      "start": 18.021405895691608,
+      "end": 18.341405895691608
+    },
+    {
+      "text": "floats",
+      "start": 18.341405895691608,
+      "end": 18.74140589569161
+    },
+    {
+      "text": "up",
+      "start": 18.74140589569161,
+      "end": 18.90140589569161
+    },
+    {
+      "text": "positive",
+      "start": 18.90140589569161,
+      "end": 19.381405895691607
+    },
+    {
+      "text": "Heavy",
+      "start": 19.701405895691607,
+      "end": 20.021405895691608
+    },
+    {
+      "text": "hail",
+      "start": 20.021405895691608,
+      "end": 20.341405895691608
+    },
+    {
+      "text": "sinks",
+      "start": 20.341405895691608,
+      "end": 20.66140589569161
+    },
+    {
+      "text": "down",
+      "start": 20.66140589569161,
+      "end": 20.98140589569161
+    },
+    {
+      "text": "negative",
+      "start": 20.98140589569161,
+      "end": 21.46140589569161
+    },
+    {
+      "text": "The",
+      "start": 21.62140589569161,
+      "end": 21.78140589569161
+    },
+    {
+      "text": "gap",
+      "start": 21.78140589569161,
+      "end": 22.021405895691608
+    },
+    {
+      "text": "grows",
+      "start": 22.021405895691608,
+      "end": 22.58140589569161
+    },
+    {
+      "text": "When",
+      "start": 22.90140589569161,
+      "end": 23.061405895691607
+    },
+    {
+      "text": "that",
+      "start": 23.061405895691607,
+      "end": 23.22140589569161
+    },
+    {
+      "text": "gap",
+      "start": 23.22140589569161,
+      "end": 23.54140589569161
+    },
+    {
+      "text": "finally",
+      "start": 23.54140589569161,
+      "end": 23.86140589569161
+    },
+    {
+      "text": "breaks",
+      "start": 23.86140589569161,
+      "end": 24.341405895691608
+    },
+    {
+      "text": "thirty",
+      "start": 24.58140589569161,
+      "end": 24.82140589569161
+    },
+    {
+      "text": "thousand",
+      "start": 24.82140589569161,
+      "end": 25.22140589569161
+    },
+    {
+      "text": "amps",
+      "start": 25.22140589569161,
+      "end": 25.54140589569161
+    },
+    {
+      "text": "take",
+      "start": 25.62140589569161,
+      "end": 25.78140589569161
+    },
+    {
+      "text": "the",
+      "start": 25.78140589569161,
+      "end": 25.94140589569161
+    },
+    {
+      "text": "shortest",
+      "start": 25.94140589569161,
+      "end": 26.341405895691608
+    },
+    {
+      "text": "way",
+      "start": 26.341405895691608,
+      "end": 26.58140589569161
+    },
+    {
+      "text": "down",
+      "start": 26.58140589569161,
+      "end": 26.98140589569161
+    },
+    {
+      "text": "Thunder",
+      "start": 27.30140589569161,
+      "end": 27.62140589569161
+    },
+    {
+      "text": "is",
+      "start": 27.62140589569161,
+      "end": 27.86140589569161
+    },
+    {
+      "text": "not",
+      "start": 27.86140589569161,
+      "end": 28.021405895691608
+    },
+    {
+      "text": "the",
+      "start": 28.021405895691608,
+      "end": 28.10140589569161
+    },
+    {
+      "text": "strike",
+      "start": 28.10140589569161,
+      "end": 28.58140589569161
+    },
+    {
+      "text": "It",
+      "start": 28.82140589569161,
+      "end": 28.90140589569161
+    },
+    {
+      "text": "is",
+      "start": 28.90140589569161,
+      "end": 29.061405895691607
+    },
+    {
+      "text": "air",
+      "start": 29.061405895691607,
+      "end": 29.30140589569161
+    },
+    {
+      "text": "heated",
+      "start": 29.30140589569161,
+      "end": 29.62140589569161
+    },
+    {
+      "text": "so",
+      "start": 29.62140589569161,
+      "end": 29.86140589569161
+    },
+    {
+      "text": "fast",
+      "start": 29.86140589569161,
+      "end": 30.341405895691608
+    },
+    {
+      "text": "that",
+      "start": 30.42140589569161,
+      "end": 30.58140589569161
+    },
+    {
+      "text": "it",
+      "start": 30.58140589569161,
+      "end": 30.66140589569161
+    },
+    {
+      "text": "explodes",
+      "start": 30.66140589569161,
+      "end": 31.30140589569161
+    },
+    {
+      "text": "So",
+      "start": 31.623492063492062,
+      "end": 31.783492063492062
+    },
+    {
+      "text": "when",
+      "start": 31.783492063492062,
+      "end": 31.943492063492062
+    },
+    {
+      "text": "you",
+      "start": 31.943492063492062,
+      "end": 32.10349206349206
+    },
+    {
+      "text": "count",
+      "start": 32.10349206349206,
+      "end": 32.343492063492064
+    },
+    {
+      "text": "the",
+      "start": 32.343492063492064,
+      "end": 32.42349206349206
+    },
+    {
+      "text": "seconds",
+      "start": 32.42349206349206,
+      "end": 32.983492063492065
+    },
+    {
+      "text": "you",
+      "start": 33.14349206349206,
+      "end": 33.303492063492065
+    },
+    {
+      "text": "are",
+      "start": 33.303492063492065,
+      "end": 33.38349206349206
+    },
+    {
+      "text": "just",
+      "start": 33.38349206349206,
+      "end": 33.703492063492064
+    },
+    {
+      "text": "listening",
+      "start": 33.703492063492064,
+      "end": 34.10349206349206
+    },
+    {
+      "text": "to",
+      "start": 34.10349206349206,
+      "end": 34.18349206349206
+    },
+    {
+      "text": "the",
+      "start": 34.18349206349206,
+      "end": 34.26349206349206
+    },
+    {
+      "text": "air",
+      "start": 34.343492063492064,
+      "end": 34.50349206349206
+    },
+    {
+      "text": "catch",
+      "start": 34.50349206349206,
+      "end": 34.82349206349206
+    },
+    {
+      "text": "up",
+      "start": 34.82349206349206,
+      "end": 35.06349206349206
+    },
+    {
+      "text": "One",
+      "start": 35.30349206349206,
+      "end": 35.54349206349206
+    },
+    {
+      "text": "of",
+      "start": 35.54349206349206,
+      "end": 35.623492063492066
+    },
+    {
+      "text": "these",
+      "start": 35.623492063492066,
+      "end": 35.86349206349206
+    },
+    {
+      "text": "every",
+      "start": 35.86349206349206,
+      "end": 36.18349206349206
+    },
+    {
+      "text": "day",
+      "start": 36.18349206349206,
+      "end": 36.50349206349206
+    },
+    {
+      "text": "Follow",
+      "start": 36.82349206349206,
+      "end": 37.06349206349206
+    },
+    {
+      "text": "so",
+      "start": 37.06349206349206,
+      "end": 37.22349206349206
+    },
+    {
+      "text": "you",
+      "start": 37.22349206349206,
+      "end": 37.38349206349206
+    },
+    {
+      "text": "do",
+      "start": 37.38349206349206,
+      "end": 37.54349206349206
+    },
+    {
+      "text": "not",
+      "start": 37.54349206349206,
+      "end": 37.703492063492064
+    },
+    {
+      "text": "miss",
+      "start": 37.703492063492064,
+      "end": 38.023492063492064
+    },
+    {
+      "text": "tomorrow",
+      "start": 38.023492063492064,
+      "end": 38.50349206349206
+    }
+  ],
+  "text": "A lightning bolt is five times hotter than the surface of the Sun. You make lightning yourself. Every time you touch a door handle in winter. Same physics, both times. Rub two things together and the charge separates. Inside a storm cloud, ice does the rubbing. Millions of collisions every second. Light ice floats up positive. Heavy hail sinks down negative. The gap grows. When that gap finally breaks, thirty thousand amps take the shortest way down. Thunder is not the strike. It is air heated so fast that it explodes. So when you count the seconds, you are just listening to the air catch up. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

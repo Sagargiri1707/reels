@@ -153,42 +153,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 4 — ATMOSPHERE & WEATHER (Days 19–24)
 
-- [ ] **Day 19 — Where does space actually begin?**
+- [x] **Day 19 — Where does space actually begin?**
       Hook: "If Earth were an apple, the breathable atmosphere would be thinner than the skin."
       The layers — troposphere, stratosphere, mesosphere, thermosphere — and the Kármán line at 100 km as an agreed-on but arbitrary boundary.
       Angle: nearly all weather, all clouds and every commercial flight happen in the bottom 12 km. Everything you've ever experienced as "sky" is a very thin shell.
       Visual: vertical scale bar with Everest, cruising aircraft, weather balloon, ISS, all to scale.
       End on: "And that thin shell is why the sky has a colour at all."
 
-- [ ] **Day 20 — Why the sky is blue and sunsets are red**
+- [x] **Day 20 — Why the sky is blue and sunsets are red**
       Hook: "Same sky, same sunlight, two different colours. One explanation."
       Rayleigh scattering: shorter blue wavelengths bounce off air molecules far more than red. At sunset, light travels through much more atmosphere, so blue is scattered out entirely and red survives.
       Angle: it's also why the sky is black in space and why Mars gets _blue_ sunsets — the dust there scatters the opposite way.
       Visual: a beam through a tank of water with a few drops of milk — the actual demo, filmed live.
       End on: "The sky's other trick: it holds up things that weigh as much as a hundred elephants."
 
-- [ ] **Day 21 — Clouds weigh hundreds of tonnes. Why don't they fall?**
+- [x] **Day 21 — Clouds weigh hundreds of tonnes. Why don't they fall?**
       Hook: "An average cumulus cloud weighs about 500 tonnes."
       Water droplets are tiny — millionths of a metre — so air resistance dominates and they fall extremely slowly, while warm rising air pushes them back up.
       Angle: they _are_ falling. Constantly. Just at centimetres per second, into air moving upward faster. Rain happens when droplets merge and finally win.
       Visual: one giant droplet dropping like a stone, then a million tiny ones drifting like dust.
       End on: "When clouds get violent, they make something hotter than the Sun's surface."
 
-- [ ] **Day 22 — Lightning is static electricity, scaled up**
+- [x] **Day 22 — Lightning is static electricity, scaled up**
       Hook: "A lightning bolt is five times hotter than the surface of the Sun."
       Ice crystals and hail colliding inside a cloud separate charge — negative at the bottom, positive at the top. When the gap breaks down, a 30,000-amp discharge follows an ionised channel.
       Angle: thunder isn't the strike — it's air heated so fast it explodes outward as a shockwave. That's why light arrives before sound.
       Visual: slow-motion strike, then the charge diagram, then the 5-second-per-mile counting trick.
       End on: "Scale that storm up a thousand times and you get something with a name."
 
-- [ ] **Day 23 — How a cyclone is born**
+- [x] **Day 23 — How a cyclone is born**
       Hook: "It needs ocean water above 26°C. That's the whole starting condition."
       Warm water evaporates, rises, condenses and releases heat, which pulls in more air — a feedback loop. The Coriolis effect from Earth's rotation gives it spin and the eye.
       Angle: this is why cyclones never form at the equator (no Coriolis) and why they die over land (fuel supply cut). Warmer oceans mean stronger, wetter storms.
       Visual: satellite loop of a Bay of Bengal cyclone forming, with the feedback loop drawn over it.
       End on: "We've broken this atmosphere before. And once, we actually fixed it."
 
-- [ ] **Day 24 — The ozone hole is healing** _(bridge)_
+- [x] **Day 24 — The ozone hole is healing** _(bridge)_
       Hook: "The biggest environmental disaster of the 1980s is on track to be gone by 2066."
       CFCs from fridges and sprays were destroying stratospheric ozone. The Montreal Protocol in 1987 was signed by every country on Earth, and the hole has been measurably shrinking since 2000.
       Angle: the honest, useful takeaway — it worked because there were cheap substitutes and a small number of manufacturers. Worth stating plainly rather than as easy optimism.

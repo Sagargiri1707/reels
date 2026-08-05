@@ -1,0 +1,628 @@
+{
+  "audio_duration": 37.72075,
+  "segments": [
+    {
+      "text": "If",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "Earth",
+      "start": 0.24,
+      "end": 0.48
+    },
+    {
+      "text": "were",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "an",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "text": "apple",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "the",
+      "start": 1.36,
+      "end": 1.44
+    },
+    {
+      "text": "air",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "text": "you",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "text": "breathe",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "text": "would",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "text": "be",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "text": "thinner",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "text": "than",
+      "start": 2.8,
+      "end": 2.96
+    },
+    {
+      "text": "the",
+      "start": 2.96,
+      "end": 3.04
+    },
+    {
+      "text": "skin",
+      "start": 3.04,
+      "end": 3.52
+    },
+    {
+      "text": "From",
+      "start": 3.92,
+      "end": 4.08
+    },
+    {
+      "text": "down",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "text": "here",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "the",
+      "start": 4.64,
+      "end": 4.72
+    },
+    {
+      "text": "sky",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "looks",
+      "start": 5.12,
+      "end": 5.36
+    },
+    {
+      "text": "like",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "text": "it",
+      "start": 5.44,
+      "end": 5.6
+    },
+    {
+      "text": "just",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "text": "keeps",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "going",
+      "start": 6.08,
+      "end": 6.56
+    },
+    {
+      "text": "But",
+      "start": 6.96,
+      "end": 7.12
+    },
+    {
+      "text": "almost",
+      "start": 7.12,
+      "end": 7.44
+    },
+    {
+      "text": "everything",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "text": "you",
+      "start": 7.92,
+      "end": 8.08
+    },
+    {
+      "text": "have",
+      "start": 8.08,
+      "end": 8.24
+    },
+    {
+      "text": "ever",
+      "start": 8.24,
+      "end": 8.48
+    },
+    {
+      "text": "called",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "sky",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "text": "sits",
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "text": "in",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "the",
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "text": "bottom",
+      "start": 9.92,
+      "end": 10.32
+    },
+    {
+      "text": "twelve",
+      "start": 10.32,
+      "end": 10.56
+    },
+    {
+      "text": "kilometres",
+      "start": 10.56,
+      "end": 11.28
+    },
+    {
+      "text": "Everest",
+      "start": 11.6,
+      "end": 12.16
+    },
+    {
+      "text": "every",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "cloud",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "text": "every",
+      "start": 13.36,
+      "end": 13.6
+    },
+    {
+      "text": "plane",
+      "start": 13.6,
+      "end": 13.92
+    },
+    {
+      "text": "you",
+      "start": 13.92,
+      "end": 14.08
+    },
+    {
+      "text": "have",
+      "start": 14.08,
+      "end": 14.24
+    },
+    {
+      "text": "ever",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "flown",
+      "start": 14.48,
+      "end": 14.8
+    },
+    {
+      "text": "in",
+      "start": 14.8,
+      "end": 15.12
+    },
+    {
+      "text": "All",
+      "start": 15.44,
+      "end": 15.76
+    },
+    {
+      "text": "inside",
+      "start": 15.76,
+      "end": 16.16
+    },
+    {
+      "text": "that",
+      "start": 16.16,
+      "end": 16.32
+    },
+    {
+      "text": "band",
+      "start": 16.32,
+      "end": 16.72
+    },
+    {
+      "text": "Go",
+      "start": 17.190566893424034,
+      "end": 17.510566893424034
+    },
+    {
+      "text": "higher",
+      "start": 17.510566893424034,
+      "end": 17.910566893424036
+    },
+    {
+      "text": "and",
+      "start": 18.070566893424036,
+      "end": 18.230566893424037
+    },
+    {
+      "text": "the",
+      "start": 18.230566893424037,
+      "end": 18.310566893424035
+    },
+    {
+      "text": "air",
+      "start": 18.310566893424035,
+      "end": 18.550566893424037
+    },
+    {
+      "text": "just",
+      "start": 18.550566893424037,
+      "end": 18.870566893424034
+    },
+    {
+      "text": "thins",
+      "start": 18.870566893424034,
+      "end": 19.110566893424036
+    },
+    {
+      "text": "out",
+      "start": 19.110566893424036,
+      "end": 19.430566893424036
+    },
+    {
+      "text": "There",
+      "start": 19.670566893424034,
+      "end": 19.830566893424034
+    },
+    {
+      "text": "is",
+      "start": 19.830566893424034,
+      "end": 19.910566893424036
+    },
+    {
+      "text": "no",
+      "start": 19.910566893424036,
+      "end": 20.150566893424035
+    },
+    {
+      "text": "wall",
+      "start": 20.150566893424035,
+      "end": 20.470566893424035
+    },
+    {
+      "text": "to",
+      "start": 20.470566893424035,
+      "end": 20.550566893424037
+    },
+    {
+      "text": "hit",
+      "start": 20.550566893424037,
+      "end": 20.870566893424034
+    },
+    {
+      "text": "So",
+      "start": 21.110566893424036,
+      "end": 21.350566893424038
+    },
+    {
+      "text": "in",
+      "start": 21.350566893424038,
+      "end": 21.430566893424036
+    },
+    {
+      "text": "the",
+      "start": 21.430566893424036,
+      "end": 21.430566893424036
+    },
+    {
+      "text": "nineteen",
+      "start": 21.430566893424036,
+      "end": 21.910566893424036
+    },
+    {
+      "text": "fifties",
+      "start": 21.910566893424036,
+      "end": 22.470566893424035
+    },
+    {
+      "text": "someone",
+      "start": 22.630566893424035,
+      "end": 23.030566893424037
+    },
+    {
+      "text": "simply",
+      "start": 23.030566893424037,
+      "end": 23.350566893424038
+    },
+    {
+      "text": "picked",
+      "start": 23.350566893424038,
+      "end": 23.670566893424034
+    },
+    {
+      "text": "a",
+      "start": 23.670566893424034,
+      "end": 23.670566893424034
+    },
+    {
+      "text": "number",
+      "start": 23.670566893424034,
+      "end": 24.070566893424036
+    },
+    {
+      "text": "and",
+      "start": 24.150566893424035,
+      "end": 24.230566893424037
+    },
+    {
+      "text": "called",
+      "start": 24.230566893424037,
+      "end": 24.470566893424035
+    },
+    {
+      "text": "it",
+      "start": 24.470566893424035,
+      "end": 24.630566893424035
+    },
+    {
+      "text": "the",
+      "start": 24.630566893424035,
+      "end": 24.790566893424035
+    },
+    {
+      "text": "edge",
+      "start": 24.790566893424035,
+      "end": 25.110566893424036
+    },
+    {
+      "text": "Nothing",
+      "start": 25.430566893424036,
+      "end": 25.830566893424034
+    },
+    {
+      "text": "changes",
+      "start": 25.830566893424034,
+      "end": 26.310566893424035
+    },
+    {
+      "text": "at",
+      "start": 26.310566893424035,
+      "end": 26.390566893424037
+    },
+    {
+      "text": "that",
+      "start": 26.390566893424037,
+      "end": 26.550566893424033
+    },
+    {
+      "text": "line",
+      "start": 26.550566893424033,
+      "end": 26.950566893424035
+    },
+    {
+      "text": "The",
+      "start": 27.270566893424036,
+      "end": 27.350566893424038
+    },
+    {
+      "text": "air",
+      "start": 27.350566893424038,
+      "end": 27.590566893424036
+    },
+    {
+      "text": "had",
+      "start": 27.590566893424036,
+      "end": 27.750566893424036
+    },
+    {
+      "text": "already",
+      "start": 27.750566893424036,
+      "end": 28.150566893424035
+    },
+    {
+      "text": "given",
+      "start": 28.150566893424035,
+      "end": 28.390566893424037
+    },
+    {
+      "text": "up",
+      "start": 28.390566893424037,
+      "end": 28.550566893424033
+    },
+    {
+      "text": "long",
+      "start": 28.550566893424033,
+      "end": 28.870566893424034
+    },
+    {
+      "text": "before",
+      "start": 28.870566893424034,
+      "end": 29.270566893424036
+    },
+    {
+      "text": "it",
+      "start": 29.270566893424036,
+      "end": 29.430566893424036
+    },
+    {
+      "text": "So",
+      "start": 29.590566893424036,
+      "end": 29.830566893424034
+    },
+    {
+      "text": "space",
+      "start": 29.830566893424034,
+      "end": 30.230566893424033
+    },
+    {
+      "text": "does",
+      "start": 30.230566893424033,
+      "end": 30.390566893424037
+    },
+    {
+      "text": "not",
+      "start": 30.390566893424037,
+      "end": 30.550566893424033
+    },
+    {
+      "text": "begin",
+      "start": 30.630566893424035,
+      "end": 30.870566893424034
+    },
+    {
+      "text": "anywhere",
+      "start": 30.870566893424034,
+      "end": 31.430566893424036
+    },
+    {
+      "text": "We",
+      "start": 31.670566893424038,
+      "end": 31.830566893424034
+    },
+    {
+      "text": "just",
+      "start": 31.830566893424034,
+      "end": 32.070566893424036
+    },
+    {
+      "text": "agreed",
+      "start": 32.070566893424036,
+      "end": 32.470566893424035
+    },
+    {
+      "text": "where",
+      "start": 32.470566893424035,
+      "end": 32.55056689342403
+    },
+    {
+      "text": "to",
+      "start": 32.55056689342403,
+      "end": 32.63056689342403
+    },
+    {
+      "text": "stop",
+      "start": 32.63056689342403,
+      "end": 33.03056689342404
+    },
+    {
+      "text": "calling",
+      "start": 33.03056689342404,
+      "end": 33.35056689342403
+    },
+    {
+      "text": "it",
+      "start": 33.35056689342403,
+      "end": 33.430566893424036
+    },
+    {
+      "text": "sky",
+      "start": 33.430566893424036,
+      "end": 33.91056689342403
+    },
+    {
+      "text": "One",
+      "start": 34.32321995464853,
+      "end": 34.563219954648524
+    },
+    {
+      "text": "of",
+      "start": 34.563219954648524,
+      "end": 34.64321995464853
+    },
+    {
+      "text": "these",
+      "start": 34.64321995464853,
+      "end": 34.883219954648524
+    },
+    {
+      "text": "every",
+      "start": 34.883219954648524,
+      "end": 35.203219954648524
+    },
+    {
+      "text": "day",
+      "start": 35.203219954648524,
+      "end": 35.523219954648525
+    },
+    {
+      "text": "Follow",
+      "start": 35.843219954648525,
+      "end": 36.163219954648525
+    },
+    {
+      "text": "so",
+      "start": 36.163219954648525,
+      "end": 36.32321995464853
+    },
+    {
+      "text": "you",
+      "start": 36.32321995464853,
+      "end": 36.483219954648526
+    },
+    {
+      "text": "do",
+      "start": 36.483219954648526,
+      "end": 36.563219954648524
+    },
+    {
+      "text": "not",
+      "start": 36.563219954648524,
+      "end": 36.803219954648526
+    },
+    {
+      "text": "miss",
+      "start": 36.803219954648526,
+      "end": 36.96321995464853
+    },
+    {
+      "text": "tomorrow",
+      "start": 36.96321995464853,
+      "end": 37.60321995464853
+    }
+  ],
+  "text": "If Earth were an apple, the air you breathe would be thinner than the skin. From down here the sky looks like it just keeps going. But almost everything you have ever called sky sits in the bottom twelve kilometres. Everest, every cloud, every plane you have ever flown in. All inside that band. Go higher and the air just thins out. There is no wall to hit. So in the nineteen fifties, someone simply picked a number and called it the edge. Nothing changes at that line. The air had already given up long before it. So space does not begin anywhere. We just agreed where to stop calling it sky. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

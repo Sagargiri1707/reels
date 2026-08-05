@@ -1,0 +1,733 @@
+{
+  "audio_duration": 44.773813,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "biggest",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "environmental",
+      "start": 0.48,
+      "end": 1.12
+    },
+    {
+      "text": "disaster",
+      "start": 1.12,
+      "end": 1.6
+    },
+    {
+      "text": "of",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "text": "the",
+      "start": 1.76,
+      "end": 1.84
+    },
+    {
+      "text": "eighties",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "text": "is",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "text": "on",
+      "start": 2.4,
+      "end": 2.72
+    },
+    {
+      "text": "track",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "text": "to",
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "text": "be",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "text": "gone",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "text": "by",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "text": "twenty",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "text": "sixty",
+      "start": 4.0,
+      "end": 4.4
+    },
+    {
+      "text": "six",
+      "start": 4.4,
+      "end": 4.96
+    },
+    {
+      "text": "Ozone",
+      "start": 5.36,
+      "end": 5.92
+    },
+    {
+      "text": "is",
+      "start": 5.92,
+      "end": 6.0
+    },
+    {
+      "text": "a",
+      "start": 6.0,
+      "end": 6.08
+    },
+    {
+      "text": "thin",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "layer",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "of",
+      "start": 6.72,
+      "end": 6.8
+    },
+    {
+      "text": "gas",
+      "start": 6.8,
+      "end": 7.2
+    },
+    {
+      "text": "that",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "text": "soaks",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "text": "up",
+      "start": 8.0,
+      "end": 8.16
+    },
+    {
+      "text": "the",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "ultraviolet",
+      "start": 8.32,
+      "end": 9.04
+    },
+    {
+      "text": "in",
+      "start": 9.04,
+      "end": 9.12
+    },
+    {
+      "text": "sunlight",
+      "start": 9.12,
+      "end": 9.76
+    },
+    {
+      "text": "Then",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "text": "fridges",
+      "start": 10.24,
+      "end": 10.72
+    },
+    {
+      "text": "and",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "hairspray",
+      "start": 10.88,
+      "end": 11.52
+    },
+    {
+      "text": "started",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "text": "leaking",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "text": "chemicals",
+      "start": 12.16,
+      "end": 12.72
+    },
+    {
+      "text": "that",
+      "start": 12.88,
+      "end": 13.04
+    },
+    {
+      "text": "tore",
+      "start": 13.04,
+      "end": 13.28
+    },
+    {
+      "text": "it",
+      "start": 13.28,
+      "end": 13.36
+    },
+    {
+      "text": "apart",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "text": "By",
+      "start": 14.2984126984127,
+      "end": 14.5384126984127
+    },
+    {
+      "text": "nineteen",
+      "start": 14.5384126984127,
+      "end": 14.938412698412698
+    },
+    {
+      "text": "eighty",
+      "start": 14.938412698412698,
+      "end": 15.178412698412698
+    },
+    {
+      "text": "five",
+      "start": 15.178412698412698,
+      "end": 15.658412698412699
+    },
+    {
+      "text": "the",
+      "start": 15.818412698412699,
+      "end": 15.898412698412699
+    },
+    {
+      "text": "hole",
+      "start": 15.898412698412699,
+      "end": 16.2184126984127
+    },
+    {
+      "text": "over",
+      "start": 16.2184126984127,
+      "end": 16.458412698412697
+    },
+    {
+      "text": "Antarctica",
+      "start": 16.458412698412697,
+      "end": 17.098412698412698
+    },
+    {
+      "text": "was",
+      "start": 17.098412698412698,
+      "end": 17.258412698412698
+    },
+    {
+      "text": "wider",
+      "start": 17.258412698412698,
+      "end": 17.6584126984127
+    },
+    {
+      "text": "than",
+      "start": 17.6584126984127,
+      "end": 17.7384126984127
+    },
+    {
+      "text": "a",
+      "start": 17.7384126984127,
+      "end": 17.8184126984127
+    },
+    {
+      "text": "continent",
+      "start": 17.8184126984127,
+      "end": 18.3784126984127
+    },
+    {
+      "text": "Then",
+      "start": 18.6984126984127,
+      "end": 19.0184126984127
+    },
+    {
+      "text": "something",
+      "start": 19.0184126984127,
+      "end": 19.4184126984127
+    },
+    {
+      "text": "almost",
+      "start": 19.4184126984127,
+      "end": 19.8184126984127
+    },
+    {
+      "text": "unheard",
+      "start": 19.8184126984127,
+      "end": 20.2184126984127
+    },
+    {
+      "text": "of",
+      "start": 20.2184126984127,
+      "end": 20.3784126984127
+    },
+    {
+      "text": "happened",
+      "start": 20.3784126984127,
+      "end": 20.778412698412698
+    },
+    {
+      "text": "Every",
+      "start": 21.1784126984127,
+      "end": 21.4984126984127
+    },
+    {
+      "text": "country",
+      "start": 21.4984126984127,
+      "end": 21.8184126984127
+    },
+    {
+      "text": "on",
+      "start": 21.8184126984127,
+      "end": 21.978412698412697
+    },
+    {
+      "text": "Earth",
+      "start": 21.978412698412697,
+      "end": 22.2184126984127
+    },
+    {
+      "text": "signed",
+      "start": 22.2184126984127,
+      "end": 22.618412698412698
+    },
+    {
+      "text": "the",
+      "start": 22.618412698412698,
+      "end": 22.6984126984127
+    },
+    {
+      "text": "same",
+      "start": 22.6984126984127,
+      "end": 23.018412698412696
+    },
+    {
+      "text": "ban",
+      "start": 23.018412698412696,
+      "end": 23.4184126984127
+    },
+    {
+      "text": "It",
+      "start": 23.7384126984127,
+      "end": 23.8984126984127
+    },
+    {
+      "text": "worked",
+      "start": 23.8984126984127,
+      "end": 24.2184126984127
+    },
+    {
+      "text": "because",
+      "start": 24.2184126984127,
+      "end": 24.4584126984127
+    },
+    {
+      "text": "the",
+      "start": 24.4584126984127,
+      "end": 24.5384126984127
+    },
+    {
+      "text": "fix",
+      "start": 24.5384126984127,
+      "end": 24.8584126984127
+    },
+    {
+      "text": "was",
+      "start": 24.8584126984127,
+      "end": 25.018412698412696
+    },
+    {
+      "text": "cheap",
+      "start": 25.018412698412696,
+      "end": 25.4184126984127
+    },
+    {
+      "text": "Swap",
+      "start": 25.658412698412697,
+      "end": 25.978412698412697
+    },
+    {
+      "text": "one",
+      "start": 25.978412698412697,
+      "end": 26.2184126984127
+    },
+    {
+      "text": "chemical",
+      "start": 26.2184126984127,
+      "end": 26.6984126984127
+    },
+    {
+      "text": "for",
+      "start": 26.6984126984127,
+      "end": 26.8584126984127
+    },
+    {
+      "text": "another",
+      "start": 26.8584126984127,
+      "end": 27.098412698412698
+    },
+    {
+      "text": "one",
+      "start": 27.098412698412698,
+      "end": 27.4184126984127
+    },
+    {
+      "text": "And",
+      "start": 27.867369614512473,
+      "end": 27.94736961451247
+    },
+    {
+      "text": "only",
+      "start": 27.94736961451247,
+      "end": 28.26736961451247
+    },
+    {
+      "text": "a",
+      "start": 28.26736961451247,
+      "end": 28.347369614512473
+    },
+    {
+      "text": "handful",
+      "start": 28.347369614512473,
+      "end": 28.827369614512474
+    },
+    {
+      "text": "of",
+      "start": 28.827369614512474,
+      "end": 28.827369614512474
+    },
+    {
+      "text": "factories",
+      "start": 28.827369614512474,
+      "end": 29.387369614512473
+    },
+    {
+      "text": "made",
+      "start": 29.387369614512473,
+      "end": 29.627369614512475
+    },
+    {
+      "text": "the",
+      "start": 29.627369614512475,
+      "end": 29.627369614512475
+    },
+    {
+      "text": "stuff",
+      "start": 29.627369614512475,
+      "end": 29.94736961451247
+    },
+    {
+      "text": "so",
+      "start": 30.26736961451247,
+      "end": 30.42736961451247
+    },
+    {
+      "text": "the",
+      "start": 30.42736961451247,
+      "end": 30.507369614512474
+    },
+    {
+      "text": "ban",
+      "start": 30.507369614512474,
+      "end": 30.827369614512474
+    },
+    {
+      "text": "had",
+      "start": 30.827369614512474,
+      "end": 30.987369614512474
+    },
+    {
+      "text": "somewhere",
+      "start": 30.987369614512474,
+      "end": 31.387369614512473
+    },
+    {
+      "text": "to",
+      "start": 31.46736961451247,
+      "end": 31.547369614512473
+    },
+    {
+      "text": "land",
+      "start": 31.547369614512473,
+      "end": 31.947369614512475
+    },
+    {
+      "text": "So",
+      "start": 32.10736961451247,
+      "end": 32.34736961451247
+    },
+    {
+      "text": "this",
+      "start": 32.34736961451247,
+      "end": 32.50736961451247
+    },
+    {
+      "text": "is",
+      "start": 32.50736961451247,
+      "end": 32.667369614512474
+    },
+    {
+      "text": "not",
+      "start": 32.667369614512474,
+      "end": 32.907369614512476
+    },
+    {
+      "text": "proof",
+      "start": 32.907369614512476,
+      "end": 33.22736961451247
+    },
+    {
+      "text": "that",
+      "start": 33.22736961451247,
+      "end": 33.307369614512474
+    },
+    {
+      "text": "we",
+      "start": 33.307369614512474,
+      "end": 33.46736961451247
+    },
+    {
+      "text": "always",
+      "start": 33.46736961451247,
+      "end": 33.78736961451247
+    },
+    {
+      "text": "fix",
+      "start": 33.78736961451247,
+      "end": 34.10736961451247
+    },
+    {
+      "text": "things",
+      "start": 34.10736961451247,
+      "end": 34.50736961451247
+    },
+    {
+      "text": "It",
+      "start": 34.667369614512474,
+      "end": 34.74736961451247
+    },
+    {
+      "text": "is",
+      "start": 34.74736961451247,
+      "end": 34.907369614512476
+    },
+    {
+      "text": "proof",
+      "start": 34.907369614512476,
+      "end": 35.22736961451247
+    },
+    {
+      "text": "that",
+      "start": 35.22736961451247,
+      "end": 35.307369614512474
+    },
+    {
+      "text": "we",
+      "start": 35.307369614512474,
+      "end": 35.46736961451247
+    },
+    {
+      "text": "can",
+      "start": 35.46736961451247,
+      "end": 35.78736961451247
+    },
+    {
+      "text": "when",
+      "start": 35.78736961451247,
+      "end": 35.86736961451247
+    },
+    {
+      "text": "it",
+      "start": 35.86736961451247,
+      "end": 35.947369614512475
+    },
+    {
+      "text": "is",
+      "start": 35.947369614512475,
+      "end": 36.10736961451247
+    },
+    {
+      "text": "easy",
+      "start": 36.10736961451247,
+      "end": 36.58736961451247
+    },
+    {
+      "text": "The",
+      "start": 36.907369614512476,
+      "end": 36.987369614512474
+    },
+    {
+      "text": "hole",
+      "start": 36.987369614512474,
+      "end": 37.307369614512474
+    },
+    {
+      "text": "is",
+      "start": 37.307369614512474,
+      "end": 37.46736961451247
+    },
+    {
+      "text": "measurably",
+      "start": 37.46736961451247,
+      "end": 37.947369614512475
+    },
+    {
+      "text": "smaller",
+      "start": 37.947369614512475,
+      "end": 38.34736961451247
+    },
+    {
+      "text": "now",
+      "start": 38.34736961451247,
+      "end": 38.74736961451247
+    },
+    {
+      "text": "We",
+      "start": 38.987369614512474,
+      "end": 39.06736961451247
+    },
+    {
+      "text": "do",
+      "start": 39.06736961451247,
+      "end": 39.22736961451247
+    },
+    {
+      "text": "not",
+      "start": 39.22736961451247,
+      "end": 39.38736961451247
+    },
+    {
+      "text": "get",
+      "start": 39.38736961451247,
+      "end": 39.627369614512475
+    },
+    {
+      "text": "to",
+      "start": 39.627369614512475,
+      "end": 39.627369614512475
+    },
+    {
+      "text": "say",
+      "start": 39.627369614512475,
+      "end": 39.86736961451247
+    },
+    {
+      "text": "that",
+      "start": 39.86736961451247,
+      "end": 40.02736961451247
+    },
+    {
+      "text": "very",
+      "start": 40.02736961451247,
+      "end": 40.34736961451247
+    },
+    {
+      "text": "often",
+      "start": 40.34736961451247,
+      "end": 40.82736961451247
+    },
+    {
+      "text": "One",
+      "start": 41.06736961451247,
+      "end": 41.307369614512474
+    },
+    {
+      "text": "of",
+      "start": 41.307369614512474,
+      "end": 41.38736961451247
+    },
+    {
+      "text": "these",
+      "start": 41.38736961451247,
+      "end": 41.627369614512475
+    },
+    {
+      "text": "every",
+      "start": 41.627369614512475,
+      "end": 41.947369614512475
+    },
+    {
+      "text": "day",
+      "start": 41.947369614512475,
+      "end": 42.267369614512475
+    },
+    {
+      "text": "Follow",
+      "start": 42.799410430839,
+      "end": 43.119410430839004
+    },
+    {
+      "text": "so",
+      "start": 43.119410430839004,
+      "end": 43.27941043083901
+    },
+    {
+      "text": "you",
+      "start": 43.27941043083901,
+      "end": 43.359410430839006
+    },
+    {
+      "text": "do",
+      "start": 43.359410430839006,
+      "end": 43.519410430839
+    },
+    {
+      "text": "not",
+      "start": 43.519410430839,
+      "end": 43.759410430839004
+    },
+    {
+      "text": "miss",
+      "start": 43.759410430839004,
+      "end": 44.079410430839005
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.079410430839005,
+      "end": 44.55941043083901
+    }
+  ],
+  "text": "The biggest environmental disaster of the eighties is on track to be gone by twenty sixty six. Ozone is a thin layer of gas that soaks up the ultraviolet in sunlight. Then fridges and hairspray started leaking chemicals that tore it apart. By nineteen eighty five, the hole over Antarctica was wider than a continent. Then something almost unheard of happened. Every country on Earth signed the same ban. It worked because the fix was cheap. Swap one chemical for another one. And only a handful of factories made the stuff, so the ban had somewhere to land. So this is not proof that we always fix things. It is proof that we can when it is easy. The hole is measurably smaller now. We do not get to say that very often. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

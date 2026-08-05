@@ -1,0 +1,98 @@
+{
+  "topic": "Clouds weigh hundreds of tonnes. Why don't they fall?",
+  "lesson": "A cloud really is hundreds of tonnes and really is falling, but its droplets are so small that air resistance slows them to a crawl and rising warm air pushes them back up.",
+  "slug": "clouds-dont-fall-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "An ordinary fluffy cloud weighs about five hundred tonnes.",
+      "scene": "a kitchen scale on a bare surface with a soft tuft of cotton wool on the pan, a small black cartoon figure hauling the needle round the dial with both arms",
+      "image_text": "500 TONNES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a kitchen scale on a bare surface with a soft tuft of cotton wool on the pan, a small black cartoon figure hauling the needle round the dial with both arms. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"500 TONNES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Anything that heavy should already be on the ground.",
+      "anchored": false,
+      "grounded": "contains no cloud, sky, rain, weather or water droplet",
+      "scene": "a heavy black bowling ball sunk deep into a soft cushion, a small black cartoon figure flattened underneath with one thin arm still sticking out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy black bowling ball sunk deep into a soft cushion, a small black cartoon figure flattened underneath with one thin arm still sticking out. this is an ordinary everyday scene and contains no cloud, sky, rain, weather or water droplet; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But a cloud is not one heavy thing. It is trillions of tiny ones.",
+      "scene": "a glass jar of fine flour on the surface, a small black cartoon figure lifting out a spoonful and letting it drift away as a slow hanging dust",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass jar of fine flour on the surface, a small black cartoon figure lifting out a spoonful and letting it drift away as a slow hanging dust. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Each droplet is a millionth of a metre across. To something that small, air is thick.",
+      "scene": "a small steel bolt and a white feather released together over a bare surface, a small black cartoon figure watching the bolt already landed while the feather still hangs",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small steel bolt and a white feather released together over a bare surface, a small black cartoon figure watching the bolt already landed while the feather still hangs. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "So they are falling. Just at about one centimetre per second.",
+      "scene": "a tall glass of thick honey with a single bead sinking through it, a small black cartoon figure slumped against the glass holding a stopwatch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass of thick honey with a single bead sinking through it, a small black cartoon figure slumped against the glass holding a stopwatch. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And underneath them, warm air is rising faster than they can drop.",
+      "scene": "a hairdryer standing on its end blowing straight up, a small black cartoon figure steadying a ping pong ball hovering in the column of air",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hairdryer standing on its end blowing straight up, a small black cartoon figure steadying a ping pong ball hovering in the column of air. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Rain only happens when droplets crash together and finally get too big to hold up.",
+      "scene": "a pane of glass laid flat and beaded with water, a small black cartoon figure shoving two small beads together with both hands until they merge and run off the edge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pane of glass laid flat and beaded with water, a small black cartoon figure shoving two small beads together with both hands until they merge and run off the edge. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "So the cloud never stopped falling. It has just been losing the whole time.",
+      "scene": "the same kitchen scale, a small black cartoon figure lifting the cotton tuft clear with one fingertip while the needle swings back to zero",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same kitchen scale, a small black cartoon figure lifting the cotton tuft clear with one fingertip while the needle swings back to zero. the scene belongs to the weight of water in the air and why tiny droplets cannot fall, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A cumulus cloud weighs around 500 tonnes, and it is falling right now. Its droplets are millionths of a metre across, so air resistance slows them to about a centimetre per second while warm air rises past them faster. Rain is what happens when droplets merge and finally win.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #clouds #weather #rain #physics #science",
+    "thumbnail_beat": "01"
+  }
+}

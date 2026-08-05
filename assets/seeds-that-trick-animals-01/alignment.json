@@ -1,0 +1,653 @@
+{
+  "audio_duration": 40.411313,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "chilli",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "is",
+      "start": 0.56,
+      "end": 0.64
+    },
+    {
+      "text": "spicy",
+      "start": 0.64,
+      "end": 1.2
+    },
+    {
+      "text": "specifically",
+      "start": 1.2,
+      "end": 2.08
+    },
+    {
+      "text": "so",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "text": "that",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "text": "mammals",
+      "start": 2.48,
+      "end": 2.96
+    },
+    {
+      "text": "will",
+      "start": 2.96,
+      "end": 3.12
+    },
+    {
+      "text": "leave",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "text": "it",
+      "start": 3.36,
+      "end": 3.36
+    },
+    {
+      "text": "alone",
+      "start": 3.36,
+      "end": 3.92
+    },
+    {
+      "text": "A",
+      "start": 4.4,
+      "end": 4.48
+    },
+    {
+      "text": "plant",
+      "start": 4.48,
+      "end": 4.88
+    },
+    {
+      "text": "cannot",
+      "start": 4.88,
+      "end": 5.28
+    },
+    {
+      "text": "move",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "So",
+      "start": 6.0,
+      "end": 6.16
+    },
+    {
+      "text": "the",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "text": "seed",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "text": "has",
+      "start": 6.56,
+      "end": 6.8
+    },
+    {
+      "text": "to",
+      "start": 6.8,
+      "end": 6.88
+    },
+    {
+      "text": "travel",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "without",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "it",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "text": "Some",
+      "start": 8.16,
+      "end": 8.48
+    },
+    {
+      "text": "seeds",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "text": "fly",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "text": "A",
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "text": "wing",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "text": "on",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "a",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "seed",
+      "start": 10.48,
+      "end": 10.8
+    },
+    {
+      "text": "is",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "just",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "text": "a",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "slower",
+      "start": 11.28,
+      "end": 11.76
+    },
+    {
+      "text": "way",
+      "start": 11.76,
+      "end": 11.92
+    },
+    {
+      "text": "to",
+      "start": 11.92,
+      "end": 12.0
+    },
+    {
+      "text": "land",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "text": "Some",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "hitch",
+      "start": 13.04,
+      "end": 13.28
+    },
+    {
+      "text": "a",
+      "start": 13.28,
+      "end": 13.36
+    },
+    {
+      "text": "ride",
+      "start": 13.36,
+      "end": 13.84
+    },
+    {
+      "text": "Hooks",
+      "start": 14.0,
+      "end": 14.24
+    },
+    {
+      "text": "that",
+      "start": 14.32,
+      "end": 14.4
+    },
+    {
+      "text": "grab",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "any",
+      "start": 14.8,
+      "end": 15.04
+    },
+    {
+      "text": "coat",
+      "start": 15.04,
+      "end": 15.36
+    },
+    {
+      "text": "that",
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "text": "brushes",
+      "start": 15.52,
+      "end": 15.92
+    },
+    {
+      "text": "past",
+      "start": 15.92,
+      "end": 16.4
+    },
+    {
+      "text": "Some",
+      "start": 16.64,
+      "end": 16.96
+    },
+    {
+      "text": "float",
+      "start": 16.96,
+      "end": 17.44
+    },
+    {
+      "text": "A",
+      "start": 17.794285714285714,
+      "end": 17.874285714285715
+    },
+    {
+      "text": "coconut",
+      "start": 17.874285714285715,
+      "end": 18.354285714285716
+    },
+    {
+      "text": "can",
+      "start": 18.354285714285716,
+      "end": 18.514285714285716
+    },
+    {
+      "text": "cross",
+      "start": 18.514285714285716,
+      "end": 18.834285714285716
+    },
+    {
+      "text": "an",
+      "start": 18.834285714285716,
+      "end": 18.994285714285716
+    },
+    {
+      "text": "ocean",
+      "start": 18.994285714285716,
+      "end": 19.314285714285717
+    },
+    {
+      "text": "and",
+      "start": 19.314285714285717,
+      "end": 19.554285714285715
+    },
+    {
+      "text": "land",
+      "start": 19.554285714285715,
+      "end": 19.794285714285714
+    },
+    {
+      "text": "ready",
+      "start": 19.794285714285714,
+      "end": 20.034285714285716
+    },
+    {
+      "text": "to",
+      "start": 20.114285714285714,
+      "end": 20.194285714285716
+    },
+    {
+      "text": "grow",
+      "start": 20.194285714285716,
+      "end": 20.594285714285714
+    },
+    {
+      "text": "And",
+      "start": 20.914285714285715,
+      "end": 21.074285714285715
+    },
+    {
+      "text": "some",
+      "start": 21.074285714285715,
+      "end": 21.394285714285715
+    },
+    {
+      "text": "pay",
+      "start": 21.394285714285715,
+      "end": 21.554285714285715
+    },
+    {
+      "text": "for",
+      "start": 21.554285714285715,
+      "end": 21.714285714285715
+    },
+    {
+      "text": "delivery",
+      "start": 21.714285714285715,
+      "end": 22.274285714285714
+    },
+    {
+      "text": "Sweet",
+      "start": 22.434285714285714,
+      "end": 22.834285714285716
+    },
+    {
+      "text": "fruit",
+      "start": 22.834285714285716,
+      "end": 23.154285714285713
+    },
+    {
+      "text": "in",
+      "start": 23.154285714285713,
+      "end": 23.234285714285715
+    },
+    {
+      "text": "exchange",
+      "start": 23.234285714285715,
+      "end": 23.714285714285715
+    },
+    {
+      "text": "for",
+      "start": 23.714285714285715,
+      "end": 23.874285714285715
+    },
+    {
+      "text": "a",
+      "start": 23.874285714285715,
+      "end": 23.954285714285717
+    },
+    {
+      "text": "lift",
+      "start": 23.954285714285717,
+      "end": 24.274285714285714
+    },
+    {
+      "text": "Which",
+      "start": 24.514285714285716,
+      "end": 24.754285714285714
+    },
+    {
+      "text": "brings",
+      "start": 24.754285714285714,
+      "end": 24.994285714285716
+    },
+    {
+      "text": "us",
+      "start": 24.994285714285716,
+      "end": 25.074285714285715
+    },
+    {
+      "text": "back",
+      "start": 25.074285714285715,
+      "end": 25.474285714285713
+    },
+    {
+      "text": "to",
+      "start": 25.474285714285713,
+      "end": 25.474285714285713
+    },
+    {
+      "text": "the",
+      "start": 25.474285714285713,
+      "end": 25.554285714285715
+    },
+    {
+      "text": "chilli",
+      "start": 25.554285714285715,
+      "end": 26.034285714285716
+    },
+    {
+      "text": "Birds",
+      "start": 26.434285714285714,
+      "end": 26.834285714285713
+    },
+    {
+      "text": "cannot",
+      "start": 26.834285714285713,
+      "end": 27.154285714285713
+    },
+    {
+      "text": "taste",
+      "start": 27.154285714285713,
+      "end": 27.474285714285713
+    },
+    {
+      "text": "capsaicin",
+      "start": 27.474285714285713,
+      "end": 28.034285714285716
+    },
+    {
+      "text": "at",
+      "start": 28.034285714285716,
+      "end": 28.114285714285714
+    },
+    {
+      "text": "all",
+      "start": 28.114285714285714,
+      "end": 28.514285714285716
+    },
+    {
+      "text": "Birds",
+      "start": 28.754285714285714,
+      "end": 29.154285714285713
+    },
+    {
+      "text": "fly",
+      "start": 29.154285714285713,
+      "end": 29.394285714285715
+    },
+    {
+      "text": "much",
+      "start": 29.394285714285715,
+      "end": 29.714285714285715
+    },
+    {
+      "text": "further",
+      "start": 29.714285714285715,
+      "end": 30.114285714285714
+    },
+    {
+      "text": "and",
+      "start": 30.354285714285716,
+      "end": 30.514285714285716
+    },
+    {
+      "text": "they",
+      "start": 30.514285714285716,
+      "end": 30.594285714285714
+    },
+    {
+      "text": "do",
+      "start": 30.594285714285714,
+      "end": 30.674285714285716
+    },
+    {
+      "text": "not",
+      "start": 30.674285714285716,
+      "end": 30.994285714285716
+    },
+    {
+      "text": "grind",
+      "start": 30.994285714285716,
+      "end": 31.314285714285717
+    },
+    {
+      "text": "seeds",
+      "start": 31.314285714285717,
+      "end": 31.634285714285717
+    },
+    {
+      "text": "up",
+      "start": 31.634285714285717,
+      "end": 31.874285714285715
+    },
+    {
+      "text": "with",
+      "start": 31.874285714285715,
+      "end": 31.954285714285717
+    },
+    {
+      "text": "molars",
+      "start": 31.954285714285717,
+      "end": 32.51428571428572
+    },
+    {
+      "text": "So",
+      "start": 32.89696145124717,
+      "end": 33.05696145124717
+    },
+    {
+      "text": "the",
+      "start": 33.05696145124717,
+      "end": 33.13696145124717
+    },
+    {
+      "text": "plant",
+      "start": 33.13696145124717,
+      "end": 33.53696145124717
+    },
+    {
+      "text": "built",
+      "start": 33.53696145124717,
+      "end": 33.77696145124717
+    },
+    {
+      "text": "a",
+      "start": 33.77696145124717,
+      "end": 33.77696145124717
+    },
+    {
+      "text": "chemical",
+      "start": 33.77696145124717,
+      "end": 34.25696145124717
+    },
+    {
+      "text": "to",
+      "start": 34.25696145124717,
+      "end": 34.33696145124717
+    },
+    {
+      "text": "filter",
+      "start": 34.33696145124717,
+      "end": 34.65696145124717
+    },
+    {
+      "text": "customers",
+      "start": 34.65696145124717,
+      "end": 35.29696145124717
+    },
+    {
+      "text": "And",
+      "start": 35.53696145124717,
+      "end": 35.61696145124717
+    },
+    {
+      "text": "we",
+      "start": 35.61696145124717,
+      "end": 35.77696145124717
+    },
+    {
+      "text": "went",
+      "start": 35.77696145124717,
+      "end": 35.93696145124717
+    },
+    {
+      "text": "looking",
+      "start": 35.93696145124717,
+      "end": 36.25696145124717
+    },
+    {
+      "text": "for",
+      "start": 36.25696145124717,
+      "end": 36.496961451247174
+    },
+    {
+      "text": "it",
+      "start": 36.496961451247174,
+      "end": 36.65696145124717
+    },
+    {
+      "text": "One",
+      "start": 36.97696145124717,
+      "end": 37.136961451247174
+    },
+    {
+      "text": "of",
+      "start": 37.136961451247174,
+      "end": 37.29696145124717
+    },
+    {
+      "text": "these",
+      "start": 37.29696145124717,
+      "end": 37.53696145124717
+    },
+    {
+      "text": "every",
+      "start": 37.53696145124717,
+      "end": 37.77696145124717
+    },
+    {
+      "text": "day",
+      "start": 37.77696145124717,
+      "end": 38.176961451247166
+    },
+    {
+      "text": "Follow",
+      "start": 38.496961451247174,
+      "end": 38.81696145124717
+    },
+    {
+      "text": "so",
+      "start": 38.81696145124717,
+      "end": 38.89696145124717
+    },
+    {
+      "text": "you",
+      "start": 38.89696145124717,
+      "end": 39.05696145124717
+    },
+    {
+      "text": "do",
+      "start": 39.05696145124717,
+      "end": 39.21696145124717
+    },
+    {
+      "text": "not",
+      "start": 39.21696145124717,
+      "end": 39.45696145124717
+    },
+    {
+      "text": "miss",
+      "start": 39.45696145124717,
+      "end": 39.69696145124717
+    },
+    {
+      "text": "tomorrow",
+      "start": 39.69696145124717,
+      "end": 40.176961451247166
+    }
+  ],
+  "text": "A chilli is spicy specifically so that mammals will leave it alone. A plant cannot move. So the seed has to travel without it. Some seeds fly. A wing on a seed is just a slower way to land. Some hitch a ride. Hooks that grab any coat that brushes past. Some float. A coconut can cross an ocean and land ready to grow. And some pay for delivery. Sweet fruit in exchange for a lift. Which brings us back to the chilli. Birds cannot taste capsaicin at all. Birds fly much further, and they do not grind seeds up with molars. So the plant built a chemical to filter customers. And we went looking for it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

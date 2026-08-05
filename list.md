@@ -337,42 +337,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 8 — TREES & PLANTS (Days 43–48)
 
-- [ ] **Day 43 — A tree is mostly made of air**
+- [x] **Day 43 — A tree is mostly made of air**
       Hook: "Where does a tree's mass come from? Almost none of it is soil."
       Carbon pulled from atmospheric CO₂ plus water is essentially the whole structure. Van Helmont's 17th-century willow experiment — five years of growth, almost no soil weight lost — is the perfect story beat.
       Angle: this is the single most counterintuitive fact in biology and it makes "trees absorb carbon" concrete. The trunk _is_ stored air.
       Visual: tree growing in reverse, dissolving upward into CO₂ molecules.
       End on: "The machine that does it is the most important chemical reaction on Earth."
 
-- [ ] **Day 44 — Photosynthesis in 45 seconds**
+- [x] **Day 44 — Photosynthesis in 45 seconds**
       Hook: "Sunlight, water, air — and out comes sugar. Oxygen is just the waste product."
       Light energy splits water, carbon from CO₂ is assembled into glucose, and the leftover oxygen is dumped into the atmosphere.
       Angle: every breath you take is plant exhaust. Reframing oxygen as waste is the hook that makes this stick.
       Visual: clean single-leaf cross-section animation, inputs and outputs labelled, no clutter.
       End on: "Some things running this process have been running it for thousands of years."
 
-- [ ] **Day 45 — This tree was alive before the pyramids**
+- [x] **Day 45 — This tree was alive before the pyramids**
       Hook: "Methuselah, a bristlecone pine in California, is about 4,850 years old. Its location is kept secret."
       Then go bigger: Pando, a colony of 47,000 genetically identical aspen stems sharing one root system, estimated at tens of thousands of years old.
       Angle: "oldest tree" depends entirely on how you define an individual — and Pando breaks the definition completely.
       Visual: a timeline of human history running beneath a single tree's lifespan.
       End on: "Pando shares one root system. Most forests share something too."
 
-- [ ] **Day 46 — Trees are connected underground**
+- [x] **Day 46 — Trees are connected underground**
       Hook: "Cut a tree's trunk and its neighbours may keep the stump alive for decades."
       Mycorrhizal fungal networks link roots across a forest, trading sugar for minerals, and moving carbon and chemical warning signals between trees.
       Angle: give the honest caveat — the "wood wide web" is real but often overstated in popular coverage, and researchers actively debate how cooperative it really is. That nuance earns trust.
       Visual: underground network glowing between roots, with resources animating along it.
       End on: "That network keeps working even when the leaves quit for the year."
 
-- [ ] **Day 47 — Leaves don't turn colour. They stop hiding it.**
+- [x] **Day 47 — Leaves don't turn colour. They stop hiding it.**
       Hook: "The yellow and orange were in the leaf the whole time. Green was just louder."
       Chlorophyll dominates all summer; as days shorten the tree reabsorbs it, revealing carotenoids underneath. Reds are different — anthocyanins are actually produced fresh in autumn.
       Angle: the tree is recycling nutrients before dropping the leaf. The colour is a withdrawal process, not decoration.
       Visual: pigment layers pulled apart, then a real leaf chromatography strip.
       End on: "Trees can't move. So they've evolved some very devious ways to travel."
 
-- [ ] **Day 48 — Seeds that trick animals into planting them** _(bridge)_
+- [x] **Day 48 — Seeds that trick animals into planting them** _(bridge)_
       Hook: "A chilli is spicy specifically so mammals won't eat it. Birds can't taste capsaicin."
       Strategies: helicopter seeds, burrs that hitchhike on fur, coconuts that float across oceans, fruits designed to be eaten and deposited elsewhere with fertiliser.
       Angle: birds fly further and don't grind seeds with molars — so the chilli evolved a chemical that filters out exactly the wrong customer. We're the only species that seeks the punishment out.

@@ -1,0 +1,663 @@
+{
+  "audio_duration": 41.613,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "yellow",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "was",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "in",
+      "start": 0.64,
+      "end": 0.72
+    },
+    {
+      "text": "the",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "text": "leaf",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "all",
+      "start": 1.2,
+      "end": 1.36
+    },
+    {
+      "text": "summer",
+      "start": 1.36,
+      "end": 1.84
+    },
+    {
+      "text": "Green",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "was",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "just",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "text": "louder",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "text": "Autumn",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "text": "looks",
+      "start": 4.16,
+      "end": 4.4
+    },
+    {
+      "text": "like",
+      "start": 4.4,
+      "end": 4.56
+    },
+    {
+      "text": "paint",
+      "start": 4.56,
+      "end": 4.96
+    },
+    {
+      "text": "going",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "on",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "It",
+      "start": 5.84,
+      "end": 5.92
+    },
+    {
+      "text": "is",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "text": "actually",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "text": "paint",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "coming",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "off",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "Chlorophyll",
+      "start": 7.84,
+      "end": 8.48
+    },
+    {
+      "text": "is",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "text": "the",
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "text": "green",
+      "start": 8.72,
+      "end": 9.28
+    },
+    {
+      "text": "and",
+      "start": 9.52,
+      "end": 9.6
+    },
+    {
+      "text": "it",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "text": "is",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "expensive",
+      "start": 9.84,
+      "end": 10.48
+    },
+    {
+      "text": "for",
+      "start": 10.48,
+      "end": 10.64
+    },
+    {
+      "text": "a",
+      "start": 10.64,
+      "end": 10.64
+    },
+    {
+      "text": "tree",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "to",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "make",
+      "start": 11.04,
+      "end": 11.44
+    },
+    {
+      "text": "As",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "the",
+      "start": 12.0,
+      "end": 12.08
+    },
+    {
+      "text": "days",
+      "start": 12.08,
+      "end": 12.4
+    },
+    {
+      "text": "shorten",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "text": "the",
+      "start": 13.04,
+      "end": 13.12
+    },
+    {
+      "text": "tree",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "text": "starts",
+      "start": 13.36,
+      "end": 13.76
+    },
+    {
+      "text": "taking",
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "text": "it",
+      "start": 14.08,
+      "end": 14.16
+    },
+    {
+      "text": "back",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "rather",
+      "start": 14.72,
+      "end": 15.04
+    },
+    {
+      "text": "than",
+      "start": 15.04,
+      "end": 15.2
+    },
+    {
+      "text": "wasting",
+      "start": 15.2,
+      "end": 15.6
+    },
+    {
+      "text": "it",
+      "start": 15.6,
+      "end": 15.84
+    },
+    {
+      "text": "What",
+      "start": 16.122448979591837,
+      "end": 16.282448979591837
+    },
+    {
+      "text": "is",
+      "start": 16.282448979591837,
+      "end": 16.362448979591836
+    },
+    {
+      "text": "left",
+      "start": 16.362448979591836,
+      "end": 16.682448979591836
+    },
+    {
+      "text": "underneath",
+      "start": 16.682448979591836,
+      "end": 17.24244897959184
+    },
+    {
+      "text": "was",
+      "start": 17.24244897959184,
+      "end": 17.40244897959184
+    },
+    {
+      "text": "there",
+      "start": 17.40244897959184,
+      "end": 17.642448979591837
+    },
+    {
+      "text": "the",
+      "start": 17.642448979591837,
+      "end": 17.72244897959184
+    },
+    {
+      "text": "whole",
+      "start": 17.72244897959184,
+      "end": 17.962448979591837
+    },
+    {
+      "text": "time",
+      "start": 17.962448979591837,
+      "end": 18.362448979591836
+    },
+    {
+      "text": "Yellow",
+      "start": 18.682448979591836,
+      "end": 19.082448979591838
+    },
+    {
+      "text": "and",
+      "start": 19.082448979591838,
+      "end": 19.24244897959184
+    },
+    {
+      "text": "orange",
+      "start": 19.24244897959184,
+      "end": 19.72244897959184
+    },
+    {
+      "text": "uncovered",
+      "start": 19.802448979591837,
+      "end": 20.442448979591838
+    },
+    {
+      "text": "Red",
+      "start": 20.762448979591838,
+      "end": 21.002448979591836
+    },
+    {
+      "text": "is",
+      "start": 21.002448979591836,
+      "end": 21.162448979591836
+    },
+    {
+      "text": "different",
+      "start": 21.162448979591836,
+      "end": 21.642448979591837
+    },
+    {
+      "text": "Red",
+      "start": 21.882448979591835,
+      "end": 22.122448979591837
+    },
+    {
+      "text": "is",
+      "start": 22.122448979591837,
+      "end": 22.282448979591837
+    },
+    {
+      "text": "made",
+      "start": 22.282448979591837,
+      "end": 22.522448979591836
+    },
+    {
+      "text": "fresh",
+      "start": 22.522448979591836,
+      "end": 23.002448979591836
+    },
+    {
+      "text": "on",
+      "start": 23.162448979591836,
+      "end": 23.322448979591837
+    },
+    {
+      "text": "purpose",
+      "start": 23.322448979591837,
+      "end": 23.882448979591835
+    },
+    {
+      "text": "in",
+      "start": 23.962448979591837,
+      "end": 24.122448979591837
+    },
+    {
+      "text": "autumn",
+      "start": 24.122448979591837,
+      "end": 24.522448979591836
+    },
+    {
+      "text": "Nobody",
+      "start": 24.842448979591836,
+      "end": 25.242448979591835
+    },
+    {
+      "text": "is",
+      "start": 25.242448979591835,
+      "end": 25.322448979591837
+    },
+    {
+      "text": "certain",
+      "start": 25.322448979591837,
+      "end": 25.802448979591837
+    },
+    {
+      "text": "why",
+      "start": 25.802448979591837,
+      "end": 26.122448979591837
+    },
+    {
+      "text": "Sunscreen",
+      "start": 26.442448979591838,
+      "end": 27.082448979591838
+    },
+    {
+      "text": "for",
+      "start": 27.082448979591838,
+      "end": 27.162448979591836
+    },
+    {
+      "text": "the",
+      "start": 27.162448979591836,
+      "end": 27.242448979591835
+    },
+    {
+      "text": "withdrawal",
+      "start": 27.242448979591835,
+      "end": 27.882448979591835
+    },
+    {
+      "text": "is",
+      "start": 27.882448979591835,
+      "end": 28.04244897959184
+    },
+    {
+      "text": "the",
+      "start": 28.04244897959184,
+      "end": 28.122448979591837
+    },
+    {
+      "text": "best",
+      "start": 28.122448979591837,
+      "end": 28.442448979591838
+    },
+    {
+      "text": "guess",
+      "start": 28.442448979591838,
+      "end": 28.68244897959184
+    },
+    {
+      "text": "we",
+      "start": 28.68244897959184,
+      "end": 28.842448979591836
+    },
+    {
+      "text": "have",
+      "start": 28.842448979591836,
+      "end": 29.162448979591836
+    },
+    {
+      "text": "Because",
+      "start": 29.482448979591837,
+      "end": 29.802448979591837
+    },
+    {
+      "text": "the",
+      "start": 29.802448979591837,
+      "end": 29.882448979591835
+    },
+    {
+      "text": "whole",
+      "start": 29.882448979591835,
+      "end": 30.122448979591837
+    },
+    {
+      "text": "thing",
+      "start": 30.122448979591837,
+      "end": 30.36244897959184
+    },
+    {
+      "text": "is",
+      "start": 30.36244897959184,
+      "end": 30.522448979591836
+    },
+    {
+      "text": "a",
+      "start": 30.522448979591836,
+      "end": 30.602448979591838
+    },
+    {
+      "text": "tree",
+      "start": 30.602448979591838,
+      "end": 30.842448979591836
+    },
+    {
+      "text": "emptying",
+      "start": 30.842448979591836,
+      "end": 31.322448979591837
+    },
+    {
+      "text": "its",
+      "start": 31.322448979591837,
+      "end": 31.40244897959184
+    },
+    {
+      "text": "pockets",
+      "start": 31.40244897959184,
+      "end": 31.882448979591835
+    },
+    {
+      "text": "before",
+      "start": 31.882448979591835,
+      "end": 32.202448979591836
+    },
+    {
+      "text": "it",
+      "start": 32.202448979591836,
+      "end": 32.282448979591834
+    },
+    {
+      "text": "lets",
+      "start": 32.282448979591834,
+      "end": 32.522448979591836
+    },
+    {
+      "text": "go",
+      "start": 32.522448979591836,
+      "end": 32.842448979591836
+    },
+    {
+      "text": "Autumn",
+      "start": 33.313968253968255,
+      "end": 33.633968253968256
+    },
+    {
+      "text": "is",
+      "start": 33.633968253968256,
+      "end": 33.713968253968254
+    },
+    {
+      "text": "not",
+      "start": 33.713968253968254,
+      "end": 34.033968253968254
+    },
+    {
+      "text": "decoration",
+      "start": 34.033968253968254,
+      "end": 34.75396825396825
+    },
+    {
+      "text": "It",
+      "start": 34.993968253968255,
+      "end": 35.07396825396825
+    },
+    {
+      "text": "is",
+      "start": 35.07396825396825,
+      "end": 35.23396825396826
+    },
+    {
+      "text": "a",
+      "start": 35.23396825396826,
+      "end": 35.23396825396826
+    },
+    {
+      "text": "withdrawal",
+      "start": 35.23396825396826,
+      "end": 35.87396825396826
+    },
+    {
+      "text": "and",
+      "start": 36.11396825396825,
+      "end": 36.19396825396826
+    },
+    {
+      "text": "the",
+      "start": 36.19396825396826,
+      "end": 36.273968253968256
+    },
+    {
+      "text": "colour",
+      "start": 36.273968253968256,
+      "end": 36.673968253968255
+    },
+    {
+      "text": "is",
+      "start": 36.673968253968255,
+      "end": 36.83396825396825
+    },
+    {
+      "text": "what",
+      "start": 36.83396825396825,
+      "end": 36.993968253968255
+    },
+    {
+      "text": "is",
+      "start": 36.993968253968255,
+      "end": 37.07396825396825
+    },
+    {
+      "text": "left",
+      "start": 37.07396825396825,
+      "end": 37.313968253968255
+    },
+    {
+      "text": "behind",
+      "start": 37.313968253968255,
+      "end": 37.79396825396825
+    },
+    {
+      "text": "One",
+      "start": 38.11396825396825,
+      "end": 38.273968253968256
+    },
+    {
+      "text": "of",
+      "start": 38.273968253968256,
+      "end": 38.43396825396825
+    },
+    {
+      "text": "these",
+      "start": 38.43396825396825,
+      "end": 38.673968253968255
+    },
+    {
+      "text": "every",
+      "start": 38.673968253968255,
+      "end": 38.993968253968255
+    },
+    {
+      "text": "day",
+      "start": 38.993968253968255,
+      "end": 39.313968253968255
+    },
+    {
+      "text": "Follow",
+      "start": 39.633968253968256,
+      "end": 39.953968253968256
+    },
+    {
+      "text": "so",
+      "start": 39.953968253968256,
+      "end": 40.11396825396825
+    },
+    {
+      "text": "you",
+      "start": 40.11396825396825,
+      "end": 40.273968253968256
+    },
+    {
+      "text": "do",
+      "start": 40.273968253968256,
+      "end": 40.353968253968254
+    },
+    {
+      "text": "not",
+      "start": 40.353968253968254,
+      "end": 40.59396825396826
+    },
+    {
+      "text": "miss",
+      "start": 40.59396825396826,
+      "end": 40.83396825396825
+    },
+    {
+      "text": "tomorrow",
+      "start": 40.83396825396825,
+      "end": 41.393968253968254
+    }
+  ],
+  "text": "The yellow was in the leaf all summer. Green was just louder. Autumn looks like paint going on. It is actually paint coming off. Chlorophyll is the green, and it is expensive for a tree to make. As the days shorten, the tree starts taking it back rather than wasting it. What is left underneath was there the whole time. Yellow and orange, uncovered. Red is different. Red is made fresh, on purpose, in autumn. Nobody is certain why. Sunscreen for the withdrawal is the best guess we have. Because the whole thing is a tree emptying its pockets before it lets go. Autumn is not decoration. It is a withdrawal, and the colour is what is left behind. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

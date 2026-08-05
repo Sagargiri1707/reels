@@ -1,0 +1,101 @@
+{
+  "topic": "Seeds that trick animals into planting them",
+  "lesson": "A plant cannot move, so it evolved ways to make animals carry its seeds, and a chilli's heat is a filter that keeps mammals off while letting birds through.",
+  "slug": "seeds-that-trick-animals-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A chilli is spicy specifically so that mammals will leave it alone.",
+      "scene": "a bright red chilli lying on a bare surface, a small black cartoon figure backing away from it with both arms raised",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bright red chilli lying on a bare surface, a small black cartoon figure backing away from it with both arms raised. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A plant cannot move. So the seed has to travel without it.",
+      "scene": "a heavy plant pot on the surface, a small black cartoon figure shoving at it with both arms while it does not shift an inch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy plant pot on the surface, a small black cartoon figure shoving at it with both arms while it does not shift an inch. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Some seeds fly. A wing on a seed is just a slower way to land.",
+      "scene": "a winged sycamore seed held up high, a small black cartoon figure releasing it and watching it spin down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a winged sycamore seed held up high, a small black cartoon figure releasing it and watching it spin down. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Some hitch a ride. Hooks that grab any coat that brushes past.",
+      "scene": "a spiked burr caught in a woollen sock on the surface, a small black cartoon figure hauling at it with both arms while the sock stretches",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spiked burr caught in a woollen sock on the surface, a small black cartoon figure hauling at it with both arms while the sock stretches. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Some float. A coconut can cross an ocean and land ready to grow.",
+      "scene": "a coconut bobbing in a shallow tray of water, a small black cartoon figure sitting on top of it with both arms folded",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coconut bobbing in a shallow tray of water, a small black cartoon figure sitting on top of it with both arms folded. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And some pay for delivery. Sweet fruit in exchange for a lift.",
+      "scene": "a bowl of berries on the surface, a small black cartoon figure handing one up to a small bird perched on the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of berries on the surface, a small black cartoon figure handing one up to a small bird perched on the rim. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Which brings us back to the chilli. Birds cannot taste capsaicin at all.",
+      "scene": "a red chilli held up on the surface, a small black cartoon figure offering it to a small bird that takes it without flinching",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a red chilli held up on the surface, a small black cartoon figure offering it to a small bird that takes it without flinching. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Birds fly much further, and they do not grind seeds up with molars.",
+      "scene": "a nutcracker on the surface, a small black cartoon figure pressing the handles together with their whole body while a seed cracks open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a nutcracker on the surface, a small black cartoon figure pressing the handles together with their whole body while a seed cracks open. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "So the plant built a chemical to filter customers. And we went looking for it.",
+      "scene": "the same red chilli, a small black cartoon figure carrying it with both arms to a small laid table and sitting down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same red chilli, a small black cartoon figure carrying it with both arms to a small laid table and sitting down. the scene belongs to plants getting their seeds carried somewhere by something else, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Plants cannot move, so seeds evolved transport: helicopter wings, burrs that hook onto fur, coconuts that float across oceans, and fruit designed to be eaten and deposited elsewhere. Chillies are spicy to filter out mammals, because birds cannot taste capsaicin, fly further, and do not grind seeds with molars. We are the one species that seeks the punishment out.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #chilli #seeds #plants #evolution #science",
+    "thumbnail_beat": "01"
+  }
+}

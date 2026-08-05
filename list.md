@@ -383,42 +383,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 9 — FORESTS & ECOSYSTEMS (Days 49–54)
 
-- [ ] **Day 49 — The Amazon is not the lungs of the Earth**
+- [x] **Day 49 — The Amazon is not the lungs of the Earth**
       Hook: "The Amazon consumes almost exactly as much oxygen as it produces. Net contribution: roughly zero."
       Decomposition and respiration inside the forest use up nearly all the oxygen photosynthesis makes. Ocean phytoplankton produce a far larger share of the oxygen we breathe.
       Angle: this doesn't make the Amazon unimportant — it's a colossal carbon store, a rainfall engine and a biodiversity vault. Losing it is still catastrophic, just for different reasons than people think.
       Visual: oxygen balance sheet for the forest, then a phytoplankton bloom seen from orbit.
       End on: "Forests do something more surprising than making air. They move rivers."
 
-- [ ] **Day 50 — Wolves changed the shape of rivers**
+- [x] **Day 50 — Wolves changed the shape of rivers**
       Hook: "Reintroduce 14 wolves and the rivers physically change course. It sounds fake. It isn't."
       Wolves return to Yellowstone in 1995 → elk stop overgrazing riverbanks → willows and aspens recover → beavers return and build → banks stabilise → the river meanders differently. Songbirds and bears benefit along the way.
       Angle: include the caveat that scientists argue about how much of this was wolves versus drought and other factors. Honest version is stronger than the viral version.
       Visual: chain-of-consequence animation, each link appearing as it's named.
       End on: "Some species hold the whole structure up. Remove them and it falls."
 
-- [ ] **Day 51 — Remove one species, lose the whole system**
+- [x] **Day 51 — Remove one species, lose the whole system**
       Hook: "Sea otters eat urchins. Remove otters and the entire kelp forest disappears."
       Keystone species examples: otters and kelp, beavers as ecosystem engineers, elephants keeping savannah open, fig trees feeding everything in a rainforest.
       Angle: importance has nothing to do with abundance. A rare species can be structurally load-bearing while a common one isn't.
       Visual: a Jenga tower — pull one specific block and it collapses.
       End on: "We're currently pulling blocks out very fast."
 
-- [ ] **Day 52 — What deforestation actually looks like in numbers**
+- [x] **Day 52 — What deforestation actually looks like in numbers**
       Hook: "About 10 million hectares of forest are lost every year. That's a country-sized area, annually."
       Main drivers: cattle pasture, soy, palm oil, logging. Include the more hopeful data — Brazil's rates have dropped sharply in some periods, and global tree cover is rising in parts of Asia.
       Angle: keep it factual and non-preachy. Numbers plus what actually moved them beats moralising every time.
       Visual: satellite time-lapse of a single region over 20 years, plus a clean global line graph.
       End on: "And in some places, people are putting it back."
 
-- [ ] **Day 53 — Bringing extinct landscapes back**
+- [x] **Day 53 — Bringing extinct landscapes back**
       Hook: "Beavers returned to Britain after 400 years and flooding downstream dropped measurably."
       Rewilding cases: beavers in the UK, wolves in Europe, cheetahs reintroduced to India, coral seeding on the Great Barrier Reef, Oostvaardersplassen as the cautionary tale.
       Angle: it works when you restore a _function_, not just an animal. And it sometimes goes badly — worth saying.
       Visual: before/after landscape pairs, plus a beaver dam in action.
       End on: "Animals restore landscapes. Some of them cross the planet to do it."
 
-- [ ] **Day 54 — The longest journey any animal makes** _(bridge)_
+- [x] **Day 54 — The longest journey any animal makes** _(bridge)_
       Hook: "The Arctic tern flies pole to pole every year — around 70,000 km, and it lives 30 years. That's three trips to the Moon."
       Other migrations: monarch butterflies completing a route across generations, bar-tailed godwits flying 11 days non-stop without landing, salmon returning to their birth stream.
       Angle: the real question isn't the distance. It's navigation — how does something with a brain the size of a pea know where it's going?

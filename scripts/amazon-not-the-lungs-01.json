@@ -1,0 +1,101 @@
+{
+  "topic": "The Amazon is not the lungs of the Earth",
+  "lesson": "The Amazon uses up almost exactly as much oxygen as it makes, so its net oxygen contribution is near zero, and its real importance is as a carbon store, a rainfall engine and a biodiversity vault.",
+  "slug": "amazon-not-the-lungs-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The Amazon's net contribution to the oxygen you breathe is roughly zero.",
+      "scene": "a balance scale standing on a bare surface, a small black cartoon figure pressing down hard on one empty pan while it refuses to tip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale standing on a bare surface, a small black cartoon figure pressing down hard on one empty pan while it refuses to tip. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It does make enormous amounts of oxygen. That part is completely true.",
+      "scene": "a pair of bellows on the surface, a small black cartoon figure stamping on the handle while a paper windmill spins hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pair of bellows on the surface, a small black cartoon figure stamping on the handle while a paper windmill spins hard. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But a forest is not only leaves. It is everything eating and rotting inside it.",
+      "scene": "a compost bin open on the surface, a small black cartoon figure turning the dark contents over with a garden fork",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a compost bin open on the surface, a small black cartoon figure turning the dark contents over with a garden fork. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Every animal, every root, every fungus is breathing that oxygen straight back in.",
+      "scene": "a bucket on the surface, a small black cartoon figure filling it from a jug while a row of small taps drain it from below",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bucket on the surface, a small black cartoon figure filling it from a jug while a row of small taps drain it from below. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "So the books balance almost exactly. Made and used in the same place.",
+      "scene": "a balance scale with equal weights on both pans, a small black cartoon figure sitting on the beam in the middle, perfectly level",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale with equal weights on both pans, a small black cartoon figure sitting on the beam in the middle, perfectly level. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Most of the oxygen you actually breathe came out of the sea anyway.",
+      "scene": "a tall glass of faintly green water on the surface, a small black cartoon figure leaning over it while bubbles stream past their face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass of faintly green water on the surface, a small black cartoon figure leaning over it while bubbles stream past their face. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "None of which makes the Amazon less important. It makes it important differently.",
+      "scene": "a wooden crate on the surface, a small black cartoon figure hauling one heavy black block out of it and setting it down carefully",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden crate on the surface, a small black cartoon figure hauling one heavy black block out of it and setting it down carefully. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It is a colossal carbon store. It also makes most of its own rainfall.",
+      "scene": "a watering can hung above a tray of plants, a small black cartoon figure tipping it by a rope while the water falls back onto the same plants",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a watering can hung above a tray of plants, a small black cartoon figure tipping it by a rope while the water falls back onto the same plants. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Losing it would be a catastrophe. Just not the one everybody names.",
+      "scene": "the same balance scale, a small black cartoon figure lifting one heavy black block off a pan while the whole scale crashes over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same balance scale, a small black cartoon figure lifting one heavy black block off a pan while the whole scale crashes over. the scene belongs to a forest's oxygen books balancing to nothing and what it actually does instead, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Decomposition and respiration inside the Amazon consume nearly all the oxygen its photosynthesis produces, so the net contribution is close to zero. Ocean phytoplankton produce far more of what we breathe. That does not make the Amazon unimportant. It is a huge carbon store, a rainfall engine and a biodiversity vault.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #amazon #rainforest #oxygen #climate #science",
+    "thumbnail_beat": "09"
+  }
+}

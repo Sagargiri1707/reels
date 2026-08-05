@@ -1,0 +1,593 @@
+{
+  "audio_duration": 38.452125,
+  "segments": [
+    {
+      "text": "About",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "ten",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "text": "million",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "text": "hectares",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "text": "of",
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "text": "forest",
+      "start": 1.44,
+      "end": 1.76
+    },
+    {
+      "text": "disappear",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "text": "every",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "text": "year",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "That",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "is",
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "text": "a",
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "text": "country",
+      "start": 3.52,
+      "end": 4.0
+    },
+    {
+      "text": "annually",
+      "start": 4.0,
+      "end": 4.56
+    },
+    {
+      "text": "Mostly",
+      "start": 4.88,
+      "end": 5.44
+    },
+    {
+      "text": "it",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "text": "is",
+      "start": 5.52,
+      "end": 5.68
+    },
+    {
+      "text": "not",
+      "start": 5.68,
+      "end": 5.92
+    },
+    {
+      "text": "fire",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "and",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "not",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "disaster",
+      "start": 6.88,
+      "end": 7.52
+    },
+    {
+      "text": "Mostly",
+      "start": 7.76,
+      "end": 8.32
+    },
+    {
+      "text": "it",
+      "start": 8.32,
+      "end": 8.4
+    },
+    {
+      "text": "is",
+      "start": 8.4,
+      "end": 8.48
+    },
+    {
+      "text": "food",
+      "start": 8.48,
+      "end": 8.96
+    },
+    {
+      "text": "Cattle",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "pasture",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "text": "is",
+      "start": 10.08,
+      "end": 10.24
+    },
+    {
+      "text": "the",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "single",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "text": "biggest",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "text": "driver",
+      "start": 11.12,
+      "end": 11.6
+    },
+    {
+      "text": "by",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "a",
+      "start": 12.0,
+      "end": 12.0
+    },
+    {
+      "text": "very",
+      "start": 12.0,
+      "end": 12.4
+    },
+    {
+      "text": "long",
+      "start": 12.4,
+      "end": 12.72
+    },
+    {
+      "text": "way",
+      "start": 12.72,
+      "end": 13.04
+    },
+    {
+      "text": "Then",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "soy",
+      "start": 13.44,
+      "end": 13.92
+    },
+    {
+      "text": "Then",
+      "start": 14.16,
+      "end": 14.4
+    },
+    {
+      "text": "palm",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "oil",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "text": "Then",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "text": "logging",
+      "start": 15.52,
+      "end": 16.0
+    },
+    {
+      "text": "But",
+      "start": 16.40108843537415,
+      "end": 16.56108843537415
+    },
+    {
+      "text": "it",
+      "start": 16.56108843537415,
+      "end": 16.64108843537415
+    },
+    {
+      "text": "is",
+      "start": 16.64108843537415,
+      "end": 16.72108843537415
+    },
+    {
+      "text": "not",
+      "start": 16.72108843537415,
+      "end": 16.96108843537415
+    },
+    {
+      "text": "evenly",
+      "start": 17.04108843537415,
+      "end": 17.36108843537415
+    },
+    {
+      "text": "spread",
+      "start": 17.44108843537415,
+      "end": 17.921088435374152
+    },
+    {
+      "text": "and",
+      "start": 18.08108843537415,
+      "end": 18.241088435374152
+    },
+    {
+      "text": "it",
+      "start": 18.241088435374152,
+      "end": 18.32108843537415
+    },
+    {
+      "text": "does",
+      "start": 18.32108843537415,
+      "end": 18.40108843537415
+    },
+    {
+      "text": "not",
+      "start": 18.40108843537415,
+      "end": 18.64108843537415
+    },
+    {
+      "text": "only",
+      "start": 18.72108843537415,
+      "end": 18.88108843537415
+    },
+    {
+      "text": "run",
+      "start": 18.88108843537415,
+      "end": 19.20108843537415
+    },
+    {
+      "text": "one",
+      "start": 19.20108843537415,
+      "end": 19.44108843537415
+    },
+    {
+      "text": "way",
+      "start": 19.44108843537415,
+      "end": 19.761088435374152
+    },
+    {
+      "text": "Brazil",
+      "start": 20.08108843537415,
+      "end": 20.48108843537415
+    },
+    {
+      "text": "cut",
+      "start": 20.48108843537415,
+      "end": 20.72108843537415
+    },
+    {
+      "text": "its",
+      "start": 20.72108843537415,
+      "end": 20.88108843537415
+    },
+    {
+      "text": "rate",
+      "start": 20.88108843537415,
+      "end": 21.12108843537415
+    },
+    {
+      "text": "sharply",
+      "start": 21.12108843537415,
+      "end": 21.60108843537415
+    },
+    {
+      "text": "in",
+      "start": 21.60108843537415,
+      "end": 21.68108843537415
+    },
+    {
+      "text": "some",
+      "start": 21.68108843537415,
+      "end": 21.921088435374152
+    },
+    {
+      "text": "periods",
+      "start": 21.921088435374152,
+      "end": 22.40108843537415
+    },
+    {
+      "text": "Then",
+      "start": 22.64108843537415,
+      "end": 22.88108843537415
+    },
+    {
+      "text": "it",
+      "start": 22.88108843537415,
+      "end": 22.88108843537415
+    },
+    {
+      "text": "climbed",
+      "start": 22.88108843537415,
+      "end": 23.28108843537415
+    },
+    {
+      "text": "again",
+      "start": 23.28108843537415,
+      "end": 23.68108843537415
+    },
+    {
+      "text": "And",
+      "start": 23.84108843537415,
+      "end": 24.00108843537415
+    },
+    {
+      "text": "tree",
+      "start": 24.00108843537415,
+      "end": 24.241088435374152
+    },
+    {
+      "text": "cover",
+      "start": 24.241088435374152,
+      "end": 24.561088435374153
+    },
+    {
+      "text": "is",
+      "start": 24.561088435374153,
+      "end": 24.80108843537415
+    },
+    {
+      "text": "genuinely",
+      "start": 24.80108843537415,
+      "end": 25.28108843537415
+    },
+    {
+      "text": "rising",
+      "start": 25.28108843537415,
+      "end": 25.76108843537415
+    },
+    {
+      "text": "across",
+      "start": 25.76108843537415,
+      "end": 26.08108843537415
+    },
+    {
+      "text": "parts",
+      "start": 26.08108843537415,
+      "end": 26.32108843537415
+    },
+    {
+      "text": "of",
+      "start": 26.32108843537415,
+      "end": 26.40108843537415
+    },
+    {
+      "text": "Asia",
+      "start": 26.40108843537415,
+      "end": 26.72108843537415
+    },
+    {
+      "text": "right",
+      "start": 26.72108843537415,
+      "end": 26.96108843537415
+    },
+    {
+      "text": "now",
+      "start": 26.96108843537415,
+      "end": 27.36108843537415
+    },
+    {
+      "text": "Moralising",
+      "start": 27.68108843537415,
+      "end": 28.40108843537415
+    },
+    {
+      "text": "has",
+      "start": 28.40108843537415,
+      "end": 28.561088435374153
+    },
+    {
+      "text": "never",
+      "start": 28.561088435374153,
+      "end": 28.80108843537415
+    },
+    {
+      "text": "moved",
+      "start": 28.80108843537415,
+      "end": 29.12108843537415
+    },
+    {
+      "text": "these",
+      "start": 29.12108843537415,
+      "end": 29.28108843537415
+    },
+    {
+      "text": "numbers",
+      "start": 29.28108843537415,
+      "end": 29.76108843537415
+    },
+    {
+      "text": "Policy",
+      "start": 30.00108843537415,
+      "end": 30.48108843537415
+    },
+    {
+      "text": "and",
+      "start": 30.48108843537415,
+      "end": 30.561088435374153
+    },
+    {
+      "text": "price",
+      "start": 30.561088435374153,
+      "end": 30.96108843537415
+    },
+    {
+      "text": "have",
+      "start": 30.96108843537415,
+      "end": 31.28108843537415
+    },
+    {
+      "text": "Which",
+      "start": 31.709795918367345,
+      "end": 31.869795918367345
+    },
+    {
+      "text": "is",
+      "start": 31.869795918367345,
+      "end": 32.02979591836735
+    },
+    {
+      "text": "worth",
+      "start": 32.02979591836735,
+      "end": 32.26979591836734
+    },
+    {
+      "text": "knowing",
+      "start": 32.26979591836734,
+      "end": 32.74979591836735
+    },
+    {
+      "text": "because",
+      "start": 32.909795918367344,
+      "end": 33.149795918367346
+    },
+    {
+      "text": "it",
+      "start": 33.149795918367346,
+      "end": 33.229795918367344
+    },
+    {
+      "text": "means",
+      "start": 33.229795918367344,
+      "end": 33.549795918367344
+    },
+    {
+      "text": "the",
+      "start": 33.549795918367344,
+      "end": 33.62979591836735
+    },
+    {
+      "text": "number",
+      "start": 33.62979591836735,
+      "end": 33.869795918367345
+    },
+    {
+      "text": "is",
+      "start": 33.94979591836734,
+      "end": 34.02979591836735
+    },
+    {
+      "text": "not",
+      "start": 34.02979591836735,
+      "end": 34.26979591836734
+    },
+    {
+      "text": "fixed",
+      "start": 34.26979591836734,
+      "end": 34.829795918367346
+    },
+    {
+      "text": "One",
+      "start": 34.98979591836735,
+      "end": 35.229795918367344
+    },
+    {
+      "text": "of",
+      "start": 35.229795918367344,
+      "end": 35.30979591836734
+    },
+    {
+      "text": "these",
+      "start": 35.30979591836734,
+      "end": 35.549795918367344
+    },
+    {
+      "text": "every",
+      "start": 35.549795918367344,
+      "end": 35.869795918367345
+    },
+    {
+      "text": "day",
+      "start": 35.869795918367345,
+      "end": 36.189795918367345
+    },
+    {
+      "text": "Follow",
+      "start": 36.509795918367345,
+      "end": 36.829795918367346
+    },
+    {
+      "text": "so",
+      "start": 36.829795918367346,
+      "end": 36.98979591836735
+    },
+    {
+      "text": "you",
+      "start": 36.98979591836735,
+      "end": 37.149795918367346
+    },
+    {
+      "text": "do",
+      "start": 37.149795918367346,
+      "end": 37.30979591836734
+    },
+    {
+      "text": "not",
+      "start": 37.30979591836734,
+      "end": 37.549795918367344
+    },
+    {
+      "text": "miss",
+      "start": 37.549795918367344,
+      "end": 37.70979591836735
+    },
+    {
+      "text": "tomorrow",
+      "start": 37.70979591836735,
+      "end": 38.26979591836734
+    }
+  ],
+  "text": "About ten million hectares of forest disappear every year. That is a country, annually. Mostly it is not fire, and not disaster. Mostly it is food. Cattle pasture is the single biggest driver, by a very long way. Then soy. Then palm oil. Then logging. But it is not evenly spread, and it does not only run one way. Brazil cut its rate sharply in some periods. Then it climbed again. And tree cover is genuinely rising across parts of Asia right now. Moralising has never moved these numbers. Policy and price have. Which is worth knowing, because it means the number is not fixed. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

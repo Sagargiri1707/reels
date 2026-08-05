@@ -1,0 +1,643 @@
+{
+  "audio_duration": 40.359125,
+  "segments": [
+    {
+      "text": "Take",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "the",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "text": "sea",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "text": "otters",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "text": "away",
+      "start": 0.88,
+      "end": 1.36
+    },
+    {
+      "text": "and",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "the",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "text": "entire",
+      "start": 1.76,
+      "end": 2.16
+    },
+    {
+      "text": "kelp",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "text": "forest",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "text": "is",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "gone",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "text": "within",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "text": "a",
+      "start": 3.6,
+      "end": 3.68
+    },
+    {
+      "text": "few",
+      "start": 3.68,
+      "end": 3.84
+    },
+    {
+      "text": "years",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "text": "Otters",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "do",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "text": "not",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "eat",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "text": "kelp",
+      "start": 5.76,
+      "end": 6.16
+    },
+    {
+      "text": "They",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "never",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "touch",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "the",
+      "start": 7.2,
+      "end": 7.2
+    },
+    {
+      "text": "stuff",
+      "start": 7.2,
+      "end": 7.6
+    },
+    {
+      "text": "They",
+      "start": 7.92,
+      "end": 8.0
+    },
+    {
+      "text": "eat",
+      "start": 8.08,
+      "end": 8.32
+    },
+    {
+      "text": "urchins",
+      "start": 8.32,
+      "end": 8.96
+    },
+    {
+      "text": "And",
+      "start": 9.2,
+      "end": 9.36
+    },
+    {
+      "text": "urchins",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "text": "eat",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "kelp",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "text": "constantly",
+      "start": 10.64,
+      "end": 11.36
+    },
+    {
+      "text": "forever",
+      "start": 11.44,
+      "end": 12.0
+    },
+    {
+      "text": "So",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "text": "no",
+      "start": 12.4,
+      "end": 12.72
+    },
+    {
+      "text": "otters",
+      "start": 12.72,
+      "end": 13.12
+    },
+    {
+      "text": "means",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "unlimited",
+      "start": 13.44,
+      "end": 14.0
+    },
+    {
+      "text": "urchins",
+      "start": 14.08,
+      "end": 14.56
+    },
+    {
+      "text": "and",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "unlimited",
+      "start": 14.96,
+      "end": 15.44
+    },
+    {
+      "text": "urchins",
+      "start": 15.52,
+      "end": 15.92
+    },
+    {
+      "text": "means",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "bare",
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "text": "rock",
+      "start": 16.48,
+      "end": 16.88
+    },
+    {
+      "text": "It",
+      "start": 17.12,
+      "end": 17.28
+    },
+    {
+      "text": "runs",
+      "start": 17.28,
+      "end": 17.52
+    },
+    {
+      "text": "the",
+      "start": 17.52,
+      "end": 17.68
+    },
+    {
+      "text": "other",
+      "start": 17.68,
+      "end": 17.84
+    },
+    {
+      "text": "way",
+      "start": 17.84,
+      "end": 18.08
+    },
+    {
+      "text": "too",
+      "start": 18.08,
+      "end": 18.48
+    },
+    {
+      "text": "A",
+      "start": 18.908843537414963,
+      "end": 18.988843537414965
+    },
+    {
+      "text": "beaver",
+      "start": 18.988843537414965,
+      "end": 19.388843537414964
+    },
+    {
+      "text": "builds",
+      "start": 19.388843537414964,
+      "end": 19.708843537414964
+    },
+    {
+      "text": "the",
+      "start": 19.708843537414964,
+      "end": 19.788843537414966
+    },
+    {
+      "text": "pond",
+      "start": 19.788843537414966,
+      "end": 20.108843537414966
+    },
+    {
+      "text": "everything",
+      "start": 20.188843537414964,
+      "end": 20.588843537414967
+    },
+    {
+      "text": "else",
+      "start": 20.588843537414967,
+      "end": 20.828843537414965
+    },
+    {
+      "text": "needs",
+      "start": 20.828843537414965,
+      "end": 21.308843537414965
+    },
+    {
+      "text": "Elephants",
+      "start": 21.548843537414964,
+      "end": 22.028843537414964
+    },
+    {
+      "text": "knock",
+      "start": 22.028843537414964,
+      "end": 22.268843537414966
+    },
+    {
+      "text": "trees",
+      "start": 22.268843537414966,
+      "end": 22.588843537414967
+    },
+    {
+      "text": "over",
+      "start": 22.588843537414967,
+      "end": 22.988843537414965
+    },
+    {
+      "text": "and",
+      "start": 23.228843537414964,
+      "end": 23.388843537414964
+    },
+    {
+      "text": "that",
+      "start": 23.388843537414964,
+      "end": 23.548843537414964
+    },
+    {
+      "text": "is",
+      "start": 23.548843537414964,
+      "end": 23.708843537414964
+    },
+    {
+      "text": "what",
+      "start": 23.708843537414964,
+      "end": 23.868843537414964
+    },
+    {
+      "text": "keeps",
+      "start": 23.868843537414964,
+      "end": 24.108843537414966
+    },
+    {
+      "text": "a",
+      "start": 24.108843537414966,
+      "end": 24.188843537414964
+    },
+    {
+      "text": "savannah",
+      "start": 24.188843537414964,
+      "end": 24.668843537414965
+    },
+    {
+      "text": "open",
+      "start": 24.668843537414965,
+      "end": 25.068843537414963
+    },
+    {
+      "text": "And",
+      "start": 25.308843537414965,
+      "end": 25.548843537414964
+    },
+    {
+      "text": "none",
+      "start": 25.548843537414964,
+      "end": 25.708843537414964
+    },
+    {
+      "text": "of",
+      "start": 25.708843537414964,
+      "end": 25.788843537414966
+    },
+    {
+      "text": "it",
+      "start": 25.788843537414966,
+      "end": 25.868843537414964
+    },
+    {
+      "text": "has",
+      "start": 25.868843537414964,
+      "end": 26.028843537414964
+    },
+    {
+      "text": "anything",
+      "start": 26.028843537414964,
+      "end": 26.508843537414965
+    },
+    {
+      "text": "to",
+      "start": 26.508843537414965,
+      "end": 26.588843537414967
+    },
+    {
+      "text": "do",
+      "start": 26.588843537414967,
+      "end": 26.748843537414963
+    },
+    {
+      "text": "with",
+      "start": 26.748843537414963,
+      "end": 26.908843537414967
+    },
+    {
+      "text": "how",
+      "start": 26.908843537414967,
+      "end": 27.068843537414963
+    },
+    {
+      "text": "many",
+      "start": 27.068843537414963,
+      "end": 27.308843537414965
+    },
+    {
+      "text": "of",
+      "start": 27.308843537414965,
+      "end": 27.388843537414964
+    },
+    {
+      "text": "them",
+      "start": 27.388843537414964,
+      "end": 27.548843537414967
+    },
+    {
+      "text": "there",
+      "start": 27.548843537414967,
+      "end": 27.708843537414964
+    },
+    {
+      "text": "are",
+      "start": 27.708843537414964,
+      "end": 28.028843537414964
+    },
+    {
+      "text": "A",
+      "start": 28.428843537414963,
+      "end": 28.508843537414965
+    },
+    {
+      "text": "rare",
+      "start": 28.508843537414965,
+      "end": 28.748843537414963
+    },
+    {
+      "text": "species",
+      "start": 28.748843537414963,
+      "end": 29.308843537414965
+    },
+    {
+      "text": "can",
+      "start": 29.308843537414965,
+      "end": 29.468843537414966
+    },
+    {
+      "text": "be",
+      "start": 29.468843537414966,
+      "end": 29.548843537414967
+    },
+    {
+      "text": "holding",
+      "start": 29.548843537414967,
+      "end": 29.948843537414966
+    },
+    {
+      "text": "the",
+      "start": 29.948843537414966,
+      "end": 30.028843537414964
+    },
+    {
+      "text": "structure",
+      "start": 30.028843537414964,
+      "end": 30.428843537414963
+    },
+    {
+      "text": "up",
+      "start": 30.428843537414963,
+      "end": 30.748843537414963
+    },
+    {
+      "text": "A",
+      "start": 31.068843537414963,
+      "end": 31.148843537414965
+    },
+    {
+      "text": "common",
+      "start": 31.148843537414965,
+      "end": 31.548843537414967
+    },
+    {
+      "text": "one",
+      "start": 31.548843537414967,
+      "end": 31.788843537414962
+    },
+    {
+      "text": "often",
+      "start": 31.788843537414962,
+      "end": 32.10884353741496
+    },
+    {
+      "text": "is",
+      "start": 32.10884353741496,
+      "end": 32.268843537414966
+    },
+    {
+      "text": "not",
+      "start": 32.268843537414966,
+      "end": 32.58884353741497
+    },
+    {
+      "text": "Which",
+      "start": 32.903151927437634,
+      "end": 33.06315192743764
+    },
+    {
+      "text": "is",
+      "start": 33.06315192743764,
+      "end": 33.223151927437634
+    },
+    {
+      "text": "why",
+      "start": 33.223151927437634,
+      "end": 33.38315192743764
+    },
+    {
+      "text": "losing",
+      "start": 33.38315192743764,
+      "end": 33.863151927437634
+    },
+    {
+      "text": "one",
+      "start": 33.863151927437634,
+      "end": 34.02315192743764
+    },
+    {
+      "text": "animal",
+      "start": 34.02315192743764,
+      "end": 34.503151927437635
+    },
+    {
+      "text": "is",
+      "start": 34.66315192743764,
+      "end": 34.823151927437635
+    },
+    {
+      "text": "sometimes",
+      "start": 34.823151927437635,
+      "end": 35.38315192743764
+    },
+    {
+      "text": "losing",
+      "start": 35.38315192743764,
+      "end": 35.783151927437636
+    },
+    {
+      "text": "everything",
+      "start": 35.783151927437636,
+      "end": 36.183151927437635
+    },
+    {
+      "text": "above",
+      "start": 36.183151927437635,
+      "end": 36.42315192743764
+    },
+    {
+      "text": "it",
+      "start": 36.42315192743764,
+      "end": 36.66315192743764
+    },
+    {
+      "text": "One",
+      "start": 36.903151927437634,
+      "end": 37.06315192743764
+    },
+    {
+      "text": "of",
+      "start": 37.06315192743764,
+      "end": 37.22315192743764
+    },
+    {
+      "text": "these",
+      "start": 37.22315192743764,
+      "end": 37.463151927437636
+    },
+    {
+      "text": "every",
+      "start": 37.463151927437636,
+      "end": 37.70315192743764
+    },
+    {
+      "text": "day",
+      "start": 37.70315192743764,
+      "end": 38.10315192743764
+    },
+    {
+      "text": "Follow",
+      "start": 38.42315192743764,
+      "end": 38.66315192743764
+    },
+    {
+      "text": "so",
+      "start": 38.66315192743764,
+      "end": 38.823151927437635
+    },
+    {
+      "text": "you",
+      "start": 38.823151927437635,
+      "end": 38.98315192743764
+    },
+    {
+      "text": "do",
+      "start": 38.98315192743764,
+      "end": 39.06315192743764
+    },
+    {
+      "text": "not",
+      "start": 39.143151927437636,
+      "end": 39.38315192743764
+    },
+    {
+      "text": "miss",
+      "start": 39.38315192743764,
+      "end": 39.62315192743764
+    },
+    {
+      "text": "tomorrow",
+      "start": 39.62315192743764,
+      "end": 40.183151927437635
+    }
+  ],
+  "text": "Take the sea otters away and the entire kelp forest is gone within a few years. Otters do not eat kelp. They never touch the stuff. They eat urchins. And urchins eat kelp, constantly, forever. So no otters means unlimited urchins, and unlimited urchins means bare rock. It runs the other way too. A beaver builds the pond everything else needs. Elephants knock trees over, and that is what keeps a savannah open. And none of it has anything to do with how many of them there are. A rare species can be holding the structure up. A common one often is not. Which is why losing one animal is sometimes losing everything above it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,101 @@
+{
+  "topic": "What deforestation actually looks like in numbers",
+  "lesson": "Around ten million hectares of forest go every year, driven mostly by cattle, soy, palm oil and logging, and the rate has moved sharply in both directions when policy and price moved.",
+  "slug": "deforestation-in-numbers-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "About ten million hectares of forest disappear every year. That is a country, annually.",
+      "scene": "a large sheet of green felt on a bare surface, a small black cartoon figure cutting a big piece clean out of it with heavy shears",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a large sheet of green felt on a bare surface, a small black cartoon figure cutting a big piece clean out of it with heavy shears. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Mostly it is not fire, and not disaster. Mostly it is food.",
+      "scene": "an empty dinner plate on the surface, a small black cartoon figure laying a knife and fork down neatly on either side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty dinner plate on the surface, a small black cartoon figure laying a knife and fork down neatly on either side. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Cattle pasture is the single biggest driver, by a very long way.",
+      "scene": "a small toy cow on the surface, a small black cartoon figure rolling out a strip of green turf in front of it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy cow on the surface, a small black cartoon figure rolling out a strip of green turf in front of it with both arms. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Then soy. Then palm oil. Then logging.",
+      "scene": "four crates of decreasing size stacked on the surface, a small black cartoon figure climbing up the side of the largest one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. four crates of decreasing size stacked on the surface, a small black cartoon figure climbing up the side of the largest one. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "But it is not evenly spread, and it does not only run one way.",
+      "scene": "a string pegged across the surface in a rising and falling line, a small black cartoon figure hauling one peg downward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a string pegged across the surface in a rising and falling line, a small black cartoon figure hauling one peg downward. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Brazil cut its rate sharply in some periods. Then it climbed again.",
+      "scene": "a wooden lever on a pivot, a small black cartoon figure dragging it down with both arms while it springs partway back up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden lever on a pivot, a small black cartoon figure dragging it down with both arms while it springs partway back up. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And tree cover is genuinely rising across parts of Asia right now.",
+      "scene": "a tray of dark soil on the surface, a small black cartoon figure pressing a neat row of small saplings into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of dark soil on the surface, a small black cartoon figure pressing a neat row of small saplings into it. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Moralising has never moved these numbers. Policy and price have.",
+      "scene": "a balance scale on the surface, a small black cartoon figure dropping coins onto one pan until a green block on the other lifts",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale on the surface, a small black cartoon figure dropping coins onto one pan until a green block on the other lifts. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Which is worth knowing, because it means the number is not fixed.",
+      "scene": "the same green felt sheet, a small black cartoon figure stitching the cut piece back on with a large needle and thread",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same green felt sheet, a small black cartoon figure stitching the cut piece back on with a large needle and thread. the scene belongs to how much forest is actually lost each year and what moves that number, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Roughly 10 million hectares of forest are lost every year, driven mainly by cattle pasture, soy, palm oil and logging. But the number moves: Brazil's rate has dropped sharply in some periods and tree cover is rising in parts of Asia. What moves it is policy and price, not moralising.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #deforestation #forests #amazon #environment #science",
+    "thumbnail_beat": "01"
+  }
+}

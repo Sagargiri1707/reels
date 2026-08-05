@@ -1,0 +1,623 @@
+{
+  "audio_duration": 39.235813,
+  "segments": [
+    {
+      "text": "Beavers",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "came",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "back",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "to",
+      "start": 1.04,
+      "end": 1.04
+    },
+    {
+      "text": "Britain",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "text": "after",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "text": "four",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "text": "hundred",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "text": "years",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "and",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "downstream",
+      "start": 3.12,
+      "end": 3.68
+    },
+    {
+      "text": "flooding",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "text": "dropped",
+      "start": 4.08,
+      "end": 4.56
+    },
+    {
+      "text": "Nobody",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "engineered",
+      "start": 5.12,
+      "end": 5.68
+    },
+    {
+      "text": "that",
+      "start": 5.68,
+      "end": 5.92
+    },
+    {
+      "text": "Nobody",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "text": "built",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "text": "them",
+      "start": 6.8,
+      "end": 6.88
+    },
+    {
+      "text": "anything",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "text": "They",
+      "start": 7.68,
+      "end": 7.76
+    },
+    {
+      "text": "did",
+      "start": 7.76,
+      "end": 8.0
+    },
+    {
+      "text": "it",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "themselves",
+      "start": 8.08,
+      "end": 8.8
+    },
+    {
+      "text": "Which",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "text": "is",
+      "start": 9.2,
+      "end": 9.28
+    },
+    {
+      "text": "the",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "text": "whole",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "idea",
+      "start": 9.68,
+      "end": 10.16
+    },
+    {
+      "text": "Put",
+      "start": 10.4,
+      "end": 10.64
+    },
+    {
+      "text": "back",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "the",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "thing",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "text": "that",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "was",
+      "start": 11.44,
+      "end": 11.6
+    },
+    {
+      "text": "doing",
+      "start": 11.6,
+      "end": 11.84
+    },
+    {
+      "text": "the",
+      "start": 11.84,
+      "end": 11.92
+    },
+    {
+      "text": "work",
+      "start": 11.92,
+      "end": 12.32
+    },
+    {
+      "text": "Wolves",
+      "start": 12.56,
+      "end": 12.96
+    },
+    {
+      "text": "back",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "text": "into",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "Europe",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "text": "Cheetahs",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "back",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "into",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "text": "India",
+      "start": 14.88,
+      "end": 15.36
+    },
+    {
+      "text": "Coral",
+      "start": 15.704489795918368,
+      "end": 16.10448979591837
+    },
+    {
+      "text": "grown",
+      "start": 16.10448979591837,
+      "end": 16.42448979591837
+    },
+    {
+      "text": "on",
+      "start": 16.42448979591837,
+      "end": 16.58448979591837
+    },
+    {
+      "text": "frames",
+      "start": 16.58448979591837,
+      "end": 17.06448979591837
+    },
+    {
+      "text": "in",
+      "start": 17.06448979591837,
+      "end": 17.22448979591837
+    },
+    {
+      "text": "a",
+      "start": 17.22448979591837,
+      "end": 17.22448979591837
+    },
+    {
+      "text": "nursery",
+      "start": 17.22448979591837,
+      "end": 17.864489795918367
+    },
+    {
+      "text": "and",
+      "start": 18.024489795918367,
+      "end": 18.184489795918367
+    },
+    {
+      "text": "planted",
+      "start": 18.184489795918367,
+      "end": 18.664489795918367
+    },
+    {
+      "text": "back",
+      "start": 18.664489795918367,
+      "end": 18.90448979591837
+    },
+    {
+      "text": "onto",
+      "start": 18.90448979591837,
+      "end": 19.06448979591837
+    },
+    {
+      "text": "the",
+      "start": 19.06448979591837,
+      "end": 19.144489795918368
+    },
+    {
+      "text": "reef",
+      "start": 19.144489795918368,
+      "end": 19.464489795918368
+    },
+    {
+      "text": "But",
+      "start": 19.94448979591837,
+      "end": 20.024489795918367
+    },
+    {
+      "text": "it",
+      "start": 20.024489795918367,
+      "end": 20.10448979591837
+    },
+    {
+      "text": "goes",
+      "start": 20.10448979591837,
+      "end": 20.344489795918367
+    },
+    {
+      "text": "wrong",
+      "start": 20.344489795918367,
+      "end": 20.664489795918367
+    },
+    {
+      "text": "as",
+      "start": 20.664489795918367,
+      "end": 20.74448979591837
+    },
+    {
+      "text": "well",
+      "start": 20.74448979591837,
+      "end": 21.144489795918368
+    },
+    {
+      "text": "and",
+      "start": 21.38448979591837,
+      "end": 21.544489795918366
+    },
+    {
+      "text": "pretending",
+      "start": 21.544489795918366,
+      "end": 21.94448979591837
+    },
+    {
+      "text": "otherwise",
+      "start": 21.94448979591837,
+      "end": 22.504489795918367
+    },
+    {
+      "text": "helps",
+      "start": 22.504489795918367,
+      "end": 22.824489795918367
+    },
+    {
+      "text": "nobody",
+      "start": 22.824489795918367,
+      "end": 23.304489795918368
+    },
+    {
+      "text": "One",
+      "start": 23.78448979591837,
+      "end": 24.10448979591837
+    },
+    {
+      "text": "Dutch",
+      "start": 24.10448979591837,
+      "end": 24.42448979591837
+    },
+    {
+      "text": "reserve",
+      "start": 24.42448979591837,
+      "end": 24.824489795918367
+    },
+    {
+      "text": "ended",
+      "start": 24.824489795918367,
+      "end": 25.06448979591837
+    },
+    {
+      "text": "in",
+      "start": 25.06448979591837,
+      "end": 25.224489795918366
+    },
+    {
+      "text": "mass",
+      "start": 25.224489795918366,
+      "end": 25.464489795918368
+    },
+    {
+      "text": "starvation",
+      "start": 25.464489795918368,
+      "end": 26.184489795918367
+    },
+    {
+      "text": "and",
+      "start": 26.42448979591837,
+      "end": 26.504489795918367
+    },
+    {
+      "text": "it",
+      "start": 26.504489795918367,
+      "end": 26.664489795918367
+    },
+    {
+      "text": "is",
+      "start": 26.664489795918367,
+      "end": 26.74448979591837
+    },
+    {
+      "text": "still",
+      "start": 26.74448979591837,
+      "end": 27.06448979591837
+    },
+    {
+      "text": "argued",
+      "start": 27.06448979591837,
+      "end": 27.464489795918368
+    },
+    {
+      "text": "about",
+      "start": 27.464489795918368,
+      "end": 27.70448979591837
+    },
+    {
+      "text": "today",
+      "start": 27.70448979591837,
+      "end": 28.10448979591837
+    },
+    {
+      "text": "It",
+      "start": 28.42448979591837,
+      "end": 28.504489795918367
+    },
+    {
+      "text": "works",
+      "start": 28.504489795918367,
+      "end": 28.904489795918366
+    },
+    {
+      "text": "when",
+      "start": 28.904489795918366,
+      "end": 29.06448979591837
+    },
+    {
+      "text": "you",
+      "start": 29.06448979591837,
+      "end": 29.144489795918368
+    },
+    {
+      "text": "restore",
+      "start": 29.144489795918368,
+      "end": 29.544489795918366
+    },
+    {
+      "text": "a",
+      "start": 29.544489795918366,
+      "end": 29.544489795918366
+    },
+    {
+      "text": "function",
+      "start": 29.544489795918366,
+      "end": 30.10448979591837
+    },
+    {
+      "text": "Not",
+      "start": 30.34448979591837,
+      "end": 30.664489795918367
+    },
+    {
+      "text": "when",
+      "start": 30.664489795918367,
+      "end": 30.74448979591837
+    },
+    {
+      "text": "you",
+      "start": 30.74448979591837,
+      "end": 30.824489795918367
+    },
+    {
+      "text": "just",
+      "start": 30.824489795918367,
+      "end": 31.06448979591837
+    },
+    {
+      "text": "add",
+      "start": 31.06448979591837,
+      "end": 31.304489795918368
+    },
+    {
+      "text": "an",
+      "start": 31.304489795918368,
+      "end": 31.38448979591837
+    },
+    {
+      "text": "animal",
+      "start": 31.38448979591837,
+      "end": 31.864489795918367
+    },
+    {
+      "text": "The",
+      "start": 32.269297052154194,
+      "end": 32.34929705215419
+    },
+    {
+      "text": "landscape",
+      "start": 32.34929705215419,
+      "end": 32.82929705215419
+    },
+    {
+      "text": "was",
+      "start": 32.82929705215419,
+      "end": 32.98929705215419
+    },
+    {
+      "text": "never",
+      "start": 32.98929705215419,
+      "end": 33.229297052154195
+    },
+    {
+      "text": "really",
+      "start": 33.229297052154195,
+      "end": 33.549297052154195
+    },
+    {
+      "text": "the",
+      "start": 33.549297052154195,
+      "end": 33.62929705215419
+    },
+    {
+      "text": "point",
+      "start": 33.62929705215419,
+      "end": 34.02929705215419
+    },
+    {
+      "text": "The",
+      "start": 34.269297052154194,
+      "end": 34.34929705215419
+    },
+    {
+      "text": "job",
+      "start": 34.34929705215419,
+      "end": 34.74929705215419
+    },
+    {
+      "text": "it",
+      "start": 34.74929705215419,
+      "end": 34.74929705215419
+    },
+    {
+      "text": "was",
+      "start": 34.74929705215419,
+      "end": 34.909297052154194
+    },
+    {
+      "text": "doing",
+      "start": 34.909297052154194,
+      "end": 35.229297052154195
+    },
+    {
+      "text": "was",
+      "start": 35.229297052154195,
+      "end": 35.62929705215419
+    },
+    {
+      "text": "One",
+      "start": 35.869297052154195,
+      "end": 36.02929705215419
+    },
+    {
+      "text": "of",
+      "start": 36.02929705215419,
+      "end": 36.18929705215419
+    },
+    {
+      "text": "these",
+      "start": 36.18929705215419,
+      "end": 36.42929705215419
+    },
+    {
+      "text": "every",
+      "start": 36.42929705215419,
+      "end": 36.74929705215419
+    },
+    {
+      "text": "day",
+      "start": 36.74929705215419,
+      "end": 37.06929705215419
+    },
+    {
+      "text": "Follow",
+      "start": 37.30929705215419,
+      "end": 37.62929705215419
+    },
+    {
+      "text": "so",
+      "start": 37.62929705215419,
+      "end": 37.78929705215419
+    },
+    {
+      "text": "you",
+      "start": 37.78929705215419,
+      "end": 37.869297052154195
+    },
+    {
+      "text": "do",
+      "start": 37.869297052154195,
+      "end": 38.02929705215419
+    },
+    {
+      "text": "not",
+      "start": 38.02929705215419,
+      "end": 38.269297052154194
+    },
+    {
+      "text": "miss",
+      "start": 38.269297052154194,
+      "end": 38.509297052154196
+    },
+    {
+      "text": "tomorrow",
+      "start": 38.509297052154196,
+      "end": 39.06929705215419
+    }
+  ],
+  "text": "Beavers came back to Britain after four hundred years, and downstream flooding dropped. Nobody engineered that. Nobody built them anything. They did it themselves. Which is the whole idea. Put back the thing that was doing the work. Wolves back into Europe. Cheetahs back into India. Coral grown on frames in a nursery and planted back onto the reef. But it goes wrong as well, and pretending otherwise helps nobody. One Dutch reserve ended in mass starvation, and it is still argued about today. It works when you restore a function. Not when you just add an animal. The landscape was never really the point. The job it was doing was. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

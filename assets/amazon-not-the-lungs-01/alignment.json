@@ -1,0 +1,653 @@
+{
+  "audio_duration": 42.004813,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "Amazon's",
+      "start": 0.24,
+      "end": 0.72
+    },
+    {
+      "text": "net",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "contribution",
+      "start": 1.04,
+      "end": 1.68
+    },
+    {
+      "text": "to",
+      "start": 1.76,
+      "end": 1.76
+    },
+    {
+      "text": "the",
+      "start": 1.76,
+      "end": 1.92
+    },
+    {
+      "text": "oxygen",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "text": "you",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "text": "breathe",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "text": "is",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "roughly",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "text": "zero",
+      "start": 3.44,
+      "end": 4.0
+    },
+    {
+      "text": "It",
+      "start": 4.32,
+      "end": 4.48
+    },
+    {
+      "text": "does",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "text": "make",
+      "start": 4.72,
+      "end": 4.96
+    },
+    {
+      "text": "enormous",
+      "start": 4.96,
+      "end": 5.44
+    },
+    {
+      "text": "amounts",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "of",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "oxygen",
+      "start": 5.84,
+      "end": 6.48
+    },
+    {
+      "text": "That",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "text": "part",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "text": "is",
+      "start": 7.2,
+      "end": 7.36
+    },
+    {
+      "text": "completely",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "text": "true",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "text": "But",
+      "start": 8.64,
+      "end": 8.8
+    },
+    {
+      "text": "a",
+      "start": 8.8,
+      "end": 8.8
+    },
+    {
+      "text": "forest",
+      "start": 8.8,
+      "end": 9.36
+    },
+    {
+      "text": "is",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "not",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "text": "only",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "text": "leaves",
+      "start": 10.0,
+      "end": 10.56
+    },
+    {
+      "text": "It",
+      "start": 10.8,
+      "end": 10.88
+    },
+    {
+      "text": "is",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "everything",
+      "start": 11.04,
+      "end": 11.52
+    },
+    {
+      "text": "eating",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "text": "and",
+      "start": 11.92,
+      "end": 12.0
+    },
+    {
+      "text": "rotting",
+      "start": 12.0,
+      "end": 12.4
+    },
+    {
+      "text": "inside",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "text": "it",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "Every",
+      "start": 13.336054421768708,
+      "end": 13.656054421768708
+    },
+    {
+      "text": "animal",
+      "start": 13.656054421768708,
+      "end": 14.136054421768709
+    },
+    {
+      "text": "every",
+      "start": 14.376054421768707,
+      "end": 14.616054421768707
+    },
+    {
+      "text": "root",
+      "start": 14.616054421768707,
+      "end": 15.016054421768708
+    },
+    {
+      "text": "every",
+      "start": 15.256054421768708,
+      "end": 15.576054421768708
+    },
+    {
+      "text": "fungus",
+      "start": 15.576054421768708,
+      "end": 15.976054421768708
+    },
+    {
+      "text": "is",
+      "start": 15.976054421768708,
+      "end": 16.216054421768707
+    },
+    {
+      "text": "breathing",
+      "start": 16.216054421768707,
+      "end": 16.61605442176871
+    },
+    {
+      "text": "that",
+      "start": 16.61605442176871,
+      "end": 16.696054421768707
+    },
+    {
+      "text": "oxygen",
+      "start": 16.696054421768707,
+      "end": 17.25605442176871
+    },
+    {
+      "text": "straight",
+      "start": 17.25605442176871,
+      "end": 17.656054421768708
+    },
+    {
+      "text": "back",
+      "start": 17.656054421768708,
+      "end": 17.896054421768707
+    },
+    {
+      "text": "in",
+      "start": 17.896054421768707,
+      "end": 18.216054421768707
+    },
+    {
+      "text": "So",
+      "start": 18.45605442176871,
+      "end": 18.61605442176871
+    },
+    {
+      "text": "the",
+      "start": 18.61605442176871,
+      "end": 18.696054421768707
+    },
+    {
+      "text": "books",
+      "start": 18.696054421768707,
+      "end": 19.016054421768708
+    },
+    {
+      "text": "balance",
+      "start": 19.016054421768708,
+      "end": 19.496054421768708
+    },
+    {
+      "text": "almost",
+      "start": 19.496054421768708,
+      "end": 19.896054421768707
+    },
+    {
+      "text": "exactly",
+      "start": 19.896054421768707,
+      "end": 20.536054421768707
+    },
+    {
+      "text": "Made",
+      "start": 20.776054421768706,
+      "end": 21.016054421768708
+    },
+    {
+      "text": "and",
+      "start": 21.016054421768708,
+      "end": 21.176054421768708
+    },
+    {
+      "text": "used",
+      "start": 21.176054421768708,
+      "end": 21.496054421768708
+    },
+    {
+      "text": "in",
+      "start": 21.496054421768708,
+      "end": 21.57605442176871
+    },
+    {
+      "text": "the",
+      "start": 21.57605442176871,
+      "end": 21.656054421768708
+    },
+    {
+      "text": "same",
+      "start": 21.656054421768708,
+      "end": 21.97605442176871
+    },
+    {
+      "text": "place",
+      "start": 21.97605442176871,
+      "end": 22.456054421768705
+    },
+    {
+      "text": "Most",
+      "start": 22.696054421768707,
+      "end": 23.016054421768708
+    },
+    {
+      "text": "of",
+      "start": 23.016054421768708,
+      "end": 23.096054421768706
+    },
+    {
+      "text": "the",
+      "start": 23.096054421768706,
+      "end": 23.25605442176871
+    },
+    {
+      "text": "oxygen",
+      "start": 23.25605442176871,
+      "end": 23.736054421768706
+    },
+    {
+      "text": "you",
+      "start": 23.736054421768706,
+      "end": 23.81605442176871
+    },
+    {
+      "text": "actually",
+      "start": 23.81605442176871,
+      "end": 24.216054421768707
+    },
+    {
+      "text": "breathe",
+      "start": 24.216054421768707,
+      "end": 24.61605442176871
+    },
+    {
+      "text": "came",
+      "start": 24.61605442176871,
+      "end": 24.776054421768706
+    },
+    {
+      "text": "out",
+      "start": 24.776054421768706,
+      "end": 24.93605442176871
+    },
+    {
+      "text": "of",
+      "start": 24.93605442176871,
+      "end": 25.016054421768708
+    },
+    {
+      "text": "the",
+      "start": 25.016054421768708,
+      "end": 25.096054421768706
+    },
+    {
+      "text": "sea",
+      "start": 25.096054421768706,
+      "end": 25.416054421768706
+    },
+    {
+      "text": "anyway",
+      "start": 25.416054421768706,
+      "end": 25.97605442176871
+    },
+    {
+      "text": "None",
+      "start": 26.216054421768707,
+      "end": 26.376054421768707
+    },
+    {
+      "text": "of",
+      "start": 26.376054421768707,
+      "end": 26.536054421768707
+    },
+    {
+      "text": "which",
+      "start": 26.536054421768707,
+      "end": 26.776054421768706
+    },
+    {
+      "text": "makes",
+      "start": 26.776054421768706,
+      "end": 27.016054421768708
+    },
+    {
+      "text": "the",
+      "start": 27.016054421768708,
+      "end": 27.176054421768708
+    },
+    {
+      "text": "Amazon",
+      "start": 27.176054421768708,
+      "end": 27.57605442176871
+    },
+    {
+      "text": "less",
+      "start": 27.57605442176871,
+      "end": 27.81605442176871
+    },
+    {
+      "text": "important",
+      "start": 27.81605442176871,
+      "end": 28.376054421768707
+    },
+    {
+      "text": "It",
+      "start": 28.758208616780042,
+      "end": 28.838208616780044
+    },
+    {
+      "text": "makes",
+      "start": 28.838208616780044,
+      "end": 29.158208616780044
+    },
+    {
+      "text": "it",
+      "start": 29.158208616780044,
+      "end": 29.158208616780044
+    },
+    {
+      "text": "important",
+      "start": 29.158208616780044,
+      "end": 29.638208616780044
+    },
+    {
+      "text": "differently",
+      "start": 29.638208616780044,
+      "end": 30.198208616780043
+    },
+    {
+      "text": "It",
+      "start": 30.518208616780043,
+      "end": 30.598208616780042
+    },
+    {
+      "text": "is",
+      "start": 30.598208616780042,
+      "end": 30.758208616780045
+    },
+    {
+      "text": "a",
+      "start": 30.758208616780045,
+      "end": 30.758208616780045
+    },
+    {
+      "text": "colossal",
+      "start": 30.758208616780045,
+      "end": 31.318208616780044
+    },
+    {
+      "text": "carbon",
+      "start": 31.318208616780044,
+      "end": 31.718208616780043
+    },
+    {
+      "text": "store",
+      "start": 31.718208616780043,
+      "end": 32.19820861678004
+    },
+    {
+      "text": "It",
+      "start": 32.51820861678004,
+      "end": 32.59820861678004
+    },
+    {
+      "text": "also",
+      "start": 32.59820861678004,
+      "end": 32.91820861678004
+    },
+    {
+      "text": "makes",
+      "start": 32.91820861678004,
+      "end": 33.23820861678004
+    },
+    {
+      "text": "most",
+      "start": 33.23820861678004,
+      "end": 33.55820861678004
+    },
+    {
+      "text": "of",
+      "start": 33.55820861678004,
+      "end": 33.63820861678004
+    },
+    {
+      "text": "its",
+      "start": 33.63820861678004,
+      "end": 33.718208616780046
+    },
+    {
+      "text": "own",
+      "start": 33.718208616780046,
+      "end": 33.95820861678004
+    },
+    {
+      "text": "rainfall",
+      "start": 33.95820861678004,
+      "end": 34.59820861678004
+    },
+    {
+      "text": "Losing",
+      "start": 34.838208616780044,
+      "end": 35.23820861678004
+    },
+    {
+      "text": "it",
+      "start": 35.23820861678004,
+      "end": 35.398208616780046
+    },
+    {
+      "text": "would",
+      "start": 35.398208616780046,
+      "end": 35.55820861678004
+    },
+    {
+      "text": "be",
+      "start": 35.55820861678004,
+      "end": 35.63820861678004
+    },
+    {
+      "text": "a",
+      "start": 35.63820861678004,
+      "end": 35.718208616780046
+    },
+    {
+      "text": "catastrophe",
+      "start": 35.718208616780046,
+      "end": 36.51820861678004
+    },
+    {
+      "text": "Just",
+      "start": 36.758208616780045,
+      "end": 36.99820861678005
+    },
+    {
+      "text": "not",
+      "start": 36.99820861678005,
+      "end": 37.158208616780044
+    },
+    {
+      "text": "the",
+      "start": 37.158208616780044,
+      "end": 37.23820861678004
+    },
+    {
+      "text": "one",
+      "start": 37.23820861678004,
+      "end": 37.478208616780044
+    },
+    {
+      "text": "everybody",
+      "start": 37.478208616780044,
+      "end": 37.95820861678004
+    },
+    {
+      "text": "names",
+      "start": 37.95820861678004,
+      "end": 38.438208616780045
+    },
+    {
+      "text": "One",
+      "start": 38.67820861678004,
+      "end": 38.838208616780044
+    },
+    {
+      "text": "of",
+      "start": 38.838208616780044,
+      "end": 38.91820861678004
+    },
+    {
+      "text": "these",
+      "start": 38.91820861678004,
+      "end": 39.158208616780044
+    },
+    {
+      "text": "every",
+      "start": 39.158208616780044,
+      "end": 39.478208616780044
+    },
+    {
+      "text": "day",
+      "start": 39.478208616780044,
+      "end": 39.798208616780045
+    },
+    {
+      "text": "Follow",
+      "start": 40.03820861678004,
+      "end": 40.35820861678005
+    },
+    {
+      "text": "so",
+      "start": 40.35820861678005,
+      "end": 40.51820861678004
+    },
+    {
+      "text": "you",
+      "start": 40.51820861678004,
+      "end": 40.67820861678004
+    },
+    {
+      "text": "do",
+      "start": 40.67820861678004,
+      "end": 40.838208616780044
+    },
+    {
+      "text": "not",
+      "start": 40.838208616780044,
+      "end": 40.99820861678005
+    },
+    {
+      "text": "miss",
+      "start": 40.99820861678005,
+      "end": 41.31820861678004
+    },
+    {
+      "text": "tomorrow",
+      "start": 41.31820861678004,
+      "end": 41.798208616780045
+    }
+  ],
+  "text": "The Amazon's net contribution to the oxygen you breathe is roughly zero. It does make enormous amounts of oxygen. That part is completely true. But a forest is not only leaves. It is everything eating and rotting inside it. Every animal, every root, every fungus is breathing that oxygen straight back in. So the books balance almost exactly. Made and used in the same place. Most of the oxygen you actually breathe came out of the sea anyway. None of which makes the Amazon less important. It makes it important differently. It is a colossal carbon store. It also makes most of its own rainfall. Losing it would be a catastrophe. Just not the one everybody names. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

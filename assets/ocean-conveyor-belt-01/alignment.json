@@ -1,0 +1,643 @@
+{
+  "audio_duration": 39.888875,
+  "segments": [
+    {
+      "text": "London",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "sits",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "text": "further",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "text": "north",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "text": "than",
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "text": "Newfoundland",
+      "start": 1.44,
+      "end": 2.0
+    },
+    {
+      "text": "and",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "text": "runs",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "about",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "text": "ten",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "text": "degrees",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "text": "warmer",
+      "start": 3.44,
+      "end": 3.92
+    },
+    {
+      "text": "Sunlight",
+      "start": 4.16,
+      "end": 4.64
+    },
+    {
+      "text": "does",
+      "start": 4.64,
+      "end": 4.8
+    },
+    {
+      "text": "not",
+      "start": 4.8,
+      "end": 5.04
+    },
+    {
+      "text": "explain",
+      "start": 5.04,
+      "end": 5.6
+    },
+    {
+      "text": "that",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "text": "Both",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "text": "places",
+      "start": 6.48,
+      "end": 6.88
+    },
+    {
+      "text": "get",
+      "start": 6.88,
+      "end": 7.04
+    },
+    {
+      "text": "the",
+      "start": 7.04,
+      "end": 7.12
+    },
+    {
+      "text": "same",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "amount",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "text": "The",
+      "start": 8.08,
+      "end": 8.16
+    },
+    {
+      "text": "difference",
+      "start": 8.16,
+      "end": 8.56
+    },
+    {
+      "text": "is",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "text": "a",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "text": "river",
+      "start": 8.72,
+      "end": 9.12
+    },
+    {
+      "text": "running",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "text": "inside",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "text": "the",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "text": "ocean",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "and",
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "text": "it",
+      "start": 10.72,
+      "end": 10.8
+    },
+    {
+      "text": "is",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "enormous",
+      "start": 10.96,
+      "end": 11.52
+    },
+    {
+      "text": "Warm",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "text": "water",
+      "start": 12.16,
+      "end": 12.4
+    },
+    {
+      "text": "runs",
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "text": "north",
+      "start": 12.8,
+      "end": 13.12
+    },
+    {
+      "text": "along",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "text": "the",
+      "start": 13.36,
+      "end": 13.36
+    },
+    {
+      "text": "surface",
+      "start": 13.36,
+      "end": 13.92
+    },
+    {
+      "text": "giving",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "up",
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "text": "heat",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "text": "the",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "whole",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "text": "way",
+      "start": 15.12,
+      "end": 15.44
+    },
+    {
+      "text": "Cold",
+      "start": 15.810249433106575,
+      "end": 16.130249433106574
+    },
+    {
+      "text": "water",
+      "start": 16.130249433106574,
+      "end": 16.450249433106574
+    },
+    {
+      "text": "that",
+      "start": 16.450249433106574,
+      "end": 16.610249433106574
+    },
+    {
+      "text": "has",
+      "start": 16.610249433106574,
+      "end": 16.690249433106576
+    },
+    {
+      "text": "lost",
+      "start": 16.690249433106576,
+      "end": 17.090249433106575
+    },
+    {
+      "text": "its",
+      "start": 17.090249433106575,
+      "end": 17.170249433106576
+    },
+    {
+      "text": "warmth",
+      "start": 17.170249433106576,
+      "end": 17.570249433106575
+    },
+    {
+      "text": "is",
+      "start": 17.650249433106573,
+      "end": 17.730249433106575
+    },
+    {
+      "text": "saltier",
+      "start": 17.730249433106575,
+      "end": 18.370249433106576
+    },
+    {
+      "text": "and",
+      "start": 18.610249433106574,
+      "end": 18.770249433106574
+    },
+    {
+      "text": "salty",
+      "start": 18.770249433106574,
+      "end": 19.170249433106576
+    },
+    {
+      "text": "water",
+      "start": 19.170249433106576,
+      "end": 19.490249433106577
+    },
+    {
+      "text": "is",
+      "start": 19.490249433106577,
+      "end": 19.650249433106573
+    },
+    {
+      "text": "heavy",
+      "start": 19.650249433106573,
+      "end": 20.050249433106575
+    },
+    {
+      "text": "So",
+      "start": 20.210249433106576,
+      "end": 20.450249433106574
+    },
+    {
+      "text": "it",
+      "start": 20.450249433106574,
+      "end": 20.530249433106576
+    },
+    {
+      "text": "sinks",
+      "start": 20.530249433106576,
+      "end": 21.090249433106575
+    },
+    {
+      "text": "and",
+      "start": 21.250249433106575,
+      "end": 21.330249433106573
+    },
+    {
+      "text": "keeps",
+      "start": 21.330249433106573,
+      "end": 21.570249433106575
+    },
+    {
+      "text": "going",
+      "start": 21.570249433106575,
+      "end": 22.050249433106575
+    },
+    {
+      "text": "all",
+      "start": 22.290249433106574,
+      "end": 22.530249433106576
+    },
+    {
+      "text": "the",
+      "start": 22.530249433106576,
+      "end": 22.610249433106574
+    },
+    {
+      "text": "way",
+      "start": 22.610249433106574,
+      "end": 22.770249433106574
+    },
+    {
+      "text": "back",
+      "start": 22.770249433106574,
+      "end": 23.010249433106576
+    },
+    {
+      "text": "south",
+      "start": 23.010249433106576,
+      "end": 23.410249433106575
+    },
+    {
+      "text": "along",
+      "start": 23.410249433106575,
+      "end": 23.650249433106573
+    },
+    {
+      "text": "the",
+      "start": 23.650249433106573,
+      "end": 23.730249433106575
+    },
+    {
+      "text": "seafloor",
+      "start": 23.730249433106575,
+      "end": 24.370249433106576
+    },
+    {
+      "text": "One",
+      "start": 24.610249433106574,
+      "end": 24.930249433106574
+    },
+    {
+      "text": "full",
+      "start": 24.930249433106574,
+      "end": 25.250249433106575
+    },
+    {
+      "text": "lap",
+      "start": 25.250249433106575,
+      "end": 25.490249433106577
+    },
+    {
+      "text": "of",
+      "start": 25.490249433106577,
+      "end": 25.650249433106573
+    },
+    {
+      "text": "that",
+      "start": 25.650249433106573,
+      "end": 25.810249433106577
+    },
+    {
+      "text": "circuit",
+      "start": 25.810249433106577,
+      "end": 26.210249433106576
+    },
+    {
+      "text": "takes",
+      "start": 26.210249433106576,
+      "end": 26.450249433106578
+    },
+    {
+      "text": "about",
+      "start": 26.450249433106578,
+      "end": 26.690249433106572
+    },
+    {
+      "text": "a",
+      "start": 26.690249433106572,
+      "end": 26.690249433106572
+    },
+    {
+      "text": "thousand",
+      "start": 26.690249433106572,
+      "end": 27.170249433106576
+    },
+    {
+      "text": "years",
+      "start": 27.170249433106576,
+      "end": 27.650249433106573
+    },
+    {
+      "text": "But",
+      "start": 27.890249433106575,
+      "end": 28.050249433106575
+    },
+    {
+      "text": "melting",
+      "start": 28.050249433106575,
+      "end": 28.450249433106578
+    },
+    {
+      "text": "ice",
+      "start": 28.450249433106578,
+      "end": 28.850249433106576
+    },
+    {
+      "text": "adds",
+      "start": 28.850249433106576,
+      "end": 29.170249433106576
+    },
+    {
+      "text": "fresh",
+      "start": 29.170249433106576,
+      "end": 29.490249433106577
+    },
+    {
+      "text": "water",
+      "start": 29.490249433106577,
+      "end": 29.890249433106575
+    },
+    {
+      "text": "and",
+      "start": 30.130249433106577,
+      "end": 30.210249433106576
+    },
+    {
+      "text": "fresh",
+      "start": 30.210249433106576,
+      "end": 30.530249433106576
+    },
+    {
+      "text": "water",
+      "start": 30.530249433106576,
+      "end": 30.850249433106576
+    },
+    {
+      "text": "is",
+      "start": 30.850249433106576,
+      "end": 31.010249433106573
+    },
+    {
+      "text": "not",
+      "start": 31.010249433106573,
+      "end": 31.250249433106575
+    },
+    {
+      "text": "heavy",
+      "start": 31.250249433106575,
+      "end": 31.490249433106577
+    },
+    {
+      "text": "enough",
+      "start": 31.490249433106577,
+      "end": 31.810249433106577
+    },
+    {
+      "text": "to",
+      "start": 31.810249433106577,
+      "end": 31.810249433106577
+    },
+    {
+      "text": "sink",
+      "start": 31.810249433106577,
+      "end": 32.290249433106574
+    },
+    {
+      "text": "Which",
+      "start": 32.6678231292517,
+      "end": 32.8278231292517
+    },
+    {
+      "text": "is",
+      "start": 32.8278231292517,
+      "end": 32.907823129251696
+    },
+    {
+      "text": "the",
+      "start": 32.907823129251696,
+      "end": 33.0678231292517
+    },
+    {
+      "text": "actual",
+      "start": 33.0678231292517,
+      "end": 33.4678231292517
+    },
+    {
+      "text": "machine",
+      "start": 33.4678231292517,
+      "end": 33.8678231292517
+    },
+    {
+      "text": "behind",
+      "start": 33.8678231292517,
+      "end": 34.1878231292517
+    },
+    {
+      "text": "every",
+      "start": 34.1878231292517,
+      "end": 34.5078231292517
+    },
+    {
+      "text": "headline",
+      "start": 34.5078231292517,
+      "end": 34.907823129251696
+    },
+    {
+      "text": "about",
+      "start": 34.907823129251696,
+      "end": 35.1478231292517
+    },
+    {
+      "text": "Europe",
+      "start": 35.1478231292517,
+      "end": 35.4678231292517
+    },
+    {
+      "text": "getting",
+      "start": 35.4678231292517,
+      "end": 35.7878231292517
+    },
+    {
+      "text": "colder",
+      "start": 35.7878231292517,
+      "end": 36.267823129251695
+    },
+    {
+      "text": "One",
+      "start": 36.5078231292517,
+      "end": 36.7478231292517
+    },
+    {
+      "text": "of",
+      "start": 36.7478231292517,
+      "end": 36.8278231292517
+    },
+    {
+      "text": "these",
+      "start": 36.8278231292517,
+      "end": 37.0678231292517
+    },
+    {
+      "text": "every",
+      "start": 37.0678231292517,
+      "end": 37.3878231292517
+    },
+    {
+      "text": "day",
+      "start": 37.3878231292517,
+      "end": 37.7078231292517
+    },
+    {
+      "text": "Follow",
+      "start": 38.0278231292517,
+      "end": 38.3478231292517
+    },
+    {
+      "text": "so",
+      "start": 38.3478231292517,
+      "end": 38.4278231292517
+    },
+    {
+      "text": "you",
+      "start": 38.4278231292517,
+      "end": 38.5878231292517
+    },
+    {
+      "text": "do",
+      "start": 38.5878231292517,
+      "end": 38.6678231292517
+    },
+    {
+      "text": "not",
+      "start": 38.6678231292517,
+      "end": 38.9878231292517
+    },
+    {
+      "text": "miss",
+      "start": 38.9878231292517,
+      "end": 39.227823129251696
+    },
+    {
+      "text": "tomorrow",
+      "start": 39.227823129251696,
+      "end": 39.7078231292517
+    }
+  ],
+  "text": "London sits further north than Newfoundland, and runs about ten degrees warmer. Sunlight does not explain that. Both places get the same amount. The difference is a river running inside the ocean, and it is enormous. Warm water runs north along the surface, giving up heat the whole way. Cold water that has lost its warmth is saltier, and salty water is heavy. So it sinks, and keeps going, all the way back south along the seafloor. One full lap of that circuit takes about a thousand years. But melting ice adds fresh water, and fresh water is not heavy enough to sink. Which is the actual machine behind every headline about Europe getting colder. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

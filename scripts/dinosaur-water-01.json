@@ -1,0 +1,95 @@
+{
+  "topic": "You have definitely drunk dinosaur water",
+  "lesson": "Earth has never made new water, so the same supply has been cycling for four billion years and the molecules in your glass have already been through oceans, glaciers and other living bodies thousands of times.",
+  "slug": "dinosaur-water-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The water in your glass is older than the dinosaurs, and it has been drunk before.",
+      "scene": "a full drinking glass on a bare surface, a small black cartoon figure balanced on the rim peering down into the water through a magnifying glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full drinking glass on a bare surface, a small black cartoon figure balanced on the rim peering down into the water through a magnifying glass. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Earth has never made a single new drop of it.",
+      "scene": "a brass tap mounted over an empty basin, a small black cartoon figure hauling the handle right round with both arms while nothing comes out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass tap mounted over an empty basin, a small black cartoon figure hauling the handle right round with both arms while nothing comes out. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The same water has just been going round for four billion years.",
+      "scene": "a hand crank pump on the surface, a small black cartoon figure working the handle while the spout pours into a funnel that feeds straight back in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand crank pump on the surface, a small black cartoon figure working the handle while the spout pours into a funnel that feeds straight back in. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It evaporates, gathers, falls, collects. Then it does the whole thing again.",
+      "scene": "a lidded glass jar with a shallow pool inside and droplets running down the inner walls, a small black cartoon figure standing in the pool holding an umbrella",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lidded glass jar with a shallow pool inside and droplets running down the inner walls, a small black cartoon figure standing in the pool holding an umbrella. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "One molecule in there has been in glaciers, in swamps, and inside other animals.",
+      "scene": "an ice cube tray on the surface, a small black cartoon figure prising one cube free with both arms and holding it up to look through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an ice cube tray on the surface, a small black cartoon figure prising one cube free with both arms and holding it up to look through. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Nothing gets filtered out of that loop. There is no exit from it.",
+      "scene": "a closed ring of clear tubing full of water lying on the surface, a small black cartoon figure straining to pull one join apart with both hands",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a closed ring of clear tubing full of water lying on the surface, a small black cartoon figure straining to pull one join apart with both hands. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "So yes. Some of what you just swallowed has been through a dinosaur.",
+      "scene": "a small toy dinosaur standing beside a full glass of water, a small black cartoon figure tipping the glass towards its jaws with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy dinosaur standing beside a full glass of water, a small black cartoon figure tipping the glass towards its jaws with both arms. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "You are not drinking fresh water. You are borrowing it for a while.",
+      "scene": "the same drinking glass, a small black cartoon figure lowering it carefully back onto a ring marked coaster with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same drinking glass, a small black cartoon figure lowering it carefully back onto a ring marked coaster with both arms. the scene belongs to the same water going round and round with no way out of the loop, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Earth has never made new water. The same supply has been cycling for four billion years, and every molecule in your glass has already been through oceans, ice sheets and other living bodies thousands of times. There is no exit from the loop, which means yes, some of it has been through a dinosaur.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #water #watercycle #dinosaurs #earth #science",
+    "thumbnail_beat": "07"
+  }
+}

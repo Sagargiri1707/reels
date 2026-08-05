@@ -1,0 +1,103 @@
+{
+  "topic": "The conveyor belt that controls Europe's weather",
+  "lesson": "Warm surface water flows north, cools, gets saltier and denser, sinks, and returns south along the seafloor, and that thousand year circuit is why northern Europe is far warmer than its latitude should allow.",
+  "slug": "ocean-conveyor-belt-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "London sits further north than Newfoundland, and runs about ten degrees warmer.",
+      "scene": "two identical thermometers standing side by side on a bare surface, a small black cartoon figure shoving the column of one upward with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical thermometers standing side by side on a bare surface, a small black cartoon figure shoving the column of one upward with both arms. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Sunlight does not explain that. Both places get the same amount.",
+      "anchored": false,
+      "grounded": "contains no ocean, sea water, current, globe, map or ice",
+      "scene": "a desk lamp angled straight down over two identical stones, a small black cartoon figure holding a ruler up to check both sit the same distance away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a desk lamp angled straight down over two identical stones, a small black cartoon figure holding a ruler up to check both sit the same distance away. this is an ordinary everyday scene and contains no ocean, sea water, current, globe, map or ice; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The difference is a river running inside the ocean, and it is enormous.",
+      "scene": "a long blue ribbon laid in a wide curve across the surface, a small black cartoon figure hauling one end of it hand over hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long blue ribbon laid in a wide curve across the surface, a small black cartoon figure hauling one end of it hand over hand. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Warm water runs north along the surface, giving up heat the whole way.",
+      "scene": "a long metal tray of water on the surface, a small black cartoon figure walking a small red float slowly along it towards a block of ice at the far end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long metal tray of water on the surface, a small black cartoon figure walking a small red float slowly along it towards a block of ice at the far end. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Cold water that has lost its warmth is saltier, and salty water is heavy.",
+      "scene": "a tall glass of water on the surface, a small black cartoon figure dropping a heavy blue marble in and watching it plunge straight to the bottom",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass of water on the surface, a small black cartoon figure dropping a heavy blue marble in and watching it plunge straight to the bottom. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "So it sinks, and keeps going, all the way back south along the seafloor.",
+      "scene": "a clear tube running under a raised board on the surface, a small black cartoon figure on hands and knees feeding a blue bead into the low end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clear tube running under a raised board on the surface, a small black cartoon figure on hands and knees feeding a blue bead into the low end. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "One full lap of that circuit takes about a thousand years.",
+      "scene": "a large hourglass standing on the surface, a small black cartoon figure sitting on top of it with their chin propped on both hands",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a large hourglass standing on the surface, a small black cartoon figure sitting on top of it with their chin propped on both hands. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "turn",
+      "text": "But melting ice adds fresh water, and fresh water is not heavy enough to sink.",
+      "scene": "a glass of water with ice melting in it, a small black cartoon figure pouring in more clear water from a jug while a blue marble now bobs at the top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass of water with ice melting in it, a small black cartoon figure pouring in more clear water from a jug while a blue marble now bobs at the top. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Which is the actual machine behind every headline about Europe getting colder.",
+      "scene": "a thick wool scarf laid across the surface, a small black cartoon figure winding it around themselves with both arms and holding tight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick wool scarf laid across the surface, a small black cartoon figure winding it around themselves with both arms and holding tight. the scene belongs to warm water travelling north and cold heavy water sinking back, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Warm surface water flows north, cools, gets saltier and denser, sinks, and returns south along the seafloor. One lap takes around 1,000 years, and it is why London is far warmer than Newfoundland despite sitting further north. Melting ice dilutes the salt, which is the real mechanism behind those European cold snap headlines.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ocean #gulfstream #climate #weather #science",
+    "thumbnail_beat": "01"
+  }
+}

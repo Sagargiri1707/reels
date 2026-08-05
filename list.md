@@ -199,42 +199,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 5 — WATER & OCEANS (Days 25–30)
 
-- [ ] **Day 25 — You have definitely drunk dinosaur water**
+- [x] **Day 25 — You have definitely drunk dinosaur water**
       Hook: "Earth has never made new water. It just keeps reusing the same supply."
       The cycle — evaporation, condensation, precipitation, collection — but framed as a closed loop over 4 billion years rather than a school diagram.
       Angle: a molecule in your glass has been in oceans, glaciers, clouds and other living bodies thousands of times. Almost none of it is "fresh."
       Visual: follow one animated droplet through several eras — a Cretaceous swamp, an ice age, a tap.
       End on: "Most of that water you can't drink. Because of salt."
 
-- [ ] **Day 26 — Why the ocean is salty but rivers aren't**
+- [x] **Day 26 — Why the ocean is salty but rivers aren't**
       Hook: "Rivers deliver salt to the sea and never take any back."
       Rain slightly acidic from CO₂ erodes rock, carrying dissolved minerals downhill. When seawater evaporates, the water leaves and the salt stays. Undersea volcanic vents add more.
       Angle: it's an accumulator, running for billions of years. Rivers _are_ slightly salty — just diluted enough that you never notice.
       Visual: an evaporating dish leaving a salt ring, sped up, next to a river-to-sea flow map.
       End on: "That salty water is moving. On a loop that takes a thousand years."
 
-- [ ] **Day 27 — The conveyor belt that controls Europe's weather**
+- [x] **Day 27 — The conveyor belt that controls Europe's weather**
       Hook: "London is further north than Newfoundland. It's also about 10°C warmer."
       Thermohaline circulation: warm surface water flows north, cools, gets saltier and denser, sinks, and returns south along the seafloor. A single circuit takes roughly 1,000 years.
       Angle: melting freshwater in the North Atlantic dilutes the salt and could slow the sinking. This is the real mechanism behind headlines about a European cold snap.
       Visual: the global belt drawn on a spinning globe, warm in red, cold return in blue.
       End on: "Follow that belt down and you reach places we've barely touched."
 
-- [ ] **Day 28 — Everest would drown in the deepest trench**
+- [x] **Day 28 — Everest would drown in the deepest trench**
       Hook: "Drop Mount Everest into the Mariana Trench and its peak would still be 2 km underwater."
       Depth at nearly 11 km, pressure over 1,000 atmospheres — about a tonne pressing on every square centimetre.
       Angle: more people have been to the Moon than to the bottom of that trench. And there's still life down there.
       Visual: vertical scroll from the surface down, with landmarks and creature silhouettes at each depth.
       End on: "Which is strange, because we know less about that map than we do about Mars."
 
-- [ ] **Day 29 — We've mapped Mars better than our own seafloor**
+- [x] **Day 29 — We've mapped Mars better than our own seafloor**
       Hook: "Around 80% of Earth's ocean floor has never been directly observed."
       Why: light doesn't penetrate, radar doesn't work in water, and sonar mapping requires physically sailing a ship over every square kilometre. Satellites gave us Mars in far higher resolution far faster.
       Angle: this is the actual reason "new species discovered" headlines keep appearing. We're not running out of planet to explore.
       Visual: side-by-side resolution comparison — Mars topography vs default ocean floor data.
       End on: "And down in that unmapped dark, most things make their own light."
 
-- [ ] **Day 30 — Most of the ocean glows** _(bridge)_
+- [x] **Day 30 — Most of the ocean glows** _(bridge)_
       Hook: "Bioluminescence isn't rare. In the deep sea it's the norm — around 80% of species do it."
       Cover the chemistry (luciferin + luciferase) and the uses: luring prey, confusing predators, counter-illumination camouflage, and finding mates in permanent darkness.
       Angle: it evolved independently dozens of separate times, which tells you how useful it is when there's no sunlight.

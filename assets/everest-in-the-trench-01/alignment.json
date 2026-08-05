@@ -1,0 +1,603 @@
+{
+  "audio_duration": 36.701938,
+  "segments": [
+    {
+      "text": "Drop",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "Everest",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "text": "into",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "text": "the",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "text": "Mariana",
+      "start": 1.12,
+      "end": 1.6
+    },
+    {
+      "text": "Trench",
+      "start": 1.6,
+      "end": 2.08
+    },
+    {
+      "text": "and",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "text": "its",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "peak",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "would",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "still",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "text": "be",
+      "start": 3.28,
+      "end": 3.44
+    },
+    {
+      "text": "two",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "text": "kilometres",
+      "start": 3.68,
+      "end": 4.24
+    },
+    {
+      "text": "underwater",
+      "start": 4.24,
+      "end": 4.96
+    },
+    {
+      "text": "Eleven",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "kilometres",
+      "start": 5.76,
+      "end": 6.4
+    },
+    {
+      "text": "down",
+      "start": 6.4,
+      "end": 6.8
+    },
+    {
+      "text": "It",
+      "start": 7.12,
+      "end": 7.28
+    },
+    {
+      "text": "takes",
+      "start": 7.28,
+      "end": 7.52
+    },
+    {
+      "text": "four",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "hours",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "text": "just",
+      "start": 8.24,
+      "end": 8.64
+    },
+    {
+      "text": "to",
+      "start": 8.64,
+      "end": 8.64
+    },
+    {
+      "text": "fall",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "text": "that",
+      "start": 9.04,
+      "end": 9.2
+    },
+    {
+      "text": "far",
+      "start": 9.2,
+      "end": 9.6
+    },
+    {
+      "text": "At",
+      "start": 10.08,
+      "end": 10.16
+    },
+    {
+      "text": "the",
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "text": "bottom",
+      "start": 10.24,
+      "end": 10.72
+    },
+    {
+      "text": "a",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "full",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "text": "tonne",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "text": "presses",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "text": "on",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "text": "every",
+      "start": 12.24,
+      "end": 12.56
+    },
+    {
+      "text": "square",
+      "start": 12.56,
+      "end": 12.88
+    },
+    {
+      "text": "centimetre",
+      "start": 12.88,
+      "end": 13.52
+    },
+    {
+      "text": "Send",
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "text": "a",
+      "start": 14.08,
+      "end": 14.08
+    },
+    {
+      "text": "foam",
+      "start": 14.08,
+      "end": 14.48
+    },
+    {
+      "text": "cup",
+      "start": 14.48,
+      "end": 14.72
+    },
+    {
+      "text": "down",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "text": "and",
+      "start": 15.36,
+      "end": 15.44
+    },
+    {
+      "text": "it",
+      "start": 15.44,
+      "end": 15.52
+    },
+    {
+      "text": "comes",
+      "start": 15.52,
+      "end": 15.76
+    },
+    {
+      "text": "back",
+      "start": 15.76,
+      "end": 16.08
+    },
+    {
+      "text": "the",
+      "start": 16.08,
+      "end": 16.16
+    },
+    {
+      "text": "size",
+      "start": 16.16,
+      "end": 16.56
+    },
+    {
+      "text": "of",
+      "start": 16.56,
+      "end": 16.64
+    },
+    {
+      "text": "a",
+      "start": 16.64,
+      "end": 16.64
+    },
+    {
+      "text": "thimble",
+      "start": 16.64,
+      "end": 17.2
+    },
+    {
+      "text": "More",
+      "start": 17.528526077097506,
+      "end": 17.768526077097505
+    },
+    {
+      "text": "people",
+      "start": 17.768526077097505,
+      "end": 18.168526077097507
+    },
+    {
+      "text": "have",
+      "start": 18.168526077097507,
+      "end": 18.248526077097505
+    },
+    {
+      "text": "walked",
+      "start": 18.248526077097505,
+      "end": 18.568526077097506
+    },
+    {
+      "text": "on",
+      "start": 18.568526077097506,
+      "end": 18.648526077097507
+    },
+    {
+      "text": "the",
+      "start": 18.648526077097507,
+      "end": 18.728526077097506
+    },
+    {
+      "text": "Moon",
+      "start": 18.728526077097506,
+      "end": 19.048526077097506
+    },
+    {
+      "text": "than",
+      "start": 19.048526077097506,
+      "end": 19.208526077097506
+    },
+    {
+      "text": "have",
+      "start": 19.208526077097506,
+      "end": 19.368526077097506
+    },
+    {
+      "text": "been",
+      "start": 19.368526077097506,
+      "end": 19.528526077097506
+    },
+    {
+      "text": "down",
+      "start": 19.528526077097506,
+      "end": 19.848526077097507
+    },
+    {
+      "text": "there",
+      "start": 19.848526077097507,
+      "end": 20.168526077097507
+    },
+    {
+      "text": "Anything",
+      "start": 20.408526077097505,
+      "end": 20.808526077097508
+    },
+    {
+      "text": "rigid",
+      "start": 20.808526077097508,
+      "end": 21.208526077097506
+    },
+    {
+      "text": "gets",
+      "start": 21.208526077097506,
+      "end": 21.448526077097505
+    },
+    {
+      "text": "crushed",
+      "start": 21.448526077097505,
+      "end": 22.008526077097507
+    },
+    {
+      "text": "Anything",
+      "start": 22.328526077097507,
+      "end": 22.728526077097506
+    },
+    {
+      "text": "with",
+      "start": 22.728526077097506,
+      "end": 22.808526077097508
+    },
+    {
+      "text": "a",
+      "start": 22.808526077097508,
+      "end": 22.888526077097506
+    },
+    {
+      "text": "pocket",
+      "start": 22.888526077097506,
+      "end": 23.288526077097508
+    },
+    {
+      "text": "of",
+      "start": 23.288526077097508,
+      "end": 23.368526077097506
+    },
+    {
+      "text": "air",
+      "start": 23.368526077097506,
+      "end": 23.60852607709751
+    },
+    {
+      "text": "is",
+      "start": 23.60852607709751,
+      "end": 23.768526077097505
+    },
+    {
+      "text": "worse",
+      "start": 23.768526077097505,
+      "end": 24.328526077097507
+    },
+    {
+      "text": "And",
+      "start": 24.568526077097506,
+      "end": 24.728526077097506
+    },
+    {
+      "text": "yet",
+      "start": 24.728526077097506,
+      "end": 24.888526077097506
+    },
+    {
+      "text": "there",
+      "start": 24.888526077097506,
+      "end": 25.048526077097506
+    },
+    {
+      "text": "is",
+      "start": 25.048526077097506,
+      "end": 25.208526077097506
+    },
+    {
+      "text": "life",
+      "start": 25.208526077097506,
+      "end": 25.528526077097506
+    },
+    {
+      "text": "down",
+      "start": 25.528526077097506,
+      "end": 25.848526077097507
+    },
+    {
+      "text": "there",
+      "start": 25.848526077097507,
+      "end": 26.088526077097505
+    },
+    {
+      "text": "Not",
+      "start": 26.328526077097507,
+      "end": 26.568526077097506
+    },
+    {
+      "text": "enduring",
+      "start": 26.568526077097506,
+      "end": 27.048526077097506
+    },
+    {
+      "text": "it",
+      "start": 27.048526077097506,
+      "end": 27.208526077097506
+    },
+    {
+      "text": "Built",
+      "start": 27.448526077097505,
+      "end": 27.768526077097505
+    },
+    {
+      "text": "for",
+      "start": 27.768526077097505,
+      "end": 28.088526077097505
+    },
+    {
+      "text": "it",
+      "start": 28.088526077097505,
+      "end": 28.168526077097507
+    },
+    {
+      "text": "The",
+      "start": 28.488526077097504,
+      "end": 28.568526077097506
+    },
+    {
+      "text": "deepest",
+      "start": 28.568526077097506,
+      "end": 29.048526077097506
+    },
+    {
+      "text": "place",
+      "start": 29.048526077097506,
+      "end": 29.288526077097508
+    },
+    {
+      "text": "on",
+      "start": 29.288526077097508,
+      "end": 29.448526077097505
+    },
+    {
+      "text": "Earth",
+      "start": 29.448526077097505,
+      "end": 29.688526077097507
+    },
+    {
+      "text": "is",
+      "start": 29.768526077097505,
+      "end": 29.92852607709751
+    },
+    {
+      "text": "not",
+      "start": 29.92852607709751,
+      "end": 30.168526077097507
+    },
+    {
+      "text": "a",
+      "start": 30.168526077097507,
+      "end": 30.24852607709751
+    },
+    {
+      "text": "dead",
+      "start": 30.24852607709751,
+      "end": 30.488526077097504
+    },
+    {
+      "text": "end",
+      "start": 30.488526077097504,
+      "end": 30.888526077097506
+    },
+    {
+      "text": "It",
+      "start": 31.128526077097504,
+      "end": 31.208526077097506
+    },
+    {
+      "text": "is",
+      "start": 31.208526077097506,
+      "end": 31.368526077097506
+    },
+    {
+      "text": "just",
+      "start": 31.368526077097506,
+      "end": 31.60852607709751
+    },
+    {
+      "text": "harder",
+      "start": 31.60852607709751,
+      "end": 31.848526077097507
+    },
+    {
+      "text": "to",
+      "start": 31.92852607709751,
+      "end": 32.00852607709751
+    },
+    {
+      "text": "reach",
+      "start": 32.00852607709751,
+      "end": 32.32852607709751
+    },
+    {
+      "text": "than",
+      "start": 32.32852607709751,
+      "end": 32.408526077097505
+    },
+    {
+      "text": "orbit",
+      "start": 32.408526077097505,
+      "end": 32.808526077097504
+    },
+    {
+      "text": "One",
+      "start": 33.28310657596372,
+      "end": 33.44310657596372
+    },
+    {
+      "text": "of",
+      "start": 33.44310657596372,
+      "end": 33.60310657596372
+    },
+    {
+      "text": "these",
+      "start": 33.60310657596372,
+      "end": 33.84310657596372
+    },
+    {
+      "text": "every",
+      "start": 33.84310657596372,
+      "end": 34.08310657596372
+    },
+    {
+      "text": "day",
+      "start": 34.08310657596372,
+      "end": 34.483106575963724
+    },
+    {
+      "text": "Follow",
+      "start": 34.803106575963724,
+      "end": 35.12310657596372
+    },
+    {
+      "text": "so",
+      "start": 35.12310657596372,
+      "end": 35.20310657596372
+    },
+    {
+      "text": "you",
+      "start": 35.20310657596372,
+      "end": 35.36310657596372
+    },
+    {
+      "text": "do",
+      "start": 35.36310657596372,
+      "end": 35.52310657596372
+    },
+    {
+      "text": "not",
+      "start": 35.52310657596372,
+      "end": 35.76310657596372
+    },
+    {
+      "text": "miss",
+      "start": 35.76310657596372,
+      "end": 36.00310657596372
+    },
+    {
+      "text": "tomorrow",
+      "start": 36.00310657596372,
+      "end": 36.56310657596372
+    }
+  ],
+  "text": "Drop Everest into the Mariana Trench and its peak would still be two kilometres underwater. Eleven kilometres down. It takes four hours just to fall that far. At the bottom, a full tonne presses on every square centimetre. Send a foam cup down and it comes back the size of a thimble. More people have walked on the Moon than have been down there. Anything rigid gets crushed. Anything with a pocket of air is worse. And yet there is life down there. Not enduring it. Built for it. The deepest place on Earth is not a dead end. It is just harder to reach than orbit. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

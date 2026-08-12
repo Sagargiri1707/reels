@@ -1,0 +1,109 @@
+{
+  "topic": "Nuclear, minus the panic",
+  "lesson": "Nuclear has one of the lowest death rates per unit of energy of any source because coal kills continuously and invisibly while nuclear kills rarely and memorably.",
+  "slug": "day-119-nuclear-minus-the-panic-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Per unit of energy, nuclear has one of the lowest death rates of any source. Including renewables.",
+      "scene": "a balance with one tiny pellet outweighing a heap, a small black cartoon figure standing on the heap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance with one tiny pellet outweighing a heap, a small black cartoon figure standing on the heap. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "That is not what most people expect, and the reason is how the deaths arrive.",
+      "scene": "a covered lamp beside a lit one, a small black cartoon figure lifting the cover off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a covered lamp beside a lit one, a small black cartoon figure lifting the cover off. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Coal kills continuously and invisibly, through air quality, in numbers nobody photographs.",
+      "scene": "fine dust settled over a white cloth, a small black cartoon figure brushing at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. fine dust settled over a white cloth, a small black cartoon figure brushing at it. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Nuclear kills rarely and visibly, in events with names everyone remembers.",
+      "scene": "one cracked plate alone on the surface, a small black cartoon figure holding a broken piece",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one cracked plate alone on the surface, a small black cartoon figure holding a broken piece. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Count deaths per terawatt hour, including Chernobyl and Fukushima, and coal is hundreds of times worse.",
+      "scene": "a tall column of small stones beside a very short one, a small black cartoon figure climbing the tall one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall column of small stones beside a very short one, a small black cartoon figure climbing the tall one. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The energy density is extreme. One uranium pellet holds about as much as a tonne of coal.",
+      "scene": "a small pellet beside a bulging coal sack, a small black cartoon figure carrying the pellet",
+      "image_text": "ONE PELLET",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small pellet beside a bulging coal sack, a small black cartoon figure carrying the pellet. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE PELLET\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So the waste is small. All the spent fuel America has ever made would cover one field a few metres deep.",
+      "scene": "a small sealed drum, a small black cartoon figure sitting squarely on its lid",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small sealed drum, a small black cartoon figure sitting squarely on its lid. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Now the honest problems. It is expensive, it is slow to build, and overruns are normal.",
+      "scene": "a half built structure under scaffolding, a small black cartoon figure hauling a beam up",
+      "image_text": "SLOW",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a half built structure under scaffolding, a small black cartoon figure hauling a beam up. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SLOW\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And the waste stays dangerous a very long time, which is a political problem more than a technical one.",
+      "scene": "a padlocked box with an enormous coiled chain, a small black cartoon figure coiling more of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a padlocked box with an enormous coiled chain, a small black cartoon figure coiling more of it. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The numbers are surprising enough without anybody arguing. Look at them and decide.",
+      "scene": "a level balance scale, a small black cartoon figure resting both arms along the beam",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a level balance scale, a small black cartoon figure resting both arms along the beam. the scene belongs to harm that arrives slowly and unnoticed against harm that arrives all at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Per terawatt-hour produced, nuclear has one of the lowest death rates of any energy source, including renewables, and that figure includes Chernobyl and Fukushima. The gap comes from how the harm arrives: coal kills continuously and invisibly through air quality, nuclear kills rarely and memorably. The energy density is extreme, so waste volumes are small. The honest drawbacks are cost, build time and long-lived waste. The numbers are surprising on their own.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #nuclear #energy #climate #data #science",
+    "thumbnail_beat": "06"
+  }
+}

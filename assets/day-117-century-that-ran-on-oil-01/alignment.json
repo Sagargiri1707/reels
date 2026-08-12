@@ -1,0 +1,748 @@
+{
+  "audio_duration": 50.181125,
+  "segments": [
+    {
+      "text": "Oil",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "is",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "not",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "mainly",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "text": "fuel",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "text": "It",
+      "start": 1.92,
+      "end": 2.0
+    },
+    {
+      "text": "is",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "text": "plastic",
+      "start": 2.16,
+      "end": 2.8
+    },
+    {
+      "text": "fertiliser",
+      "start": 2.96,
+      "end": 3.68
+    },
+    {
+      "text": "medicine",
+      "start": 3.68,
+      "end": 4.32
+    },
+    {
+      "text": "road",
+      "start": 4.48,
+      "end": 4.8
+    },
+    {
+      "text": "surface",
+      "start": 4.8,
+      "end": 5.28
+    },
+    {
+      "text": "and",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "text": "most",
+      "start": 5.52,
+      "end": 5.76
+    },
+    {
+      "text": "of",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "your",
+      "start": 5.84,
+      "end": 5.92
+    },
+    {
+      "text": "clothes",
+      "start": 5.92,
+      "end": 6.56
+    },
+    {
+      "text": "You",
+      "start": 6.88,
+      "end": 6.96
+    },
+    {
+      "text": "think",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "text": "of",
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "text": "a",
+      "start": 7.28,
+      "end": 7.28
+    },
+    {
+      "text": "barrel",
+      "start": 7.28,
+      "end": 7.68
+    },
+    {
+      "text": "as",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "petrol",
+      "start": 7.84,
+      "end": 8.4
+    },
+    {
+      "text": "Petrol",
+      "start": 8.8,
+      "end": 9.2
+    },
+    {
+      "text": "is",
+      "start": 9.2,
+      "end": 9.36
+    },
+    {
+      "text": "only",
+      "start": 9.36,
+      "end": 9.6
+    },
+    {
+      "text": "one",
+      "start": 9.6,
+      "end": 9.92
+    },
+    {
+      "text": "slice",
+      "start": 9.92,
+      "end": 10.32
+    },
+    {
+      "text": "of",
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "text": "it",
+      "start": 10.4,
+      "end": 10.56
+    },
+    {
+      "text": "The",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "rest",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "text": "becomes",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "diesel",
+      "start": 11.68,
+      "end": 12.16
+    },
+    {
+      "text": "jet",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "fuel",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "text": "lubricants",
+      "start": 13.28,
+      "end": 13.92
+    },
+    {
+      "text": "asphalt",
+      "start": 14.08,
+      "end": 14.64
+    },
+    {
+      "text": "and",
+      "start": 14.88,
+      "end": 14.96
+    },
+    {
+      "text": "the",
+      "start": 14.96,
+      "end": 15.04
+    },
+    {
+      "text": "feedstock",
+      "start": 15.04,
+      "end": 15.68
+    },
+    {
+      "text": "for",
+      "start": 15.68,
+      "end": 15.84
+    },
+    {
+      "text": "chemicals",
+      "start": 15.84,
+      "end": 16.48
+    },
+    {
+      "text": "Almost",
+      "start": 16.739047619047618,
+      "end": 17.139047619047616
+    },
+    {
+      "text": "every",
+      "start": 17.21904761904762,
+      "end": 17.459047619047617
+    },
+    {
+      "text": "plastic",
+      "start": 17.459047619047617,
+      "end": 17.939047619047617
+    },
+    {
+      "text": "object",
+      "start": 17.939047619047617,
+      "end": 18.33904761904762
+    },
+    {
+      "text": "anywhere",
+      "start": 18.419047619047618,
+      "end": 18.819047619047616
+    },
+    {
+      "text": "near",
+      "start": 18.819047619047616,
+      "end": 19.139047619047616
+    },
+    {
+      "text": "you",
+      "start": 19.139047619047616,
+      "end": 19.37904761904762
+    },
+    {
+      "text": "started",
+      "start": 19.37904761904762,
+      "end": 19.779047619047617
+    },
+    {
+      "text": "out",
+      "start": 19.779047619047617,
+      "end": 19.939047619047617
+    },
+    {
+      "text": "as",
+      "start": 19.939047619047617,
+      "end": 20.01904761904762
+    },
+    {
+      "text": "oil",
+      "start": 20.01904761904762,
+      "end": 20.499047619047616
+    },
+    {
+      "text": "But",
+      "start": 20.819047619047616,
+      "end": 20.899047619047618
+    },
+    {
+      "text": "the",
+      "start": 20.899047619047618,
+      "end": 20.97904761904762
+    },
+    {
+      "text": "biggest",
+      "start": 20.97904761904762,
+      "end": 21.37904761904762
+    },
+    {
+      "text": "one",
+      "start": 21.37904761904762,
+      "end": 21.69904761904762
+    },
+    {
+      "text": "is",
+      "start": 21.69904761904762,
+      "end": 21.779047619047617
+    },
+    {
+      "text": "the",
+      "start": 21.779047619047617,
+      "end": 21.85904761904762
+    },
+    {
+      "text": "one",
+      "start": 21.85904761904762,
+      "end": 22.179047619047616
+    },
+    {
+      "text": "nobody",
+      "start": 22.179047619047616,
+      "end": 22.499047619047616
+    },
+    {
+      "text": "names",
+      "start": 22.499047619047616,
+      "end": 22.97904761904762
+    },
+    {
+      "text": "Fertiliser",
+      "start": 23.21904761904762,
+      "end": 23.85904761904762
+    },
+    {
+      "text": "Plants",
+      "start": 24.259047619047617,
+      "end": 24.65904761904762
+    },
+    {
+      "text": "need",
+      "start": 24.65904761904762,
+      "end": 24.819047619047616
+    },
+    {
+      "text": "nitrogen",
+      "start": 24.819047619047616,
+      "end": 25.53904761904762
+    },
+    {
+      "text": "The",
+      "start": 25.859047619047615,
+      "end": 25.939047619047617
+    },
+    {
+      "text": "air",
+      "start": 25.939047619047617,
+      "end": 26.179047619047616
+    },
+    {
+      "text": "is",
+      "start": 26.179047619047616,
+      "end": 26.33904761904762
+    },
+    {
+      "text": "nearly",
+      "start": 26.33904761904762,
+      "end": 26.579047619047618
+    },
+    {
+      "text": "four",
+      "start": 26.579047619047618,
+      "end": 26.899047619047618
+    },
+    {
+      "text": "fifths",
+      "start": 26.899047619047618,
+      "end": 27.29904761904762
+    },
+    {
+      "text": "nitrogen",
+      "start": 27.29904761904762,
+      "end": 27.859047619047615
+    },
+    {
+      "text": "and",
+      "start": 28.099047619047617,
+      "end": 28.179047619047616
+    },
+    {
+      "text": "plants",
+      "start": 28.179047619047616,
+      "end": 28.579047619047618
+    },
+    {
+      "text": "cannot",
+      "start": 28.579047619047618,
+      "end": 28.899047619047618
+    },
+    {
+      "text": "touch",
+      "start": 28.899047619047618,
+      "end": 29.139047619047616
+    },
+    {
+      "text": "it",
+      "start": 29.139047619047616,
+      "end": 29.29904761904762
+    },
+    {
+      "text": "The",
+      "start": 29.459047619047617,
+      "end": 29.53904761904762
+    },
+    {
+      "text": "Haber",
+      "start": 29.53904761904762,
+      "end": 29.859047619047615
+    },
+    {
+      "text": "Bosch",
+      "start": 29.859047619047615,
+      "end": 30.179047619047616
+    },
+    {
+      "text": "process",
+      "start": 30.179047619047616,
+      "end": 30.65904761904762
+    },
+    {
+      "text": "pulls",
+      "start": 30.65904761904762,
+      "end": 30.97904761904762
+    },
+    {
+      "text": "it",
+      "start": 30.97904761904762,
+      "end": 31.059047619047618
+    },
+    {
+      "text": "out",
+      "start": 31.059047619047618,
+      "end": 31.21904761904762
+    },
+    {
+      "text": "of",
+      "start": 31.21904761904762,
+      "end": 31.29904761904762
+    },
+    {
+      "text": "the",
+      "start": 31.29904761904762,
+      "end": 31.459047619047617
+    },
+    {
+      "text": "air",
+      "start": 31.459047619047617,
+      "end": 31.779047619047617
+    },
+    {
+      "text": "using",
+      "start": 32.01904761904762,
+      "end": 32.33904761904762
+    },
+    {
+      "text": "enormous",
+      "start": 32.33904761904762,
+      "end": 32.73904761904762
+    },
+    {
+      "text": "heat",
+      "start": 32.73904761904762,
+      "end": 33.05904761904762
+    },
+    {
+      "text": "and",
+      "start": 33.05904761904762,
+      "end": 33.139047619047616
+    },
+    {
+      "text": "pressure",
+      "start": 33.139047619047616,
+      "end": 33.61904761904762
+    },
+    {
+      "text": "That",
+      "start": 34.11086167800453,
+      "end": 34.27086167800453
+    },
+    {
+      "text": "heat",
+      "start": 34.27086167800453,
+      "end": 34.51086167800453
+    },
+    {
+      "text": "comes",
+      "start": 34.51086167800453,
+      "end": 34.75086167800453
+    },
+    {
+      "text": "from",
+      "start": 34.75086167800453,
+      "end": 34.91086167800453
+    },
+    {
+      "text": "fossil",
+      "start": 34.91086167800453,
+      "end": 35.310861678004535
+    },
+    {
+      "text": "fuel",
+      "start": 35.310861678004535,
+      "end": 35.710861678004534
+    },
+    {
+      "text": "That",
+      "start": 36.030861678004534,
+      "end": 36.27086167800453
+    },
+    {
+      "text": "fertiliser",
+      "start": 36.27086167800453,
+      "end": 36.83086167800453
+    },
+    {
+      "text": "grows",
+      "start": 36.83086167800453,
+      "end": 37.15086167800453
+    },
+    {
+      "text": "about",
+      "start": 37.15086167800453,
+      "end": 37.39086167800453
+    },
+    {
+      "text": "half",
+      "start": 37.39086167800453,
+      "end": 37.710861678004534
+    },
+    {
+      "text": "the",
+      "start": 37.710861678004534,
+      "end": 37.79086167800453
+    },
+    {
+      "text": "world's",
+      "start": 37.79086167800453,
+      "end": 38.11086167800453
+    },
+    {
+      "text": "food",
+      "start": 38.11086167800453,
+      "end": 38.51086167800453
+    },
+    {
+      "text": "Which",
+      "start": 38.75086167800453,
+      "end": 38.990861678004535
+    },
+    {
+      "text": "means",
+      "start": 38.990861678004535,
+      "end": 39.23086167800453
+    },
+    {
+      "text": "roughly",
+      "start": 39.23086167800453,
+      "end": 39.630861678004536
+    },
+    {
+      "text": "half",
+      "start": 39.630861678004536,
+      "end": 39.87086167800453
+    },
+    {
+      "text": "the",
+      "start": 39.87086167800453,
+      "end": 39.95086167800453
+    },
+    {
+      "text": "nitrogen",
+      "start": 39.95086167800453,
+      "end": 40.43086167800453
+    },
+    {
+      "text": "atoms",
+      "start": 40.43086167800453,
+      "end": 40.75086167800453
+    },
+    {
+      "text": "in",
+      "start": 40.75086167800453,
+      "end": 40.83086167800453
+    },
+    {
+      "text": "your",
+      "start": 40.91086167800453,
+      "end": 40.990861678004535
+    },
+    {
+      "text": "body",
+      "start": 40.990861678004535,
+      "end": 41.39086167800453
+    },
+    {
+      "text": "came",
+      "start": 41.55086167800453,
+      "end": 41.79086167800453
+    },
+    {
+      "text": "through",
+      "start": 41.79086167800453,
+      "end": 42.030861678004534
+    },
+    {
+      "text": "that",
+      "start": 42.030861678004534,
+      "end": 42.270861678004536
+    },
+    {
+      "text": "process",
+      "start": 42.270861678004536,
+      "end": 42.83086167800453
+    },
+    {
+      "text": "Fossil",
+      "start": 43.31086167800453,
+      "end": 43.630861678004536
+    },
+    {
+      "text": "fuel",
+      "start": 43.630861678004536,
+      "end": 43.95086167800453
+    },
+    {
+      "text": "is",
+      "start": 43.95086167800453,
+      "end": 44.11086167800453
+    },
+    {
+      "text": "not",
+      "start": 44.11086167800453,
+      "end": 44.350861678004534
+    },
+    {
+      "text": "just",
+      "start": 44.350861678004534,
+      "end": 44.59086167800453
+    },
+    {
+      "text": "in",
+      "start": 44.59086167800453,
+      "end": 44.75086167800453
+    },
+    {
+      "text": "your",
+      "start": 44.75086167800453,
+      "end": 44.83086167800453
+    },
+    {
+      "text": "tank",
+      "start": 44.83086167800453,
+      "end": 45.23086167800453
+    },
+    {
+      "text": "It",
+      "start": 45.47086167800453,
+      "end": 45.630861678004536
+    },
+    {
+      "text": "is",
+      "start": 45.630861678004536,
+      "end": 45.710861678004534
+    },
+    {
+      "text": "in",
+      "start": 45.710861678004534,
+      "end": 45.87086167800453
+    },
+    {
+      "text": "your",
+      "start": 45.87086167800453,
+      "end": 45.95086167800453
+    },
+    {
+      "text": "tissue",
+      "start": 45.95086167800453,
+      "end": 46.43086167800453
+    },
+    {
+      "text": "One",
+      "start": 46.670861678004535,
+      "end": 46.83086167800453
+    },
+    {
+      "text": "of",
+      "start": 46.83086167800453,
+      "end": 46.990861678004535
+    },
+    {
+      "text": "these",
+      "start": 46.990861678004535,
+      "end": 47.23086167800453
+    },
+    {
+      "text": "every",
+      "start": 47.23086167800453,
+      "end": 47.55086167800453
+    },
+    {
+      "text": "day",
+      "start": 47.55086167800453,
+      "end": 47.87086167800453
+    },
+    {
+      "text": "Follow",
+      "start": 48.270861678004536,
+      "end": 48.59086167800453
+    },
+    {
+      "text": "so",
+      "start": 48.59086167800453,
+      "end": 48.75086167800453
+    },
+    {
+      "text": "you",
+      "start": 48.75086167800453,
+      "end": 48.83086167800453
+    },
+    {
+      "text": "do",
+      "start": 48.83086167800453,
+      "end": 48.990861678004535
+    },
+    {
+      "text": "not",
+      "start": 48.990861678004535,
+      "end": 49.23086167800453
+    },
+    {
+      "text": "miss",
+      "start": 49.23086167800453,
+      "end": 49.47086167800453
+    },
+    {
+      "text": "tomorrow",
+      "start": 49.47086167800453,
+      "end": 49.95086167800453
+    }
+  ],
+  "text": "Oil is not mainly fuel. It is plastic, fertiliser, medicine, road surface and most of your clothes. You think of a barrel as petrol. Petrol is only one slice of it. The rest becomes diesel, jet fuel, lubricants, asphalt, and the feedstock for chemicals. Almost every plastic object anywhere near you started out as oil. But the biggest one is the one nobody names. Fertiliser. Plants need nitrogen. The air is nearly four fifths nitrogen and plants cannot touch it. The Haber Bosch process pulls it out of the air, using enormous heat and pressure. That heat comes from fossil fuel. That fertiliser grows about half the world's food. Which means roughly half the nitrogen atoms in your body came through that process. Fossil fuel is not just in your tank. It is in your tissue. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Factories invented the clock you live by",
+  "lesson": "Working by the hour rather than by the task is a machine's schedule about a hundred and fifty years old, and the weekend and eight-hour day were won in response to it.",
+  "slug": "day-116-factories-invented-the-clock-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Nine to five is a machine's schedule. People were fitted into it about a hundred and fifty years ago.",
+      "scene": "a wall clock, a small black cartoon figure swinging off its minute hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wall clock, a small black cartoon figure swinging off its minute hand. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Before factories, most work went by daylight and by task. You worked until the thing was finished.",
+      "scene": "a stone sundial, a small black cartoon figure tracing the edge of its shadow",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stone sundial, a small black cartoon figure tracing the edge of its shadow. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A machine does not care about daylight, and it costs money every minute it is not running.",
+      "scene": "a drive belt turning with nobody at it, a small black cartoon figure grabbing hold of the belt",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drive belt turning with nobody at it, a small black cartoon figure grabbing hold of the belt. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So the work stopped being the task and became the hours.",
+      "scene": "a task card set down and a clock face picked up, a small black cartoon figure carrying the clock",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a task card set down and a clock face picked up, a small black cartoon figure carrying the clock. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Which meant everyone in the building had to agree what time it actually was.",
+      "scene": "a row of pocket watches all reading differently, a small black cartoon figure resetting one",
+      "image_text": "ONE CLOCK",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of pocket watches all reading differently, a small black cartoon figure resetting one. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE CLOCK\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A whistle. A gate. A clock on the wall deciding whether you were late.",
+      "scene": "a factory gate half shut, a small black cartoon figure squeezing under it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a factory gate half shut, a small black cartoon figure squeezing under it. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Railways forced the same thing on whole countries, because a timetable needs one clock.",
+      "scene": "a length of rail track beside a single clock, a small black cartoon figure setting the clock down by it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of rail track beside a single clock, a small black cartoon figure setting the clock down by it. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Before that, every town kept its own noon, set by its own sun.",
+      "scene": "a town sundial being covered over, a small black cartoon figure hauling a cloth across it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a town sundial being covered over, a small black cartoon figure hauling a cloth across it. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And the weekend and the eight hour day are not traditions. They were won, in response to this.",
+      "scene": "a blank wooden placard, a small black cartoon figure heaving it upright",
+      "image_text": "WON",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blank wooden placard, a small black cartoon figure heaving it upright. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WON\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The rhythm you live by was designed for equipment, and then handed to you.",
+      "scene": "a stopwatch on a wrist strap, a small black cartoon figure carrying it on their back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stopwatch on a wrist strap, a small black cartoon figure carrying it on their back. the scene belongs to time being standardised and imposed rather than followed, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Before factories, most work went by daylight and by task. Machines do not care about daylight and cost money whenever they are idle, so work became hours instead of tasks, and everyone had to agree what time it was. Railways then forced standardised time zones on whole countries, because a timetable needs a single clock. Before that every town kept its own noon. The weekend and the eight-hour day are not traditions either. They were won in response.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #time #industrialrevolution #work #history #science",
+    "thumbnail_beat": "01"
+  }
+}

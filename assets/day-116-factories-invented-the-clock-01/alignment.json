@@ -1,0 +1,823 @@
+{
+  "audio_duration": 47.725625,
+  "segments": [
+    {
+      "text": "Nine",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "to",
+      "start": 0.4,
+      "end": 0.48
+    },
+    {
+      "text": "five",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "is",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "text": "a",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "machine's",
+      "start": 1.04,
+      "end": 1.52
+    },
+    {
+      "text": "schedule",
+      "start": 1.52,
+      "end": 2.08
+    },
+    {
+      "text": "People",
+      "start": 2.4,
+      "end": 2.64
+    },
+    {
+      "text": "were",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "text": "fitted",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "text": "into",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "text": "it",
+      "start": 3.36,
+      "end": 3.36
+    },
+    {
+      "text": "about",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "text": "a",
+      "start": 3.6,
+      "end": 3.68
+    },
+    {
+      "text": "hundred",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "text": "and",
+      "start": 4.0,
+      "end": 4.08
+    },
+    {
+      "text": "fifty",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "text": "years",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "text": "ago",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "Before",
+      "start": 5.36,
+      "end": 5.68
+    },
+    {
+      "text": "factories",
+      "start": 5.68,
+      "end": 6.24
+    },
+    {
+      "text": "most",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "text": "work",
+      "start": 6.56,
+      "end": 6.8
+    },
+    {
+      "text": "went",
+      "start": 6.8,
+      "end": 7.04
+    },
+    {
+      "text": "by",
+      "start": 7.04,
+      "end": 7.12
+    },
+    {
+      "text": "daylight",
+      "start": 7.12,
+      "end": 7.68
+    },
+    {
+      "text": "and",
+      "start": 7.68,
+      "end": 7.76
+    },
+    {
+      "text": "by",
+      "start": 7.76,
+      "end": 7.92
+    },
+    {
+      "text": "task",
+      "start": 7.92,
+      "end": 8.4
+    },
+    {
+      "text": "You",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "text": "worked",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "text": "until",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "text": "the",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "thing",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "text": "was",
+      "start": 9.76,
+      "end": 9.92
+    },
+    {
+      "text": "finished",
+      "start": 9.92,
+      "end": 10.4
+    },
+    {
+      "text": "A",
+      "start": 10.8,
+      "end": 10.8
+    },
+    {
+      "text": "machine",
+      "start": 10.8,
+      "end": 11.2
+    },
+    {
+      "text": "does",
+      "start": 11.2,
+      "end": 11.36
+    },
+    {
+      "text": "not",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "text": "care",
+      "start": 11.6,
+      "end": 11.84
+    },
+    {
+      "text": "about",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "text": "daylight",
+      "start": 12.08,
+      "end": 12.64
+    },
+    {
+      "text": "and",
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "text": "it",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "costs",
+      "start": 13.04,
+      "end": 13.36
+    },
+    {
+      "text": "money",
+      "start": 13.36,
+      "end": 13.68
+    },
+    {
+      "text": "every",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "text": "minute",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "it",
+      "start": 14.4,
+      "end": 14.48
+    },
+    {
+      "text": "is",
+      "start": 14.48,
+      "end": 14.56
+    },
+    {
+      "text": "not",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "text": "running",
+      "start": 14.8,
+      "end": 15.2
+    },
+    {
+      "text": "So",
+      "start": 15.611609977324264,
+      "end": 15.771609977324264
+    },
+    {
+      "text": "the",
+      "start": 15.771609977324264,
+      "end": 15.851609977324264
+    },
+    {
+      "text": "work",
+      "start": 15.851609977324264,
+      "end": 16.091609977324264
+    },
+    {
+      "text": "stopped",
+      "start": 16.091609977324264,
+      "end": 16.491609977324263
+    },
+    {
+      "text": "being",
+      "start": 16.491609977324263,
+      "end": 16.731609977324265
+    },
+    {
+      "text": "the",
+      "start": 16.731609977324265,
+      "end": 16.811609977324263
+    },
+    {
+      "text": "task",
+      "start": 16.811609977324263,
+      "end": 17.291609977324264
+    },
+    {
+      "text": "and",
+      "start": 17.291609977324264,
+      "end": 17.451609977324264
+    },
+    {
+      "text": "became",
+      "start": 17.451609977324264,
+      "end": 17.771609977324264
+    },
+    {
+      "text": "the",
+      "start": 17.771609977324264,
+      "end": 17.931609977324264
+    },
+    {
+      "text": "hours",
+      "start": 17.931609977324264,
+      "end": 18.411609977324265
+    },
+    {
+      "text": "Which",
+      "start": 18.731609977324265,
+      "end": 18.971609977324263
+    },
+    {
+      "text": "meant",
+      "start": 18.971609977324263,
+      "end": 19.131609977324263
+    },
+    {
+      "text": "everyone",
+      "start": 19.211609977324265,
+      "end": 19.611609977324264
+    },
+    {
+      "text": "in",
+      "start": 19.611609977324264,
+      "end": 19.691609977324262
+    },
+    {
+      "text": "the",
+      "start": 19.691609977324262,
+      "end": 19.691609977324262
+    },
+    {
+      "text": "building",
+      "start": 19.691609977324262,
+      "end": 20.091609977324264
+    },
+    {
+      "text": "had",
+      "start": 20.091609977324264,
+      "end": 20.331609977324263
+    },
+    {
+      "text": "to",
+      "start": 20.331609977324263,
+      "end": 20.411609977324265
+    },
+    {
+      "text": "agree",
+      "start": 20.411609977324265,
+      "end": 20.651609977324263
+    },
+    {
+      "text": "what",
+      "start": 20.651609977324263,
+      "end": 20.811609977324263
+    },
+    {
+      "text": "time",
+      "start": 20.811609977324263,
+      "end": 21.131609977324263
+    },
+    {
+      "text": "it",
+      "start": 21.131609977324263,
+      "end": 21.211609977324265
+    },
+    {
+      "text": "actually",
+      "start": 21.211609977324265,
+      "end": 21.531609977324266
+    },
+    {
+      "text": "was",
+      "start": 21.531609977324266,
+      "end": 22.011609977324262
+    },
+    {
+      "text": "A",
+      "start": 22.331609977324263,
+      "end": 22.411609977324265
+    },
+    {
+      "text": "whistle",
+      "start": 22.411609977324265,
+      "end": 22.891609977324265
+    },
+    {
+      "text": "A",
+      "start": 23.131609977324263,
+      "end": 23.211609977324265
+    },
+    {
+      "text": "gate",
+      "start": 23.211609977324265,
+      "end": 23.611609977324264
+    },
+    {
+      "text": "A",
+      "start": 23.931609977324264,
+      "end": 24.011609977324262
+    },
+    {
+      "text": "clock",
+      "start": 24.011609977324262,
+      "end": 24.331609977324263
+    },
+    {
+      "text": "on",
+      "start": 24.331609977324263,
+      "end": 24.491609977324263
+    },
+    {
+      "text": "the",
+      "start": 24.491609977324263,
+      "end": 24.491609977324263
+    },
+    {
+      "text": "wall",
+      "start": 24.491609977324263,
+      "end": 24.811609977324263
+    },
+    {
+      "text": "deciding",
+      "start": 24.811609977324263,
+      "end": 25.291609977324264
+    },
+    {
+      "text": "whether",
+      "start": 25.291609977324264,
+      "end": 25.451609977324264
+    },
+    {
+      "text": "you",
+      "start": 25.451609977324264,
+      "end": 25.611609977324264
+    },
+    {
+      "text": "were",
+      "start": 25.611609977324264,
+      "end": 25.691609977324262
+    },
+    {
+      "text": "late",
+      "start": 25.691609977324262,
+      "end": 26.091609977324264
+    },
+    {
+      "text": "Railways",
+      "start": 26.571609977324265,
+      "end": 27.05160997732426
+    },
+    {
+      "text": "forced",
+      "start": 27.05160997732426,
+      "end": 27.451609977324264
+    },
+    {
+      "text": "the",
+      "start": 27.451609977324264,
+      "end": 27.531609977324266
+    },
+    {
+      "text": "same",
+      "start": 27.531609977324266,
+      "end": 27.851609977324266
+    },
+    {
+      "text": "thing",
+      "start": 27.851609977324266,
+      "end": 28.091609977324264
+    },
+    {
+      "text": "on",
+      "start": 28.091609977324264,
+      "end": 28.171609977324266
+    },
+    {
+      "text": "whole",
+      "start": 28.171609977324266,
+      "end": 28.41160997732426
+    },
+    {
+      "text": "countries",
+      "start": 28.41160997732426,
+      "end": 28.971609977324263
+    },
+    {
+      "text": "because",
+      "start": 29.211609977324265,
+      "end": 29.451609977324264
+    },
+    {
+      "text": "a",
+      "start": 29.451609977324264,
+      "end": 29.531609977324266
+    },
+    {
+      "text": "timetable",
+      "start": 29.531609977324266,
+      "end": 30.091609977324264
+    },
+    {
+      "text": "needs",
+      "start": 30.091609977324264,
+      "end": 30.331609977324263
+    },
+    {
+      "text": "one",
+      "start": 30.331609977324263,
+      "end": 30.651609977324263
+    },
+    {
+      "text": "clock",
+      "start": 30.651609977324263,
+      "end": 31.05160997732426
+    },
+    {
+      "text": "Before",
+      "start": 31.455827664399095,
+      "end": 31.775827664399095
+    },
+    {
+      "text": "that",
+      "start": 31.775827664399095,
+      "end": 32.095827664399096
+    },
+    {
+      "text": "every",
+      "start": 32.175827664399094,
+      "end": 32.415827664399096
+    },
+    {
+      "text": "town",
+      "start": 32.415827664399096,
+      "end": 32.735827664399096
+    },
+    {
+      "text": "kept",
+      "start": 32.735827664399096,
+      "end": 32.9758276643991
+    },
+    {
+      "text": "its",
+      "start": 32.9758276643991,
+      "end": 33.135827664399095
+    },
+    {
+      "text": "own",
+      "start": 33.135827664399095,
+      "end": 33.3758276643991
+    },
+    {
+      "text": "noon",
+      "start": 33.3758276643991,
+      "end": 33.775827664399095
+    },
+    {
+      "text": "set",
+      "start": 33.93582766439909,
+      "end": 34.25582766439909
+    },
+    {
+      "text": "by",
+      "start": 34.25582766439909,
+      "end": 34.415827664399096
+    },
+    {
+      "text": "its",
+      "start": 34.415827664399096,
+      "end": 34.57582766439909
+    },
+    {
+      "text": "own",
+      "start": 34.57582766439909,
+      "end": 34.815827664399094
+    },
+    {
+      "text": "sun",
+      "start": 34.815827664399094,
+      "end": 35.21582766439909
+    },
+    {
+      "text": "And",
+      "start": 35.53582766439909,
+      "end": 35.6958276643991
+    },
+    {
+      "text": "the",
+      "start": 35.6958276643991,
+      "end": 35.775827664399095
+    },
+    {
+      "text": "weekend",
+      "start": 35.775827664399095,
+      "end": 36.25582766439909
+    },
+    {
+      "text": "and",
+      "start": 36.25582766439909,
+      "end": 36.3358276643991
+    },
+    {
+      "text": "the",
+      "start": 36.3358276643991,
+      "end": 36.415827664399096
+    },
+    {
+      "text": "eight",
+      "start": 36.495827664399094,
+      "end": 36.6558276643991
+    },
+    {
+      "text": "hour",
+      "start": 36.6558276643991,
+      "end": 36.89582766439909
+    },
+    {
+      "text": "day",
+      "start": 36.89582766439909,
+      "end": 37.135827664399095
+    },
+    {
+      "text": "are",
+      "start": 37.135827664399095,
+      "end": 37.21582766439909
+    },
+    {
+      "text": "not",
+      "start": 37.21582766439909,
+      "end": 37.455827664399095
+    },
+    {
+      "text": "traditions",
+      "start": 37.455827664399095,
+      "end": 38.095827664399096
+    },
+    {
+      "text": "They",
+      "start": 38.3358276643991,
+      "end": 38.495827664399094
+    },
+    {
+      "text": "were",
+      "start": 38.495827664399094,
+      "end": 38.57582766439909
+    },
+    {
+      "text": "won",
+      "start": 38.6558276643991,
+      "end": 39.0558276643991
+    },
+    {
+      "text": "in",
+      "start": 39.21582766439909,
+      "end": 39.2958276643991
+    },
+    {
+      "text": "response",
+      "start": 39.2958276643991,
+      "end": 39.855827664399094
+    },
+    {
+      "text": "to",
+      "start": 39.855827664399094,
+      "end": 39.855827664399094
+    },
+    {
+      "text": "this",
+      "start": 39.855827664399094,
+      "end": 40.25582766439909
+    },
+    {
+      "text": "The",
+      "start": 40.6558276643991,
+      "end": 40.735827664399096
+    },
+    {
+      "text": "rhythm",
+      "start": 40.735827664399096,
+      "end": 41.0558276643991
+    },
+    {
+      "text": "you",
+      "start": 41.0558276643991,
+      "end": 41.21582766439909
+    },
+    {
+      "text": "live",
+      "start": 41.21582766439909,
+      "end": 41.3758276643991
+    },
+    {
+      "text": "by",
+      "start": 41.3758276643991,
+      "end": 41.61582766439909
+    },
+    {
+      "text": "was",
+      "start": 41.61582766439909,
+      "end": 41.775827664399095
+    },
+    {
+      "text": "designed",
+      "start": 41.775827664399095,
+      "end": 42.175827664399094
+    },
+    {
+      "text": "for",
+      "start": 42.175827664399094,
+      "end": 42.33582766439909
+    },
+    {
+      "text": "equipment",
+      "start": 42.33582766439909,
+      "end": 42.815827664399094
+    },
+    {
+      "text": "and",
+      "start": 43.0558276643991,
+      "end": 43.21582766439909
+    },
+    {
+      "text": "then",
+      "start": 43.21582766439909,
+      "end": 43.3758276643991
+    },
+    {
+      "text": "handed",
+      "start": 43.3758276643991,
+      "end": 43.775827664399095
+    },
+    {
+      "text": "to",
+      "start": 43.775827664399095,
+      "end": 43.855827664399094
+    },
+    {
+      "text": "you",
+      "start": 43.855827664399094,
+      "end": 44.175827664399094
+    },
+    {
+      "text": "One",
+      "start": 44.33582766439909,
+      "end": 44.57582766439909
+    },
+    {
+      "text": "of",
+      "start": 44.57582766439909,
+      "end": 44.6558276643991
+    },
+    {
+      "text": "these",
+      "start": 44.6558276643991,
+      "end": 44.89582766439909
+    },
+    {
+      "text": "every",
+      "start": 44.89582766439909,
+      "end": 45.21582766439909
+    },
+    {
+      "text": "day",
+      "start": 45.21582766439909,
+      "end": 45.53582766439909
+    },
+    {
+      "text": "Follow",
+      "start": 45.855827664399094,
+      "end": 46.175827664399094
+    },
+    {
+      "text": "so",
+      "start": 46.175827664399094,
+      "end": 46.25582766439909
+    },
+    {
+      "text": "you",
+      "start": 46.25582766439909,
+      "end": 46.415827664399096
+    },
+    {
+      "text": "do",
+      "start": 46.415827664399096,
+      "end": 46.57582766439909
+    },
+    {
+      "text": "not",
+      "start": 46.57582766439909,
+      "end": 46.815827664399094
+    },
+    {
+      "text": "miss",
+      "start": 46.815827664399094,
+      "end": 46.97582766439909
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.97582766439909,
+      "end": 47.53582766439909
+    }
+  ],
+  "text": "Nine to five is a machine's schedule. People were fitted into it about a hundred and fifty years ago. Before factories, most work went by daylight and by task. You worked until the thing was finished. A machine does not care about daylight, and it costs money every minute it is not running. So the work stopped being the task and became the hours. Which meant everyone in the building had to agree what time it actually was. A whistle. A gate. A clock on the wall deciding whether you were late. Railways forced the same thing on whole countries, because a timetable needs one clock. Before that, every town kept its own noon, set by its own sun. And the weekend and the eight hour day are not traditions. They were won, in response to this. The rhythm you live by was designed for equipment, and then handed to you. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

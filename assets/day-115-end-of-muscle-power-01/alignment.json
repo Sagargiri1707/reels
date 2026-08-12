@@ -1,0 +1,803 @@
+{
+  "audio_duration": 48.666063,
+  "segments": [
+    {
+      "text": "For",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "all",
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "text": "of",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "text": "history",
+      "start": 0.4,
+      "end": 0.96
+    },
+    {
+      "text": "work",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "text": "meant",
+      "start": 1.44,
+      "end": 1.68
+    },
+    {
+      "text": "a",
+      "start": 1.68,
+      "end": 1.76
+    },
+    {
+      "text": "person",
+      "start": 1.76,
+      "end": 2.24
+    },
+    {
+      "text": "or",
+      "start": 2.24,
+      "end": 2.4
+    },
+    {
+      "text": "an",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "text": "animal",
+      "start": 2.48,
+      "end": 2.96
+    },
+    {
+      "text": "Then",
+      "start": 3.28,
+      "end": 3.52
+    },
+    {
+      "text": "a",
+      "start": 3.52,
+      "end": 3.52
+    },
+    {
+      "text": "machine",
+      "start": 3.52,
+      "end": 4.0
+    },
+    {
+      "text": "did",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "text": "it",
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "text": "and",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "text": "never",
+      "start": 4.64,
+      "end": 4.88
+    },
+    {
+      "text": "got",
+      "start": 4.88,
+      "end": 5.12
+    },
+    {
+      "text": "tired",
+      "start": 5.12,
+      "end": 5.6
+    },
+    {
+      "text": "Everything",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "built",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "text": "before",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "this",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "text": "was",
+      "start": 7.2,
+      "end": 7.36
+    },
+    {
+      "text": "limited",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "text": "by",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "how",
+      "start": 7.84,
+      "end": 8.08
+    },
+    {
+      "text": "many",
+      "start": 8.08,
+      "end": 8.24
+    },
+    {
+      "text": "muscles",
+      "start": 8.24,
+      "end": 8.72
+    },
+    {
+      "text": "you",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "could",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "afford",
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "text": "to",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "text": "feed",
+      "start": 9.36,
+      "end": 9.76
+    },
+    {
+      "text": "Newcomen's",
+      "start": 10.16,
+      "end": 10.72
+    },
+    {
+      "text": "engine",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "text": "worked",
+      "start": 11.12,
+      "end": 11.52
+    },
+    {
+      "text": "and",
+      "start": 11.68,
+      "end": 11.76
+    },
+    {
+      "text": "it",
+      "start": 11.76,
+      "end": 11.92
+    },
+    {
+      "text": "threw",
+      "start": 11.92,
+      "end": 12.16
+    },
+    {
+      "text": "away",
+      "start": 12.16,
+      "end": 12.4
+    },
+    {
+      "text": "almost",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "text": "all",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "of",
+      "start": 13.04,
+      "end": 13.12
+    },
+    {
+      "text": "its",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "heat",
+      "start": 13.2,
+      "end": 13.6
+    },
+    {
+      "text": "It",
+      "start": 13.939773242630386,
+      "end": 14.019773242630386
+    },
+    {
+      "text": "heated",
+      "start": 14.019773242630386,
+      "end": 14.339773242630386
+    },
+    {
+      "text": "the",
+      "start": 14.339773242630386,
+      "end": 14.419773242630386
+    },
+    {
+      "text": "cylinder",
+      "start": 14.419773242630386,
+      "end": 14.819773242630387
+    },
+    {
+      "text": "to",
+      "start": 14.899773242630385,
+      "end": 14.979773242630385
+    },
+    {
+      "text": "fill",
+      "start": 14.979773242630385,
+      "end": 15.219773242630385
+    },
+    {
+      "text": "it",
+      "start": 15.219773242630385,
+      "end": 15.299773242630385
+    },
+    {
+      "text": "with",
+      "start": 15.299773242630385,
+      "end": 15.379773242630385
+    },
+    {
+      "text": "steam",
+      "start": 15.379773242630385,
+      "end": 15.859773242630386
+    },
+    {
+      "text": "then",
+      "start": 16.099773242630384,
+      "end": 16.339773242630386
+    },
+    {
+      "text": "cooled",
+      "start": 16.339773242630386,
+      "end": 16.659773242630386
+    },
+    {
+      "text": "that",
+      "start": 16.659773242630386,
+      "end": 16.819773242630387
+    },
+    {
+      "text": "same",
+      "start": 16.819773242630387,
+      "end": 17.139773242630387
+    },
+    {
+      "text": "cylinder",
+      "start": 17.139773242630387,
+      "end": 17.619773242630387
+    },
+    {
+      "text": "to",
+      "start": 17.619773242630387,
+      "end": 17.699773242630386
+    },
+    {
+      "text": "collapse",
+      "start": 17.699773242630386,
+      "end": 18.179773242630386
+    },
+    {
+      "text": "it",
+      "start": 18.179773242630386,
+      "end": 18.259773242630384
+    },
+    {
+      "text": "Every",
+      "start": 18.739773242630385,
+      "end": 18.979773242630387
+    },
+    {
+      "text": "stroke",
+      "start": 18.979773242630387,
+      "end": 19.459773242630384
+    },
+    {
+      "text": "threw",
+      "start": 19.459773242630384,
+      "end": 19.699773242630386
+    },
+    {
+      "text": "away",
+      "start": 19.699773242630386,
+      "end": 19.939773242630388
+    },
+    {
+      "text": "the",
+      "start": 19.939773242630388,
+      "end": 20.019773242630386
+    },
+    {
+      "text": "heat",
+      "start": 20.019773242630386,
+      "end": 20.259773242630384
+    },
+    {
+      "text": "of",
+      "start": 20.259773242630384,
+      "end": 20.339773242630386
+    },
+    {
+      "text": "the",
+      "start": 20.339773242630386,
+      "end": 20.419773242630384
+    },
+    {
+      "text": "stroke",
+      "start": 20.419773242630384,
+      "end": 20.739773242630385
+    },
+    {
+      "text": "before",
+      "start": 20.739773242630385,
+      "end": 21.139773242630387
+    },
+    {
+      "text": "it",
+      "start": 21.139773242630387,
+      "end": 21.219773242630385
+    },
+    {
+      "text": "Watt's",
+      "start": 21.619773242630387,
+      "end": 22.019773242630386
+    },
+    {
+      "text": "fix",
+      "start": 22.019773242630386,
+      "end": 22.339773242630386
+    },
+    {
+      "text": "was",
+      "start": 22.339773242630386,
+      "end": 22.499773242630386
+    },
+    {
+      "text": "to",
+      "start": 22.499773242630386,
+      "end": 22.499773242630386
+    },
+    {
+      "text": "move",
+      "start": 22.499773242630386,
+      "end": 22.819773242630383
+    },
+    {
+      "text": "the",
+      "start": 22.819773242630383,
+      "end": 22.899773242630385
+    },
+    {
+      "text": "cooling",
+      "start": 22.899773242630385,
+      "end": 23.219773242630385
+    },
+    {
+      "text": "somewhere",
+      "start": 23.219773242630385,
+      "end": 23.619773242630387
+    },
+    {
+      "text": "else",
+      "start": 23.619773242630387,
+      "end": 24.019773242630386
+    },
+    {
+      "text": "A",
+      "start": 24.259773242630388,
+      "end": 24.259773242630388
+    },
+    {
+      "text": "separate",
+      "start": 24.259773242630388,
+      "end": 24.739773242630385
+    },
+    {
+      "text": "condenser",
+      "start": 24.739773242630385,
+      "end": 25.299773242630387
+    },
+    {
+      "text": "The",
+      "start": 25.73138321995465,
+      "end": 25.81138321995465
+    },
+    {
+      "text": "cylinder",
+      "start": 25.81138321995465,
+      "end": 26.29138321995465
+    },
+    {
+      "text": "stays",
+      "start": 26.29138321995465,
+      "end": 26.61138321995465
+    },
+    {
+      "text": "hot",
+      "start": 26.61138321995465,
+      "end": 26.93138321995465
+    },
+    {
+      "text": "the",
+      "start": 27.171383219954652,
+      "end": 27.25138321995465
+    },
+    {
+      "text": "steam",
+      "start": 27.25138321995465,
+      "end": 27.57138321995465
+    },
+    {
+      "text": "collapses",
+      "start": 27.57138321995465,
+      "end": 28.05138321995465
+    },
+    {
+      "text": "next",
+      "start": 28.05138321995465,
+      "end": 28.37138321995465
+    },
+    {
+      "text": "door",
+      "start": 28.37138321995465,
+      "end": 28.691383219954652
+    },
+    {
+      "text": "and",
+      "start": 28.851383219954652,
+      "end": 29.011383219954652
+    },
+    {
+      "text": "fuel",
+      "start": 29.011383219954652,
+      "end": 29.331383219954652
+    },
+    {
+      "text": "use",
+      "start": 29.331383219954652,
+      "end": 29.57138321995465
+    },
+    {
+      "text": "drops",
+      "start": 29.57138321995465,
+      "end": 29.97138321995465
+    },
+    {
+      "text": "by",
+      "start": 29.97138321995465,
+      "end": 30.13138321995465
+    },
+    {
+      "text": "three",
+      "start": 30.13138321995465,
+      "end": 30.37138321995465
+    },
+    {
+      "text": "quarters",
+      "start": 30.37138321995465,
+      "end": 30.851383219954652
+    },
+    {
+      "text": "That",
+      "start": 31.17138321995465,
+      "end": 31.49138321995465
+    },
+    {
+      "text": "turned",
+      "start": 31.49138321995465,
+      "end": 31.73138321995465
+    },
+    {
+      "text": "a",
+      "start": 31.73138321995465,
+      "end": 31.73138321995465
+    },
+    {
+      "text": "mine",
+      "start": 31.73138321995465,
+      "end": 32.05138321995465
+    },
+    {
+      "text": "pump",
+      "start": 32.05138321995465,
+      "end": 32.29138321995465
+    },
+    {
+      "text": "into",
+      "start": 32.29138321995465,
+      "end": 32.45138321995465
+    },
+    {
+      "text": "something",
+      "start": 32.45138321995465,
+      "end": 32.85138321995465
+    },
+    {
+      "text": "worth",
+      "start": 32.85138321995465,
+      "end": 33.09138321995465
+    },
+    {
+      "text": "putting",
+      "start": 33.09138321995465,
+      "end": 33.33138321995465
+    },
+    {
+      "text": "in",
+      "start": 33.33138321995465,
+      "end": 33.41138321995465
+    },
+    {
+      "text": "a",
+      "start": 33.41138321995465,
+      "end": 33.49138321995465
+    },
+    {
+      "text": "factory",
+      "start": 33.49138321995465,
+      "end": 34.05138321995465
+    },
+    {
+      "text": "then",
+      "start": 34.211383219954655,
+      "end": 34.45138321995465
+    },
+    {
+      "text": "a",
+      "start": 34.45138321995465,
+      "end": 34.45138321995465
+    },
+    {
+      "text": "ship",
+      "start": 34.45138321995465,
+      "end": 34.85138321995465
+    },
+    {
+      "text": "then",
+      "start": 35.01138321995465,
+      "end": 35.17138321995465
+    },
+    {
+      "text": "a",
+      "start": 35.17138321995465,
+      "end": 35.25138321995465
+    },
+    {
+      "text": "train",
+      "start": 35.25138321995465,
+      "end": 35.73138321995465
+    },
+    {
+      "text": "One",
+      "start": 35.97138321995465,
+      "end": 36.29138321995465
+    },
+    {
+      "text": "modern",
+      "start": 36.29138321995465,
+      "end": 36.61138321995465
+    },
+    {
+      "text": "car",
+      "start": 36.61138321995465,
+      "end": 36.931383219954654
+    },
+    {
+      "text": "engine",
+      "start": 36.931383219954654,
+      "end": 37.25138321995465
+    },
+    {
+      "text": "puts",
+      "start": 37.25138321995465,
+      "end": 37.49138321995465
+    },
+    {
+      "text": "out",
+      "start": 37.49138321995465,
+      "end": 37.65138321995465
+    },
+    {
+      "text": "the",
+      "start": 37.65138321995465,
+      "end": 37.73138321995465
+    },
+    {
+      "text": "sustained",
+      "start": 37.73138321995465,
+      "end": 38.211383219954655
+    },
+    {
+      "text": "work",
+      "start": 38.211383219954655,
+      "end": 38.45138321995465
+    },
+    {
+      "text": "of",
+      "start": 38.45138321995465,
+      "end": 38.53138321995465
+    },
+    {
+      "text": "several",
+      "start": 38.53138321995465,
+      "end": 38.931383219954654
+    },
+    {
+      "text": "hundred",
+      "start": 38.931383219954654,
+      "end": 39.25138321995465
+    },
+    {
+      "text": "horses",
+      "start": 39.25138321995465,
+      "end": 39.73138321995465
+    },
+    {
+      "text": "Apply",
+      "start": 40.20873015873016,
+      "end": 40.60873015873016
+    },
+    {
+      "text": "that",
+      "start": 40.60873015873016,
+      "end": 40.76873015873016
+    },
+    {
+      "text": "multiplier",
+      "start": 40.76873015873016,
+      "end": 41.40873015873016
+    },
+    {
+      "text": "to",
+      "start": 41.40873015873016,
+      "end": 41.488730158730164
+    },
+    {
+      "text": "every",
+      "start": 41.56873015873016,
+      "end": 41.88873015873016
+    },
+    {
+      "text": "task",
+      "start": 41.88873015873016,
+      "end": 42.28873015873016
+    },
+    {
+      "text": "there",
+      "start": 42.28873015873016,
+      "end": 42.44873015873016
+    },
+    {
+      "text": "is",
+      "start": 42.44873015873016,
+      "end": 42.84873015873016
+    },
+    {
+      "text": "That",
+      "start": 43.08873015873016,
+      "end": 43.32873015873016
+    },
+    {
+      "text": "is",
+      "start": 43.32873015873016,
+      "end": 43.488730158730164
+    },
+    {
+      "text": "the",
+      "start": 43.488730158730164,
+      "end": 43.64873015873016
+    },
+    {
+      "text": "Industrial",
+      "start": 43.64873015873016,
+      "end": 44.128730158730164
+    },
+    {
+      "text": "Revolution",
+      "start": 44.128730158730164,
+      "end": 44.76873015873016
+    },
+    {
+      "text": "One",
+      "start": 45.08873015873016,
+      "end": 45.32873015873016
+    },
+    {
+      "text": "of",
+      "start": 45.32873015873016,
+      "end": 45.40873015873016
+    },
+    {
+      "text": "these",
+      "start": 45.40873015873016,
+      "end": 45.72873015873016
+    },
+    {
+      "text": "every",
+      "start": 45.72873015873016,
+      "end": 46.04873015873016
+    },
+    {
+      "text": "day",
+      "start": 46.04873015873016,
+      "end": 46.36873015873016
+    },
+    {
+      "text": "Follow",
+      "start": 46.68873015873016,
+      "end": 47.00873015873016
+    },
+    {
+      "text": "so",
+      "start": 47.00873015873016,
+      "end": 47.16873015873016
+    },
+    {
+      "text": "you",
+      "start": 47.16873015873016,
+      "end": 47.32873015873016
+    },
+    {
+      "text": "do",
+      "start": 47.32873015873016,
+      "end": 47.488730158730164
+    },
+    {
+      "text": "not",
+      "start": 47.488730158730164,
+      "end": 47.72873015873016
+    },
+    {
+      "text": "miss",
+      "start": 47.72873015873016,
+      "end": 47.96873015873016
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.96873015873016,
+      "end": 48.52873015873016
+    }
+  ],
+  "text": "For all of history, work meant a person or an animal. Then a machine did it and never got tired. Everything built before this was limited by how many muscles you could afford to feed. Newcomen's engine worked, and it threw away almost all of its heat. It heated the cylinder to fill it with steam, then cooled that same cylinder to collapse it. Every stroke threw away the heat of the stroke before it. Watt's fix was to move the cooling somewhere else. A separate condenser. The cylinder stays hot, the steam collapses next door, and fuel use drops by three quarters. That turned a mine pump into something worth putting in a factory, then a ship, then a train. One modern car engine puts out the sustained work of several hundred horses. Apply that multiplier to every task there is. That is the Industrial Revolution. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

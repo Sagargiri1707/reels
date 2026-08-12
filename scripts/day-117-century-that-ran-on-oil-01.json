@@ -1,0 +1,109 @@
+{
+  "topic": "The century that ran on oil",
+  "lesson": "Fossil energy became fertiliser through the Haber-Bosch process, so roughly half the nitrogen atoms in your body arrived through an industrial plant rather than a field.",
+  "slug": "day-117-century-that-ran-on-oil-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Oil is not mainly fuel. It is plastic, fertiliser, medicine, road surface and most of your clothes.",
+      "scene": "a barrel with small jars ranged around it, a small black cartoon figure filling one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a barrel with small jars ranged around it, a small black cartoon figure filling one. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You think of a barrel as petrol. Petrol is only one slice of it.",
+      "scene": "a metal fuel can, a small black cartoon figure hauling it across the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal fuel can, a small black cartoon figure hauling it across the surface. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The rest becomes diesel, jet fuel, lubricants, asphalt, and the feedstock for chemicals.",
+      "scene": "a column of graded jars, a small black cartoon figure clambering up them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a column of graded jars, a small black cartoon figure clambering up them. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Almost every plastic object anywhere near you started out as oil.",
+      "scene": "a plastic bottle, a small black cartoon figure squeezing it with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plastic bottle, a small black cartoon figure squeezing it with their whole body. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "But the biggest one is the one nobody names. Fertiliser.",
+      "scene": "a heavy sack of white granules, a small black cartoon figure hauling it along",
+      "image_text": "FERTILISER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy sack of white granules, a small black cartoon figure hauling it along. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FERTILISER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Plants need nitrogen. The air is nearly four fifths nitrogen and plants cannot touch it.",
+      "scene": "a sealed glass jar of nothing but air, a small black cartoon figure straining at the lid",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed glass jar of nothing but air, a small black cartoon figure straining at the lid. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The Haber Bosch process pulls it out of the air, using enormous heat and pressure.",
+      "scene": "a bolted pressure vessel, a small black cartoon figure tightening one of its bolts",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bolted pressure vessel, a small black cartoon figure tightening one of its bolts. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "That heat comes from fossil fuel. That fertiliser grows about half the world's food.",
+      "scene": "a seedling in a pot beside the open sack, a small black cartoon figure scattering granules",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a seedling in a pot beside the open sack, a small black cartoon figure scattering granules. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which means roughly half the nitrogen atoms in your body came through that process.",
+      "scene": "a full dinner plate, a small black cartoon figure sitting on its rim",
+      "image_text": "HALF OF YOU",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full dinner plate, a small black cartoon figure sitting on its rim. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"HALF OF YOU\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Fossil fuel is not just in your tank. It is in your tissue.",
+      "scene": "a fuel can beside a plate, a small black cartoon figure dragging the can up to the plate",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fuel can beside a plate, a small black cartoon figure dragging the can up to the plate. the scene belongs to one raw material turning into things nobody associates with it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A barrel of oil is not mostly petrol. It becomes diesel, jet fuel, lubricants, asphalt, plastics, medicines and textiles. The biggest and least-named product is fertiliser: the Haber-Bosch process pulls nitrogen out of the air using enormous heat and pressure, that heat comes from fossil fuel, and that fertiliser grows roughly half the world's food. Which means about half the nitrogen atoms in your body arrived through an industrial plant.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #oil #fertiliser #haberbosch #energy #science",
+    "thumbnail_beat": "05"
+  }
+}

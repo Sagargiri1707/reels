@@ -1,0 +1,109 @@
+{
+  "topic": "Enough sunlight in one hour to power a year",
+  "lesson": "Solar generation is close to solved and the real engineering problem moved downstream, to storing energy overnight and moving it to where demand actually is.",
+  "slug": "day-120-sunlight-in-one-hour-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The Sun delivers more energy to Earth in one hour than humanity uses in a year.",
+      "scene": "an enormous lamp over a tiny cup, a small black cartoon figure holding the cup up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous lamp over a tiny cup, a small black cartoon figure holding the cup up. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "So supply was never the problem. Not once.",
+      "scene": "an overflowing jug, a small black cartoon figure trying to catch the spill",
+      "image_text": "NOT SUPPLY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an overflowing jug, a small black cartoon figure trying to catch the spill. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT SUPPLY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The problem was cost, and that has collapsed.",
+      "scene": "a tag falling off a panel, a small black cartoon figure catching it mid air",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tag falling off a panel, a small black cartoon figure catching it mid air. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A solar panel costs a fraction of what it did twenty years ago. It is now the cheapest new power almost everywhere.",
+      "scene": "a stack of thin panels, a small black cartoon figure sliding one out from the bottom",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of thin panels, a small black cartoon figure sliding one out from the bottom. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Which moves the whole argument somewhere else.",
+      "scene": "a signpost hauled round to a new direction, a small black cartoon figure turning it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a signpost hauled round to a new direction, a small black cartoon figure turning it. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The sun sets. The wind drops. Demand does neither.",
+      "scene": "a lamp being covered over a full jug, a small black cartoon figure pulling the cover across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lamp being covered over a full jug, a small black cartoon figure pulling the cover across. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Peak solar is the middle of the day. Peak demand is the evening.",
+      "scene": "a brimming bucket beside an empty one, a small black cartoon figure carrying water between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brimming bucket beside an empty one, a small black cartoon figure carrying water between them. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So the fight is no longer about generating it. It is about storing it and moving it.",
+      "scene": "a full tank with no outlet pipe, a small black cartoon figure searching around its base",
+      "image_text": "STORAGE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full tank with no outlet pipe, a small black cartoon figure searching around its base. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STORAGE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Batteries, pumped water, long distance lines, and the materials for all three.",
+      "scene": "a battery, a water tank and a coil of cable in a row, a small black cartoon figure dragging the cable",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a battery, a water tank and a coil of cable in a row, a small black cartoon figure dragging the cable. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Generation is close to solved. The hard engineering moved downstream.",
+      "scene": "a finished wall with an unbuilt doorway beside it, a small black cartoon figure carrying a plank to the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a finished wall with an unbuilt doorway beside it, a small black cartoon figure carrying a plank to the gap. the scene belongs to an abundant supply arriving at the wrong time and in the wrong place, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The Sun delivers more energy to Earth in an hour than humanity uses in a year, so supply was never the constraint. Cost was, and solar cost per watt has collapsed over two decades to the point where it is the cheapest new generation in most of the world. Which moves the argument downstream. Peak solar is midday, peak demand is evening, and the grid stores almost nothing. Storage, transmission and battery materials are where the real engineering fight now is.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #solar #renewables #energy #climate #science",
+    "thumbnail_beat": "01"
+  }
+}

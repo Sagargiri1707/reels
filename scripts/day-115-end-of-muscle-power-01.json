@@ -1,0 +1,109 @@
+{
+  "topic": "The machine that ended muscle power",
+  "lesson": "Watt's separate condenser stopped the engine throwing away its own heat every stroke, which turned a mine pump into something worth putting in every factory, ship and train.",
+  "slug": "day-115-end-of-muscle-power-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "For all of history, work meant a person or an animal. Then a machine did it and never got tired.",
+      "scene": "a heavy stone on a sledge, a small black cartoon figure hauling a rope tied to it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy stone on a sledge, a small black cartoon figure hauling a rope tied to it. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Everything built before this was limited by how many muscles you could afford to feed.",
+      "scene": "a feed trough, a small black cartoon figure tipping grain into it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a feed trough, a small black cartoon figure tipping grain into it with both arms. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Newcomen's engine worked, and it threw away almost all of its heat.",
+      "scene": "a brass cylinder, a small black cartoon figure hammering at its side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass cylinder, a small black cartoon figure hammering at its side. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It heated the cylinder to fill it with steam, then cooled that same cylinder to collapse it.",
+      "scene": "a hot kettle being doused, a small black cartoon figure tipping water over it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hot kettle being doused, a small black cartoon figure tipping water over it. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Every stroke threw away the heat of the stroke before it.",
+      "scene": "a bucket of hot water poured straight down a drain, a small black cartoon figure tipping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bucket of hot water poured straight down a drain, a small black cartoon figure tipping it. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Watt's fix was to move the cooling somewhere else. A separate condenser.",
+      "scene": "two vessels side by side, a small black cartoon figure fitting the pipe between them",
+      "image_text": "SEPARATE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two vessels side by side, a small black cartoon figure fitting the pipe between them. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SEPARATE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The cylinder stays hot, the steam collapses next door, and fuel use drops by three quarters.",
+      "scene": "one jar frosted while its neighbour steams, a small black cartoon figure touching the cold one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one jar frosted while its neighbour steams, a small black cartoon figure touching the cold one. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "That turned a mine pump into something worth putting in a factory, then a ship, then a train.",
+      "scene": "a small engine on a bench, a small black cartoon figure wheeling it towards a doorway",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small engine on a bench, a small black cartoon figure wheeling it towards a doorway. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "One modern car engine puts out the sustained work of several hundred horses.",
+      "scene": "a leather harness on a hook beside a small engine, a small black cartoon figure hanging the harness up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a leather harness on a hook beside a small engine, a small black cartoon figure hanging the harness up. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Apply that multiplier to every task there is. That is the Industrial Revolution.",
+      "scene": "a row of tools all driven off one belt, a small black cartoon figure hooking the belt on",
+      "image_text": "MULTIPLIER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of tools all driven off one belt, a small black cartoon figure hooking the belt on. the scene belongs to heat being wasted and then saved, and work stopping being something a body does, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"MULTIPLIER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Newcomen's engine heated a cylinder full of steam and then cooled the same cylinder to collapse it, throwing away the previous stroke's heat every single time. Watt's separate condenser moved the cooling next door so the cylinder stayed hot, cutting fuel use dramatically. That is what turned a mine pump into factory power, then ships and trains. One modern car engine sustains the work of several hundred horses, and that multiplier applied to every task is the Industrial Revolution.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #steamengine #industrialrevolution #engineering #history #science",
+    "thumbnail_beat": "06"
+  }
+}

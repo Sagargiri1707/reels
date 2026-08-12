@@ -457,14 +457,14 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
       Visual: split screen — human room view vs a heat-map scent trail with time stamps.
       End on: "Different senses. Different lifespans too. Some animals barely age at all."
 
-- [ ] **Day 59 — The animal that can reverse its own life cycle**
+- [x] **Day 59 — The animal that can reverse its own life cycle**
       Hook: "_Turritopsis dohrnii_ can revert from adult back to its juvenile stage. Indefinitely."
       Cover its cell transdifferentiation, then greenland sharks living 400+ years, naked mole rats not showing normal age-related mortality, and tardigrades surviving vacuum and radiation.
       Angle: the honest framing — biologically immortal doesn't mean unkillable. Almost all of them get eaten. It just means they don't die of _being old_.
       Visual: life-cycle loop diagram that reverses direction halfway through.
       End on: "We're not immortal. But we did lose something all our relatives kept."
 
-- [ ] **Day 60 — Why humans lost their fur** _(bridge)_
+- [x] **Day 60 — Why humans lost their fur** _(bridge)_
       Hook: "We're the only primate that's basically naked. That was an upgrade."
       Leading explanation: thermoregulation for endurance running. Sweat glands plus bare skin let early humans cool while moving, enabling persistence hunting — chasing prey until it overheated.
       Angle: we're outstanding long-distance runners and mediocre at almost every other physical measure. The trade is fur for stamina.
@@ -475,42 +475,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 11 — HUMAN BODY (Days 61–66)
 
-- [ ] **Day 61 — You are not made of the same atoms you were last year**
+- [x] **Day 61 — You are not made of the same atoms you were last year**
       Hook: "Your skeleton is about 10 years old. Your stomach lining is 5 days old."
       Turnover rates organ by organ: gut lining days, skin weeks, red blood cells four months, bone a decade. Some neurons and eye lens cells stay with you for life.
       Angle: the philosophical hook lands hard — if the material is replaced but you feel continuous, what exactly is "you"? Ship of Theseus, made of meat.
       Visual: body outline with each region labelled by its replacement age, ticking over.
       End on: "And a lot of what's in there isn't even yours."
 
-- [ ] **Day 62 — Roughly half your cells aren't human**
+- [x] **Day 62 — Roughly half your cells aren't human**
       Hook: "You're carrying about 38 trillion bacteria. You have about 30 trillion human cells."
       Gut microbiome basics: digestion of fibre we can't process, vitamin production, immune training, and emerging links to mood via the vagus nerve.
       Angle: keep the gut-brain claims measured — the correlation is real, the causation is still being worked out. Mention faecal transplants as the genuinely startling clinical case.
       Visual: cell-count bar chart, then a microbiome diversity map across the body.
       End on: "That crowd is managed by the most sophisticated defence system we know of."
 
-- [ ] **Day 63 — Your immune system keeps a wanted list**
+- [x] **Day 63 — Your immune system keeps a wanted list**
       Hook: "Your body remembers every infection it has ever beaten. For decades."
       Innate response as the general guard, adaptive response as the targeted specialist, and memory cells that store a molecular mugshot of past invaders.
       Angle: this is exactly what a vaccine exploits — it's a training exercise, not a treatment. Explaining memory cells first makes vaccines obvious rather than contested.
       Visual: a wanted board filling with pathogen "mugshots," and a faster response the second time.
       End on: "That system protects a structure stronger than steel."
 
-- [ ] **Day 64 — Bone is stronger than steel, by weight**
+- [x] **Day 64 — Bone is stronger than steel, by weight**
       Hook: "Bone has a higher strength-to-weight ratio than steel or concrete — and it repairs itself."
       The composite structure: collagen for flex, mineral for hardness, hollow shafts for strength with less mass. Osteoblasts build, osteoclasts break down, constantly remodelling to match load.
       Angle: this is why astronauts lose bone density and why weight-bearing exercise builds it. Bone responds to demand, like a live-updating structure.
       Visual: bone cross-section microstructure, then a stress test against a steel bar of equal weight.
       End on: "That frame carries a pump that will not stop for your entire life."
 
-- [ ] **Day 65 — 2.5 billion beats and 100,000 km of pipework**
+- [x] **Day 65 — 2.5 billion beats and 100,000 km of pipework**
       Hook: "Your blood vessels, laid end to end, would wrap around Earth twice."
       Numbers: ~100,000 beats a day, ~7,500 litres pumped daily, enough pressure to send a jet of blood several metres up, a full circuit of the body in under a minute.
       Angle: the heart has its own electrical pacemaker — a heart removed from the body and given oxygen keeps beating on its own. It doesn't need the brain to tell it.
       Visual: pipework length animated onto a globe, then a circulation-timer following one red blood cell.
       End on: "All of it coordinated by signals moving faster than a car."
 
-- [ ] **Day 66 — Signals at 120 metres per second** _(bridge)_
+- [x] **Day 66 — Signals at 120 metres per second** _(bridge)_
       Hook: "Touch something hot and the signal reaches your brain before you consciously decide anything."
       Nerve conduction speeds, myelin as insulation that speeds transmission, and reflex arcs that route through the spinal cord to skip the brain entirely.
       Angle: the reflex fires before awareness. Your body has already acted by the time "you" show up — which raises an uncomfortable question about who's in charge.
@@ -521,42 +521,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 12 — BRAIN & MEMORY (Days 67–72)
 
-- [ ] **Day 67 — The 10% myth, buried properly**
+- [x] **Day 67 — The 10% myth, buried properly**
       Hook: "You use all of your brain. Scans show activity everywhere, including during sleep."
       Where the myth came from, why fMRI shows no dormant regions, and the real number that matters: 2% of body weight consuming around 20% of total energy.
       Angle: the brain is metabolically expensive, which is exactly why evolution wouldn't leave 90% idle. Efficiency is the argument, not scanning.
       Visual: full-brain activity scan, then an energy pie chart of the whole body.
       End on: "That expensive organ has one job people misunderstand completely — storing things."
 
-- [ ] **Day 68 — A memory is a physical object**
+- [x] **Day 68 — A memory is a physical object**
       Hook: "When you learn something, the shape of your brain physically changes."
       Neurons that fire together strengthen their connections; repetition thickens those pathways. Short-term memory becomes long-term through consolidation, mostly during sleep.
       Angle: this is why spaced repetition beats cramming — you're building physical structure, and structure needs time and repeated stress to form. Directly useful to viewers.
       Visual: synapse strengthening animation, plus a forgetting curve with and without review.
       End on: "But your brain is also actively deleting things. On purpose."
 
-- [ ] **Day 69 — Forgetting is a feature**
+- [x] **Day 69 — Forgetting is a feature**
       Hook: "A perfect memory is a disability, not a superpower."
       Cover pruning of unused connections, cases of hyperthymesia where people can't stop recalling, and reconsolidation — every recall rewrites the memory slightly.
       Angle: your most-told story is your least accurate one. Each retelling edits the file. That's genuinely unsettling and completely true.
       Visual: a photocopy of a photocopy of a photocopy, degrading across generations.
       End on: "If your memory rewrites reality, what about what you're seeing right now?"
 
-- [ ] **Day 70 — Your brain is lying to you right now**
+- [x] **Day 70 — Your brain is lying to you right now**
       Hook: "You're not seeing the world. You're seeing your brain's best guess about it."
       The blind spot the brain fills in, colour constancy illusions, motion-induced blindness, and the fact vision lags reality so the brain predicts forward.
       Angle: illusions aren't glitches — they're the prediction system exposed. Run two or three live illusions the viewer can test on screen.
       Visual: blind spot test with clear instructions, then the checkerboard shadow illusion.
       End on: "The good news: that same flexible system can be retrained. At any age."
 
-- [ ] **Day 71 — Rewiring at any age**
+- [x] **Day 71 — Rewiring at any age**
       Hook: "London taxi drivers who memorise 25,000 streets have a measurably enlarged hippocampus."
       Neuroplasticity evidence: taxi drivers, musicians' motor cortex, stroke patients rerouting function to undamaged regions, blind people recruiting visual cortex for touch and hearing.
       Angle: the "adult brains are fixed" idea is outdated, but be honest — plasticity slows with age and requires sustained effort. Not a magic-pill framing.
       Visual: before/after brain-region scans, then a stroke-recovery rerouting animation.
       End on: "Most of that rewiring happens at night. While the brain cleans itself."
 
-- [ ] **Day 72 — Your brain washes itself while you sleep** _(bridge)_
+- [x] **Day 72 — Your brain washes itself while you sleep** _(bridge)_
       Hook: "Brain cells shrink at night to let fluid flush through the gaps."
       The glymphatic system: cerebrospinal fluid clearing metabolic waste, including proteins associated with Alzheimer's, and running far more actively during sleep.
       Angle: this reframes sleep from downtime to scheduled maintenance the brain cannot skip. It's the single best argument against "I'll sleep when I'm dead."
@@ -567,42 +567,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 13 — SLEEP & DREAMS (Days 73–78)
 
-- [ ] **Day 73 — What actually happens in eight hours**
+- [x] **Day 73 — What actually happens in eight hours**
       Hook: "Sleep isn't one state. You cycle through four, about five times a night."
       Light sleep, deep slow-wave sleep for physical repair and memory consolidation, REM for dreaming with the body paralysed. Cycles run ~90 minutes, with deep sleep front-loaded and REM growing toward morning.
       Angle: this explains why waking at the wrong point feels awful and why cutting the last two hours specifically costs you most of your REM.
       Visual: hypnogram across a night, with what each stage does labelled on it.
       End on: "The strangest stage is the one where you're paralysed and hallucinating."
 
-- [ ] **Day 74 — Why we dream**
+- [x] **Day 74 — Why we dream**
       Hook: "After a century of research, we still don't agree on what dreams are for."
       Present the competing theories side by side: memory consolidation and sorting, threat simulation as rehearsal, emotional processing, and the activation-synthesis view that it's random signals the brain builds a story around.
       Angle: the honesty is the value — this is a genuinely open question, and saying so is more interesting than picking one. Add sleep paralysis as the mechanism failing at the wrong moment.
       Visual: four theory cards, each with its strongest supporting evidence.
       End on: "Whatever it's for, skipping it does measurable damage."
 
-- [ ] **Day 75 — 17 hours awake is legally drunk**
+- [x] **Day 75 — 17 hours awake is legally drunk**
       Hook: "Stay up 17 hours and your reaction times match a blood alcohol level of 0.05%."
       Effects: impaired judgment, emotional volatility, weakened immunity, and the finding that people underestimate their own impairment while sleep-deprived.
       Angle: the "I only need 5 hours" claim is the key one to address — a tiny fraction of people have the relevant gene variant, and most who claim it are simply used to functioning worse.
       Visual: performance decline curve overlaid with equivalent BAC markers.
       End on: "Some animals solved this problem in a way we absolutely cannot."
 
-- [ ] **Day 76 — Dolphins sleep with half a brain**
+- [x] **Day 76 — Dolphins sleep with half a brain**
       Hook: "A dolphin can't fall fully asleep. It would drown."
       Unihemispheric sleep — one hemisphere rests while the other stays alert and one eye stays open. Then the extremes: giraffes at ~2 hours, bats at ~19, frigatebirds sleeping mid-flight, some ducks sleeping in a row with the outer birds keeping one eye open.
       Angle: sleep is so essential that evolution kept it even where it's actively dangerous. That's the strongest possible evidence it isn't optional.
       Visual: split-brain activity diagram, then a sleep-duration chart across species.
       End on: "Our sleep is controlled by a clock. And we keep breaking it."
 
-- [ ] **Day 77 — Your phone is arguing with your body clock**
+- [x] **Day 77 — Your phone is arguing with your body clock**
       Hook: "Your body runs on a ~24-hour clock that resets using light. Mostly blue light."
       Circadian rhythm, melatonin release triggered by darkness, and the master clock in the hypothalamus. Jet lag and shift work as the clock being forced out of sync with the environment.
       Angle: give the practical version — morning daylight exposure is a stronger lever than evening screen avoidance, and consistent timing beats total duration for most people.
       Visual: a 24-hour clock ring showing hormone levels, temperature and alertness across a day.
       End on: "Break that clock and one of the first things to go is your appetite control."
 
-- [ ] **Day 78 — Bad sleep makes you hungrier** _(bridge)_
+- [x] **Day 78 — Bad sleep makes you hungrier** _(bridge)_
       Hook: "One bad night raises your hunger hormone and lowers the one that says stop."
       Ghrelin up, leptin down, cravings skew toward high-calorie food, and insulin sensitivity drops measurably after even short-term sleep restriction.
       Angle: this connects two topics people treat separately. Sleep is a metabolic intervention, not just a rest one.
@@ -613,42 +613,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 14 — FOOD & DIGESTION (Days 79–84)
 
-- [ ] **Day 79 — The nine-metre tube you carry around**
+- [x] **Day 79 — The nine-metre tube you carry around**
       Hook: "Technically, the inside of your gut is still the outside of your body."
       Follow a meal hour by hour: chewing and enzymes, stomach acid strong enough to dissolve metal, the small intestine doing nearly all the absorption with a surface area the size of a tennis court, the large intestine reclaiming water.
       Angle: the topological framing — you're a donut, and the tube is a controlled outside passing through you. It reframes the entire system.
       Visual: unrolled digestive tract laid out to full length next to a person for scale.
       End on: "One ingredient in that tube goes straight for the brain."
 
-- [ ] **Day 80 — Sugar and the reward system**
+- [x] **Day 80 — Sugar and the reward system**
       Hook: "Sugar triggers the same dopamine pathway as other rewards — which is why 'just one' rarely works."
       Cover the blood sugar spike and crash, why liquid sugar is absorbed fastest with the least fullness signal, and how "low-fat" products often replace fat with sugar for taste.
       Angle: keep it non-moralising and practical — the goal is showing the mechanism, not shaming anyone. Reading labels for hidden sugar names is the takeaway.
       Visual: sugar content of common drinks shown as physical cubes on a table.
       End on: "Some foods hijack a completely different system — pain."
 
-- [ ] **Day 81 — Chilli isn't hot. It's lying.**
+- [x] **Day 81 — Chilli isn't hot. It's lying.**
       Hook: "Capsaicin doesn't burn you. It jams the receptor that detects heat."
       The TRPV1 receptor fires as if there's real heat with no actual temperature change. Menthol does the reverse on the cold receptor. Birds lack the receptor entirely — callback to Day 48.
       Angle: milk works because capsaicin is fat-soluble and casein pulls it away; water just spreads it around. Immediately useful, immediately testable.
       Visual: receptor animation showing a false signal, then the Scoville scale as a ladder.
       End on: "The weirdest food trick isn't spice. It's controlled rot."
 
-- [ ] **Day 82 — Your favourite foods are controlled decay**
+- [x] **Day 82 — Your favourite foods are controlled decay**
       Hook: "Cheese, curd, bread, coffee, chocolate, soy sauce, pickles — all made by microbes eating something first."
       Fermentation basics: microbes convert sugars into acids, alcohol or gases, which preserves the food and creates flavour compounds that don't otherwise exist.
       Angle: humans figured this out thousands of years before knowing microbes existed. We were running biotechnology blind for millennia.
       Visual: fast montage of six ferments with the responsible microbe named on each.
       End on: "But the technique that changed us most was much simpler. Fire."
 
-- [ ] **Day 83 — Cooking gave us our brains**
+- [x] **Day 83 — Cooking gave us our brains**
       Hook: "Cooking is pre-digestion. It let our guts shrink and our brains grow."
       Cooked food releases far more usable calories for less chewing and digestive effort. Human guts are small for our body size, brains are huge, and both are metabolically expensive — the trade shows up in the fossil record.
       Angle: no other animal cooks. Great apes spend most of their waking hours chewing; we spend under an hour a day eating. That freed time is arguably civilisation's starting budget.
       Visual: gut size vs brain size comparison across primates, plus daily chewing-time bars.
       End on: "Fire made food better. But the bigger problem was making it last."
 
-- [ ] **Day 84 — How humans beat spoilage** _(bridge)_
+- [x] **Day 84 — How humans beat spoilage** _(bridge)_
       Hook: "Before refrigeration, the most valuable technology on Earth was keeping food from rotting."
       Salting, drying, smoking, fermenting, sugar preservation, then canning invented for Napoleon's army, then refrigeration reshaping what cities could eat.
       Angle: preservation is what allows _surplus_. And surplus is the thing that allows anyone to stop farming and do something else.
@@ -659,42 +659,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 15 — AGRICULTURE & CIVILISATION (Days 85–90)
 
-- [ ] **Day 85 — Wild wheat scattered its seeds. We bred it not to.**
+- [x] **Day 85 — Wild wheat scattered its seeds. We bred it not to.**
       Hook: "Every crop you eat is a mutant we selected on purpose."
       Wild grains shatter to disperse seeds; humans preferentially harvested the rare non-shattering mutants, and within centuries the mutation dominated. Same story with maize from teosinte and cabbage-family vegetables from one wild plant.
       Angle: this is genetic engineering with a 10,000-year head start. The "natural vs modified" distinction collapses once you see teosinte next to corn.
       Visual: teosinte-to-maize progression and the one-plant-to-six-vegetables brassica chart.
       End on: "Some of those crops we cloned. Which is a problem."
 
-- [ ] **Day 86 — Every banana you've eaten is a clone**
+- [x] **Day 86 — Every banana you've eaten is a clone**
       Hook: "Commercial bananas can't reproduce. Every one is a cutting from the same plant."
       The Gros Michel variety was wiped out by Panama disease in the 1950s; Cavendish replaced it and is now under threat from a new strain — with the same fundamental vulnerability.
       Angle: monoculture means zero genetic variation, so one pathogen that beats one plant beats all of them. The banana is the clearest possible illustration of a systemic risk.
       Visual: identical banana grid, one turning infected, then all of them.
       End on: "We've learned that lesson before. Badly."
 
-- [ ] **Day 87 — Farming built cities, and made people shorter**
+- [x] **Day 87 — Farming built cities, and made people shorter**
       Hook: "Skeletons from the first farming societies are shorter and sicker than the hunter-gatherers before them."
       Surplus enabled permanent settlements, specialisation, hierarchy and writing. It also brought narrower diets, more infectious disease from density and livestock, harder labour and worse teeth.
       Angle: agriculture was a great deal for the _species_ and a bad deal for the average _individual_ for thousands of years. That tension is the interesting part.
       Visual: height and health indicators plotted against population growth, diverging.
       End on: "One crop changed a continent's population more than any other."
 
-- [ ] **Day 88 — A potato reshaped Europe**
+- [x] **Day 88 — A potato reshaped Europe**
       Hook: "The potato produced more calories per acre than any grain — and Europe's population exploded."
       Its arrival from the Andes, resistance to being burned by armies, and the population boom it fuelled. Then Ireland's dependence on a single variety and the famine when blight arrived.
       Angle: it's Day 86's lesson happening at national scale a century earlier. Same mistake, higher cost.
       Visual: population curves before and after adoption, then the famine drop.
       End on: "The next time we boosted yields, it was on purpose — and it fed a billion people."
 
-- [ ] **Day 89 — The man who fed a billion people**
+- [x] **Day 89 — The man who fed a billion people**
       Hook: "Most people have never heard of the person who probably saved more lives than anyone in history."
       Norman Borlaug's dwarf wheat varieties, the Green Revolution, and India's shift from famine risk in the 1960s to grain surplus within a decade.
       Angle: include the honest costs — heavy fertiliser and water demand, groundwater depletion, and reduced crop diversity. A complete story beats a hero story.
       Visual: India's wheat production graph with the adoption point marked.
       End on: "Food changed populations. But one category of food changed maps."
 
-- [ ] **Day 90 — Spices were once worth more than gold** _(bridge)_
+- [x] **Day 90 — Spices were once worth more than gold** _(bridge)_
       Hook: "Black pepper was used to pay rent. Nutmeg came from islands worth trading a city for."
       The spice trade's value, why preservation and flavour mattered so much before refrigeration, and how the search for direct routes launched the age of exploration — including Columbus sailing the wrong way looking for India.
       Angle: nearly every early European voyage was, at root, a supply-chain problem. Cutting out middlemen redrew the world.
@@ -705,42 +705,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 16 — ANCIENT ENGINEERING (Days 91–96)
 
-- [ ] **Day 91 — The pyramids weren't built by slaves**
+- [x] **Day 91 — The pyramids weren't built by slaves**
       Hook: "We found the workers' village, their bakeries, their medical care and their tombs. They were paid."
       Evidence from Giza: worker settlements, bread and beer rations, healed bones showing medical treatment, and graffiti from work gangs with team names.
       Angle: the logistics are more impressive than any mystery — feeding and organising tens of thousands of people for decades is a harder problem than moving stone. The ramp debate is genuinely unresolved and worth stating as open.
       Visual: reconstruction of the worker village, plus a logistics infographic of daily bread and beer.
       End on: "The Romans left behind a material we still can't fully replicate."
 
-- [ ] **Day 92 — Roman concrete gets stronger in seawater**
+- [x] **Day 92 — Roman concrete gets stronger in seawater**
       Hook: "Modern concrete lasts about 100 years. Roman harbour concrete has lasted 2,000 — underwater."
       Volcanic ash reacting with seawater to grow interlocking crystals inside the material, plus recent work suggesting lumps of quicklime allow self-healing when cracks let water in.
       Angle: we didn't lose the recipe to magic — we optimised for speed, cost and steel reinforcement instead. It's a trade-off, not a mystery.
       Visual: microscope images of crystal growth in the cracks, and a Pantheon dome cutaway.
       End on: "Older still, another civilisation was solving a problem some cities haven't."
 
-- [ ] **Day 93 — 4,500-year-old cities with covered drainage**
+- [x] **Day 93 — 4,500-year-old cities with covered drainage**
       Hook: "Mohenjo-daro and Harappa had grid streets, covered sewers and standardised bricks. In 2500 BCE."
       Indus Valley urban planning: bricks with consistent ratios across hundreds of kilometres, private bathrooms connected to street drains, the Great Bath, and granaries.
       Angle: the script is still undeciphered, so we know their engineering intimately and their language not at all. And there's little evidence of palaces or grand tombs — an unusual absence.
       Visual: city grid overlay, brick dimension comparison, drainage cross-section.
       End on: "Some ancient technology was so advanced we didn't believe it at first."
 
-- [ ] **Day 94 — The 2,000-year-old computer**
+- [x] **Day 94 — The 2,000-year-old computer**
       Hook: "Divers pulled a corroded lump out of a shipwreck. It turned out to have 30 bronze gears."
       The Antikythera mechanism as an analogue astronomical calculator predicting eclipses, planetary positions and the Olympiad cycle — with gearing sophistication not seen again for well over a thousand years.
       Angle: the real lesson is that technological progress is not a straight line. Knowledge is lost, and it can stay lost for centuries.
       Visual: CT scan reconstructions and a working modern replica turning.
       End on: "Other Roman engineering hid in plain sight — like water arriving by gravity alone."
 
-- [ ] **Day 95 — Water delivered by gravity, over 100 km**
+- [x] **Day 95 — Water delivered by gravity, over 100 km**
       Hook: "Some Roman aqueducts drop a few centimetres per kilometre. Surveyed without lasers."
       Consistent gradients over enormous distances, inverted siphons crossing valleys under pressure, and cities receiving water continuously with no pumps at any point.
       Angle: the surveying is the achievement, not the arches. Maintaining a 0.02% slope across 50 km with simple instruments is the actual flex.
       Visual: exaggerated elevation profile, then the Pont du Gard, then the siphon mechanism.
       End on: "All of it recorded and managed with a tool invented for a much duller reason."
 
-- [ ] **Day 96 — The first writing was a receipt** _(bridge)_
+- [x] **Day 96 — The first writing was a receipt** _(bridge)_
       Hook: "Humanity's first written texts aren't poetry or prayer. They're inventories of grain and livestock."
       Clay tokens for counting goods evolving into impressed marks, then cuneiform. Early tablets are overwhelmingly administrative — who owed what to whom.
       Angle: writing was invented to solve an accounting problem. Literature came much later, riding on a technology built for bookkeeping.
@@ -751,42 +751,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 17 — NUMBERS & MATH (Days 97–102)
 
-- [ ] **Day 97 — Writing began as debt tracking**
+- [x] **Day 97 — Writing began as debt tracking**
       Hook: "Before anyone wrote a story, someone wrote down who owed them barley."
       Sumerian temple accounting, the shift from pictographs to abstract symbols, and the eventual leap to recording sounds instead of things — which is what made writing able to express anything.
       Angle: independent invention happened at least a few times — Mesopotamia, China, Mesoamerica — and mostly for the same administrative reasons.
       Visual: pictograph-to-abstract-symbol drift over centuries, side by side.
       End on: "But one number took thousands of years longer to invent than the rest."
 
-- [ ] **Day 98 — Someone had to invent zero**
+- [x] **Day 98 — Someone had to invent zero**
       Hook: "Zero isn't obvious. Some of history's greatest mathematicians managed entirely without it."
       Zero as a placeholder versus zero as a number you can operate on. Brahmagupta's rules in 7th-century India, transmission through the Arab world, and European resistance to adopting it.
       Angle: try multiplying MDCCLXXVI by XLII. Roman numerals make arithmetic nearly impossible, which is a big part of why positional notation changed everything.
       Visual: the same multiplication attempted in Roman numerals and then in digits.
       End on: "And the reason we count the way we do is on your hands."
 
-- [ ] **Day 99 — Why base 10? Because of fingers.**
+- [x] **Day 99 — Why base 10? Because of fingers.**
       Hook: "There's nothing mathematically special about 10. We just happen to have ten fingers."
       Alternative systems: Babylonian base 60, which is why we have 60 seconds, 60 minutes and 360 degrees; base 12 in dozens and inches; base 20 in some languages' number words.
       Angle: base 12 is arguably better — it divides evenly by 2, 3, 4 and 6, while 10 only manages 2 and 5. We chose anatomy over convenience.
       Visual: the same quantity written in base 10, 12 and 60, plus a clock face as a surviving base-60 fossil.
       End on: "One number refuses to fit any base at all."
 
-- [ ] **Day 100 — Pi never ends, and we barely need it to** _(milestone)_
+- [x] **Day 100 — Pi never ends, and we barely need it to** _(milestone)_
       Hook: "NASA uses 15 decimal places of pi. That's enough to navigate the solar system to within a few centimetres."
       Pi as the ratio in every circle, its irrationality, the millennia-long history of computing it, and the fact that ~40 digits would size a circle the width of the observable universe to atomic precision.
       Angle: mark this as the 100th video. The tension between infinite complexity and practical sufficiency is a good place to zoom out and thank people watching.
       Visual: pi digits scrolling infinitely, then a precision-vs-digits chart flattening almost immediately.
       End on: "Pi hides in circles. Another pattern hides in almost everything else."
 
-- [ ] **Day 101 — The pattern in sunflowers**
+- [x] **Day 101 — The pattern in sunflowers**
       Hook: "Count the spirals on a sunflower and you'll usually land on 34, 55 or 89."
       The Fibonacci sequence, its appearance in seed heads, pinecones and branch arrangement, and the reason: 137.5° spacing packs seeds most efficiently without overlap.
       Angle: be the channel that adds the caveat — the golden ratio in art, architecture and human faces is largely retrofitted. The plant maths is real; the Parthenon claim mostly isn't.
       Visual: seed spiral counting on screen, then an honest "myth" tag over the art examples.
       End on: "Math describes nature. Occasionally it finds something before anyone looks."
 
-- [ ] **Day 102 — A planet discovered with a pencil** _(bridge)_
+- [x] **Day 102 — A planet discovered with a pencil** _(bridge)_
       Hook: "Neptune was found by doing arithmetic. Astronomers pointed a telescope where the math said to look, and it was there."
       Uranus's orbit not matching predictions, Le Verrier and Adams independently calculating an unseen planet's mass and position, and confirmation within a night of searching.
       Angle: strong callback to Day 1 — the series began with planets, and here the same subject returns through pure calculation. Also note math's failure case: the same method predicted Vulcan, which doesn't exist.
@@ -797,42 +797,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 18 — MONEY (Days 103–108)
 
-- [ ] **Day 103 — Barter probably never happened**
+- [x] **Day 103 — Barter probably never happened**
       Hook: "The story where money replaced bartering appears in every textbook. Anthropologists have never found a society that worked that way."
       What the evidence actually shows: credit and obligation systems inside communities, with barter mostly appearing between strangers or when currency collapses.
       Angle: money likely emerged from debt-tracking and taxation rather than from the inconvenience of swapping goats — which links directly back to Day 96's clay receipts.
       Visual: the textbook barter diagram stamped "not found," replaced with a ledger of obligations.
       End on: "However it started, we now accept paper worth nothing. Why?"
 
-- [ ] **Day 104 — This paper is valuable because we agree it is**
+- [x] **Day 104 — This paper is valuable because we agree it is**
       Hook: "A banknote costs a few rupees to make. It's worth what's printed on it because everyone acts like it is."
       Commodity money to representative money to fiat, the end of the gold standard, and why value now rests on trust in the issuing institution plus legal tender status.
       Angle: the collective-fiction framing is honest and clarifying — hyperinflation is what happens when the agreement breaks, not when the paper changes.
       Visual: production cost vs face value, then a hyperinflation note requiring a wheelbarrow.
       End on: "Even when the agreement holds, the value quietly shrinks."
 
-- [ ] **Day 105 — Why prices only go up**
+- [x] **Day 105 — Why prices only go up**
       Hook: "What did a cup of chai cost when your parents were your age?"
       Inflation via money supply, demand and cost increases; why a low, steady rate is targeted rather than zero; and why deflation is more dangerous than mild inflation.
       Angle: the practical takeaway — cash sitting idle loses purchasing power every year by design. That single reframe changes how people think about saving.
       Visual: one everyday item priced across four decades, with real wages plotted alongside.
       End on: "Sometimes prices don't creep. Sometimes they go insane."
 
-- [ ] **Day 106 — The tulip that cost a house**
+- [x] **Day 106 — The tulip that cost a house**
       Hook: "At the peak, a single tulip bulb traded for the price of a canal house in Amsterdam."
       The 1637 crash, then the recurring pattern: South Sea Bubble, 1929, dot-com, 2008 housing — new asset, easy credit, story of endless growth, then a sudden failure of belief.
       Angle: note that recent historians think tulip mania was smaller and less economically damaging than the legend claims. The pattern is real; the specific story is exaggerated.
       Visual: overlaid price curves from four different bubbles, showing the same shape.
       End on: "Most of the money in those bubbles didn't exist as cash. It was created by banks."
 
-- [ ] **Day 107 — Banks create money by lending it**
+- [x] **Day 107 — Banks create money by lending it**
       Hook: "When a bank gives you a loan, it doesn't move money from a vault. It types a number into your account."
       Fractional reserve and the money multiplier, deposits and loans expanding the money supply, and the fact that most money in circulation exists only as bank records.
       Angle: this also explains bank runs — if everyone withdraws at once, the money genuinely isn't there, which is why deposit insurance exists.
       Visual: a loan cascading through a simplified banking system, total money supply climbing.
       End on: "Most money is already just a number. So we stopped pretending otherwise."
 
-- [ ] **Day 108 — Money became data** _(bridge)_
+- [x] **Day 108 — Money became data** _(bridge)_
       Hook: "In India, a tea stall and a luxury showroom accept payment the same way. Neither touches cash."
       The shift from cash to cards to instant digital transfer, UPI's scale, and what changes when transaction costs approach zero — plus the trade-offs of traceability and outage risk.
       Angle: keep it globally readable while using India as the clearest live case study of a cash economy leapfrogging cards entirely.
@@ -843,42 +843,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 19 — TRADE & GLOBALISATION (Days 109–114)
 
-- [ ] **Day 109 — The Silk Road moved more than silk**
+- [x] **Day 109 — The Silk Road moved more than silk**
       Hook: "Almost nobody travelled the whole Silk Road. Goods did, passing hand to hand across thousands of kilometres."
       What actually moved: silk, spices, paper, gunpowder, mathematics, religions — and the Black Death, which travelled the same routes.
       Angle: it was a relay, not a highway. Most traders covered one segment, which is why ideas mutated as they moved and why nobody controlled the whole thing.
       Visual: an item animated in relay hops with the price rising at each transfer.
       End on: "The next big shift in trade wasn't a route. It was a box."
 
-- [ ] **Day 110 — A metal box that rebuilt the world economy**
+- [x] **Day 110 — A metal box that rebuilt the world economy**
       Hook: "Before shipping containers, loading a ship took days and cost a fortune. Now it takes minutes."
       Malcolm McLean's standardisation in 1956, loading costs collapsing by well over 90%, ports redesigned around cranes, and the death of traditional dockwork.
       Angle: this is why manufacturing could move continents away. Cheap enough shipping makes geography almost irrelevant to production decisions — global supply chains are a _consequence_ of the box.
       Visual: old break-bulk loading footage against a modern automated container terminal.
       End on: "But all those boxes still have to squeeze through a handful of gaps."
 
-- [ ] **Day 111 — Six chokepoints control global trade**
+- [x] **Day 111 — Six chokepoints control global trade**
       Hook: "One ship got stuck sideways in the Suez Canal and held up billions of dollars a day."
       Suez, Panama, Malacca, Hormuz, Bab-el-Mandeb, and the Danish straits — plus what percentage of global trade or oil passes through each.
       Angle: efficiency created fragility. Just-in-time supply chains have almost no slack, so a single blockage propagates worldwide within days.
       Visual: world map with chokepoints pulsing and trade volume flowing through each.
       End on: "That fragility is in your pocket right now."
 
-- [ ] **Day 112 — Your phone contains 60 elements from 30 countries**
+- [x] **Day 112 — Your phone contains 60 elements from 30 countries**
       Hook: "Lithium from Australia, cobalt from Congo, rare earths refined in China, chips from Taiwan, assembly in Vietnam or India."
       Walk the bill of materials by region, note the concentration risk in refining rather than mining, and how long the finished device's journey actually is.
       Angle: no single country can build a modern phone alone. That's either remarkable cooperation or terrifying dependence, depending on the week.
       Visual: exploded phone with lines running to each source country on a globe.
       End on: "This isn't new. Trade dependence has redrawn borders before."
 
-- [ ] **Day 113 — When a trading company became an empire**
+- [x] **Day 113 — When a trading company became an empire**
       Hook: "The East India Company had its own army. It was larger than Britain's."
       A private company acquiring territory, taxation rights and military power, and the pattern of trade access hardening into political control across multiple empires.
       Angle: keep it factual and non-polemical — the mechanism is what's interesting: commercial leverage converting into governance, then extraction. Let the facts do the work.
       Visual: territory-controlled map animated over time next to company revenue.
       End on: "That era ended partly because of something found underground."
 
-- [ ] **Day 114 — Then someone burned a rock** _(bridge)_
+- [x] **Day 114 — Then someone burned a rock** _(bridge)_
       Hook: "Coal is stored sunlight from 300 million years ago. We started spending it all at once."
       Coal's energy density versus wood, the deforestation problem it solved in Britain, and why pumping water out of coal mines created demand for a machine that could do work from heat.
       Angle: the pump problem is the pivot of modern history — the steam engine was built to get more coal, and then it ran everything else.
@@ -889,42 +889,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 20 — INDUSTRY & ENERGY (Days 115–120)
 
-- [ ] **Day 115 — The machine that ended muscle power**
+- [x] **Day 115 — The machine that ended muscle power**
       Hook: "For all of history, work meant a human or an animal. Then a machine did it, and never got tired."
       Newcomen's inefficient engine, Watt's separate condenser improving it dramatically, and the spread from mine pumps to factories, trains and ships.
       Angle: quantify it — one modern car engine outputs the sustained power of several hundred horses. That multiplier applied to every task is the entire Industrial Revolution.
       Visual: horses versus engine output on a power scale, then the engine spreading across industries.
       End on: "Those machines didn't just change work. They changed time itself."
 
-- [ ] **Day 116 — Factories invented the clock you live by**
+- [x] **Day 116 — Factories invented the clock you live by**
       Hook: "Before factories, most people worked by daylight and task. Not by hours."
       Shift work, the factory whistle, standardised time zones driven by railway scheduling, and the invention of the weekend and the eight-hour movement as responses to industrial hours.
       Angle: "9 to 5" is a machine schedule that people were fitted into, not a natural human rhythm. It's roughly 150 years old.
       Visual: task-based day versus clock-based day, side by side across a timeline.
       End on: "Coal ran that century. The next one ran on something denser."
 
-- [ ] **Day 117 — The century that ran on oil**
+- [x] **Day 117 — The century that ran on oil**
       Hook: "Oil isn't mainly fuel. It's plastics, fertiliser, medicine, asphalt, clothing and packaging."
       Cover the range of products from a barrel, oil's role in enabling cars and aviation, and the Haber-Bosch link where fossil energy became fertiliser and fertiliser became food.
       Angle: roughly half the nitrogen in your body arrived via industrially fixed fertiliser. Fossil fuels are in your tissue, not just your tank.
       Visual: barrel breakdown into product categories, then a population graph against fertiliser production.
       End on: "Every energy debate comes down to one chart."
 
-- [ ] **Day 118 — The one chart that explains every energy argument**
+- [x] **Day 118 — The one chart that explains every energy argument**
       Hook: "Energy density decides almost everything — what can fly, what can ship, what stays local."
       Compare energy per kilogram: wood, coal, oil, natural gas, lithium batteries, uranium. Then explain why aviation and shipping are the hardest sectors to electrify.
       Angle: this single frame demystifies the whole debate. It's not ideology — it's whether the energy fits in the vehicle.
       Visual: one clean logarithmic bar chart, held on screen long enough to actually read.
       End on: "One entry on that chart is millions of times higher than the rest."
 
-- [ ] **Day 119 — Nuclear, minus the panic**
+- [x] **Day 119 — Nuclear, minus the panic**
       Hook: "Per unit of energy produced, nuclear has one of the lowest death rates of any source. Including renewables."
       Fission basics, why the energy density is extreme, actual death-per-terawatt-hour figures including Chernobyl and Fukushima, and the honest problems: cost, build time and long-lived waste.
       Angle: present the data and the drawbacks together and let viewers decide. Avoid advocacy; the numbers are surprising enough on their own.
       Visual: deaths-per-TWh chart across all sources, then a waste-volume comparison.
       End on: "Meanwhile the biggest energy source of all shows up for free every morning."
 
-- [ ] **Day 120 — Enough sunlight in one hour to power a year** _(bridge)_
+- [x] **Day 120 — Enough sunlight in one hour to power a year** _(bridge)_
       Hook: "The Sun delivers more energy to Earth in an hour than humanity uses in a year. The problem was never supply."
       Solar cost collapse over the last two decades, wind growth, and the actual bottleneck: intermittency and storage, grid upgrades and materials for batteries.
       Angle: the honest framing — generation is close to solved, storage and transmission are not. That's where the real engineering fight is.
@@ -935,42 +935,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 21 — ELECTRICITY & MAGNETISM (Days 121–126)
 
-- [ ] **Day 121 — Electrons barely move. So why is the light instant?**
+- [x] **Day 121 — Electrons barely move. So why is the light instant?**
       Hook: "Electrons drift through a wire slower than you walk. Yet the bulb lights the moment you flip the switch."
       Drift velocity is on the order of millimetres per second, but the electromagnetic field propagates near light speed. The energy travels in the field around the wire, not in the electrons themselves.
       Angle: the water-pipe analogy everyone learns is wrong in an important way. It's more like a bicycle chain — push one link and the whole loop moves at once.
       Visual: slow-drifting electrons alongside a field wave racing down the wire.
       End on: "The fight over how to deliver that power got genuinely ugly."
 
-- [ ] **Day 122 — Why AC won the current war**
+- [x] **Day 122 — Why AC won the current war**
       Hook: "Edison publicly electrocuted animals to prove his rival's system was dangerous. He still lost."
       DC loses too much energy over distance at usable voltages; AC can be transformed to very high voltage for transmission and back down for homes, cutting losses dramatically.
       Angle: the twist — long-distance high-voltage DC is now used for the biggest transmission projects, because modern electronics can convert it efficiently. Edison wasn't wrong, just early.
       Visual: transmission loss comparison over distance, with a modern HVDC line marked.
       End on: "Both systems rely on the same discovery — that electricity and magnetism are one thing."
 
-- [ ] **Day 123 — Electricity and magnetism are the same phenomenon**
+- [x] **Day 123 — Electricity and magnetism are the same phenomenon**
       Hook: "Move a magnet near a wire and electricity appears. Run electricity through a wire and a magnet appears."
       Faraday's induction, the fact that every generator and every motor is the same device run in opposite directions, and that essentially all grid electricity comes from spinning a magnet.
       Angle: coal, gas, nuclear and hydro all do the identical final step — boil or push something to spin a turbine. Solar is the odd one out, skipping the spinning entirely.
       Visual: one machine animated as a motor, then reversed as a generator.
       End on: "Unless you need to carry the power with you. Then you need chemistry."
 
-- [ ] **Day 124 — What's actually inside a battery**
+- [x] **Day 124 — What's actually inside a battery**
       Hook: "A battery doesn't store electricity. It stores a chemical reaction that's waiting to happen."
       Anode, cathode, electrolyte, and electrons forced through the external circuit because the direct path is blocked. Rechargeables run the reaction backwards.
       Angle: degradation explained — each cycle causes small irreversible structural changes, which is why capacity fades and why heat and full charges accelerate it. Immediately practical.
       Visual: cutaway cell with ion movement, then a capacity-fade curve over charge cycles.
       End on: "Most electricity isn't stored at all. It's balanced, live, every second."
 
-- [ ] **Day 125 — The grid must balance every single second**
+- [x] **Day 125 — The grid must balance every single second**
       Hook: "There's almost no electricity stored in the grid. Generation matches demand in real time, always."
       Frequency as the balance indicator, operators forecasting demand spikes, and the classic case of nationwide surges when a popular broadcast ends and everyone switches on at once.
       Angle: this is exactly why intermittent renewables need storage — callback to Day 120. It also explains cascading blackouts as a chain of protective disconnections.
       Visual: live frequency dial wobbling, then a demand curve with a sharp spike.
       End on: "All of this is one force. And so is the light you're reading by."
 
-- [ ] **Day 126 — Light is electricity waving** _(bridge)_
+- [x] **Day 126 — Light is electricity waving** _(bridge)_
       Hook: "Radio waves, microwaves, visible light, X-rays and gamma rays are the same thing at different frequencies."
       The electromagnetic spectrum as one continuum, with visible light as an absurdly narrow band, and why each region behaves so differently in how it interacts with matter.
       Angle: we evolved to see that narrow slice because it's what penetrates water and atmosphere best. Our "reality" is a bandwidth accident.
@@ -981,42 +981,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 22 — LIGHT & OPTICS (Days 127–132)
 
-- [ ] **Day 127 — Looking at the sky is looking into the past**
+- [x] **Day 127 — Looking at the sky is looking into the past**
       Hook: "The sunlight hitting you left the Sun 8 minutes ago. Some stars you can see tonight no longer exist."
       Light speed as a hard limit, light-years as a distance, and the depth of time in a single night sky — nearby stars decades ago, distant galaxies millions of years ago.
       Angle: there is no "now" at a distance. Everything you ever see is delayed, including the person across the room — just by nanoseconds.
       Visual: night sky with each object tagged by how old its light is.
       End on: "That light gets bent before it reaches you — including by your own eyes."
 
-- [ ] **Day 128 — Your eye is a lens with a live editor behind it**
+- [x] **Day 128 — Your eye is a lens with a live editor behind it**
       Hook: "You have a hole in your vision right now. Your brain is painting over it."
       Refraction through the cornea and lens, the image landing upside down, the optic nerve's blind spot, and why the shape of the eyeball causes short- and long-sightedness.
       Angle: run the blind spot test live and callback to Day 70 — the brain doesn't show you the gap, it invents plausible filler. Glasses just move the focal point back onto the retina.
       Visual: blind spot test with clear on-screen instructions, then a focal-point diagram for each correction.
       End on: "Bend light the right way and you get one of nature's best tricks."
 
-- [ ] **Day 129 — Rainbows are actually full circles**
+- [x] **Day 129 — Rainbows are actually full circles**
       Hook: "You've never seen a whole rainbow. From the ground, the horizon cuts off the bottom half."
       Refraction, internal reflection and dispersion inside raindrops, the fixed 42° angle, and why the secondary bow has reversed colours from an extra internal bounce.
       Angle: no two people see the same rainbow — it's built from different droplets for every observer, and it moves as you move. It's a geometry event, not an object.
       Visual: single droplet ray-trace, then a full circular rainbow shot from an aircraft.
       End on: "Nature scatters light. We learned to line it up perfectly."
 
-- [ ] **Day 130 — Light marching in perfect step**
+- [x] **Day 130 — Light marching in perfect step**
       Hook: "A laser is just light where every wave is synchronised. That one change makes it a tool."
       Coherence, monochromatic output, and the range of applications: fibre communication, barcode scanners, eye surgery, cutting metal, and reflectors left on the Moon measuring its distance to millimetres.
       Angle: the Moon measurement is the standout — Apollo mirrors let us confirm the Moon drifting 3.8 cm a year, a direct callback to Day 18.
       Visual: scattered light versus coherent light, then the lunar ranging setup.
       End on: "The most important thing we do with light is send messages through glass."
 
-- [ ] **Day 131 — The internet is light trapped in glass**
+- [x] **Day 131 — The internet is light trapped in glass**
       Hook: "Your message crosses an ocean as flashes of light bouncing inside a fibre thinner than a hair."
       Total internal reflection keeping light inside the core, extremely low signal loss allowing huge distances between repeaters, and enormous data rates per fibre.
       Angle: seed Day 141 — these fibres run along the seafloor, and the "cloud" is physically a bundle of glass strands lying in the dark.
       Visual: light bouncing down a fibre in slow motion, then a fibre next to a human hair.
       End on: "Light carries our messages. It also freezes our memories."
 
-- [ ] **Day 132 — How a camera freezes time** _(bridge)_
+- [x] **Day 132 — How a camera freezes time** _(bridge)_
       Hook: "A photo is a count of how many photons hit each square of a grid, and for how long."
       Aperture, shutter speed and sensor sensitivity as the three trade-offs; pixels as photon buckets; why motion blur and noise happen; and computational photography stacking many frames.
       Angle: your phone doesn't take a photo, it takes several and computes one. The image is a reconstruction, which loops neatly back to Day 70's brain doing exactly the same thing.
@@ -1027,42 +1027,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 23 — SOUND & MUSIC (Days 133–138)
 
-- [ ] **Day 133 — Sound is air punching your eardrum**
+- [x] **Day 133 — Sound is air punching your eardrum**
       Hook: "Sound isn't a thing that travels. It's a pattern of squeeze and stretch moving through stuff."
       Compression waves needing a medium, speed varying by material — faster in water, much faster in steel — and why space is silent.
       Angle: kill the movie explosion. Also note sound travels roughly 4x faster in water, which is why whale calls cross oceans and why underwater direction sense is poor.
       Visual: particle compression animation, then speed-of-sound comparison across media.
       End on: "Some of those patterns are pleasant. Some are physically intolerable."
 
-- [ ] **Day 134 — Why some sounds are unbearable**
+- [x] **Day 134 — Why some sounds are unbearable**
       Hook: "Human hearing is most sensitive between roughly 2,000 and 5,000 Hz. Nails on a blackboard sit right in it."
       That frequency band matching a baby's cry and screams, likely for survival reasons, plus the ear canal's resonance amplifying that range.
       Angle: alarms, sirens and phone ringtones are all deliberately engineered into that band. It's not annoying by accident — it's designed to be impossible to ignore.
       Visual: hearing sensitivity curve with the harshest sounds plotted directly on the peak.
       End on: "Move a few octaves away and the same physics becomes beautiful."
 
-- [ ] **Day 135 — Music is math you can feel**
+- [x] **Day 135 — Music is math you can feel**
       Hook: "Two notes sound good together when their frequencies form a simple ratio. That's the entire foundation."
       Octaves as a 2:1 ratio, fifths at 3:2, and how harmonic series produce chords. The compromise of equal temperament, which makes every key slightly out of tune so all keys are playable.
       Angle: this is why a piano is deliberately, subtly wrong everywhere. Perfect tuning in one key means unusable tuning in others — music runs on an accepted error.
       Visual: waveforms overlapping in simple versus messy ratios, with audio for each.
       End on: "Change the source's speed and the math shifts audibly."
 
-- [ ] **Day 136 — Why a passing siren changes pitch**
+- [x] **Day 136 — Why a passing siren changes pitch**
       Hook: "The siren's pitch never changes. The waves just bunch up in front and stretch out behind."
       Doppler effect explained with waves compressing toward an approaching listener and stretching as it recedes, plus applications in radar speed guns and weather radar.
       Angle: plant the seed hard — the same effect on light is how we know the universe is expanding. That payoff arrives on Day 178.
       Visual: circular wave fronts bunching ahead of a moving source, with audio demo.
       End on: "We can also cancel sound completely, using more sound."
 
-- [ ] **Day 137 — Fighting sound with sound**
+- [x] **Day 137 — Fighting sound with sound**
       Hook: "Noise cancelling works by playing the exact opposite of the noise, in real time."
       Microphone samples incoming sound, electronics generate an inverted waveform, the two sum to near silence. Works best on steady low frequencies like engine hum.
       Angle: this is why it kills aeroplane drone but not a nearby conversation — speech is unpredictable and high frequency, so the system can't predict it fast enough.
       Visual: two waveforms inverting and summing to a flat line, then a frequency-effectiveness chart.
       End on: "For most of history, sound vanished the moment it was made. Then we caught it."
 
-- [ ] **Day 138 — Capturing a voice forever** _(bridge)_
+- [x] **Day 138 — Capturing a voice forever** _(bridge)_
       Hook: "For all of human history, every sound ever made was gone instantly. That ended in 1877."
       Phonograph scratching a physical waveform into foil, magnetic tape, vinyl grooves as literal wave shapes, then digital sampling converting waves into numbers.
       Angle: sampling is the key conceptual leap — once sound became numbers, it could be copied perfectly, compressed and sent anywhere. That's the whole modern media economy.
@@ -1073,42 +1073,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 24 — COMMUNICATION (Days 139–144)
 
-- [ ] **Day 139 — The first message that beat a horse**
+- [x] **Day 139 — The first message that beat a horse**
       Hook: "Before 1844, information travelled at the speed of a rider. Then it travelled at the speed of electricity."
       The telegraph, Morse code as an efficient binary-ish encoding with common letters getting shortest codes, and transatlantic cables collapsing news delay from weeks to minutes.
       Angle: this is the first time information moved faster than physical objects — a separation that defines everything after it, including markets and journalism.
       Visual: news travel time from London to New York, plotted across decades.
       End on: "Then we removed the wire entirely."
 
-- [ ] **Day 140 — Speaking through invisible waves**
+- [x] **Day 140 — Speaking through invisible waves**
       Hook: "Your voice is riding on a wave you can't see, and the receiver strips the wave away to give it back."
       Carrier waves, AM versus FM modulation, why frequency bands behave differently, and why AM travels further at night by bouncing off the ionosphere.
       Angle: the electromagnetic spectrum from Day 126 becomes property here — spectrum is auctioned for enormous sums because bandwidth is genuinely finite.
       Visual: carrier wave with a voice signal modulated onto it, then demodulated back.
       End on: "But almost none of your internet travels through the air."
 
-- [ ] **Day 141 — The internet is not in the cloud. It's under the sea.**
+- [x] **Day 141 — The internet is not in the cloud. It's under the sea.**
       Hook: "Around 500 cables on the ocean floor carry over 95% of all international data."
       Cable construction, repair ships, and the surprisingly common causes of outages: ship anchors, fishing gear, earthquakes and landslides.
       Angle: satellite internet carries a tiny fraction. The word "cloud" hides the fact that this is heavy physical infrastructure lying in the dark — a callback to Days 29 and 131.
       Visual: submarine cable map, then a cable cross-section and a repair ship hauling one up.
       End on: "Your message doesn't travel down one cable. It gets shredded first."
 
-- [ ] **Day 142 — Your message is torn into pieces and reassembled**
+- [x] **Day 142 — Your message is torn into pieces and reassembled**
       Hook: "Send a photo and it's split into thousands of packets that take different routes and arrive out of order."
       Packet switching, IP addresses, routers choosing paths dynamically, and reassembly with retransmission of anything lost.
       Angle: it was designed this way for resilience — no central point to break. That's also why the internet degrades rather than dying when parts fail.
       Visual: an image splitting into numbered packets, scattering across a network, reassembling.
       End on: "To route anything, the network has to know where you are."
 
-- [ ] **Day 143 — GPS only works because of Einstein**
+- [x] **Day 143 — GPS only works because of Einstein**
       Hook: "Ignore relativity and GPS drifts about 10 km off within a day."
       Trilateration from at least four satellites, atomic clocks, and two relativistic corrections — clocks run faster in weaker gravity and slower at orbital speed, with the gravitational effect dominating.
       Angle: relativity sounds abstract until you realise your maps app would be useless without it. It's the most practical possible proof.
       Visual: satellite geometry, then a drift-error counter climbing without correction.
       End on: "Everything you send travels through machines you don't control. So why is it private?"
 
-- [ ] **Day 144 — Why nobody can read your messages** _(bridge)_
+- [x] **Day 144 — Why nobody can read your messages** _(bridge)_
       Hook: "Two people can agree on a secret key while shouting across a crowded room, and nobody else learns it."
       Public and private keys, the paint-mixing analogy for key exchange, end-to-end encryption, and the reliance on math problems that are easy one way and brutally hard to reverse.
       Angle: mention the quantum threat honestly — some current encryption becomes breakable if large quantum computers arrive, which is why post-quantum standards are already being deployed. Seeds Day 150.
@@ -1119,42 +1119,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 25 — COMPUTERS (Days 145–150)
 
-- [ ] **Day 145 — Why everything is 1s and 0s**
+- [x] **Day 145 — Why everything is 1s and 0s**
       Hook: "Computers don't use binary because it's elegant. They use it because 'on or off' is the only thing you can trust."
       Voltage thresholds making two states reliably distinguishable in a noisy physical world, and how binary encodes numbers, text, images and sound with enough bits.
       Angle: a ten-state system would be more compact but would misread constantly as voltages drifted. Binary is a choice for robustness, not simplicity.
       Visual: noisy voltage signal with two clear thresholds versus ten crowded ones.
       End on: "To do anything with those states, you need a switch. A very small one."
 
-- [ ] **Day 146 — The tiny switch that built the modern world**
+- [x] **Day 146 — The tiny switch that built the modern world**
       Hook: "Your phone contains somewhere around 15 to 20 billion transistors. Each one is a switch."
       Transistors replacing vacuum tubes, logic gates built from switches, arithmetic built from gates, and Moore's Law as an observation that held for decades and is now slowing.
       Angle: the scale is the story — features are now measured in a handful of nanometres, only tens of atoms wide, which is why further shrinking is hitting physical limits.
       Visual: vacuum tube next to a modern chip die, with transistor count on a log scale.
       End on: "Making them at that size is the hardest manufacturing on Earth."
 
-- [ ] **Day 147 — The hardest thing humans manufacture**
+- [x] **Day 147 — The hardest thing humans manufacture**
       Hook: "There are more transistors made each year than there are grains of rice grown. And a handful of factories make the best ones."
       Photolithography printing patterns with light, extreme ultraviolet machines costing hundreds of millions each, cleanrooms far purer than an operating theatre, and yield as the constant battle.
       Angle: this is the real chokepoint behind chip shortages and export controls — callback to Days 111 and 112. Concentration risk in one industry, one region, sometimes one supplier.
       Visual: wafer to chip process steps, then a supply concentration map.
       End on: "That hardware is useless without instructions. So what is code?"
 
-- [ ] **Day 148 — What code actually is**
+- [x] **Day 148 — What code actually is**
       Hook: "Code is just a very long list of instructions for flipping switches, written in something humans can stand to read."
       Layers from machine code to assembly to high-level languages, compilers translating downward, and the operating system managing hardware so programs don't have to.
       Angle: abstraction is the whole trick — every layer exists so the layer above can stop caring about the details. That's how a few lines can move billions of switches.
       Visual: the same simple operation shown in Python, then assembly, then binary.
       End on: "And every layer of that stack can go wrong."
 
-- [ ] **Day 149 — The first computer bug was an actual insect**
+- [x] **Day 149 — The first computer bug was an actual insect**
       Hook: "In 1947, a moth got stuck in a relay. They taped it into the logbook and wrote 'first actual case of bug being found.'"
       Then the expensive failures: Mariner 1 lost to a coding error, Ariane 5 destroyed by a reused number conversion, Therac-25 radiation overdoses, the Y2K work that mostly prevented its own headline.
       Angle: complexity makes bugs inevitable, and the biggest ones are usually interface errors between systems that each worked fine alone.
       Visual: the logbook photo, then a cost-of-failure ranking.
       End on: "We're now building machines that don't work with certainties at all."
 
-- [ ] **Day 150 — Computers that work in probabilities** _(bridge)_
+- [x] **Day 150 — Computers that work in probabilities** _(bridge)_
       Hook: "A regular bit is 0 or 1. A qubit holds a combination of both until you measure it."
       Superposition and entanglement, why certain problems get dramatically faster, and the honest limits: extreme cooling, high error rates, and usefulness only for a narrow class of problems.
       Angle: be the channel that doesn't oversell it. This will not replace your laptop. It threatens some encryption and helps simulate molecules — callback to Day 144.
@@ -1165,42 +1165,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 26 — ARTIFICIAL INTELLIGENCE (Days 151–156)
 
-- [ ] **Day 151 — AI doesn't think. It predicts.**
+- [x] **Day 151 — AI doesn't think. It predicts.**
       Hook: "Nobody wrote the rules for recognising a cat. The system worked them out from examples."
       Neural networks as layers of weighted connections adjusted by training, learning statistical patterns rather than being programmed with instructions, and language models predicting likely continuations.
       Angle: prediction at sufficient scale looks remarkably like understanding, and whether that difference matters is a genuinely open argument worth presenting as unresolved.
       Visual: a simple network learning to separate two categories, weights visibly adjusting.
       End on: "Which means everything it knows came from somewhere. And that's the problem."
 
-- [ ] **Day 152 — AI is only as good as what it was fed**
+- [x] **Day 152 — AI is only as good as what it was fed**
       Hook: "A hiring model trained on a company's past hires will faithfully reproduce that company's past bias."
       Training data as the source of everything the model does, documented cases of biased outcomes in hiring and image systems, and why gaps in data become gaps in capability.
       Angle: the model isn't prejudiced — it's an extremely accurate mirror of the data. That's worse, because it makes bias look objective.
       Visual: skewed dataset in, skewed predictions out, with the imbalance visible in both.
       End on: "It also invents things with total confidence."
 
-- [ ] **Day 153 — Why AI makes things up**
+- [x] **Day 153 — Why AI makes things up**
       Hook: "It's not lying. It has no concept of true — only of plausible."
       Hallucination as a direct consequence of predicting likely text rather than retrieving verified facts, why fabricated citations look so convincing, and mitigation approaches like retrieval and tool use.
       Angle: practical guidance — treat output as a confident first draft, verify anything factual, and be most suspicious exactly when it sounds most authoritative.
       Visual: a fabricated citation shown next to a search proving it doesn't exist.
       End on: "Despite all that, you already rely on it constantly."
 
-- [ ] **Day 154 — You used AI twenty times today without noticing**
+- [x] **Day 154 — You used AI twenty times today without noticing**
       Hook: "Autocorrect, maps routing, spam filtering, recommendations, your camera's night mode, bank fraud detection."
       Walk through a normal day and tag each invisible model, including the heavy computational photography inside every phone photo — callback to Day 132.
       Angle: AI stopped being a topic and became infrastructure. The visible chatbots are a small and recent slice of it.
       Visual: a daily timeline with each AI touchpoint flagged.
       End on: "Which raises the question everyone actually wants answered."
 
-- [ ] **Day 155 — What actually happens to jobs**
+- [x] **Day 155 — What actually happens to jobs**
       Hook: "ATMs were supposed to end bank tellers. The number of tellers rose for decades afterwards."
       Historical parallels including ATMs, spreadsheets and bookkeeping, then the honest differences this time: speed of adoption and the fact cognitive work is affected, not just manual.
       Angle: refuse both the doom and the hype. Tasks get automated before whole jobs do, and the disruption is real for the people it lands on even when aggregate numbers look fine.
       Visual: teller employment graph after ATM rollout, then a task-versus-job breakdown for one profession.
       End on: "For all that capability, there's something simple AI still can't do."
 
-- [ ] **Day 156 — Passing exams is easy. Folding laundry is hard.** _(bridge)_
+- [x] **Day 156 — Passing exams is easy. Folding laundry is hard.** _(bridge)_
       Hook: "AI can pass professional exams and still fail to reliably pick up a towel."
       Moravec's paradox — reasoning is computationally cheap, perception and dexterity are extremely expensive, because evolution spent hundreds of millions of years on movement and only recently on abstract thought.
       Angle: this predicts which jobs are actually safest, and it isn't the ones people assume. Physical, unpredictable, hands-on work is the hard problem.
@@ -1211,42 +1211,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 27 — ROBOTS (Days 157–162)
 
-- [ ] **Day 157 — Robots are much older than you think**
+- [x] **Day 157 — Robots are much older than you think**
       Hook: "The word 'robot' comes from a 1920 play, and it means 'forced labour.'"
       Ancient automata including water clocks and mechanical figures, Al-Jazari's programmable devices, Vaucanson's 18th-century duck, and the first industrial arm installed in a factory in 1961.
       Angle: we've been building things that move by themselves for millennia. What changed recently isn't motion — it's the ability to perceive and adapt.
       Visual: automata timeline from ancient to industrial to modern.
       End on: "The hardest thing we've asked them to do is stay upright."
 
-- [ ] **Day 158 — Why walking is harder than chess**
+- [x] **Day 158 — Why walking is harder than chess**
       Hook: "A computer beat the world chess champion in 1997. A robot that walks over uneven ground reliably took another twenty years."
       Balance as continuous control — sensing tilt, predicting fall, correcting hundreds of times a second — and why walking is really controlled falling.
       Angle: direct payoff from Day 156. Also note humans do this unconsciously, which is why we assume it's simple.
       Visual: centre-of-mass tracking on a walking robot, with correction events flagged.
       End on: "Where robots do beat us, they beat us completely."
 
-- [ ] **Day 159 — Steadier than any human hand**
+- [x] **Day 159 — Steadier than any human hand**
       Hook: "A surgical robot filters out the natural tremor in a surgeon's hand entirely."
       Surgical systems scaling and steadying motion, industrial arms repeating a movement to fractions of a millimetre for years, and robots handling tasks in environments that would kill a person.
       Angle: the framing that matters — these are precision amplifiers under human control, not replacements. The surgeon is still driving.
       Visual: tremor filtering visualised, then repeatability tolerance compared to a human.
       End on: "Some of them left the factory floor entirely."
 
-- [ ] **Day 160 — The same drone delivers medicine and drops bombs**
+- [x] **Day 160 — The same drone delivers medicine and drops bombs**
       Hook: "Rwanda delivers blood to remote clinics by drone. The same core technology is reshaping modern warfare."
       Uses across delivery, agriculture mapping, infrastructure inspection, search and rescue, filming — and military applications, plus regulatory and privacy issues.
       Angle: neutral and factual. The technology is genuinely indifferent to purpose; that's exactly why the rules around it matter.
       Visual: split screen of civilian and military use, same airframe class.
       End on: "The hardest autonomous problem is the one on your street."
 
-- [ ] **Day 161 — What a self-driving car actually sees**
+- [x] **Day 161 — What a self-driving car actually sees**
       Hook: "It's not hard to drive a car. It's hard to handle the situation nobody anticipated."
       Sensor fusion across cameras, radar and LiDAR; the levels of autonomy; and the long tail of edge cases — unusual weather, hand signals, roadworks, unpredictable pedestrians.
       Angle: 99% is easy and useless. The last fraction of a percent is where all the difficulty and all the liability sits, which is why timelines keep slipping.
       Visual: sensor point cloud view of a street, then an edge case the system misreads.
       End on: "Robots struggle here because our world is messy. Somewhere else, they're the only option."
 
-- [ ] **Day 162 — Robots go where we can't** _(bridge)_
+- [x] **Day 162 — Robots go where we can't** _(bridge)_
       Hook: "Inside a damaged reactor, at the bottom of a trench, or on another planet, a robot is the only worker available."
       Deep-sea ROVs, nuclear decommissioning, disaster response, and planetary rovers operating with communication delays that make real-time control impossible.
       Angle: the delay is the key constraint — a Mars rover cannot be joysticked, so autonomy isn't a luxury there, it's a requirement. Callback to Days 28 and 29.
@@ -1257,42 +1257,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 28 — ROCKETS (Days 163–168)
 
-- [ ] **Day 163 — Rockets don't push against air**
+- [x] **Day 163 — Rockets don't push against air**
       Hook: "A rocket works better in a vacuum. It's throwing mass backwards, not pushing on anything."
       Newton's third law, exhaust momentum, and the fact that air is only drag — which is why upper stages have larger, more efficient nozzles.
       Angle: kill the intuition that there must be something to push against. The rocket and the exhaust push on each other, and that's the entire mechanism.
       Visual: momentum exchange animation, plus a skateboard-and-medicine-ball demo.
       End on: "The problem is how much you have to throw."
 
-- [ ] **Day 164 — Why rockets are mostly fuel**
+- [x] **Day 164 — Why rockets are mostly fuel**
       Hook: "A rocket is a fuel tank with an engine bolted on. Payload is usually a small percentage of liftoff mass."
       Escape velocity around 40,000 km/h, the tyranny of the rocket equation where fuel needed to lift fuel compounds, and staging as the workaround — dropping empty mass as you go.
       Angle: this is why space is expensive and why single-stage-to-orbit remains impractical. It's a mass problem before it's an engineering or money problem.
       Visual: rocket mass breakdown by percentage, then stages separating with mass dropping.
       End on: "For sixty years we threw all that hardware away."
 
-- [ ] **Day 165 — Landing a skyscraper on a boat**
+- [x] **Day 165 — Landing a skyscraper on a boat**
       Hook: "For most of spaceflight history, every rocket was used once. Imagine scrapping an aircraft after one flight."
       Reusability requiring precise re-ignition, grid fin steering and landing legs, and the resulting collapse in cost per kilogram to orbit over roughly a decade.
       Angle: cheap launch is upstream of everything else — satellite constellations, space telescopes, and any serious plan beyond Earth orbit depend on it.
       Visual: cost-per-kg-to-orbit curve, then a landing burn sequence.
       End on: "Getting there is one problem. Surviving is another."
 
-- [ ] **Day 166 — A spacesuit is a personal spacecraft**
+- [x] **Day 166 — A spacesuit is a personal spacecraft**
       Hook: "It has to hold pressure, supply oxygen, remove CO₂, manage extreme temperature swings and stop micrometeorites."
       Layers and their functions, the liquid cooling garment, the difficulty of moving a pressurised suit, and the fact hands tire fast because every finger movement fights internal pressure.
       Angle: gloves are the persistent unsolved problem. The most advanced suits still make delicate work exhausting.
       Visual: exploded layer diagram, then a pressurised-glove grip demonstration.
       End on: "Wearing one is rare. Living up there is stranger."
 
-- [ ] **Day 167 — Life on the ISS**
+- [x] **Day 167 — Life on the ISS**
       Hook: "Astronauts sleep strapped to a wall, drink recycled urine and lose bone density constantly."
       Water recovery percentages, exercise regimes to counter muscle and bone loss, fluid shift causing puffy faces and vision changes, and the practical difficulty of eating and hygiene.
       Angle: callbacks to Days 8 and 64 — free fall and load-dependent bone remodelling. The body responds exactly as the physics predicts.
       Visual: daily schedule on station, plus bone density loss and recovery curves.
       End on: "Everything we've launched has left something behind."
 
-- [ ] **Day 168 — We've littered orbit** _(bridge)_
+- [x] **Day 168 — We've littered orbit** _(bridge)_
       Hook: "There are millions of debris fragments in orbit, some travelling faster than a bullet."
       Sources including old satellites, spent stages and anti-satellite tests, why even a paint fleck is dangerous at orbital speed, and Kessler syndrome as a cascading collision scenario.
       Angle: the honest risk framing — this is a shared resource management problem with no clear enforcement mechanism, and the useful orbits are finite.
@@ -1303,42 +1303,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 29 — EXPLORATION (Days 169–174)
 
-- [ ] **Day 169 — The Moon landing computer had less memory than a greeting card**
+- [x] **Day 169 — The Moon landing computer had less memory than a greeting card**
       Hook: "The Apollo Guidance Computer had a few tens of kilobytes of memory. Your phone has millions of times more."
       Cover its rope memory woven by hand, the 1202 alarm during descent caused by the computer being overloaded and correctly shedding low-priority tasks, and Armstrong flying manually past a boulder field with seconds of fuel left.
       Angle: the software's best moment was knowing what to ignore. That priority scheduling is why the landing continued instead of aborting.
       Visual: memory comparison bar, then descent footage with the fuel countdown.
       End on: "Two machines from that era are still going, and they've left the solar system."
 
-- [ ] **Day 170 — Two probes are still talking to us from interstellar space**
+- [x] **Day 170 — Two probes are still talking to us from interstellar space**
       Hook: "Voyager 1 launched in 1977 and still sends signals from over 24 billion km away — taking around 22 hours to arrive."
       The grand tour trajectory enabled by a rare planetary alignment, gravity assists, plutonium power sources slowly fading, and the Golden Record as a message to nobody in particular.
       Angle: the Pale Blue Dot image is the emotional beat — the whole planet as a single pixel from 6 billion km, and it directly foreshadows the cosmos arc.
       Visual: the Pale Blue Dot with an arrow, then current distance and signal delay.
       End on: "Closer to home, we've been driving on another planet for decades."
 
-- [ ] **Day 171 — Seven minutes of terror**
+- [x] **Day 171 — Seven minutes of terror**
       Hook: "A Mars landing takes about seven minutes. The signal takes longer than that to reach Earth. It's over before we know it started."
       Entry, descent and landing sequences, the sky crane manoeuvre, and rover achievements from Sojourner through Curiosity to Perseverance, including Ingenuity's powered flight in a thin atmosphere.
       Angle: full autonomy is mandatory here — direct callback to Day 162. Nobody is flying it; the software either works or the mission ends.
       Visual: EDL sequence animated with a signal delay clock running alongside.
       End on: "We can land there. The harder question is whether we could live there."
 
-- [ ] **Day 172 — Could we make Mars breathable?**
+- [x] **Day 172 — Could we make Mars breathable?**
       Hook: "Even if you released every bit of CO₂ locked in Mars, you'd fall far short of a breathable atmosphere."
       Terraforming proposals and their obstacles: insufficient accessible CO₂, weak gravity and no magnetic field letting atmosphere escape, perchlorates in the soil, and radiation exposure.
       Angle: honest assessment — habitats and domes are plausible this century, planet-wide terraforming is a multi-century project with unsolved physics and enormous energy demands. Callback to Day 15.
       Visual: required atmospheric pressure versus available inventory, plus a habitat concept.
       End on: "If we're looking for life, Mars might not even be the best address."
 
-- [ ] **Day 173 — The best place to look for life has ice on top**
+- [x] **Day 173 — The best place to look for life has ice on top**
       Hook: "Europa may hold more liquid water than every ocean on Earth combined — under kilometres of ice."
       Tidal heating from Jupiter keeping subsurface oceans liquid, plumes detected from Enceladus containing organic molecules, and upcoming missions designed to sample them.
       Angle: strong callback to Day 11 — the same gravitational squeezing that moves our tides is the heat source that could sustain life without any sunlight at all.
       Visual: cutaway of Europa's ice shell and ocean, next to Earth's total ocean volume.
       End on: "To look further than that, we need to build better eyes."
 
-- [ ] **Day 174 — A telescope that sees 13 billion years back** _(bridge)_
+- [x] **Day 174 — A telescope that sees 13 billion years back** _(bridge)_
       Hook: "JWST looks in infrared because the light from the first galaxies has been stretched on its way here."
       The sunshield keeping instruments extraordinarily cold, the L2 orbit, and results including early galaxies and exoplanet atmospheric composition.
       Angle: this stitches the series together — Day 127's light delay, Day 136's Doppler stretching, and Day 2's exoplanets all converge in one instrument.
@@ -1349,42 +1349,42 @@ Each entry gives you: the hook, what to cover, the angle that makes it different
 
 # ARC 30 — COSMOS & THE LOOP (Days 175–180)
 
-- [ ] **Day 175 — How a star lives and dies**
+- [x] **Day 175 — How a star lives and dies**
       Hook: "A star is a permanent argument between gravity pulling in and fusion pushing out. It ends when fusion loses."
       Hydrogen fusion in the core, the main sequence, expansion into a red giant when the fuel changes, and the split by mass — white dwarfs for smaller stars, supernovae and neutron stars or black holes for the largest.
       Angle: bigger stars burn out faster. The most massive live a few million years while small red dwarfs will last trillions — nearly every one ever formed is still burning.
       Visual: stellar life cycle branching by mass, with lifespans on a log scale.
       End on: "When the biggest ones die, they leave something behind. In you."
 
-- [ ] **Day 176 — You are made of exploded stars** _(milestone)_
+- [x] **Day 176 — You are made of exploded stars** _(milestone)_
       Hook: "The calcium in your bones and the iron in your blood were made inside a star that exploded before the Sun existed."
       Only hydrogen, helium and traces of lithium came from the Big Bang. Everything heavier was fused in stellar cores, and the heaviest elements formed in supernovae and neutron star collisions.
       Angle: this is the emotional peak of the entire series — the Day 61 question of what you're made of gets its final answer. Slow the pacing down and let it land.
       Visual: periodic table colour-coded by cosmic origin, then those elements mapped onto a human body.
       End on: "Those atoms are part of something much larger, and it's moving."
 
-- [ ] **Day 177 — Our galaxy is on a collision course**
+- [x] **Day 177 — Our galaxy is on a collision course**
       Hook: "Andromeda is heading toward us at around 110 km per second. In about 4 billion years, they merge."
       Galaxy structure, our position in a spiral arm, the ~230 million year orbit of the Sun around the galactic centre, and the supermassive black hole at the middle.
       Angle: the reassuring twist — almost nothing will actually collide. Stars are so far apart that the galaxies pass through each other, reshaped by gravity rather than impacts.
       Visual: merger simulation with a zoom showing the emptiness between stars.
       End on: "Except Andromeda is the exception. Almost everything else is running away."
 
-- [ ] **Day 178 — Everything is running away from everything**
+- [x] **Day 178 — Everything is running away from everything**
       Hook: "Distant galaxies are all moving away from us. And the further away they are, the faster they go."
       Redshift as the Doppler effect applied to light, Hubble's observation, and the crucial correction that space itself is expanding rather than galaxies flying through space.
       Angle: the payoff planted on Day 136 finally lands. Use the raisin bread analogy — every raisin sees every other moving away, and no raisin is the centre.
       Visual: expanding grid with galaxies fixed to it, plus a redshifted spectrum next to a reference.
       End on: "If it keeps expanding, there's a question we can't avoid."
 
-- [ ] **Day 179 — How it all ends**
+- [x] **Day 179 — How it all ends**
       Hook: "Every current scenario for the end of the universe is strange. None of them are settled."
       Heat death as expansion continues and energy spreads until nothing can happen, the Big Rip if dark energy strengthens, and the Big Crunch if expansion somehow reverses. Note that current evidence favours continued expansion.
       Angle: keep it curious rather than bleak, and be explicit that dark energy is essentially unexplained — this is a live scientific frontier, not a settled prediction.
       Visual: three timeline branches from now to each ending, with confidence levels marked.
       End on: "Endings are far away. Beginnings happen constantly."
 
-- [ ] **Day 180 — How a solar system is born** _(loop)_
+- [x] **Day 180 — How a solar system is born** _(loop)_
       Hook: "Somewhere in the galaxy right now, a cloud of gas and dust is collapsing into planets."
       A nebula collapsing under gravity, conservation of angular momentum spinning it into a flattened disc, the star igniting at the centre, and dust grains sticking into planetesimals and then planets.
       Angle: this is the answer to Day 6. The solar system is flat because it was born from a spinning disc, and the same process is happening in nebulae we can photograph right now.

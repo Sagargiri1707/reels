@@ -1,0 +1,103 @@
+{
+  "topic": "The animal that can reverse its own life cycle",
+  "lesson": "One jellyfish escapes old age by turning its adult cells back into juvenile ones and restarting its life cycle, so it never dies of being old, though it still gets eaten.",
+  "slug": "day-059-reverse-life-cycle-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "One animal deals with old age by turning back into a baby. Then doing it again.",
+      "scene": "an hourglass lying on its side, a small black cartoon figure gripping it with both arms and heaving it back upright",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an hourglass lying on its side, a small black cartoon figure gripping it with both arms and heaving it back upright. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every other life runs one way. Born, grow, wear out, done.",
+      "scene": "a long row of dominoes fallen flat in one direction, a small black cartoon figure shoving against the last fallen one with both hands",
+      "image_text": "ONE WAY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long row of dominoes fallen flat in one direction, a small black cartoon figure shoving against the last fallen one with both hands. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE WAY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Turritopsis dohrnii is a jellyfish about the size of your fingernail.",
+      "scene": "a metal thimble standing alone on the surface, a small black cartoon figure lifting it overhead with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal thimble standing alone on the surface, a small black cartoon figure lifting it overhead with both arms. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "When it is starving or badly injured, it does not die. It sinks and collapses into a lump.",
+      "scene": "a folded paper lantern crushed flat, a small black cartoon figure kneeling on it pressing the last air out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded paper lantern crushed flat, a small black cartoon figure kneeling on it pressing the last air out. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Then its adult cells do something almost nothing else alive can manage.",
+      "scene": "a wooden shape sorter, a small black cartoon figure prying a square block apart and forcing it into the round hole",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden shape sorter, a small black cartoon figure prying a square block apart and forcing it into the round hole. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "They turn into completely different cell types, and the lump rebuilds itself as the juvenile stage.",
+      "scene": "a folded paper crane being pulled back into a flat sheet, a small black cartoon figure hauling the last crease open with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded paper crane being pulled back into a flat sheet, a small black cartoon figure hauling the last crease open with both arms. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And nobody has found a limit on how many times it can do this.",
+      "scene": "a brass music box key, a small black cartoon figure winding it round and round with their whole body",
+      "image_text": "NO LIMIT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass music box key, a small black cartoon figure winding it round and round with their whole body. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO LIMIT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It is not the only one cheating the clock. Greenland sharks pass four hundred years.",
+      "scene": "a thick slice of timber showing dense growth rings, a small black cartoon figure walking outward across them with one arm raised",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick slice of timber showing dense growth rings, a small black cartoon figure walking outward across them with one arm raised. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "But none of them are unkillable. Almost all get eaten. They just never die of being old.",
+      "scene": "a tall unmelted candle burning, a small black cartoon figure reaching up with a snuffer to cap the flame",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall unmelted candle burning, a small black cartoon figure reaching up with a snuffer to cap the flame. the scene belongs to ageing running one way, and the few animals that turn it around, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Turritopsis dohrnii, a jellyfish the size of a fingernail, responds to starvation or injury by collapsing into a lump and rebuilding itself as its own juvenile stage. Its adult cells convert into other cell types entirely, and no limit has been found on how often it can do it. Biologically immortal does not mean unkillable though. Almost all of them get eaten. They simply never die of being old.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #jellyfish #immortal #biology #ageing #science",
+    "thumbnail_beat": "01"
+  }
+}

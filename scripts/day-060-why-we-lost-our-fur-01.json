@@ -1,0 +1,103 @@
+{
+  "topic": "Why humans lost their fur",
+  "lesson": "Humans traded fur for sweat glands, which keep cooling you while you are still moving, so early humans could chase prey until it overheated and stopped.",
+  "slug": "day-060-why-we-lost-our-fur-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "You are the only primate walking around basically naked. That was an upgrade.",
+      "scene": "a thick fur coat lying folded on the surface, a small black cartoon figure stepping out of it and walking away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick fur coat lying folded on the surface, a small black cartoon figure stepping out of it and walking away. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every other primate carries a full coat, and a coat is very good at keeping heat in.",
+      "scene": "a wool blanket wrapped tight around a metal flask, a small black cartoon figure tucking the last corner under",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wool blanket wrapped tight around a metal flask, a small black cartoon figure tucking the last corner under. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A furred animal dumps heat by panting, and it can only pant properly once it stops.",
+      "scene": "an old leather bellows on the surface, a small black cartoon figure standing still and squeezing it hard with both arms",
+      "image_text": "STOP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old leather bellows on the surface, a small black cartoon figure standing still and squeezing it hard with both arms. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STOP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "You dump heat by sweating, and sweat keeps working while you are still moving.",
+      "scene": "a clay jug beaded with condensation, a small black cartoon figure carrying it across the surface while it drips behind them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay jug beaded with condensation, a small black cartoon figure carrying it across the surface while it drips behind them. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Bare skin plus two million sweat glands is a cooling system nothing else out there had.",
+      "scene": "a fine watering can rose held high, a small black cartoon figure tipping a spread of droplets over a hot dark stone",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fine watering can rose held high, a small black cartoon figure tipping a spread of droplets over a hot dark stone. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "So early humans hunted by simply refusing to stop.",
+      "scene": "a long paper tape measure unrolled far off the edge of the surface, a small black cartoon figure still trudging out along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long paper tape measure unrolled far off the edge of the surface, a small black cartoon figure still trudging out along it. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "An antelope outruns you easily over one kilometre. Over thirty, it overheats and gives up.",
+      "scene": "a wind-up tin animal stalled halfway along a chalk line, a small black cartoon figure crouched beside it touching its hot back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wind-up tin animal stalled halfway along a chalk line, a small black cartoon figure crouched beside it touching its hot back. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "You are mediocre at almost every other physical measure. Strength, speed, climbing, biting.",
+      "scene": "a small iron weight and a knotted climbing rope, a small black cartoon figure straining at the weight and failing to lift it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small iron weight and a knotted climbing rope, a small black cartoon figure straining at the weight and failing to lift it. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "But you can outlast nearly anything alive. That is what the fur bought.",
+      "scene": "a huge ribbon of paper spooling off the surface edge, a small black cartoon figure steadily winding it in with both arms",
+      "image_text": "STAMINA",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a huge ribbon of paper spooling off the surface edge, a small black cartoon figure steadily winding it in with both arms. the scene belongs to cooling, endurance and the trade humans made for bare skin, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STAMINA\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Humans are the only naked primate, and the leading explanation is cooling. A furred animal sheds heat by panting, which works properly only once it stops running. Bare skin plus about two million sweat glands lets you cool while still moving. That made persistence hunting possible: an antelope beats you over a kilometre and overheats over thirty. We are mediocre at strength, speed and climbing, and outstanding at not stopping.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #evolution #humanbody #running #anthropology #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "audio_duration": 44.486438,
+  "segments": [
+    {
+      "text": "You",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "are",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "text": "the",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "only",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "primate",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "text": "walking",
+      "start": 1.2,
+      "end": 1.6
+    },
+    {
+      "text": "around",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "text": "basically",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "text": "naked",
+      "start": 2.32,
+      "end": 2.8
+    },
+    {
+      "text": "That",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "text": "was",
+      "start": 3.28,
+      "end": 3.36
+    },
+    {
+      "text": "an",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "upgrade",
+      "start": 3.52,
+      "end": 4.0
+    },
+    {
+      "text": "Every",
+      "start": 4.32,
+      "end": 4.56
+    },
+    {
+      "text": "other",
+      "start": 4.56,
+      "end": 4.8
+    },
+    {
+      "text": "primate",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "text": "carries",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "a",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "full",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "coat",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "text": "and",
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "text": "a",
+      "start": 6.56,
+      "end": 6.64
+    },
+    {
+      "text": "coat",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "is",
+      "start": 6.96,
+      "end": 7.12
+    },
+    {
+      "text": "very",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "good",
+      "start": 7.36,
+      "end": 7.6
+    },
+    {
+      "text": "at",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "text": "keeping",
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "text": "heat",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "text": "in",
+      "start": 8.24,
+      "end": 8.56
+    },
+    {
+      "text": "A",
+      "start": 8.96,
+      "end": 8.96
+    },
+    {
+      "text": "furred",
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "text": "animal",
+      "start": 9.28,
+      "end": 9.68
+    },
+    {
+      "text": "dumps",
+      "start": 9.68,
+      "end": 10.0
+    },
+    {
+      "text": "heat",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "text": "by",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "panting",
+      "start": 10.4,
+      "end": 10.96
+    },
+    {
+      "text": "and",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "text": "it",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "can",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "only",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "pant",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "text": "properly",
+      "start": 12.08,
+      "end": 12.48
+    },
+    {
+      "text": "once",
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "text": "it",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "stops",
+      "start": 12.96,
+      "end": 13.44
+    },
+    {
+      "text": "You",
+      "start": 13.88045351473923,
+      "end": 14.04045351473923
+    },
+    {
+      "text": "dump",
+      "start": 14.04045351473923,
+      "end": 14.36045351473923
+    },
+    {
+      "text": "heat",
+      "start": 14.36045351473923,
+      "end": 14.52045351473923
+    },
+    {
+      "text": "by",
+      "start": 14.52045351473923,
+      "end": 14.68045351473923
+    },
+    {
+      "text": "sweating",
+      "start": 14.68045351473923,
+      "end": 15.24045351473923
+    },
+    {
+      "text": "and",
+      "start": 15.48045351473923,
+      "end": 15.56045351473923
+    },
+    {
+      "text": "sweat",
+      "start": 15.56045351473923,
+      "end": 15.96045351473923
+    },
+    {
+      "text": "keeps",
+      "start": 15.96045351473923,
+      "end": 16.20045351473923
+    },
+    {
+      "text": "working",
+      "start": 16.20045351473923,
+      "end": 16.60045351473923
+    },
+    {
+      "text": "while",
+      "start": 16.60045351473923,
+      "end": 16.76045351473923
+    },
+    {
+      "text": "you",
+      "start": 16.76045351473923,
+      "end": 16.92045351473923
+    },
+    {
+      "text": "are",
+      "start": 16.92045351473923,
+      "end": 16.92045351473923
+    },
+    {
+      "text": "still",
+      "start": 16.92045351473923,
+      "end": 17.24045351473923
+    },
+    {
+      "text": "moving",
+      "start": 17.24045351473923,
+      "end": 17.72045351473923
+    },
+    {
+      "text": "Bare",
+      "start": 18.04045351473923,
+      "end": 18.36045351473923
+    },
+    {
+      "text": "skin",
+      "start": 18.36045351473923,
+      "end": 18.76045351473923
+    },
+    {
+      "text": "plus",
+      "start": 18.76045351473923,
+      "end": 19.00045351473923
+    },
+    {
+      "text": "two",
+      "start": 19.00045351473923,
+      "end": 19.320453514739228
+    },
+    {
+      "text": "million",
+      "start": 19.320453514739228,
+      "end": 19.640453514739228
+    },
+    {
+      "text": "sweat",
+      "start": 19.640453514739228,
+      "end": 19.96045351473923
+    },
+    {
+      "text": "glands",
+      "start": 19.96045351473923,
+      "end": 20.36045351473923
+    },
+    {
+      "text": "is",
+      "start": 20.36045351473923,
+      "end": 20.52045351473923
+    },
+    {
+      "text": "a",
+      "start": 20.52045351473923,
+      "end": 20.60045351473923
+    },
+    {
+      "text": "cooling",
+      "start": 20.60045351473923,
+      "end": 20.92045351473923
+    },
+    {
+      "text": "system",
+      "start": 20.92045351473923,
+      "end": 21.40045351473923
+    },
+    {
+      "text": "nothing",
+      "start": 21.40045351473923,
+      "end": 21.640453514739228
+    },
+    {
+      "text": "else",
+      "start": 21.640453514739228,
+      "end": 21.88045351473923
+    },
+    {
+      "text": "out",
+      "start": 21.96045351473923,
+      "end": 22.120453514739232
+    },
+    {
+      "text": "there",
+      "start": 22.120453514739232,
+      "end": 22.28045351473923
+    },
+    {
+      "text": "had",
+      "start": 22.28045351473923,
+      "end": 22.680453514739227
+    },
+    {
+      "text": "So",
+      "start": 22.92045351473923,
+      "end": 23.16045351473923
+    },
+    {
+      "text": "early",
+      "start": 23.16045351473923,
+      "end": 23.48045351473923
+    },
+    {
+      "text": "humans",
+      "start": 23.48045351473923,
+      "end": 23.80045351473923
+    },
+    {
+      "text": "hunted",
+      "start": 23.80045351473923,
+      "end": 24.20045351473923
+    },
+    {
+      "text": "by",
+      "start": 24.20045351473923,
+      "end": 24.36045351473923
+    },
+    {
+      "text": "simply",
+      "start": 24.36045351473923,
+      "end": 24.76045351473923
+    },
+    {
+      "text": "refusing",
+      "start": 24.76045351473923,
+      "end": 25.24045351473923
+    },
+    {
+      "text": "to",
+      "start": 25.24045351473923,
+      "end": 25.320453514739228
+    },
+    {
+      "text": "stop",
+      "start": 25.320453514739228,
+      "end": 25.72045351473923
+    },
+    {
+      "text": "An",
+      "start": 26.36045351473923,
+      "end": 26.440453514739232
+    },
+    {
+      "text": "antelope",
+      "start": 26.440453514739232,
+      "end": 26.92045351473923
+    },
+    {
+      "text": "outruns",
+      "start": 27.000453514739228,
+      "end": 27.48045351473923
+    },
+    {
+      "text": "you",
+      "start": 27.48045351473923,
+      "end": 27.56045351473923
+    },
+    {
+      "text": "easily",
+      "start": 27.56045351473923,
+      "end": 27.96045351473923
+    },
+    {
+      "text": "over",
+      "start": 27.96045351473923,
+      "end": 28.20045351473923
+    },
+    {
+      "text": "one",
+      "start": 28.20045351473923,
+      "end": 28.440453514739232
+    },
+    {
+      "text": "kilometre",
+      "start": 28.440453514739232,
+      "end": 29.000453514739228
+    },
+    {
+      "text": "Over",
+      "start": 29.384149659863947,
+      "end": 29.624149659863946
+    },
+    {
+      "text": "thirty",
+      "start": 29.624149659863946,
+      "end": 30.184149659863948
+    },
+    {
+      "text": "it",
+      "start": 30.344149659863948,
+      "end": 30.50414965986395
+    },
+    {
+      "text": "overheats",
+      "start": 30.50414965986395,
+      "end": 31.064149659863947
+    },
+    {
+      "text": "and",
+      "start": 31.064149659863947,
+      "end": 31.14414965986395
+    },
+    {
+      "text": "gives",
+      "start": 31.14414965986395,
+      "end": 31.384149659863947
+    },
+    {
+      "text": "up",
+      "start": 31.384149659863947,
+      "end": 31.624149659863946
+    },
+    {
+      "text": "You",
+      "start": 32.024149659863944,
+      "end": 32.18414965986395
+    },
+    {
+      "text": "are",
+      "start": 32.264149659863946,
+      "end": 32.264149659863946
+    },
+    {
+      "text": "mediocre",
+      "start": 32.264149659863946,
+      "end": 32.90414965986395
+    },
+    {
+      "text": "at",
+      "start": 32.90414965986395,
+      "end": 33.06414965986394
+    },
+    {
+      "text": "almost",
+      "start": 33.06414965986394,
+      "end": 33.46414965986395
+    },
+    {
+      "text": "every",
+      "start": 33.46414965986395,
+      "end": 33.78414965986395
+    },
+    {
+      "text": "other",
+      "start": 33.78414965986395,
+      "end": 33.944149659863946
+    },
+    {
+      "text": "physical",
+      "start": 33.944149659863946,
+      "end": 34.344149659863945
+    },
+    {
+      "text": "measure",
+      "start": 34.344149659863945,
+      "end": 34.82414965986395
+    },
+    {
+      "text": "Strength",
+      "start": 34.984149659863945,
+      "end": 35.46414965986395
+    },
+    {
+      "text": "speed",
+      "start": 35.624149659863946,
+      "end": 36.18414965986395
+    },
+    {
+      "text": "climbing",
+      "start": 36.264149659863946,
+      "end": 36.82414965986395
+    },
+    {
+      "text": "biting",
+      "start": 36.82414965986395,
+      "end": 37.304149659863945
+    },
+    {
+      "text": "But",
+      "start": 37.54414965986395,
+      "end": 37.704149659863944
+    },
+    {
+      "text": "you",
+      "start": 37.704149659863944,
+      "end": 37.78414965986395
+    },
+    {
+      "text": "can",
+      "start": 37.78414965986395,
+      "end": 37.86414965986395
+    },
+    {
+      "text": "outlast",
+      "start": 37.944149659863946,
+      "end": 38.50414965986395
+    },
+    {
+      "text": "nearly",
+      "start": 38.50414965986395,
+      "end": 38.82414965986395
+    },
+    {
+      "text": "anything",
+      "start": 38.82414965986395,
+      "end": 39.22414965986395
+    },
+    {
+      "text": "alive",
+      "start": 39.22414965986395,
+      "end": 39.624149659863946
+    },
+    {
+      "text": "That",
+      "start": 39.944149659863946,
+      "end": 40.18414965986395
+    },
+    {
+      "text": "is",
+      "start": 40.18414965986395,
+      "end": 40.264149659863946
+    },
+    {
+      "text": "what",
+      "start": 40.264149659863946,
+      "end": 40.42414965986394
+    },
+    {
+      "text": "the",
+      "start": 40.42414965986394,
+      "end": 40.50414965986395
+    },
+    {
+      "text": "fur",
+      "start": 40.50414965986395,
+      "end": 40.74414965986395
+    },
+    {
+      "text": "bought",
+      "start": 40.74414965986395,
+      "end": 41.06414965986394
+    },
+    {
+      "text": "One",
+      "start": 41.22414965986395,
+      "end": 41.38414965986395
+    },
+    {
+      "text": "of",
+      "start": 41.38414965986395,
+      "end": 41.54414965986395
+    },
+    {
+      "text": "these",
+      "start": 41.54414965986395,
+      "end": 41.78414965986395
+    },
+    {
+      "text": "every",
+      "start": 41.78414965986395,
+      "end": 42.02414965986395
+    },
+    {
+      "text": "day",
+      "start": 42.02414965986395,
+      "end": 42.344149659863945
+    },
+    {
+      "text": "Follow",
+      "start": 42.664149659863945,
+      "end": 42.90414965986395
+    },
+    {
+      "text": "so",
+      "start": 42.90414965986395,
+      "end": 43.06414965986394
+    },
+    {
+      "text": "you",
+      "start": 43.06414965986394,
+      "end": 43.22414965986395
+    },
+    {
+      "text": "do",
+      "start": 43.22414965986395,
+      "end": 43.304149659863945
+    },
+    {
+      "text": "not",
+      "start": 43.304149659863945,
+      "end": 43.54414965986395
+    },
+    {
+      "text": "miss",
+      "start": 43.54414965986395,
+      "end": 43.78414965986395
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.78414965986395,
+      "end": 44.264149659863946
+    }
+  ],
+  "text": "You are the only primate walking around basically naked. That was an upgrade. Every other primate carries a full coat, and a coat is very good at keeping heat in. A furred animal dumps heat by panting, and it can only pant properly once it stops. You dump heat by sweating, and sweat keeps working while you are still moving. Bare skin plus two million sweat glands is a cooling system nothing else out there had. So early humans hunted by simply refusing to stop. An antelope outruns you easily over one kilometre. Over thirty, it overheats and gives up. You are mediocre at almost every other physical measure. Strength, speed, climbing, biting. But you can outlast nearly anything alive. That is what the fur bought. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

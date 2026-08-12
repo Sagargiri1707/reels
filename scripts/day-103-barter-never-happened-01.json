@@ -1,0 +1,109 @@
+{
+  "topic": "Barter probably never happened",
+  "lesson": "No society has been found that ran on barter before money; what the evidence shows is credit and obligation, which means money came out of debt records rather than out of swapping goods.",
+  "slug": "day-103-barter-never-happened-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The story where money replaced bartering is in every textbook. Anthropologists have never found it.",
+      "scene": "a propped open textbook, a small black cartoon figure shoving it shut with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a propped open textbook, a small black cartoon figure shoving it shut with their whole body. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You know the story. You have eggs, I have shoes, neither of us wants the other thing.",
+      "scene": "a leather shoe beside a basket of eggs, a small black cartoon figure dragging the shoe across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a leather shoe beside a basket of eggs, a small black cartoon figure dragging the shoe across. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It is a tidy explanation, and no society has ever been found that actually worked that way.",
+      "scene": "a chalk diagram with a cross drawn through it, a small black cartoon figure dragging the chalk",
+      "image_text": "NOT FOUND",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk diagram with a cross drawn through it, a small black cartoon figure dragging the chalk. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT FOUND\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "What turns up instead is credit. You take what you need and it gets remembered.",
+      "scene": "a wooden tally stick, a small black cartoon figure cutting another notch into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden tally stick, a small black cartoon figure cutting another notch into it. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Inside a village everyone already knows who owes whom. Nobody needs coins for that.",
+      "scene": "a ring of small wooden houses, a small black cartoon figure walking the gap between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ring of small wooden houses, a small black cartoon figure walking the gap between them. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Barter does show up, but between strangers, or when a currency has already collapsed.",
+      "scene": "a coin held out on a card at a doorway, a small black cartoon figure pushing it forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin held out on a card at a doorway, a small black cartoon figure pushing it forward. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Which is the opposite of the story. Barter comes after money, not before it.",
+      "scene": "two chalk arrows pointing opposite ways, a small black cartoon figure turning one round",
+      "image_text": "AFTER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two chalk arrows pointing opposite ways, a small black cartoon figure turning one round. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"AFTER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "The better explanation is that money grew out of debt records and taxes.",
+      "scene": "a heavy ledger, a small black cartoon figure hauling the cover open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy ledger, a small black cartoon figure hauling the cover open. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which is exactly what those first clay tablets are. Who owed what to whom.",
+      "scene": "a clay tablet, a small black cartoon figure pressing a mark into its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay tablet, a small black cartoon figure pressing a mark into its face. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Money did not replace swapping goats. It came out of a bookkeeping problem.",
+      "scene": "a coin sitting on a closed ledger, a small black cartoon figure lifting the coin off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin sitting on a closed ledger, a small black cartoon figure lifting the coin off. the scene belongs to obligations being remembered rather than settled on the spot, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The barter-then-money story appears in every economics textbook and anthropologists have never found a society that worked that way. What the evidence shows instead is credit and obligation inside communities: you take what you need and it is remembered. Barter does appear, but between strangers or after a currency collapses, which is the opposite order. Money most likely emerged from debt tracking and taxation, which links straight back to those first clay receipts.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #money #economics #anthropology #history #science",
+    "thumbnail_beat": "03"
+  }
+}

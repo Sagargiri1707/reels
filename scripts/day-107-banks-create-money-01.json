@@ -1,0 +1,109 @@
+{
+  "topic": "Banks create money by lending it",
+  "lesson": "A bank loan does not move existing money, it creates a new deposit, which is why most money in circulation exists only as records and why bank runs are possible.",
+  "slug": "day-107-banks-create-money-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "When a bank gives you a loan, it does not move money out of a vault. It types a number into your account.",
+      "scene": "a single keyboard key, a small black cartoon figure jumping down onto it with both feet",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single keyboard key, a small black cartoon figure jumping down onto it with both feet. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You picture a bank as a box that holds other people's money and lends some of it out.",
+      "scene": "a heavy strongbox, a small black cartoon figure heaving its lid open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy strongbox, a small black cartoon figure heaving its lid open. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It does hold deposits. But lending is not moving them anywhere.",
+      "scene": "a stack of sealed envelopes, a small black cartoon figure straightening the pile",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of sealed envelopes, a small black cartoon figure straightening the pile. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The loan creates a new deposit that did not exist a second earlier.",
+      "scene": "an empty glass jar, a small black cartoon figure dropping a single bead into it",
+      "image_text": "NEW",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty glass jar, a small black cartoon figure dropping a single bead into it. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NEW\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Which means most money in circulation was created by somebody borrowing.",
+      "scene": "a chain of paper links, a small black cartoon figure hooking another link on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chain of paper links, a small black cartoon figure hooking another link on. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "You spend it, the shop deposits it, and that bank can lend against it again.",
+      "scene": "a coin pushed into one slot and out of another, a small black cartoon figure shoving it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin pushed into one slot and out of another, a small black cartoon figure shoving it in. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Round and round, and the total money supply climbs each time it goes round.",
+      "scene": "a growing tower of counters, a small black cartoon figure setting the top one in place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a growing tower of counters, a small black cartoon figure setting the top one in place. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which is also why bank runs happen. If everyone withdraws at once, the cash genuinely is not there.",
+      "scene": "a crowd of paper tickets at a small hatch, a small black cartoon figure holding the hatch shut",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crowd of paper tickets at a small hatch, a small black cartoon figure holding the hatch shut. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It was never there. It is a record, in a system that assumes not everybody asks at once.",
+      "scene": "a drawer pulled fully out and empty, a small black cartoon figure standing inside it",
+      "image_text": "NEVER THERE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drawer pulled fully out and empty, a small black cartoon figure standing inside it. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NEVER THERE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Most money is not printed. It is typed, by somebody agreeing to pay it back.",
+      "scene": "a pen resting on a signed slip, a small black cartoon figure lifting the pen with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pen resting on a signed slip, a small black cartoon figure lifting the pen with both arms. the scene belongs to a total that grows every time it is written down rather than moved, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A bank loan does not transfer money out of a vault. It creates a new deposit that did not exist a moment earlier, and that deposit gets spent, redeposited and lent against again. Which is why most money in circulation exists only as bank records, and why bank runs are possible at all: if everyone withdraws at once the cash genuinely is not there, and never was. That is exactly what deposit insurance exists to cover.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #banking #money #economics #finance #science",
+    "thumbnail_beat": "01"
+  }
+}

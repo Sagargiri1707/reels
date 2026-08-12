@@ -1,0 +1,798 @@
+{
+  "audio_duration": 47.203188,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "tea",
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "text": "stall",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "text": "and",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "text": "a",
+      "start": 0.8,
+      "end": 0.8
+    },
+    {
+      "text": "luxury",
+      "start": 0.8,
+      "end": 1.28
+    },
+    {
+      "text": "showroom",
+      "start": 1.28,
+      "end": 1.84
+    },
+    {
+      "text": "now",
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "text": "take",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "text": "payment",
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "text": "the",
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "text": "same",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "text": "way",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "and",
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "text": "neither",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "text": "one",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "text": "touches",
+      "start": 4.24,
+      "end": 4.56
+    },
+    {
+      "text": "cash",
+      "start": 4.56,
+      "end": 5.12
+    },
+    {
+      "text": "For",
+      "start": 5.44,
+      "end": 5.6
+    },
+    {
+      "text": "almost",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "all",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "text": "of",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "text": "history",
+      "start": 6.24,
+      "end": 6.8
+    },
+    {
+      "text": "paying",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "meant",
+      "start": 7.36,
+      "end": 7.6
+    },
+    {
+      "text": "physically",
+      "start": 7.6,
+      "end": 8.08
+    },
+    {
+      "text": "handing",
+      "start": 8.08,
+      "end": 8.48
+    },
+    {
+      "text": "something",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "over",
+      "start": 8.8,
+      "end": 9.2
+    },
+    {
+      "text": "Then",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "cards",
+      "start": 9.92,
+      "end": 10.4
+    },
+    {
+      "text": "which",
+      "start": 10.56,
+      "end": 10.72
+    },
+    {
+      "text": "were",
+      "start": 10.72,
+      "end": 10.8
+    },
+    {
+      "text": "faster",
+      "start": 10.8,
+      "end": 11.36
+    },
+    {
+      "text": "but",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "needed",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "a",
+      "start": 11.76,
+      "end": 11.76
+    },
+    {
+      "text": "machine",
+      "start": 11.76,
+      "end": 12.32
+    },
+    {
+      "text": "a",
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "text": "fee",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "text": "and",
+      "start": 13.04,
+      "end": 13.2
+    },
+    {
+      "text": "a",
+      "start": 13.2,
+      "end": 13.2
+    },
+    {
+      "text": "bank",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "on",
+      "start": 13.52,
+      "end": 13.68
+    },
+    {
+      "text": "each",
+      "start": 13.68,
+      "end": 13.92
+    },
+    {
+      "text": "side",
+      "start": 13.92,
+      "end": 14.32
+    },
+    {
+      "text": "Plenty",
+      "start": 14.76281179138322,
+      "end": 15.08281179138322
+    },
+    {
+      "text": "of",
+      "start": 15.08281179138322,
+      "end": 15.16281179138322
+    },
+    {
+      "text": "the",
+      "start": 15.16281179138322,
+      "end": 15.24281179138322
+    },
+    {
+      "text": "world",
+      "start": 15.24281179138322,
+      "end": 15.562811791383218
+    },
+    {
+      "text": "skipped",
+      "start": 15.562811791383218,
+      "end": 15.882811791383219
+    },
+    {
+      "text": "that",
+      "start": 15.882811791383219,
+      "end": 16.04281179138322
+    },
+    {
+      "text": "step",
+      "start": 16.04281179138322,
+      "end": 16.36281179138322
+    },
+    {
+      "text": "entirely",
+      "start": 16.36281179138322,
+      "end": 16.922811791383218
+    },
+    {
+      "text": "India",
+      "start": 17.32281179138322,
+      "end": 17.64281179138322
+    },
+    {
+      "text": "went",
+      "start": 17.64281179138322,
+      "end": 17.88281179138322
+    },
+    {
+      "text": "from",
+      "start": 17.88281179138322,
+      "end": 18.04281179138322
+    },
+    {
+      "text": "cash",
+      "start": 18.04281179138322,
+      "end": 18.44281179138322
+    },
+    {
+      "text": "straight",
+      "start": 18.44281179138322,
+      "end": 18.922811791383218
+    },
+    {
+      "text": "to",
+      "start": 18.922811791383218,
+      "end": 18.922811791383218
+    },
+    {
+      "text": "instant",
+      "start": 18.922811791383218,
+      "end": 19.32281179138322
+    },
+    {
+      "text": "transfer",
+      "start": 19.32281179138322,
+      "end": 19.88281179138322
+    },
+    {
+      "text": "with",
+      "start": 20.12281179138322,
+      "end": 20.282811791383217
+    },
+    {
+      "text": "a",
+      "start": 20.282811791383217,
+      "end": 20.282811791383217
+    },
+    {
+      "text": "printed",
+      "start": 20.282811791383217,
+      "end": 20.68281179138322
+    },
+    {
+      "text": "square",
+      "start": 20.68281179138322,
+      "end": 21.082811791383218
+    },
+    {
+      "text": "as",
+      "start": 21.082811791383218,
+      "end": 21.242811791383218
+    },
+    {
+      "text": "the",
+      "start": 21.242811791383218,
+      "end": 21.32281179138322
+    },
+    {
+      "text": "whole",
+      "start": 21.32281179138322,
+      "end": 21.48281179138322
+    },
+    {
+      "text": "terminal",
+      "start": 21.48281179138322,
+      "end": 22.04281179138322
+    },
+    {
+      "text": "Billions",
+      "start": 22.36281179138322,
+      "end": 22.84281179138322
+    },
+    {
+      "text": "of",
+      "start": 22.84281179138322,
+      "end": 22.922811791383218
+    },
+    {
+      "text": "transfers",
+      "start": 22.922811791383218,
+      "end": 23.402811791383222
+    },
+    {
+      "text": "a",
+      "start": 23.402811791383222,
+      "end": 23.48281179138322
+    },
+    {
+      "text": "month",
+      "start": 23.48281179138322,
+      "end": 23.80281179138322
+    },
+    {
+      "text": "most",
+      "start": 24.12281179138322,
+      "end": 24.44281179138322
+    },
+    {
+      "text": "of",
+      "start": 24.44281179138322,
+      "end": 24.52281179138322
+    },
+    {
+      "text": "them",
+      "start": 24.52281179138322,
+      "end": 24.68281179138322
+    },
+    {
+      "text": "too",
+      "start": 24.68281179138322,
+      "end": 24.84281179138322
+    },
+    {
+      "text": "small",
+      "start": 24.84281179138322,
+      "end": 25.242811791383218
+    },
+    {
+      "text": "for",
+      "start": 25.242811791383218,
+      "end": 25.402811791383222
+    },
+    {
+      "text": "a",
+      "start": 25.402811791383222,
+      "end": 25.402811791383222
+    },
+    {
+      "text": "card",
+      "start": 25.402811791383222,
+      "end": 25.80281179138322
+    },
+    {
+      "text": "fee",
+      "start": 25.80281179138322,
+      "end": 25.962811791383217
+    },
+    {
+      "text": "to",
+      "start": 25.962811791383217,
+      "end": 26.04281179138322
+    },
+    {
+      "text": "survive",
+      "start": 26.04281179138322,
+      "end": 26.602811791383218
+    },
+    {
+      "text": "That",
+      "start": 26.922811791383218,
+      "end": 27.16281179138322
+    },
+    {
+      "text": "is",
+      "start": 27.16281179138322,
+      "end": 27.242811791383218
+    },
+    {
+      "text": "the",
+      "start": 27.242811791383218,
+      "end": 27.32281179138322
+    },
+    {
+      "text": "real",
+      "start": 27.32281179138322,
+      "end": 27.56281179138322
+    },
+    {
+      "text": "change",
+      "start": 27.56281179138322,
+      "end": 28.12281179138322
+    },
+    {
+      "text": "When",
+      "start": 28.528276643990928,
+      "end": 28.608276643990926
+    },
+    {
+      "text": "a",
+      "start": 28.608276643990926,
+      "end": 28.68827664399093
+    },
+    {
+      "text": "payment",
+      "start": 28.68827664399093,
+      "end": 29.088276643990927
+    },
+    {
+      "text": "costs",
+      "start": 29.088276643990927,
+      "end": 29.408276643990927
+    },
+    {
+      "text": "almost",
+      "start": 29.408276643990927,
+      "end": 29.728276643990927
+    },
+    {
+      "text": "nothing",
+      "start": 29.728276643990927,
+      "end": 30.208276643990928
+    },
+    {
+      "text": "tiny",
+      "start": 30.368276643990928,
+      "end": 30.68827664399093
+    },
+    {
+      "text": "payments",
+      "start": 30.68827664399093,
+      "end": 31.088276643990927
+    },
+    {
+      "text": "become",
+      "start": 31.088276643990927,
+      "end": 31.408276643990927
+    },
+    {
+      "text": "possible",
+      "start": 31.408276643990927,
+      "end": 31.968276643990926
+    },
+    {
+      "text": "A",
+      "start": 32.20827664399093,
+      "end": 32.288276643990926
+    },
+    {
+      "text": "five",
+      "start": 32.288276643990926,
+      "end": 32.68827664399093
+    },
+    {
+      "text": "rupee",
+      "start": 32.68827664399093,
+      "end": 32.92827664399093
+    },
+    {
+      "text": "transfer",
+      "start": 32.92827664399093,
+      "end": 33.328276643990925
+    },
+    {
+      "text": "is",
+      "start": 33.328276643990925,
+      "end": 33.48827664399093
+    },
+    {
+      "text": "not",
+      "start": 33.48827664399093,
+      "end": 33.80827664399093
+    },
+    {
+      "text": "worth",
+      "start": 33.80827664399093,
+      "end": 33.968276643990926
+    },
+    {
+      "text": "a",
+      "start": 33.968276643990926,
+      "end": 34.04827664399093
+    },
+    {
+      "text": "card",
+      "start": 34.04827664399093,
+      "end": 34.44827664399093
+    },
+    {
+      "text": "It",
+      "start": 34.608276643990926,
+      "end": 34.76827664399093
+    },
+    {
+      "text": "is",
+      "start": 34.76827664399093,
+      "end": 34.84827664399093
+    },
+    {
+      "text": "worth",
+      "start": 34.84827664399093,
+      "end": 35.08827664399093
+    },
+    {
+      "text": "a",
+      "start": 35.08827664399093,
+      "end": 35.16827664399093
+    },
+    {
+      "text": "scan",
+      "start": 35.16827664399093,
+      "end": 35.648276643990926
+    },
+    {
+      "text": "The",
+      "start": 36.04827664399093,
+      "end": 36.12827664399093
+    },
+    {
+      "text": "trade",
+      "start": 36.12827664399093,
+      "end": 36.44827664399093
+    },
+    {
+      "text": "is",
+      "start": 36.44827664399093,
+      "end": 36.608276643990926
+    },
+    {
+      "text": "that",
+      "start": 36.608276643990926,
+      "end": 36.68827664399093
+    },
+    {
+      "text": "every",
+      "start": 36.76827664399093,
+      "end": 37.008276643990925
+    },
+    {
+      "text": "one",
+      "start": 37.008276643990925,
+      "end": 37.16827664399093
+    },
+    {
+      "text": "is",
+      "start": 37.16827664399093,
+      "end": 37.328276643990925
+    },
+    {
+      "text": "recorded",
+      "start": 37.328276643990925,
+      "end": 37.80827664399093
+    },
+    {
+      "text": "and",
+      "start": 38.04827664399093,
+      "end": 38.20827664399093
+    },
+    {
+      "text": "none",
+      "start": 38.20827664399093,
+      "end": 38.368276643990924
+    },
+    {
+      "text": "of",
+      "start": 38.368276643990924,
+      "end": 38.44827664399093
+    },
+    {
+      "text": "them",
+      "start": 38.44827664399093,
+      "end": 38.68827664399093
+    },
+    {
+      "text": "work",
+      "start": 38.68827664399093,
+      "end": 38.92827664399093
+    },
+    {
+      "text": "when",
+      "start": 38.92827664399093,
+      "end": 39.008276643990925
+    },
+    {
+      "text": "the",
+      "start": 39.008276643990925,
+      "end": 39.08827664399093
+    },
+    {
+      "text": "network",
+      "start": 39.08827664399093,
+      "end": 39.48827664399093
+    },
+    {
+      "text": "is",
+      "start": 39.48827664399093,
+      "end": 39.56827664399093
+    },
+    {
+      "text": "down",
+      "start": 39.56827664399093,
+      "end": 39.968276643990926
+    },
+    {
+      "text": "Money",
+      "start": 40.20827664399093,
+      "end": 40.52827664399093
+    },
+    {
+      "text": "stopped",
+      "start": 40.52827664399093,
+      "end": 40.84827664399093
+    },
+    {
+      "text": "being",
+      "start": 40.84827664399093,
+      "end": 41.08827664399093
+    },
+    {
+      "text": "a",
+      "start": 41.08827664399093,
+      "end": 41.16827664399093
+    },
+    {
+      "text": "thing",
+      "start": 41.16827664399093,
+      "end": 41.40827664399093
+    },
+    {
+      "text": "you",
+      "start": 41.40827664399093,
+      "end": 41.48827664399093
+    },
+    {
+      "text": "carry",
+      "start": 41.48827664399093,
+      "end": 41.88827664399093
+    },
+    {
+      "text": "It",
+      "start": 42.12827664399093,
+      "end": 42.20827664399093
+    },
+    {
+      "text": "became",
+      "start": 42.20827664399093,
+      "end": 42.52827664399093
+    },
+    {
+      "text": "a",
+      "start": 42.52827664399093,
+      "end": 42.52827664399093
+    },
+    {
+      "text": "message",
+      "start": 42.52827664399093,
+      "end": 43.008276643990925
+    },
+    {
+      "text": "you",
+      "start": 43.008276643990925,
+      "end": 43.08827664399093
+    },
+    {
+      "text": "send",
+      "start": 43.08827664399093,
+      "end": 43.48827664399093
+    },
+    {
+      "text": "One",
+      "start": 43.95224489795918,
+      "end": 44.11224489795918
+    },
+    {
+      "text": "of",
+      "start": 44.11224489795918,
+      "end": 44.19224489795918
+    },
+    {
+      "text": "these",
+      "start": 44.19224489795918,
+      "end": 44.43224489795918
+    },
+    {
+      "text": "every",
+      "start": 44.43224489795918,
+      "end": 44.75224489795918
+    },
+    {
+      "text": "day",
+      "start": 44.75224489795918,
+      "end": 45.07224489795918
+    },
+    {
+      "text": "Follow",
+      "start": 45.31224489795918,
+      "end": 45.63224489795918
+    },
+    {
+      "text": "so",
+      "start": 45.63224489795918,
+      "end": 45.79224489795918
+    },
+    {
+      "text": "you",
+      "start": 45.79224489795918,
+      "end": 45.95224489795918
+    },
+    {
+      "text": "do",
+      "start": 45.95224489795918,
+      "end": 46.03224489795918
+    },
+    {
+      "text": "not",
+      "start": 46.03224489795918,
+      "end": 46.27224489795918
+    },
+    {
+      "text": "miss",
+      "start": 46.27224489795918,
+      "end": 46.43224489795918
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.43224489795918,
+      "end": 46.99224489795918
+    }
+  ],
+  "text": "A tea stall and a luxury showroom now take payment the same way, and neither one touches cash. For almost all of history, paying meant physically handing something over. Then cards, which were faster but needed a machine, a fee, and a bank on each side. Plenty of the world skipped that step entirely. India went from cash straight to instant transfer, with a printed square as the whole terminal. Billions of transfers a month, most of them too small for a card fee to survive. That is the real change. When a payment costs almost nothing, tiny payments become possible. A five rupee transfer is not worth a card. It is worth a scan. The trade is that every one is recorded, and none of them work when the network is down. Money stopped being a thing you carry. It became a message you send. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,108 @@
+{
+  "topic": "This paper is valuable because we agree it is",
+  "lesson": "A banknote's value rests on trust in the issuer plus legal tender status and nothing else, which is why hyperinflation changes the agreement rather than the paper.",
+  "slug": "day-104-paper-worth-nothing-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A banknote costs a few rupees to print. It is worth what is printed on it because everyone acts like it is.",
+      "scene": "a printing plate over a blank paper strip, a small black cartoon figure pressing the plate down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a printing plate over a blank paper strip, a small black cartoon figure pressing the plate down. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Money used to be the thing itself. Salt, cattle, metal with real value inside it.",
+      "scene": "a block of salt on a balance pan, a small black cartoon figure loading it on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a block of salt on a balance pan, a small black cartoon figure loading it on. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Then paper that promised the metal. Hand the paper in and you get the gold.",
+      "scene": "a paper slip beside a metal bar, a small black cartoon figure carrying the slip away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper slip beside a metal bar, a small black cartoon figure carrying the slip away. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Then the promise quietly went away, and the paper stayed exactly where it was.",
+      "scene": "an empty vault shelf, a small black cartoon figure sweeping along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty vault shelf, a small black cartoon figure sweeping along it. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So what is holding it up now?",
+      "scene": "a card standing upright with nothing behind it, a small black cartoon figure propping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card standing upright with nothing behind it, a small black cartoon figure propping it. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Two things. Trust in whoever issued it, and a law saying debts can be settled with it.",
+      "scene": "a plank held up by two props, a small black cartoon figure wedging the second prop in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plank held up by two props, a small black cartoon figure wedging the second prop in. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "That is it. There is nothing else under there at all.",
+      "scene": "a plank with nothing underneath, a small black cartoon figure crawling into the space",
+      "image_text": "NOTHING ELSE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plank with nothing underneath, a small black cartoon figure crawling into the space. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOTHING ELSE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which is not a scandal. A shared agreement is a real thing for as long as it is shared.",
+      "scene": "a rope held taut by many small pegs, a small black cartoon figure driving in one more",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope held taut by many small pegs, a small black cartoon figure driving in one more. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Hyperinflation is what happens when it stops being shared. The paper does not change at all.",
+      "scene": "a wheelbarrow heaped with paper strips, a small black cartoon figure shoving it along",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wheelbarrow heaped with paper strips, a small black cartoon figure shoving it along. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The note in your pocket is a collective agreement that you carry around.",
+      "scene": "a folded paper note, a small black cartoon figure hauling it along on their back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded paper note, a small black cartoon figure hauling it along on their back. the scene belongs to something standing up because everyone keeps holding it up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A banknote costs a few rupees to produce and is worth its face value because everyone behaves as though it is. Money went from being the commodity itself, to paper promising the commodity, to paper alone once the promise was dropped. What holds it up now is trust in the issuing institution plus legal tender status, and nothing else. Hyperinflation is the agreement breaking, not the paper changing.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #money #economics #inflation #finance #science",
+    "thumbnail_beat": "07"
+  }
+}

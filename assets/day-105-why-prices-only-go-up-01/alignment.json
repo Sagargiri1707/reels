@@ -1,0 +1,688 @@
+{
+  "audio_duration": 43.728875,
+  "segments": [
+    {
+      "text": "Ask",
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "text": "what",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "text": "a",
+      "start": 0.4,
+      "end": 0.48
+    },
+    {
+      "text": "cup",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "of",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "text": "tea",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "text": "cost",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "text": "when",
+      "start": 1.28,
+      "end": 1.44
+    },
+    {
+      "text": "your",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "parents",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "were",
+      "start": 1.92,
+      "end": 2.0
+    },
+    {
+      "text": "your",
+      "start": 2.0,
+      "end": 2.24
+    },
+    {
+      "text": "age",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "Prices",
+      "start": 2.96,
+      "end": 3.36
+    },
+    {
+      "text": "rising",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "text": "feels",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "text": "like",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "text": "somebody's",
+      "start": 4.16,
+      "end": 4.64
+    },
+    {
+      "text": "fault",
+      "start": 4.64,
+      "end": 5.04
+    },
+    {
+      "text": "Mostly",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "text": "it",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "is",
+      "start": 5.92,
+      "end": 6.0
+    },
+    {
+      "text": "the",
+      "start": 6.0,
+      "end": 6.08
+    },
+    {
+      "text": "design",
+      "start": 6.08,
+      "end": 6.64
+    },
+    {
+      "text": "More",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "money",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "chasing",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "text": "the",
+      "start": 7.76,
+      "end": 7.84
+    },
+    {
+      "text": "same",
+      "start": 7.84,
+      "end": 8.16
+    },
+    {
+      "text": "goods",
+      "start": 8.16,
+      "end": 8.56
+    },
+    {
+      "text": "and",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "each",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "text": "unit",
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "text": "buys",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "text": "a",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "little",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "less",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "text": "than",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "it",
+      "start": 10.48,
+      "end": 10.64
+    },
+    {
+      "text": "did",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "Costs",
+      "start": 11.2,
+      "end": 11.6
+    },
+    {
+      "text": "rise",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "text": "demand",
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "text": "rises",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "text": "and",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "both",
+      "start": 13.44,
+      "end": 13.76
+    },
+    {
+      "text": "push",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "in",
+      "start": 13.92,
+      "end": 14.08
+    },
+    {
+      "text": "the",
+      "start": 14.08,
+      "end": 14.08
+    },
+    {
+      "text": "same",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "direction",
+      "start": 14.4,
+      "end": 14.96
+    },
+    {
+      "text": "So",
+      "start": 15.379410430839002,
+      "end": 15.539410430839002
+    },
+    {
+      "text": "why",
+      "start": 15.539410430839002,
+      "end": 15.779410430839002
+    },
+    {
+      "text": "not",
+      "start": 15.779410430839002,
+      "end": 16.019410430839002
+    },
+    {
+      "text": "aim",
+      "start": 16.019410430839002,
+      "end": 16.259410430839
+    },
+    {
+      "text": "for",
+      "start": 16.259410430839,
+      "end": 16.339410430839003
+    },
+    {
+      "text": "zero",
+      "start": 16.339410430839003,
+      "end": 16.819410430839003
+    },
+    {
+      "text": "instead",
+      "start": 16.819410430839003,
+      "end": 17.379410430839002
+    },
+    {
+      "text": "Because",
+      "start": 17.619410430839,
+      "end": 17.859410430839002
+    },
+    {
+      "text": "the",
+      "start": 17.859410430839002,
+      "end": 18.019410430839002
+    },
+    {
+      "text": "other",
+      "start": 18.019410430839002,
+      "end": 18.179410430839003
+    },
+    {
+      "text": "side",
+      "start": 18.179410430839003,
+      "end": 18.499410430839003
+    },
+    {
+      "text": "of",
+      "start": 18.499410430839003,
+      "end": 18.579410430839
+    },
+    {
+      "text": "zero",
+      "start": 18.579410430839,
+      "end": 18.979410430839003
+    },
+    {
+      "text": "is",
+      "start": 18.979410430839003,
+      "end": 19.139410430839
+    },
+    {
+      "text": "much",
+      "start": 19.139410430839,
+      "end": 19.459410430839
+    },
+    {
+      "text": "worse",
+      "start": 19.459410430839,
+      "end": 19.939410430839
+    },
+    {
+      "text": "If",
+      "start": 20.179410430839003,
+      "end": 20.339410430839003
+    },
+    {
+      "text": "prices",
+      "start": 20.339410430839003,
+      "end": 20.739410430839
+    },
+    {
+      "text": "fall",
+      "start": 20.739410430839,
+      "end": 21.139410430839
+    },
+    {
+      "text": "everyone",
+      "start": 21.379410430839002,
+      "end": 21.779410430839
+    },
+    {
+      "text": "waits",
+      "start": 21.779410430839,
+      "end": 22.099410430839
+    },
+    {
+      "text": "to",
+      "start": 22.179410430839003,
+      "end": 22.179410430839003
+    },
+    {
+      "text": "buy",
+      "start": 22.179410430839003,
+      "end": 22.579410430839
+    },
+    {
+      "text": "Waiting",
+      "start": 22.819410430839,
+      "end": 23.139410430839
+    },
+    {
+      "text": "means",
+      "start": 23.139410430839,
+      "end": 23.379410430839002
+    },
+    {
+      "text": "less",
+      "start": 23.379410430839002,
+      "end": 23.619410430839004
+    },
+    {
+      "text": "selling",
+      "start": 23.619410430839004,
+      "end": 24.179410430839
+    },
+    {
+      "text": "which",
+      "start": 24.339410430839003,
+      "end": 24.579410430839
+    },
+    {
+      "text": "means",
+      "start": 24.579410430839,
+      "end": 24.819410430839
+    },
+    {
+      "text": "fewer",
+      "start": 24.819410430839,
+      "end": 25.139410430839
+    },
+    {
+      "text": "jobs",
+      "start": 25.139410430839,
+      "end": 25.619410430839004
+    },
+    {
+      "text": "So",
+      "start": 25.859410430839002,
+      "end": 26.019410430839002
+    },
+    {
+      "text": "central",
+      "start": 26.019410430839002,
+      "end": 26.419410430839
+    },
+    {
+      "text": "banks",
+      "start": 26.419410430839,
+      "end": 26.739410430839
+    },
+    {
+      "text": "aim",
+      "start": 26.739410430839,
+      "end": 26.979410430839003
+    },
+    {
+      "text": "for",
+      "start": 26.979410430839003,
+      "end": 27.139410430839
+    },
+    {
+      "text": "a",
+      "start": 27.139410430839,
+      "end": 27.139410430839
+    },
+    {
+      "text": "low",
+      "start": 27.139410430839,
+      "end": 27.459410430839
+    },
+    {
+      "text": "steady",
+      "start": 27.459410430839,
+      "end": 27.779410430839
+    },
+    {
+      "text": "rise",
+      "start": 27.779410430839,
+      "end": 28.099410430839
+    },
+    {
+      "text": "instead",
+      "start": 28.099410430839,
+      "end": 28.659410430839003
+    },
+    {
+      "text": "Uncomfortable",
+      "start": 28.899410430839,
+      "end": 29.699410430839002
+    },
+    {
+      "text": "but",
+      "start": 29.859410430839002,
+      "end": 30.019410430839002
+    },
+    {
+      "text": "stable",
+      "start": 30.019410430839002,
+      "end": 30.579410430839
+    },
+    {
+      "text": "Which",
+      "start": 30.90378684807256,
+      "end": 31.06378684807256
+    },
+    {
+      "text": "means",
+      "start": 31.06378684807256,
+      "end": 31.30378684807256
+    },
+    {
+      "text": "cash",
+      "start": 31.30378684807256,
+      "end": 31.70378684807256
+    },
+    {
+      "text": "sitting",
+      "start": 31.70378684807256,
+      "end": 32.02378684807256
+    },
+    {
+      "text": "still",
+      "start": 32.02378684807256,
+      "end": 32.34378684807256
+    },
+    {
+      "text": "loses",
+      "start": 32.34378684807256,
+      "end": 32.74378684807256
+    },
+    {
+      "text": "value",
+      "start": 32.74378684807256,
+      "end": 33.14378684807256
+    },
+    {
+      "text": "every",
+      "start": 33.14378684807256,
+      "end": 33.46378684807256
+    },
+    {
+      "text": "year",
+      "start": 33.46378684807256,
+      "end": 33.78378684807256
+    },
+    {
+      "text": "on",
+      "start": 33.94378684807256,
+      "end": 34.18378684807256
+    },
+    {
+      "text": "purpose",
+      "start": 34.18378684807256,
+      "end": 34.66378684807256
+    },
+    {
+      "text": "by",
+      "start": 34.82378684807256,
+      "end": 34.98378684807256
+    },
+    {
+      "text": "design",
+      "start": 34.98378684807256,
+      "end": 35.54378684807256
+    },
+    {
+      "text": "Saving",
+      "start": 35.78378684807256,
+      "end": 36.18378684807256
+    },
+    {
+      "text": "in",
+      "start": 36.18378684807256,
+      "end": 36.263786848072556
+    },
+    {
+      "text": "cash",
+      "start": 36.263786848072556,
+      "end": 36.58378684807256
+    },
+    {
+      "text": "is",
+      "start": 36.58378684807256,
+      "end": 36.74378684807256
+    },
+    {
+      "text": "not",
+      "start": 36.74378684807256,
+      "end": 36.98378684807256
+    },
+    {
+      "text": "neutral",
+      "start": 36.98378684807256,
+      "end": 37.46378684807256
+    },
+    {
+      "text": "It",
+      "start": 37.78378684807256,
+      "end": 37.86378684807256
+    },
+    {
+      "text": "is",
+      "start": 37.86378684807256,
+      "end": 37.94378684807256
+    },
+    {
+      "text": "a",
+      "start": 37.94378684807256,
+      "end": 38.02378684807256
+    },
+    {
+      "text": "slow",
+      "start": 38.02378684807256,
+      "end": 38.34378684807256
+    },
+    {
+      "text": "decision",
+      "start": 38.34378684807256,
+      "end": 38.82378684807256
+    },
+    {
+      "text": "to",
+      "start": 38.82378684807256,
+      "end": 38.82378684807256
+    },
+    {
+      "text": "hold",
+      "start": 38.82378684807256,
+      "end": 39.14378684807256
+    },
+    {
+      "text": "something",
+      "start": 39.14378684807256,
+      "end": 39.54378684807256
+    },
+    {
+      "text": "that",
+      "start": 39.54378684807256,
+      "end": 39.62378684807256
+    },
+    {
+      "text": "shrinks",
+      "start": 39.62378684807256,
+      "end": 40.18378684807256
+    },
+    {
+      "text": "One",
+      "start": 40.34378684807256,
+      "end": 40.58378684807256
+    },
+    {
+      "text": "of",
+      "start": 40.58378684807256,
+      "end": 40.74378684807256
+    },
+    {
+      "text": "these",
+      "start": 40.74378684807256,
+      "end": 40.903786848072556
+    },
+    {
+      "text": "every",
+      "start": 40.903786848072556,
+      "end": 41.14378684807256
+    },
+    {
+      "text": "day",
+      "start": 41.14378684807256,
+      "end": 41.54378684807256
+    },
+    {
+      "text": "Follow",
+      "start": 41.78378684807256,
+      "end": 42.10378684807256
+    },
+    {
+      "text": "so",
+      "start": 42.10378684807256,
+      "end": 42.263786848072556
+    },
+    {
+      "text": "you",
+      "start": 42.263786848072556,
+      "end": 42.42378684807256
+    },
+    {
+      "text": "do",
+      "start": 42.42378684807256,
+      "end": 42.50378684807256
+    },
+    {
+      "text": "not",
+      "start": 42.50378684807256,
+      "end": 42.74378684807256
+    },
+    {
+      "text": "miss",
+      "start": 42.74378684807256,
+      "end": 42.98378684807256
+    },
+    {
+      "text": "tomorrow",
+      "start": 42.98378684807256,
+      "end": 43.54378684807256
+    }
+  ],
+  "text": "Ask what a cup of tea cost when your parents were your age. Prices rising feels like somebody's fault. Mostly it is the design. More money chasing the same goods, and each unit buys a little less than it did. Costs rise, demand rises, and both push in the same direction. So why not aim for zero instead? Because the other side of zero is much worse. If prices fall, everyone waits to buy. Waiting means less selling, which means fewer jobs. So central banks aim for a low steady rise instead. Uncomfortable, but stable. Which means cash sitting still loses value every year, on purpose, by design. Saving in cash is not neutral. It is a slow decision to hold something that shrinks. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Could we make Mars breathable?",
+  "lesson": "There is not enough accessible carbon dioxide on Mars to build a breathable atmosphere, and with no magnetic field the planet could not hold one anyway.",
+  "slug": "day-172-could-we-make-mars-breathable-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Release every bit of carbon dioxide locked up on Mars and you still fall far short of breathable air.",
+      "scene": "a nearly empty gas canister, a small black cartoon figure shaking it hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a nearly empty gas canister, a small black cartoon figure shaking it hard. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The idea sounds like a construction project. It is a supply problem first.",
+      "scene": "an empty shopping basket, a small black cartoon figure holding it wide open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty shopping basket, a small black cartoon figure holding it wide open. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Mars has about one percent of Earth's surface pressure. You would have to multiply it enormously.",
+      "scene": "a very tall glass with one drop in the bottom, a small black cartoon figure peering over the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very tall glass with one drop in the bottom, a small black cartoon figure peering over the rim. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The accessible carbon dioxide, in the ice caps and the soil, is nowhere near enough.",
+      "scene": "a small ice block beside an enormous tank, a small black cartoon figure hauling the block",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small ice block beside an enormous tank, a small black cartoon figure hauling the block. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And even if it were, the planet would not hold on to it.",
+      "scene": "a sieve holding no water at all, a small black cartoon figure pouring into it",
+      "image_text": "IT LEAKS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sieve holding no water at all, a small black cartoon figure pouring into it. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"IT LEAKS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Mars has no global magnetic field, so the solar wind strips the upper atmosphere away.",
+      "scene": "a fan blowing loose dust off a plate, a small black cartoon figure shielding the plate",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fan blowing loose dust off a plate, a small black cartoon figure shielding the plate. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And its gravity is about a third of ours, which does not help either.",
+      "scene": "a weak spring barely holding a weight, a small black cartoon figure pressing on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a weak spring barely holding a weight, a small black cartoon figure pressing on it. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Then the ground itself. The soil is full of perchlorates, which are toxic to people.",
+      "scene": "a sealed sample jar, a small black cartoon figure pressing the lid firmly on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed sample jar, a small black cartoon figure pressing the lid firmly on. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So domes and buried habitats are plausible this century. Terraforming a planet is not.",
+      "scene": "a small dome model, a small black cartoon figure crawling in underneath it",
+      "image_text": "DOMES YES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small dome model, a small black cartoon figure crawling in underneath it. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"DOMES YES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "It is not a hard engineering problem. It is a physics problem with several unsolved parts.",
+      "scene": "a rolled blueprint being tied shut, a small black cartoon figure knotting the ribbon",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rolled blueprint being tied shut, a small black cartoon figure knotting the ribbon. the scene belongs to trying to fill something that is both short of supply and leaking, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Even releasing every bit of accessible CO2 on Mars, in the ice caps and the soil, falls far short of a breathable atmosphere at anything like Earth pressure. And the planet could not keep one: no global magnetic field means the solar wind strips the upper atmosphere, and gravity is about a third of ours. The soil also carries perchlorates that are toxic to people. Domes and buried habitats are plausible this century. Planet-wide terraforming is a multi-century problem with unsolved physics.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #mars #terraforming #space #atmosphere #science",
+    "thumbnail_beat": "05"
+  }
+}

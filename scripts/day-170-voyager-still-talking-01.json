@@ -1,0 +1,109 @@
+{
+  "topic": "Two probes are still talking to us from interstellar space",
+  "lesson": "Voyager reached interstellar space by stealing momentum from planets rather than carrying fuel, and it is still transmitting on a power source that has been fading since 1977.",
+  "slug": "day-170-voyager-still-talking-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Voyager one launched in nineteen seventy seven and still sends us a signal from beyond the solar system.",
+      "scene": "a very old radio set, a small black cartoon figure turning its dial with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very old radio set, a small black cartoon figure turning its dial with both arms. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It is over twenty four billion kilometres out. The signal takes about twenty two hours to arrive.",
+      "scene": "an extremely long string running off the edge, a small black cartoon figure gripping one end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an extremely long string running off the edge, a small black cartoon figure gripping one end. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It launched because of a planetary alignment that comes round roughly every hundred and seventy five years.",
+      "scene": "several balls lined up in a rare straight row, a small black cartoon figure setting the last one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. several balls lined up in a rare straight row, a small black cartoon figure setting the last one. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Line the outer planets up right and one probe can visit several without carrying fuel for any of it.",
+      "scene": "a marble curving past a heavy ball, a small black cartoon figure rolling the marble in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a marble curving past a heavy ball, a small black cartoon figure rolling the marble in. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Because it does not simply fly past a planet. It steals from it.",
+      "scene": "a coin lifted off a heavy weight, a small black cartoon figure carrying the coin away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin lifted off a heavy weight, a small black cartoon figure carrying the coin away. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Swing close and the planet's motion flings you onward, and the planet slows immeasurably.",
+      "scene": "a sling whipped round a post, a small black cartoon figure swinging it hard",
+      "image_text": "STEAL SPEED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sling whipped round a post, a small black cartoon figure swinging it hard. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STEAL SPEED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Its power comes from decaying plutonium, and that output has been falling since launch.",
+      "scene": "a lamp dimming on a stand, a small black cartoon figure adjusting it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lamp dimming on a stand, a small black cartoon figure adjusting it. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Instruments have been switched off one at a time, to keep the transmitter alive.",
+      "scene": "a row of switches with most turned down, a small black cartoon figure flipping another",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of switches with most turned down, a small black cartoon figure flipping another. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It carries a gold record of sounds and pictures, addressed to nobody in particular.",
+      "scene": "a gold disc, a small black cartoon figure polishing its face with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a gold disc, a small black cartoon figure polishing its face with both arms. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "And it turned around once to photograph us. The whole planet was less than a single pixel.",
+      "scene": "an enormous white sheet with one tiny dot, a small black cartoon figure pressing a pin at the dot",
+      "image_text": "ONE PIXEL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous white sheet with one tiny dot, a small black cartoon figure pressing a pin at the dot. the scene belongs to something still working long after anyone expected, out past everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE PIXEL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Voyager 1 launched in 1977 and still transmits from over 24 billion km away, with the signal taking around 22 hours to arrive. It was made possible by a planetary alignment that recurs roughly every 175 years, and by gravity assists: swing close to a planet and its motion flings you onward while the planet slows immeasurably. Its plutonium power source has been fading since launch, so instruments are switched off one at a time. It also turned around once and photographed Earth as less than a pixel.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #voyager #space #nasa #astronomy #science",
+    "thumbnail_beat": "10"
+  }
+}

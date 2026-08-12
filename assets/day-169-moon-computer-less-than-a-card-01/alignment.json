@@ -1,0 +1,788 @@
+{
+  "audio_duration": 49.475813,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "computer",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "that",
+      "start": 0.56,
+      "end": 0.64
+    },
+    {
+      "text": "landed",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "text": "on",
+      "start": 1.04,
+      "end": 1.2
+    },
+    {
+      "text": "the",
+      "start": 1.2,
+      "end": 1.2
+    },
+    {
+      "text": "Moon",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "text": "had",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "text": "less",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "text": "memory",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "than",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "text": "a",
+      "start": 2.8,
+      "end": 2.8
+    },
+    {
+      "text": "musical",
+      "start": 2.8,
+      "end": 3.28
+    },
+    {
+      "text": "greeting",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "text": "card",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "A",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "text": "few",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "text": "tens",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "of",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "kilobytes",
+      "start": 5.12,
+      "end": 5.76
+    },
+    {
+      "text": "Your",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "text": "phone",
+      "start": 6.24,
+      "end": 6.64
+    },
+    {
+      "text": "carries",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "millions",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "text": "of",
+      "start": 7.44,
+      "end": 7.52
+    },
+    {
+      "text": "times",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "more",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "text": "Its",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "text": "permanent",
+      "start": 8.72,
+      "end": 9.12
+    },
+    {
+      "text": "memory",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "text": "was",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "text": "woven",
+      "start": 9.6,
+      "end": 10.24
+    },
+    {
+      "text": "Wires",
+      "start": 10.48,
+      "end": 10.96
+    },
+    {
+      "text": "threaded",
+      "start": 10.96,
+      "end": 11.36
+    },
+    {
+      "text": "through",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "text": "rings",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "text": "by",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "hand",
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "text": "in",
+      "start": 12.64,
+      "end": 12.8
+    },
+    {
+      "text": "a",
+      "start": 12.8,
+      "end": 12.8
+    },
+    {
+      "text": "factory",
+      "start": 12.8,
+      "end": 13.52
+    },
+    {
+      "text": "Through",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "text": "a",
+      "start": 14.0,
+      "end": 14.0
+    },
+    {
+      "text": "ring",
+      "start": 14.0,
+      "end": 14.32
+    },
+    {
+      "text": "meant",
+      "start": 14.32,
+      "end": 14.56
+    },
+    {
+      "text": "one",
+      "start": 14.56,
+      "end": 15.04
+    },
+    {
+      "text": "Around",
+      "start": 15.28,
+      "end": 15.6
+    },
+    {
+      "text": "the",
+      "start": 15.6,
+      "end": 15.68
+    },
+    {
+      "text": "outside",
+      "start": 15.68,
+      "end": 16.16
+    },
+    {
+      "text": "meant",
+      "start": 16.16,
+      "end": 16.4
+    },
+    {
+      "text": "nought",
+      "start": 16.4,
+      "end": 16.88
+    },
+    {
+      "text": "Once",
+      "start": 17.270566893424036,
+      "end": 17.590566893424036
+    },
+    {
+      "text": "woven",
+      "start": 17.590566893424036,
+      "end": 17.990566893424035
+    },
+    {
+      "text": "it",
+      "start": 17.990566893424035,
+      "end": 18.150566893424035
+    },
+    {
+      "text": "could",
+      "start": 18.150566893424035,
+      "end": 18.230566893424037
+    },
+    {
+      "text": "never",
+      "start": 18.230566893424037,
+      "end": 18.550566893424037
+    },
+    {
+      "text": "change",
+      "start": 18.550566893424037,
+      "end": 19.030566893424037
+    },
+    {
+      "text": "And",
+      "start": 19.350566893424034,
+      "end": 19.510566893424034
+    },
+    {
+      "text": "during",
+      "start": 19.510566893424034,
+      "end": 19.750566893424036
+    },
+    {
+      "text": "the",
+      "start": 19.750566893424036,
+      "end": 19.830566893424034
+    },
+    {
+      "text": "descent",
+      "start": 19.830566893424034,
+      "end": 20.310566893424035
+    },
+    {
+      "text": "it",
+      "start": 20.310566893424035,
+      "end": 20.390566893424037
+    },
+    {
+      "text": "started",
+      "start": 20.390566893424037,
+      "end": 20.710566893424037
+    },
+    {
+      "text": "raising",
+      "start": 20.710566893424037,
+      "end": 21.110566893424036
+    },
+    {
+      "text": "alarms",
+      "start": 21.110566893424036,
+      "end": 21.670566893424034
+    },
+    {
+      "text": "Twelve",
+      "start": 21.910566893424036,
+      "end": 22.310566893424035
+    },
+    {
+      "text": "oh",
+      "start": 22.310566893424035,
+      "end": 22.470566893424035
+    },
+    {
+      "text": "two",
+      "start": 22.470566893424035,
+      "end": 22.870566893424034
+    },
+    {
+      "text": "It",
+      "start": 23.110566893424036,
+      "end": 23.190566893424034
+    },
+    {
+      "text": "was",
+      "start": 23.190566893424034,
+      "end": 23.350566893424038
+    },
+    {
+      "text": "overloaded",
+      "start": 23.350566893424038,
+      "end": 24.150566893424035
+    },
+    {
+      "text": "More",
+      "start": 24.310566893424035,
+      "end": 24.630566893424035
+    },
+    {
+      "text": "work",
+      "start": 24.630566893424035,
+      "end": 24.870566893424034
+    },
+    {
+      "text": "was",
+      "start": 24.870566893424034,
+      "end": 24.950566893424035
+    },
+    {
+      "text": "arriving",
+      "start": 24.950566893424035,
+      "end": 25.430566893424036
+    },
+    {
+      "text": "than",
+      "start": 25.430566893424036,
+      "end": 25.590566893424036
+    },
+    {
+      "text": "it",
+      "start": 25.590566893424036,
+      "end": 25.670566893424038
+    },
+    {
+      "text": "could",
+      "start": 25.670566893424038,
+      "end": 25.830566893424034
+    },
+    {
+      "text": "possibly",
+      "start": 25.830566893424034,
+      "end": 26.230566893424033
+    },
+    {
+      "text": "finish",
+      "start": 26.230566893424033,
+      "end": 26.710566893424037
+    },
+    {
+      "text": "But",
+      "start": 27.030566893424037,
+      "end": 27.190566893424034
+    },
+    {
+      "text": "it",
+      "start": 27.190566893424034,
+      "end": 27.350566893424038
+    },
+    {
+      "text": "had",
+      "start": 27.350566893424038,
+      "end": 27.430566893424036
+    },
+    {
+      "text": "been",
+      "start": 27.430566893424036,
+      "end": 27.590566893424036
+    },
+    {
+      "text": "written",
+      "start": 27.590566893424036,
+      "end": 27.910566893424036
+    },
+    {
+      "text": "to",
+      "start": 27.990566893424035,
+      "end": 27.990566893424035
+    },
+    {
+      "text": "rank",
+      "start": 27.990566893424035,
+      "end": 28.310566893424035
+    },
+    {
+      "text": "every",
+      "start": 28.310566893424035,
+      "end": 28.630566893424035
+    },
+    {
+      "text": "task",
+      "start": 28.630566893424035,
+      "end": 29.110566893424036
+    },
+    {
+      "text": "drop",
+      "start": 29.350566893424038,
+      "end": 29.670566893424038
+    },
+    {
+      "text": "the",
+      "start": 29.670566893424038,
+      "end": 29.750566893424036
+    },
+    {
+      "text": "lowest",
+      "start": 29.750566893424036,
+      "end": 30.230566893424033
+    },
+    {
+      "text": "and",
+      "start": 30.390566893424037,
+      "end": 30.550566893424033
+    },
+    {
+      "text": "restart",
+      "start": 30.550566893424033,
+      "end": 31.030566893424037
+    },
+    {
+      "text": "cleanly",
+      "start": 31.030566893424037,
+      "end": 31.590566893424036
+    },
+    {
+      "text": "So",
+      "start": 31.894807256235826,
+      "end": 32.054807256235826
+    },
+    {
+      "text": "it",
+      "start": 32.134807256235824,
+      "end": 32.21480725623582
+    },
+    {
+      "text": "threw",
+      "start": 32.21480725623582,
+      "end": 32.454807256235824
+    },
+    {
+      "text": "away",
+      "start": 32.454807256235824,
+      "end": 32.694807256235826
+    },
+    {
+      "text": "the",
+      "start": 32.694807256235826,
+      "end": 32.774807256235825
+    },
+    {
+      "text": "radar",
+      "start": 32.774807256235825,
+      "end": 33.17480725623582
+    },
+    {
+      "text": "work",
+      "start": 33.17480725623582,
+      "end": 33.49480725623582
+    },
+    {
+      "text": "it",
+      "start": 33.49480725623582,
+      "end": 33.57480725623583
+    },
+    {
+      "text": "did",
+      "start": 33.57480725623583,
+      "end": 33.734807256235825
+    },
+    {
+      "text": "not",
+      "start": 33.734807256235825,
+      "end": 33.97480725623583
+    },
+    {
+      "text": "need",
+      "start": 33.97480725623583,
+      "end": 34.374807256235826
+    },
+    {
+      "text": "and",
+      "start": 34.53480725623582,
+      "end": 34.694807256235826
+    },
+    {
+      "text": "kept",
+      "start": 34.694807256235826,
+      "end": 34.93480725623583
+    },
+    {
+      "text": "flying",
+      "start": 34.93480725623583,
+      "end": 35.33480725623583
+    },
+    {
+      "text": "the",
+      "start": 35.33480725623583,
+      "end": 35.414807256235825
+    },
+    {
+      "text": "landing",
+      "start": 35.414807256235825,
+      "end": 35.97480725623583
+    },
+    {
+      "text": "A",
+      "start": 36.21480725623583,
+      "end": 36.29480725623583
+    },
+    {
+      "text": "computer",
+      "start": 36.29480725623583,
+      "end": 36.694807256235826
+    },
+    {
+      "text": "that",
+      "start": 36.694807256235826,
+      "end": 36.93480725623583
+    },
+    {
+      "text": "simply",
+      "start": 36.93480725623583,
+      "end": 37.25480725623582
+    },
+    {
+      "text": "crashed",
+      "start": 37.25480725623582,
+      "end": 37.65480725623583
+    },
+    {
+      "text": "there",
+      "start": 37.65480725623583,
+      "end": 37.97480725623583
+    },
+    {
+      "text": "would",
+      "start": 38.21480725623583,
+      "end": 38.29480725623583
+    },
+    {
+      "text": "have",
+      "start": 38.29480725623583,
+      "end": 38.454807256235824
+    },
+    {
+      "text": "ended",
+      "start": 38.454807256235824,
+      "end": 38.774807256235825
+    },
+    {
+      "text": "the",
+      "start": 38.774807256235825,
+      "end": 38.774807256235825
+    },
+    {
+      "text": "mission",
+      "start": 38.774807256235825,
+      "end": 39.25480725623582
+    },
+    {
+      "text": "This",
+      "start": 39.49480725623582,
+      "end": 39.734807256235825
+    },
+    {
+      "text": "one",
+      "start": 39.734807256235825,
+      "end": 39.97480725623583
+    },
+    {
+      "text": "shed",
+      "start": 39.97480725623583,
+      "end": 40.21480725623583
+    },
+    {
+      "text": "load",
+      "start": 40.21480725623583,
+      "end": 40.694807256235826
+    },
+    {
+      "text": "and",
+      "start": 40.694807256235826,
+      "end": 40.85480725623582
+    },
+    {
+      "text": "carried",
+      "start": 40.85480725623582,
+      "end": 41.17480725623582
+    },
+    {
+      "text": "on",
+      "start": 41.17480725623582,
+      "end": 41.49480725623582
+    },
+    {
+      "text": "Its",
+      "start": 41.814807256235824,
+      "end": 41.97480725623583
+    },
+    {
+      "text": "finest",
+      "start": 41.97480725623583,
+      "end": 42.454807256235824
+    },
+    {
+      "text": "moment",
+      "start": 42.454807256235824,
+      "end": 42.774807256235825
+    },
+    {
+      "text": "was",
+      "start": 42.774807256235825,
+      "end": 43.01480725623583
+    },
+    {
+      "text": "not",
+      "start": 43.01480725623583,
+      "end": 43.25480725623582
+    },
+    {
+      "text": "what",
+      "start": 43.25480725623582,
+      "end": 43.414807256235825
+    },
+    {
+      "text": "it",
+      "start": 43.414807256235825,
+      "end": 43.49480725623582
+    },
+    {
+      "text": "could",
+      "start": 43.49480725623582,
+      "end": 43.65480725623583
+    },
+    {
+      "text": "do",
+      "start": 43.65480725623583,
+      "end": 43.97480725623583
+    },
+    {
+      "text": "It",
+      "start": 44.21480725623583,
+      "end": 44.374807256235826
+    },
+    {
+      "text": "was",
+      "start": 44.374807256235826,
+      "end": 44.53480725623582
+    },
+    {
+      "text": "knowing",
+      "start": 44.53480725623582,
+      "end": 44.85480725623582
+    },
+    {
+      "text": "what",
+      "start": 44.85480725623582,
+      "end": 45.094807256235825
+    },
+    {
+      "text": "to",
+      "start": 45.094807256235825,
+      "end": 45.17480725623582
+    },
+    {
+      "text": "ignore",
+      "start": 45.17480725623582,
+      "end": 45.65480725623583
+    },
+    {
+      "text": "One",
+      "start": 45.814807256235824,
+      "end": 46.054807256235826
+    },
+    {
+      "text": "of",
+      "start": 46.054807256235826,
+      "end": 46.134807256235824
+    },
+    {
+      "text": "these",
+      "start": 46.134807256235824,
+      "end": 46.454807256235824
+    },
+    {
+      "text": "every",
+      "start": 46.454807256235824,
+      "end": 46.694807256235826
+    },
+    {
+      "text": "day",
+      "start": 46.694807256235826,
+      "end": 47.094807256235825
+    },
+    {
+      "text": "Follow",
+      "start": 47.553446712018136,
+      "end": 47.873446712018136
+    },
+    {
+      "text": "so",
+      "start": 47.873446712018136,
+      "end": 48.03344671201813
+    },
+    {
+      "text": "you",
+      "start": 48.03344671201813,
+      "end": 48.19344671201814
+    },
+    {
+      "text": "do",
+      "start": 48.19344671201814,
+      "end": 48.273446712018135
+    },
+    {
+      "text": "not",
+      "start": 48.273446712018135,
+      "end": 48.51344671201814
+    },
+    {
+      "text": "miss",
+      "start": 48.51344671201814,
+      "end": 48.75344671201814
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.75344671201814,
+      "end": 49.313446712018134
+    }
+  ],
+  "text": "The computer that landed on the Moon had less memory than a musical greeting card. A few tens of kilobytes. Your phone carries millions of times more. Its permanent memory was woven. Wires threaded through rings, by hand, in a factory. Through a ring meant one. Around the outside meant nought. Once woven it could never change. And during the descent it started raising alarms. Twelve oh two. It was overloaded. More work was arriving than it could possibly finish. But it had been written to rank every task, drop the lowest, and restart cleanly. So it threw away the radar work it did not need, and kept flying the landing. A computer that simply crashed there would have ended the mission. This one shed load and carried on. Its finest moment was not what it could do. It was knowing what to ignore. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

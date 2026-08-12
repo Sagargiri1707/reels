@@ -1,0 +1,109 @@
+{
+  "topic": "Seven minutes of terror",
+  "lesson": "A Mars landing finishes before the signal announcing its start has arrived, so full autonomy is not a design choice there, it is the only option.",
+  "slug": "day-171-seven-minutes-of-terror-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A Mars landing takes about seven minutes. The signal takes longer than that to reach us.",
+      "scene": "a sand timer beside a very long string, a small black cartoon figure turning the timer over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sand timer beside a very long string, a small black cartoon figure turning the timer over. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "So it is over before anyone here knows it began.",
+      "scene": "an envelope arriving after a bell has already rung, a small black cartoon figure opening it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an envelope arriving after a bell has already rung, a small black cartoon figure opening it. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Nobody flies it. Nobody can. There is no way to intervene at any point.",
+      "scene": "a joystick locked inside a glass case, a small black cartoon figure pressing on the glass",
+      "image_text": "NOBODY FLIES IT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a joystick locked inside a glass case, a small black cartoon figure pressing on the glass. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOBODY FLIES IT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It arrives at about twenty thousand kilometres an hour, into an atmosphere far too thin to help much.",
+      "scene": "a stone dropped into a shallow dish, a small black cartoon figure letting it go",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stone dropped into a shallow dish, a small black cartoon figure letting it go. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Thin enough that a parachute alone will not slow you enough to survive the landing.",
+      "scene": "a small parachute barely slowing a weight, a small black cartoon figure catching the weight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small parachute barely slowing a weight, a small black cartoon figure catching the weight. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "So it uses the heat shield, then the parachute, then throws both away and fires rockets.",
+      "scene": "a shield, a canopy and a small thruster in a row, a small black cartoon figure shoving the shield off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shield, a canopy and a small thruster in a row, a small black cartoon figure shoving the shield off. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Then the strangest part. The rocket stage hovers and lowers the rover on cables.",
+      "scene": "a small model lowered on threads, a small black cartoon figure paying the thread out",
+      "image_text": "ON CABLES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small model lowered on threads, a small black cartoon figure paying the thread out. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ON CABLES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Because landing legs would kick up dust and dig into ground nobody has surveyed.",
+      "scene": "a fan blowing dust across a plate, a small black cartoon figure shielding the model",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fan blowing dust across a plate, a small black cartoon figure shielding the model. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The cables are cut, and the stage flies off to crash somewhere safely distant.",
+      "scene": "a thread being snipped through, a small black cartoon figure cutting it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thread being snipped through, a small black cartoon figure cutting it. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "All of it happened before we heard about the first step. The software works, or the mission ends.",
+      "scene": "a sealed envelope of instructions, a small black cartoon figure sitting squarely on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed envelope of instructions, a small black cartoon figure sitting squarely on it. the scene belongs to something that has already happened by the time the news of it arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Entry, descent and landing on Mars takes about seven minutes, and the signal takes longer than that to reach Earth, so it is over before we know it started. Nobody flies it and nobody can. Heat shield, then parachute, then both discarded and rockets lit, then the sky crane hovering and lowering the rover on cables so landing legs do not dig into unsurveyed ground. Full autonomy is not a feature there. It is the only option available.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #mars #rover #nasa #space #science",
+    "thumbnail_beat": "07"
+  }
+}

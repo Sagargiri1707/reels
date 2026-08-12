@@ -1,0 +1,109 @@
+{
+  "topic": "The best place to look for life has ice on top",
+  "lesson": "Tidal squeezing from a giant planet keeps subsurface oceans liquid without any sunlight, and one of those moons vents its ocean straight into space where we can fly through it.",
+  "slug": "day-173-best-place-to-look-for-life-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Europa may hold more liquid water than every ocean on Earth put together, under kilometres of ice.",
+      "scene": "a sealed jar of water inside a block of ice, a small black cartoon figure chipping at the ice",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed jar of water inside a block of ice, a small black cartoon figure chipping at the ice. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It orbits Jupiter, far outside anywhere sunlight could keep water liquid.",
+      "scene": "a lamp far off to one side, a small black cartoon figure standing in the cold shadow",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lamp far off to one side, a small black cartoon figure standing in the cold shadow. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So the obvious question is what is heating it.",
+      "scene": "a covered pot, a small black cartoon figure hauling the lid off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a covered pot, a small black cartoon figure hauling the lid off. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "role": "turn",
+      "text": "Jupiter is. The same way our Moon moves the tides, only enormously stronger.",
+      "scene": "a soft ball being squeezed rhythmically, a small black cartoon figure squeezing it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a soft ball being squeezed rhythmically, a small black cartoon figure squeezing it. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Europa's orbit is not a perfect circle, so the squeeze changes as it goes round.",
+      "scene": "an oval track with a marble on it, a small black cartoon figure rolling the marble round",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an oval track with a marble on it, a small black cartoon figure rolling the marble round. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "That flexing makes heat inside it, continuously, with no sunlight involved at all.",
+      "scene": "a wire being flexed back and forth until warm, a small black cartoon figure bending it",
+      "image_text": "NO SUNLIGHT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wire being flexed back and forth until warm, a small black cartoon figure bending it. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO SUNLIGHT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Enceladus does the same at Saturn, and it vents plumes straight out into space.",
+      "scene": "a kettle spout venting hard, a small black cartoon figure holding a jar to it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a kettle spout venting hard, a small black cartoon figure holding a jar to it. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "We flew a spacecraft through one and found water, salts and organic molecules.",
+      "scene": "a jar catching the vapour, a small black cartoon figure sealing the lid on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar catching the vapour, a small black cartoon figure sealing the lid on. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which means you do not have to drill. You can catch the ocean on the way past.",
+      "scene": "a net swept through a spray of water, a small black cartoon figure sweeping it",
+      "image_text": "CATCH IT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a net swept through a spray of water, a small black cartoon figure sweeping it. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"CATCH IT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The best place to look for life might not need a star at all. Only something to squeeze it.",
+      "scene": "a ball held in a clamp, a small black cartoon figure tightening the clamp",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball held in a clamp, a small black cartoon figure tightening the clamp. the scene belongs to heat produced by being squeezed rather than by being lit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Europa may hold more liquid water than all of Earth's oceans combined, under kilometres of ice, far outside where sunlight could keep anything liquid. The heat comes from tidal flexing: Jupiter squeezes it, and because the orbit is not circular the squeeze changes as it goes round, generating heat continuously with no sunlight involved. Enceladus does the same at Saturn and vents plumes into space, which a spacecraft flew through and found water, salts and organics in. You do not have to drill.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #europa #enceladus #astrobiology #space #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "The Moon landing computer had less memory than a greeting card",
+  "lesson": "The Apollo computer's best moment was shedding low-priority work under overload instead of crashing, which is why the landing continued.",
+  "slug": "day-169-moon-computer-less-than-a-card-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The computer that landed on the Moon had less memory than a musical greeting card.",
+      "scene": "a greeting card beside a small metal box, a small black cartoon figure lifting the card",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a greeting card beside a small metal box, a small black cartoon figure lifting the card. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A few tens of kilobytes. Your phone carries millions of times more.",
+      "scene": "one grain of rice beside a heaped bowl, a small black cartoon figure standing on the grain",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one grain of rice beside a heaped bowl, a small black cartoon figure standing on the grain. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Its permanent memory was woven. Wires threaded through rings, by hand, in a factory.",
+      "scene": "a loom frame strung with wire through small rings, a small black cartoon figure threading one",
+      "image_text": "WOVEN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a loom frame strung with wire through small rings, a small black cartoon figure threading one. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WOVEN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Through a ring meant one. Around the outside meant nought. Once woven it could never change.",
+      "scene": "one wire through a ring and one around it, a small black cartoon figure hauling one through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one wire through a ring and one around it, a small black cartoon figure hauling one through. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And during the descent it started raising alarms. Twelve oh two.",
+      "scene": "a small bell ringing on a panel, a small black cartoon figure clinging to the bell",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small bell ringing on a panel, a small black cartoon figure clinging to the bell. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "It was overloaded. More work was arriving than it could possibly finish.",
+      "scene": "an in tray overflowing onto the surface, a small black cartoon figure catching the spill",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an in tray overflowing onto the surface, a small black cartoon figure catching the spill. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "But it had been written to rank every task, drop the lowest, and restart cleanly.",
+      "scene": "a stack of cards being sorted into two piles, a small black cartoon figure sorting fast",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of cards being sorted into two piles, a small black cartoon figure sorting fast. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So it threw away the radar work it did not need, and kept flying the landing.",
+      "scene": "one card being flung off the edge of the surface, a small black cartoon figure hurling it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one card being flung off the edge of the surface, a small black cartoon figure hurling it. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "A computer that simply crashed there would have ended the mission. This one shed load and carried on.",
+      "scene": "a machine still running with half its tray cleared, a small black cartoon figure sweeping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a machine still running with half its tray cleared, a small black cartoon figure sweeping it. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Its finest moment was not what it could do. It was knowing what to ignore.",
+      "scene": "an emptied tray with one card left in the middle, a small black cartoon figure holding that card",
+      "image_text": "WHAT TO IGNORE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an emptied tray with one card left in the middle, a small black cartoon figure holding that card. the scene belongs to a machine deciding what to drop when it cannot finish everything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WHAT TO IGNORE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The Apollo Guidance Computer had a few tens of kilobytes, and its permanent memory was rope memory woven by hand, wire through a ring for one and around it for nought. During the lunar descent it raised 1202 alarms because it was overloaded, and the reason the landing continued is that it had been written to rank tasks, shed the lowest priority work and restart cleanly. Its best moment was knowing what to ignore.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #apollo #moonlanding #computing #space #science",
+    "thumbnail_beat": "03"
+  }
+}

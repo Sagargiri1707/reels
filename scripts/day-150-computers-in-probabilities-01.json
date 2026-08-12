@@ -1,0 +1,109 @@
+{
+  "topic": "Computers that work in probabilities",
+  "lesson": "A quantum computer does not check every answer at once, it arranges the wrong answers to cancel each other out, which only helps for a narrow class of problems.",
+  "slug": "day-150-computers-in-probabilities-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A normal bit is nought or one. A qubit holds a combination of both until you look at it.",
+      "scene": "a coin standing balanced on its edge, a small black cartoon figure steadying it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin standing balanced on its edge, a small black cartoon figure steadying it with both arms. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Which sounds like it checks every answer at once, and that is where most explanations go wrong.",
+      "scene": "two identical coins, a small black cartoon figure stacking one on the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical coins, a small black cartoon figure stacking one on the other. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "You cannot read a superposition. Measure it and you get one ordinary answer.",
+      "scene": "a coin slapped flat on the surface, a small black cartoon figure pressing down on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin slapped flat on the surface, a small black cartoon figure pressing down on it. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "role": "turn",
+      "text": "The trick is not holding every answer. It is arranging the wrong ones to cancel out.",
+      "scene": "two ripple patterns cancelling in a tray, a small black cartoon figure tapping both sides",
+      "image_text": "CANCEL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two ripple patterns cancelling in a tray, a small black cartoon figure tapping both sides. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"CANCEL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Wrong paths destroy each other, and the right one survives to be measured.",
+      "scene": "a tray left perfectly flat after two taps, a small black cartoon figure tapping again",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray left perfectly flat after two taps, a small black cartoon figure tapping again. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Which only works on problems with the right shape, and most problems do not have it.",
+      "scene": "a shaped template with mismatched keys, a small black cartoon figure trying one against it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shaped template with mismatched keys, a small black cartoon figure trying one against it. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Factoring huge numbers has that shape, which is exactly what a lot of encryption rests on.",
+      "scene": "a heavy padlock, a small black cartoon figure hammering at its shackle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy padlock, a small black cartoon figure hammering at its shackle. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Simulating molecules has it too, and that is the genuinely exciting one.",
+      "scene": "a ball and stick molecular model, a small black cartoon figure fitting the last stick",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball and stick molecular model, a small black cartoon figure fitting the last stick. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "But the machines need to be colder than deep space, and the error rates are still enormous.",
+      "scene": "a heavily frosted flask, a small black cartoon figure hugging it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavily frosted flask, a small black cartoon figure hugging it. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "This will not replace your laptop. It will break some locks and help build some medicines.",
+      "scene": "a laptop lid being shut, a small black cartoon figure pressing it closed",
+      "image_text": "NOT YOUR LAPTOP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a laptop lid being shut, a small black cartoon figure pressing it closed. the scene belongs to wrong options destroying each other so the right one is what is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT YOUR LAPTOP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A qubit holds a combination of 0 and 1, but you cannot read a superposition: measuring gives one ordinary answer. The real mechanism is interference, arranging the wrong answers to cancel each other so the right one survives. That only helps for problems with the right structure, and most do not have it. Factoring large numbers does, which is why some encryption is threatened, and simulating molecules does, which is the genuinely useful case. The machines still need extreme cooling and have high error rates.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #quantum #computing #physics #technology #science",
+    "thumbnail_beat": "01"
+  }
+}

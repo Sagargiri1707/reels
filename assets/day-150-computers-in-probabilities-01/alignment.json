@@ -1,0 +1,843 @@
+{
+  "audio_duration": 49.03175,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "normal",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "bit",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "is",
+      "start": 0.72,
+      "end": 0.88
+    },
+    {
+      "text": "nought",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "text": "or",
+      "start": 1.28,
+      "end": 1.36
+    },
+    {
+      "text": "one",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "text": "A",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "qubit",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "text": "holds",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "a",
+      "start": 2.88,
+      "end": 2.88
+    },
+    {
+      "text": "combination",
+      "start": 2.88,
+      "end": 3.52
+    },
+    {
+      "text": "of",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "text": "both",
+      "start": 3.6,
+      "end": 3.92
+    },
+    {
+      "text": "until",
+      "start": 3.92,
+      "end": 4.24
+    },
+    {
+      "text": "you",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "text": "look",
+      "start": 4.32,
+      "end": 4.56
+    },
+    {
+      "text": "at",
+      "start": 4.56,
+      "end": 4.72
+    },
+    {
+      "text": "it",
+      "start": 4.72,
+      "end": 4.88
+    },
+    {
+      "text": "Which",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "text": "sounds",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "text": "like",
+      "start": 5.84,
+      "end": 5.92
+    },
+    {
+      "text": "it",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "text": "checks",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "every",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "answer",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "text": "at",
+      "start": 7.04,
+      "end": 7.12
+    },
+    {
+      "text": "once",
+      "start": 7.12,
+      "end": 7.6
+    },
+    {
+      "text": "and",
+      "start": 7.76,
+      "end": 7.92
+    },
+    {
+      "text": "that",
+      "start": 7.92,
+      "end": 8.08
+    },
+    {
+      "text": "is",
+      "start": 8.08,
+      "end": 8.16
+    },
+    {
+      "text": "where",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "most",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "text": "explanations",
+      "start": 8.64,
+      "end": 9.28
+    },
+    {
+      "text": "go",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "text": "wrong",
+      "start": 9.44,
+      "end": 9.92
+    },
+    {
+      "text": "You",
+      "start": 10.24,
+      "end": 10.32
+    },
+    {
+      "text": "cannot",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "text": "read",
+      "start": 10.72,
+      "end": 10.96
+    },
+    {
+      "text": "a",
+      "start": 10.96,
+      "end": 10.96
+    },
+    {
+      "text": "superposition",
+      "start": 10.96,
+      "end": 11.92
+    },
+    {
+      "text": "Measure",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "text": "it",
+      "start": 12.56,
+      "end": 12.72
+    },
+    {
+      "text": "and",
+      "start": 12.72,
+      "end": 12.8
+    },
+    {
+      "text": "you",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "get",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "one",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "ordinary",
+      "start": 13.44,
+      "end": 13.92
+    },
+    {
+      "text": "answer",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "text": "The",
+      "start": 14.72,
+      "end": 14.8
+    },
+    {
+      "text": "trick",
+      "start": 14.8,
+      "end": 15.12
+    },
+    {
+      "text": "is",
+      "start": 15.12,
+      "end": 15.2
+    },
+    {
+      "text": "not",
+      "start": 15.2,
+      "end": 15.44
+    },
+    {
+      "text": "holding",
+      "start": 15.44,
+      "end": 15.76
+    },
+    {
+      "text": "every",
+      "start": 15.76,
+      "end": 16.0
+    },
+    {
+      "text": "answer",
+      "start": 16.0,
+      "end": 16.48
+    },
+    {
+      "text": "It",
+      "start": 16.78548752834467,
+      "end": 16.94548752834467
+    },
+    {
+      "text": "is",
+      "start": 16.94548752834467,
+      "end": 17.02548752834467
+    },
+    {
+      "text": "arranging",
+      "start": 17.02548752834467,
+      "end": 17.50548752834467
+    },
+    {
+      "text": "the",
+      "start": 17.50548752834467,
+      "end": 17.58548752834467
+    },
+    {
+      "text": "wrong",
+      "start": 17.58548752834467,
+      "end": 17.905487528344672
+    },
+    {
+      "text": "ones",
+      "start": 17.905487528344672,
+      "end": 18.225487528344672
+    },
+    {
+      "text": "to",
+      "start": 18.225487528344672,
+      "end": 18.30548752834467
+    },
+    {
+      "text": "cancel",
+      "start": 18.30548752834467,
+      "end": 18.70548752834467
+    },
+    {
+      "text": "out",
+      "start": 18.70548752834467,
+      "end": 18.94548752834467
+    },
+    {
+      "text": "Wrong",
+      "start": 19.26548752834467,
+      "end": 19.58548752834467
+    },
+    {
+      "text": "paths",
+      "start": 19.58548752834467,
+      "end": 19.98548752834467
+    },
+    {
+      "text": "destroy",
+      "start": 19.98548752834467,
+      "end": 20.46548752834467
+    },
+    {
+      "text": "each",
+      "start": 20.46548752834467,
+      "end": 20.62548752834467
+    },
+    {
+      "text": "other",
+      "start": 20.62548752834467,
+      "end": 20.865487528344673
+    },
+    {
+      "text": "and",
+      "start": 21.10548752834467,
+      "end": 21.26548752834467
+    },
+    {
+      "text": "the",
+      "start": 21.26548752834467,
+      "end": 21.26548752834467
+    },
+    {
+      "text": "right",
+      "start": 21.26548752834467,
+      "end": 21.58548752834467
+    },
+    {
+      "text": "one",
+      "start": 21.58548752834467,
+      "end": 21.745487528344672
+    },
+    {
+      "text": "survives",
+      "start": 21.745487528344672,
+      "end": 22.30548752834467
+    },
+    {
+      "text": "to",
+      "start": 22.30548752834467,
+      "end": 22.30548752834467
+    },
+    {
+      "text": "be",
+      "start": 22.30548752834467,
+      "end": 22.38548752834467
+    },
+    {
+      "text": "measured",
+      "start": 22.38548752834467,
+      "end": 22.865487528344673
+    },
+    {
+      "text": "Which",
+      "start": 23.10548752834467,
+      "end": 23.34548752834467
+    },
+    {
+      "text": "only",
+      "start": 23.34548752834467,
+      "end": 23.58548752834467
+    },
+    {
+      "text": "works",
+      "start": 23.58548752834467,
+      "end": 23.905487528344672
+    },
+    {
+      "text": "on",
+      "start": 23.905487528344672,
+      "end": 23.98548752834467
+    },
+    {
+      "text": "problems",
+      "start": 23.98548752834467,
+      "end": 24.46548752834467
+    },
+    {
+      "text": "with",
+      "start": 24.46548752834467,
+      "end": 24.62548752834467
+    },
+    {
+      "text": "the",
+      "start": 24.62548752834467,
+      "end": 24.70548752834467
+    },
+    {
+      "text": "right",
+      "start": 24.70548752834467,
+      "end": 24.94548752834467
+    },
+    {
+      "text": "shape",
+      "start": 24.94548752834467,
+      "end": 25.34548752834467
+    },
+    {
+      "text": "and",
+      "start": 25.58548752834467,
+      "end": 25.82548752834467
+    },
+    {
+      "text": "most",
+      "start": 25.82548752834467,
+      "end": 26.06548752834467
+    },
+    {
+      "text": "problems",
+      "start": 26.06548752834467,
+      "end": 26.545487528344673
+    },
+    {
+      "text": "do",
+      "start": 26.545487528344673,
+      "end": 26.62548752834467
+    },
+    {
+      "text": "not",
+      "start": 26.62548752834467,
+      "end": 26.865487528344673
+    },
+    {
+      "text": "have",
+      "start": 26.865487528344673,
+      "end": 27.10548752834467
+    },
+    {
+      "text": "it",
+      "start": 27.10548752834467,
+      "end": 27.185487528344673
+    },
+    {
+      "text": "Factoring",
+      "start": 27.505487528344673,
+      "end": 27.98548752834467
+    },
+    {
+      "text": "huge",
+      "start": 27.98548752834467,
+      "end": 28.225487528344672
+    },
+    {
+      "text": "numbers",
+      "start": 28.225487528344672,
+      "end": 28.62548752834467
+    },
+    {
+      "text": "has",
+      "start": 28.62548752834467,
+      "end": 28.865487528344673
+    },
+    {
+      "text": "that",
+      "start": 28.865487528344673,
+      "end": 29.02548752834467
+    },
+    {
+      "text": "shape",
+      "start": 29.02548752834467,
+      "end": 29.42548752834467
+    },
+    {
+      "text": "which",
+      "start": 29.66548752834467,
+      "end": 29.82548752834467
+    },
+    {
+      "text": "is",
+      "start": 29.82548752834467,
+      "end": 29.905487528344672
+    },
+    {
+      "text": "exactly",
+      "start": 29.905487528344672,
+      "end": 30.38548752834467
+    },
+    {
+      "text": "what",
+      "start": 30.38548752834467,
+      "end": 30.545487528344673
+    },
+    {
+      "text": "a",
+      "start": 30.545487528344673,
+      "end": 30.545487528344673
+    },
+    {
+      "text": "lot",
+      "start": 30.545487528344673,
+      "end": 30.78548752834467
+    },
+    {
+      "text": "of",
+      "start": 30.78548752834467,
+      "end": 30.865487528344673
+    },
+    {
+      "text": "encryption",
+      "start": 30.865487528344673,
+      "end": 31.34548752834467
+    },
+    {
+      "text": "rests",
+      "start": 31.34548752834467,
+      "end": 31.74548752834467
+    },
+    {
+      "text": "on",
+      "start": 31.74548752834467,
+      "end": 31.98548752834467
+    },
+    {
+      "text": "Simulating",
+      "start": 32.47875283446712,
+      "end": 33.038752834467125
+    },
+    {
+      "text": "molecules",
+      "start": 33.038752834467125,
+      "end": 33.59875283446712
+    },
+    {
+      "text": "has",
+      "start": 33.59875283446712,
+      "end": 33.83875283446712
+    },
+    {
+      "text": "it",
+      "start": 33.83875283446712,
+      "end": 33.91875283446712
+    },
+    {
+      "text": "too",
+      "start": 33.91875283446712,
+      "end": 34.31875283446712
+    },
+    {
+      "text": "and",
+      "start": 34.55875283446712,
+      "end": 34.718752834467125
+    },
+    {
+      "text": "that",
+      "start": 34.718752834467125,
+      "end": 34.87875283446712
+    },
+    {
+      "text": "is",
+      "start": 34.87875283446712,
+      "end": 34.95875283446712
+    },
+    {
+      "text": "the",
+      "start": 34.95875283446712,
+      "end": 35.038752834467125
+    },
+    {
+      "text": "genuinely",
+      "start": 35.038752834467125,
+      "end": 35.59875283446712
+    },
+    {
+      "text": "exciting",
+      "start": 35.59875283446712,
+      "end": 36.078752834467124
+    },
+    {
+      "text": "one",
+      "start": 36.078752834467124,
+      "end": 36.398752834467125
+    },
+    {
+      "text": "But",
+      "start": 36.63875283446713,
+      "end": 36.718752834467125
+    },
+    {
+      "text": "the",
+      "start": 36.718752834467125,
+      "end": 36.79875283446712
+    },
+    {
+      "text": "machines",
+      "start": 36.79875283446712,
+      "end": 37.27875283446712
+    },
+    {
+      "text": "need",
+      "start": 37.27875283446712,
+      "end": 37.51875283446712
+    },
+    {
+      "text": "to",
+      "start": 37.51875283446712,
+      "end": 37.59875283446712
+    },
+    {
+      "text": "be",
+      "start": 37.59875283446712,
+      "end": 37.67875283446712
+    },
+    {
+      "text": "colder",
+      "start": 37.67875283446712,
+      "end": 38.078752834467124
+    },
+    {
+      "text": "than",
+      "start": 38.078752834467124,
+      "end": 38.23875283446712
+    },
+    {
+      "text": "deep",
+      "start": 38.23875283446712,
+      "end": 38.398752834467125
+    },
+    {
+      "text": "space",
+      "start": 38.398752834467125,
+      "end": 38.87875283446712
+    },
+    {
+      "text": "and",
+      "start": 39.118752834467124,
+      "end": 39.27875283446712
+    },
+    {
+      "text": "the",
+      "start": 39.27875283446712,
+      "end": 39.358752834467126
+    },
+    {
+      "text": "error",
+      "start": 39.358752834467126,
+      "end": 39.59875283446712
+    },
+    {
+      "text": "rates",
+      "start": 39.59875283446712,
+      "end": 39.91875283446712
+    },
+    {
+      "text": "are",
+      "start": 39.91875283446712,
+      "end": 39.998752834467126
+    },
+    {
+      "text": "still",
+      "start": 39.998752834467126,
+      "end": 40.31875283446712
+    },
+    {
+      "text": "enormous",
+      "start": 40.31875283446712,
+      "end": 40.87875283446712
+    },
+    {
+      "text": "This",
+      "start": 41.118752834467124,
+      "end": 41.27875283446712
+    },
+    {
+      "text": "will",
+      "start": 41.27875283446712,
+      "end": 41.438752834467124
+    },
+    {
+      "text": "not",
+      "start": 41.438752834467124,
+      "end": 41.67875283446712
+    },
+    {
+      "text": "replace",
+      "start": 41.67875283446712,
+      "end": 42.078752834467124
+    },
+    {
+      "text": "your",
+      "start": 42.078752834467124,
+      "end": 42.15875283446712
+    },
+    {
+      "text": "laptop",
+      "start": 42.15875283446712,
+      "end": 42.718752834467125
+    },
+    {
+      "text": "It",
+      "start": 42.87875283446712,
+      "end": 42.95875283446712
+    },
+    {
+      "text": "will",
+      "start": 42.95875283446712,
+      "end": 43.118752834467124
+    },
+    {
+      "text": "break",
+      "start": 43.118752834467124,
+      "end": 43.438752834467124
+    },
+    {
+      "text": "some",
+      "start": 43.438752834467124,
+      "end": 43.59875283446712
+    },
+    {
+      "text": "locks",
+      "start": 43.59875283446712,
+      "end": 43.998752834467126
+    },
+    {
+      "text": "and",
+      "start": 43.998752834467126,
+      "end": 44.078752834467124
+    },
+    {
+      "text": "help",
+      "start": 44.078752834467124,
+      "end": 44.31875283446712
+    },
+    {
+      "text": "build",
+      "start": 44.31875283446712,
+      "end": 44.55875283446712
+    },
+    {
+      "text": "some",
+      "start": 44.55875283446712,
+      "end": 44.718752834467125
+    },
+    {
+      "text": "medicines",
+      "start": 44.718752834467125,
+      "end": 45.27875283446712
+    },
+    {
+      "text": "One",
+      "start": 45.438752834467124,
+      "end": 45.67875283446712
+    },
+    {
+      "text": "of",
+      "start": 45.67875283446712,
+      "end": 45.758752834467124
+    },
+    {
+      "text": "these",
+      "start": 45.758752834467124,
+      "end": 45.998752834467126
+    },
+    {
+      "text": "every",
+      "start": 45.998752834467126,
+      "end": 46.31875283446712
+    },
+    {
+      "text": "day",
+      "start": 46.31875283446712,
+      "end": 46.63875283446713
+    },
+    {
+      "text": "Follow",
+      "start": 47.101179138322,
+      "end": 47.421179138322
+    },
+    {
+      "text": "so",
+      "start": 47.421179138322,
+      "end": 47.581179138322
+    },
+    {
+      "text": "you",
+      "start": 47.581179138322,
+      "end": 47.661179138322
+    },
+    {
+      "text": "do",
+      "start": 47.661179138322,
+      "end": 47.821179138322
+    },
+    {
+      "text": "not",
+      "start": 47.821179138322,
+      "end": 48.061179138322004
+    },
+    {
+      "text": "miss",
+      "start": 48.061179138322004,
+      "end": 48.301179138322
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.301179138322,
+      "end": 48.781179138322
+    }
+  ],
+  "text": "A normal bit is nought or one. A qubit holds a combination of both until you look at it. Which sounds like it checks every answer at once, and that is where most explanations go wrong. You cannot read a superposition. Measure it and you get one ordinary answer. The trick is not holding every answer. It is arranging the wrong ones to cancel out. Wrong paths destroy each other, and the right one survives to be measured. Which only works on problems with the right shape, and most problems do not have it. Factoring huge numbers has that shape, which is exactly what a lot of encryption rests on. Simulating molecules has it too, and that is the genuinely exciting one. But the machines need to be colder than deep space, and the error rates are still enormous. This will not replace your laptop. It will break some locks and help build some medicines. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

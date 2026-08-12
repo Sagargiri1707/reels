@@ -1,0 +1,109 @@
+{
+  "topic": "The tiny switch that built the modern world",
+  "lesson": "A transistor is only a switch, and once switches got cheap enough to stop counting, everything else followed — until the features got down to tens of atoms.",
+  "slug": "day-146-the-tiny-switch-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your phone holds somewhere around fifteen billion transistors. Every single one is a switch.",
+      "scene": "one tiny switch beside a magnifier, a small black cartoon figure holding the magnifier up",
+      "image_text": "FIFTEEN BILLION",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one tiny switch beside a magnifier, a small black cartoon figure holding the magnifier up. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FIFTEEN BILLION\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Before them, a switch with no moving parts meant a glass tube the size of your thumb.",
+      "scene": "a glass vacuum tube, a small black cartoon figure hugging it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass vacuum tube, a small black cartoon figure hugging it with both arms. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A room sized computer held a few thousand of those, and they burned out constantly.",
+      "scene": "a rack of tubes with one blackened, a small black cartoon figure hauling the dead one out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rack of tubes with one blackened, a small black cartoon figure hauling the dead one out. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A transistor does the same job in solid material, with nothing to wear out.",
+      "scene": "a small solid black chip, a small black cartoon figure sitting squarely on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small solid black chip, a small black cartoon figure sitting squarely on it. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And once a switch is that cheap, you stop counting them altogether.",
+      "scene": "a heaped scoop of tiny components, a small black cartoon figure tipping them out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heaped scoop of tiny components, a small black cartoon figure tipping them out. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Wire a few together and you get a gate that answers one yes or no question.",
+      "scene": "two switches wired to a lamp, a small black cartoon figure flipping both at once",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two switches wired to a lamp, a small black cartoon figure flipping both at once. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Wire gates together and you get addition. Everything else is built on that.",
+      "scene": "an abacus rod, a small black cartoon figure sliding beads along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an abacus rod, a small black cartoon figure sliding beads along it. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "For decades the count doubled about every two years, and the features kept shrinking.",
+      "scene": "a stack of chips each thinner than the last, a small black cartoon figure balancing on top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of chips each thinner than the last, a small black cartoon figure balancing on top. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Now the smallest features are a handful of nanometres. Tens of atoms across.",
+      "scene": "a ruler with an almost invisible mark, a small black cartoon figure pressing a pin at it",
+      "image_text": "TENS OF ATOMS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ruler with an almost invisible mark, a small black cartoon figure pressing a pin at it. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TENS OF ATOMS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is why the doubling is slowing. You cannot build a switch out of half an atom.",
+      "scene": "a single grain of sand, a small black cartoon figure lifting it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single grain of sand, a small black cartoon figure lifting it with both arms. the scene belongs to one simple part made small enough and cheap enough to stop counting, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A transistor is a switch, and that is the whole story. Vacuum tubes did the same job the size of a thumb and burned out constantly; transistors do it in solid material with nothing to wear out. Wire a few together and you get a logic gate, wire gates together and you get arithmetic. The count doubled roughly every two years for decades, and features are now a handful of nanometres, only tens of atoms across, which is exactly why the doubling is slowing.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #transistors #chips #mooreslaw #technology #science",
+    "thumbnail_beat": "01"
+  }
+}

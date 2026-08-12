@@ -1,0 +1,109 @@
+{
+  "topic": "Why everything is 1s and 0s",
+  "lesson": "Binary is a deliberate trade of density for reliability, because two voltage states stay unmistakable in a noisy physical world while ten would not.",
+  "slug": "day-145-why-everything-is-binary-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Computers do not use binary because it is elegant. They use it because on or off is the only thing you can trust.",
+      "scene": "a plain toggle switch, a small black cartoon figure throwing it over with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plain toggle switch, a small black cartoon figure throwing it over with their whole body. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A wire does not carry a number. It carries a voltage, and voltage is messy.",
+      "scene": "a slack wire feeding a dim lamp, a small black cartoon figure shaking the wire",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slack wire feeding a dim lamp, a small black cartoon figure shaking the wire. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It sags over distance, drifts with heat, and picks up noise from everything nearby.",
+      "scene": "a wobbling needle gauge, a small black cartoon figure trying to steady the needle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wobbling needle gauge, a small black cartoon figure trying to steady the needle. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Try to read ten different levels off one wire and you would misread constantly.",
+      "scene": "a ruler with ten crowded marks, a small black cartoon figure pressing a pin between two",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ruler with ten crowded marks, a small black cartoon figure pressing a pin between two. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Two levels leaves an enormous gap in the middle. Anything low is nought, anything high is one.",
+      "scene": "a plank with a wide gap between two ends, a small black cartoon figure leaping the gap",
+      "image_text": "ON OR OFF",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plank with a wide gap between two ends, a small black cartoon figure leaping the gap. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ON OR OFF\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A signal can wander a long way and still land unmistakably on one side of that gap.",
+      "scene": "a ball rolling into one side of a ridged tray, a small black cartoon figure tipping the tray",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball rolling into one side of a ridged tray, a small black cartoon figure tipping the tray. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So binary is not simplicity. It is a deliberate trade of density for reliability.",
+      "scene": "a fat notebook beside a small locked box, a small black cartoon figure dragging the box forward",
+      "image_text": "RELIABILITY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fat notebook beside a small locked box, a small black cartoon figure dragging the box forward. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"RELIABILITY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And two states is enough for anything at all, provided you have enough of them.",
+      "scene": "a very long row of tiny switches, a small black cartoon figure walking along flipping them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very long row of tiny switches, a small black cartoon figure walking along flipping them. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Numbers, letters, the colour of a pixel, a moment of sound. All of it is just enough switches.",
+      "scene": "a grid of small tiles half turned over, a small black cartoon figure flipping another",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a grid of small tiles half turned over, a small black cartoon figure flipping another. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The whole thing is built on the least ambiguous question you can ask. Is it on?",
+      "scene": "one switch alone on the bare surface, a small black cartoon figure standing on top of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one switch alone on the bare surface, a small black cartoon figure standing on top of it. the scene belongs to a signal that has to stay readable after being knocked about, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Binary is not chosen for elegance. A wire carries voltage, and voltage sags, drifts with temperature and picks up noise, so ten crowded levels would be misread constantly. Two levels leave an enormous gap in the middle, and a signal can wander a long way and still land unmistakably on one side. It is a deliberate trade of density for robustness. And two states encode anything at all, given enough of them.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #binary #computers #electronics #technology #science",
+    "thumbnail_beat": "05"
+  }
+}

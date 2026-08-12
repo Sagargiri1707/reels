@@ -1,0 +1,748 @@
+{
+  "audio_duration": 48.901125,
+  "segments": [
+    {
+      "text": "In",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "nineteen",
+      "start": 0.16,
+      "end": 0.48
+    },
+    {
+      "text": "forty",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "seven",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "a",
+      "start": 1.2,
+      "end": 1.28
+    },
+    {
+      "text": "moth",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "text": "got",
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "text": "stuck",
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "text": "in",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "a",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "relay",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "text": "They",
+      "start": 3.04,
+      "end": 3.2
+    },
+    {
+      "text": "taped",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "text": "it",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "text": "into",
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "text": "the",
+      "start": 3.84,
+      "end": 3.92
+    },
+    {
+      "text": "logbook",
+      "start": 3.92,
+      "end": 4.56
+    },
+    {
+      "text": "The",
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "text": "note",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "text": "beside",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "it",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "text": "reads",
+      "start": 5.76,
+      "end": 6.0
+    },
+    {
+      "text": "first",
+      "start": 6.0,
+      "end": 6.32
+    },
+    {
+      "text": "actual",
+      "start": 6.4,
+      "end": 6.8
+    },
+    {
+      "text": "case",
+      "start": 6.8,
+      "end": 7.12
+    },
+    {
+      "text": "of",
+      "start": 7.12,
+      "end": 7.2
+    },
+    {
+      "text": "bug",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "being",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "text": "found",
+      "start": 7.76,
+      "end": 8.24
+    },
+    {
+      "text": "The",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "word",
+      "start": 8.64,
+      "end": 8.88
+    },
+    {
+      "text": "was",
+      "start": 8.88,
+      "end": 9.04
+    },
+    {
+      "text": "already",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "text": "in",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "use",
+      "start": 9.52,
+      "end": 10.0
+    },
+    {
+      "text": "The",
+      "start": 10.24,
+      "end": 10.32
+    },
+    {
+      "text": "joke",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "text": "was",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "finding",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "a",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "literal",
+      "start": 11.36,
+      "end": 11.76
+    },
+    {
+      "text": "one",
+      "start": 11.76,
+      "end": 12.0
+    },
+    {
+      "text": "But",
+      "start": 12.4,
+      "end": 12.56
+    },
+    {
+      "text": "the",
+      "start": 12.56,
+      "end": 12.64
+    },
+    {
+      "text": "expensive",
+      "start": 12.64,
+      "end": 13.2
+    },
+    {
+      "text": "bugs",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "are",
+      "start": 13.52,
+      "end": 13.68
+    },
+    {
+      "text": "not",
+      "start": 13.68,
+      "end": 13.92
+    },
+    {
+      "text": "insects",
+      "start": 13.92,
+      "end": 14.48
+    },
+    {
+      "text": "and",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "they",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "text": "are",
+      "start": 15.04,
+      "end": 15.12
+    },
+    {
+      "text": "almost",
+      "start": 15.12,
+      "end": 15.52
+    },
+    {
+      "text": "never",
+      "start": 15.52,
+      "end": 15.76
+    },
+    {
+      "text": "one",
+      "start": 15.76,
+      "end": 16.0
+    },
+    {
+      "text": "mistake",
+      "start": 16.0,
+      "end": 16.64
+    },
+    {
+      "text": "Mariner",
+      "start": 16.991927437641724,
+      "end": 17.391927437641723
+    },
+    {
+      "text": "one",
+      "start": 17.391927437641723,
+      "end": 17.711927437641723
+    },
+    {
+      "text": "was",
+      "start": 17.711927437641723,
+      "end": 17.871927437641723
+    },
+    {
+      "text": "destroyed",
+      "start": 17.871927437641723,
+      "end": 18.431927437641725
+    },
+    {
+      "text": "because",
+      "start": 18.431927437641725,
+      "end": 18.671927437641724
+    },
+    {
+      "text": "of",
+      "start": 18.671927437641724,
+      "end": 18.751927437641726
+    },
+    {
+      "text": "a",
+      "start": 18.751927437641726,
+      "end": 18.751927437641726
+    },
+    {
+      "text": "single",
+      "start": 18.751927437641726,
+      "end": 19.231927437641723
+    },
+    {
+      "text": "wrong",
+      "start": 19.231927437641723,
+      "end": 19.471927437641725
+    },
+    {
+      "text": "character",
+      "start": 19.471927437641725,
+      "end": 19.951927437641725
+    },
+    {
+      "text": "in",
+      "start": 19.951927437641725,
+      "end": 20.031927437641723
+    },
+    {
+      "text": "a",
+      "start": 20.031927437641723,
+      "end": 20.031927437641723
+    },
+    {
+      "text": "formula",
+      "start": 20.031927437641723,
+      "end": 20.671927437641724
+    },
+    {
+      "text": "Ariane",
+      "start": 21.151927437641724,
+      "end": 21.551927437641723
+    },
+    {
+      "text": "five",
+      "start": 21.551927437641723,
+      "end": 21.871927437641723
+    },
+    {
+      "text": "exploded",
+      "start": 21.871927437641723,
+      "end": 22.591927437641722
+    },
+    {
+      "text": "because",
+      "start": 22.751927437641726,
+      "end": 22.991927437641724
+    },
+    {
+      "text": "working",
+      "start": 22.991927437641724,
+      "end": 23.391927437641723
+    },
+    {
+      "text": "code",
+      "start": 23.391927437641723,
+      "end": 23.711927437641723
+    },
+    {
+      "text": "from",
+      "start": 23.711927437641723,
+      "end": 23.791927437641725
+    },
+    {
+      "text": "the",
+      "start": 23.791927437641725,
+      "end": 23.871927437641723
+    },
+    {
+      "text": "last",
+      "start": 23.871927437641723,
+      "end": 24.271927437641722
+    },
+    {
+      "text": "rocket",
+      "start": 24.271927437641722,
+      "end": 24.591927437641722
+    },
+    {
+      "text": "met",
+      "start": 24.591927437641722,
+      "end": 24.751927437641726
+    },
+    {
+      "text": "a",
+      "start": 24.751927437641726,
+      "end": 24.831927437641724
+    },
+    {
+      "text": "bigger",
+      "start": 24.831927437641724,
+      "end": 25.151927437641724
+    },
+    {
+      "text": "number",
+      "start": 25.151927437641724,
+      "end": 25.471927437641725
+    },
+    {
+      "text": "than",
+      "start": 25.471927437641725,
+      "end": 25.631927437641725
+    },
+    {
+      "text": "it",
+      "start": 25.631927437641725,
+      "end": 25.711927437641723
+    },
+    {
+      "text": "expected",
+      "start": 25.711927437641723,
+      "end": 26.271927437641722
+    },
+    {
+      "text": "The",
+      "start": 26.751927437641726,
+      "end": 26.831927437641724
+    },
+    {
+      "text": "Therac",
+      "start": 26.831927437641724,
+      "end": 27.151927437641724
+    },
+    {
+      "text": "twenty",
+      "start": 27.151927437641724,
+      "end": 27.471927437641725
+    },
+    {
+      "text": "five",
+      "start": 27.471927437641725,
+      "end": 27.871927437641723
+    },
+    {
+      "text": "gave",
+      "start": 28.111927437641725,
+      "end": 28.271927437641722
+    },
+    {
+      "text": "massive",
+      "start": 28.271927437641722,
+      "end": 28.751927437641726
+    },
+    {
+      "text": "radiation",
+      "start": 28.751927437641726,
+      "end": 29.311927437641724
+    },
+    {
+      "text": "overdoses",
+      "start": 29.311927437641724,
+      "end": 29.95192743764172
+    },
+    {
+      "text": "because",
+      "start": 30.111927437641725,
+      "end": 30.431927437641725
+    },
+    {
+      "text": "two",
+      "start": 30.431927437641725,
+      "end": 30.671927437641724
+    },
+    {
+      "text": "subsystems",
+      "start": 30.671927437641724,
+      "end": 31.311927437641724
+    },
+    {
+      "text": "disagreed",
+      "start": 31.311927437641724,
+      "end": 31.871927437641723
+    },
+    {
+      "text": "about",
+      "start": 31.871927437641723,
+      "end": 32.111927437641725
+    },
+    {
+      "text": "state",
+      "start": 32.111927437641725,
+      "end": 32.511927437641724
+    },
+    {
+      "text": "Notice",
+      "start": 32.831927437641724,
+      "end": 33.151927437641724
+    },
+    {
+      "text": "the",
+      "start": 33.151927437641724,
+      "end": 33.23192743764172
+    },
+    {
+      "text": "pattern",
+      "start": 33.23192743764172,
+      "end": 33.791927437641725
+    },
+    {
+      "text": "Every",
+      "start": 34.1956462585034,
+      "end": 34.435646258503404
+    },
+    {
+      "text": "part",
+      "start": 34.435646258503404,
+      "end": 34.6756462585034
+    },
+    {
+      "text": "worked",
+      "start": 34.6756462585034,
+      "end": 35.075646258503404
+    },
+    {
+      "text": "The",
+      "start": 35.3156462585034,
+      "end": 35.395646258503405
+    },
+    {
+      "text": "joins",
+      "start": 35.395646258503405,
+      "end": 35.7956462585034
+    },
+    {
+      "text": "did",
+      "start": 35.7956462585034,
+      "end": 35.9556462585034
+    },
+    {
+      "text": "not",
+      "start": 35.9556462585034,
+      "end": 36.3556462585034
+    },
+    {
+      "text": "And",
+      "start": 36.6756462585034,
+      "end": 36.755646258503404
+    },
+    {
+      "text": "the",
+      "start": 36.755646258503404,
+      "end": 36.8356462585034
+    },
+    {
+      "text": "biggest",
+      "start": 36.8356462585034,
+      "end": 37.2356462585034
+    },
+    {
+      "text": "one",
+      "start": 37.2356462585034,
+      "end": 37.4756462585034
+    },
+    {
+      "text": "mostly",
+      "start": 37.4756462585034,
+      "end": 37.8756462585034
+    },
+    {
+      "text": "did",
+      "start": 37.8756462585034,
+      "end": 38.035646258503405
+    },
+    {
+      "text": "not",
+      "start": 38.035646258503405,
+      "end": 38.1956462585034
+    },
+    {
+      "text": "happen",
+      "start": 38.1956462585034,
+      "end": 38.755646258503404
+    },
+    {
+      "text": "because",
+      "start": 38.9156462585034,
+      "end": 39.1556462585034
+    },
+    {
+      "text": "people",
+      "start": 39.1556462585034,
+      "end": 39.4756462585034
+    },
+    {
+      "text": "spent",
+      "start": 39.4756462585034,
+      "end": 39.7956462585034
+    },
+    {
+      "text": "years",
+      "start": 39.7956462585034,
+      "end": 40.1156462585034
+    },
+    {
+      "text": "quietly",
+      "start": 40.1156462585034,
+      "end": 40.5956462585034
+    },
+    {
+      "text": "fixing",
+      "start": 40.5956462585034,
+      "end": 40.9956462585034
+    },
+    {
+      "text": "it",
+      "start": 40.9956462585034,
+      "end": 41.075646258503404
+    },
+    {
+      "text": "first",
+      "start": 41.075646258503404,
+      "end": 41.5556462585034
+    },
+    {
+      "text": "Complexity",
+      "start": 41.7956462585034,
+      "end": 42.435646258503404
+    },
+    {
+      "text": "does",
+      "start": 42.435646258503404,
+      "end": 42.5956462585034
+    },
+    {
+      "text": "not",
+      "start": 42.5956462585034,
+      "end": 42.8356462585034
+    },
+    {
+      "text": "cause",
+      "start": 42.8356462585034,
+      "end": 43.1556462585034
+    },
+    {
+      "text": "bugs",
+      "start": 43.1556462585034,
+      "end": 43.4756462585034
+    },
+    {
+      "text": "on",
+      "start": 43.4756462585034,
+      "end": 43.6356462585034
+    },
+    {
+      "text": "its",
+      "start": 43.6356462585034,
+      "end": 43.7956462585034
+    },
+    {
+      "text": "own",
+      "start": 43.7956462585034,
+      "end": 44.1156462585034
+    },
+    {
+      "text": "Handovers",
+      "start": 44.435646258503404,
+      "end": 44.9956462585034
+    },
+    {
+      "text": "do",
+      "start": 44.9956462585034,
+      "end": 45.395646258503405
+    },
+    {
+      "text": "One",
+      "start": 45.5556462585034,
+      "end": 45.7956462585034
+    },
+    {
+      "text": "of",
+      "start": 45.7956462585034,
+      "end": 45.8756462585034
+    },
+    {
+      "text": "these",
+      "start": 45.8756462585034,
+      "end": 46.1156462585034
+    },
+    {
+      "text": "every",
+      "start": 46.1156462585034,
+      "end": 46.435646258503404
+    },
+    {
+      "text": "day",
+      "start": 46.435646258503404,
+      "end": 46.8356462585034
+    },
+    {
+      "text": "Follow",
+      "start": 47.0756462585034,
+      "end": 47.3156462585034
+    },
+    {
+      "text": "so",
+      "start": 47.3156462585034,
+      "end": 47.4756462585034
+    },
+    {
+      "text": "you",
+      "start": 47.4756462585034,
+      "end": 47.6356462585034
+    },
+    {
+      "text": "do",
+      "start": 47.6356462585034,
+      "end": 47.7956462585034
+    },
+    {
+      "text": "not",
+      "start": 47.7956462585034,
+      "end": 47.9556462585034
+    },
+    {
+      "text": "miss",
+      "start": 47.9556462585034,
+      "end": 48.1956462585034
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.1956462585034,
+      "end": 48.755646258503404
+    }
+  ],
+  "text": "In nineteen forty seven a moth got stuck in a relay. They taped it into the logbook. The note beside it reads first actual case of bug being found. The word was already in use. The joke was finding a literal one. But the expensive bugs are not insects, and they are almost never one mistake. Mariner one was destroyed because of a single wrong character in a formula. Ariane five exploded because working code from the last rocket met a bigger number than it expected. The Therac twenty five gave massive radiation overdoses because two subsystems disagreed about state. Notice the pattern. Every part worked. The joins did not. And the biggest one mostly did not happen, because people spent years quietly fixing it first. Complexity does not cause bugs on its own. Handovers do. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

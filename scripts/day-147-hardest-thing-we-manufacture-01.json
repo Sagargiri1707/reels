@@ -1,0 +1,109 @@
+{
+  "topic": "The hardest thing humans manufacture",
+  "lesson": "Chips are printed with light rather than carved, and the machines that print the smallest features come from a single supplier, which is the real chokepoint behind chip shortages.",
+  "slug": "day-147-hardest-thing-we-manufacture-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "We make more transistors each year than the world grows grains of rice.",
+      "scene": "a bowl of rice beside one small chip, a small black cartoon figure standing on the chip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of rice beside one small chip, a small black cartoon figure standing on the chip. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "And almost all of the best ones come out of a handful of factories.",
+      "scene": "a small cluster of model buildings, a small black cartoon figure walking between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small cluster of model buildings, a small black cartoon figure walking between them. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "You do not carve a chip. You print it, with light.",
+      "scene": "a stencil laid over a plate, a small black cartoon figure pressing the stencil down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stencil laid over a plate, a small black cartoon figure pressing the stencil down. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A pattern is shone through a mask onto a wafer coated in something light sensitive.",
+      "scene": "a mask sheet with fine cutouts, a small black cartoon figure lifting it clear",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mask sheet with fine cutouts, a small black cartoon figure lifting it clear. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Then it is etched, coated and printed again. Dozens of times, layer on layer.",
+      "scene": "a stack of thin printed layers, a small black cartoon figure sliding one into the pile",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of thin printed layers, a small black cartoon figure sliding one into the pile. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "To print smaller you need shorter wavelengths, and that is where it gets absurd.",
+      "scene": "a fine ruler beside a far finer one, a small black cartoon figure holding up the finer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fine ruler beside a far finer one, a small black cartoon figure holding up the finer. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The machines make extreme ultraviolet by hitting falling tin droplets with a laser. Twice each.",
+      "scene": "one droplet falling through a bright spot, a small black cartoon figure aiming at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one droplet falling through a bright spot, a small black cartoon figure aiming at it. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "One machine costs hundreds of millions, weighs as much as a bus, and one company makes them.",
+      "scene": "an enormous crated machine, a small black cartoon figure hauling on one strap",
+      "image_text": "ONE COMPANY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous crated machine, a small black cartoon figure hauling on one strap. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE COMPANY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The room is cleaner than an operating theatre, because a single speck ruins the chip under it.",
+      "scene": "a white glove and one speck on a plate, a small black cartoon figure lifting the speck away",
+      "image_text": "ONE SPECK",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a white glove and one speck on a plate, a small black cartoon figure lifting the speck away. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE SPECK\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is why a chip shortage is not a factory problem. It is a one supplier problem.",
+      "scene": "a long queue of trays at a single hatch, a small black cartoon figure holding the hatch open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long queue of trays at a single hatch, a small black cartoon figure holding the hatch open. the scene belongs to printing something unimaginably small, in a room where one speck ruins it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Chips are printed, not carved. A pattern is projected through a mask onto a light-sensitive wafer, then etched, recoated and printed again, dozens of layers deep. Printing smaller needs shorter wavelengths, and extreme ultraviolet machines make their light by hitting falling tin droplets with a laser twice each. One machine costs hundreds of millions and one company makes them. Cleanrooms are purer than an operating theatre because a single speck ruins the chip beneath it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #semiconductors #chips #manufacturing #technology #science",
+    "thumbnail_beat": "09"
+  }
+}

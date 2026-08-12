@@ -1,0 +1,778 @@
+{
+  "audio_duration": 47.725625,
+  "segments": [
+    {
+      "text": "Code",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "is",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "a",
+      "start": 0.48,
+      "end": 0.48
+    },
+    {
+      "text": "very",
+      "start": 0.48,
+      "end": 0.96
+    },
+    {
+      "text": "long",
+      "start": 0.96,
+      "end": 1.28
+    },
+    {
+      "text": "list",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "text": "of",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "instructions",
+      "start": 1.6,
+      "end": 2.16
+    },
+    {
+      "text": "for",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "flipping",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "switches",
+      "start": 2.64,
+      "end": 3.2
+    },
+    {
+      "text": "written",
+      "start": 3.44,
+      "end": 3.76
+    },
+    {
+      "text": "in",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "text": "something",
+      "start": 3.84,
+      "end": 4.24
+    },
+    {
+      "text": "a",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "text": "human",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "text": "can",
+      "start": 4.72,
+      "end": 4.88
+    },
+    {
+      "text": "stand",
+      "start": 4.88,
+      "end": 5.28
+    },
+    {
+      "text": "to",
+      "start": 5.28,
+      "end": 5.36
+    },
+    {
+      "text": "read",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "text": "The",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "text": "machine",
+      "start": 6.24,
+      "end": 6.72
+    },
+    {
+      "text": "only",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "text": "understands",
+      "start": 7.04,
+      "end": 7.6
+    },
+    {
+      "text": "numbers",
+      "start": 7.6,
+      "end": 8.08
+    },
+    {
+      "text": "meaning",
+      "start": 8.08,
+      "end": 8.48
+    },
+    {
+      "text": "move",
+      "start": 8.48,
+      "end": 8.72
+    },
+    {
+      "text": "this",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "text": "add",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "text": "that",
+      "start": 9.6,
+      "end": 9.84
+    },
+    {
+      "text": "jump",
+      "start": 9.92,
+      "end": 10.24
+    },
+    {
+      "text": "there",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "text": "Writing",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "text": "that",
+      "start": 11.2,
+      "end": 11.36
+    },
+    {
+      "text": "directly",
+      "start": 11.36,
+      "end": 11.84
+    },
+    {
+      "text": "is",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "possible",
+      "start": 12.0,
+      "end": 12.56
+    },
+    {
+      "text": "and",
+      "start": 12.72,
+      "end": 12.88
+    },
+    {
+      "text": "almost",
+      "start": 12.88,
+      "end": 13.28
+    },
+    {
+      "text": "nobody",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "text": "does",
+      "start": 13.68,
+      "end": 13.92
+    },
+    {
+      "text": "it",
+      "start": 13.92,
+      "end": 14.08
+    },
+    {
+      "text": "because",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "it",
+      "start": 14.48,
+      "end": 14.56
+    },
+    {
+      "text": "is",
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "text": "unbearable",
+      "start": 14.8,
+      "end": 15.52
+    },
+    {
+      "text": "So",
+      "start": 15.890249433106575,
+      "end": 15.970249433106575
+    },
+    {
+      "text": "we",
+      "start": 15.970249433106575,
+      "end": 16.130249433106574
+    },
+    {
+      "text": "built",
+      "start": 16.130249433106574,
+      "end": 16.370249433106576
+    },
+    {
+      "text": "a",
+      "start": 16.370249433106576,
+      "end": 16.450249433106574
+    },
+    {
+      "text": "language",
+      "start": 16.450249433106574,
+      "end": 16.850249433106576
+    },
+    {
+      "text": "slightly",
+      "start": 16.850249433106576,
+      "end": 17.330249433106577
+    },
+    {
+      "text": "above",
+      "start": 17.330249433106577,
+      "end": 17.570249433106575
+    },
+    {
+      "text": "it",
+      "start": 17.570249433106575,
+      "end": 17.730249433106575
+    },
+    {
+      "text": "and",
+      "start": 17.970249433106574,
+      "end": 18.050249433106575
+    },
+    {
+      "text": "a",
+      "start": 18.050249433106575,
+      "end": 18.130249433106574
+    },
+    {
+      "text": "program",
+      "start": 18.130249433106574,
+      "end": 18.610249433106574
+    },
+    {
+      "text": "that",
+      "start": 18.610249433106574,
+      "end": 18.690249433106576
+    },
+    {
+      "text": "translates",
+      "start": 18.690249433106576,
+      "end": 19.250249433106575
+    },
+    {
+      "text": "downward",
+      "start": 19.250249433106575,
+      "end": 19.810249433106577
+    },
+    {
+      "text": "Then",
+      "start": 20.130249433106577,
+      "end": 20.290249433106574
+    },
+    {
+      "text": "a",
+      "start": 20.290249433106574,
+      "end": 20.290249433106574
+    },
+    {
+      "text": "language",
+      "start": 20.290249433106574,
+      "end": 20.690249433106576
+    },
+    {
+      "text": "above",
+      "start": 20.690249433106576,
+      "end": 21.090249433106575
+    },
+    {
+      "text": "that",
+      "start": 21.090249433106575,
+      "end": 21.250249433106575
+    },
+    {
+      "text": "one",
+      "start": 21.250249433106575,
+      "end": 21.570249433106575
+    },
+    {
+      "text": "Then",
+      "start": 21.730249433106575,
+      "end": 21.970249433106574
+    },
+    {
+      "text": "another",
+      "start": 21.970249433106574,
+      "end": 22.290249433106574
+    },
+    {
+      "text": "above",
+      "start": 22.290249433106574,
+      "end": 22.690249433106576
+    },
+    {
+      "text": "that",
+      "start": 22.690249433106576,
+      "end": 22.930249433106574
+    },
+    {
+      "text": "Each",
+      "start": 23.170249433106576,
+      "end": 23.490249433106577
+    },
+    {
+      "text": "layer",
+      "start": 23.490249433106577,
+      "end": 23.730249433106575
+    },
+    {
+      "text": "exists",
+      "start": 23.730249433106575,
+      "end": 24.370249433106576
+    },
+    {
+      "text": "so",
+      "start": 24.530249433106576,
+      "end": 24.690249433106572
+    },
+    {
+      "text": "the",
+      "start": 24.690249433106572,
+      "end": 24.770249433106574
+    },
+    {
+      "text": "layer",
+      "start": 24.770249433106574,
+      "end": 25.090249433106575
+    },
+    {
+      "text": "above",
+      "start": 25.090249433106575,
+      "end": 25.410249433106575
+    },
+    {
+      "text": "it",
+      "start": 25.410249433106575,
+      "end": 25.570249433106575
+    },
+    {
+      "text": "can",
+      "start": 25.570249433106575,
+      "end": 25.650249433106573
+    },
+    {
+      "text": "stop",
+      "start": 25.650249433106573,
+      "end": 26.050249433106575
+    },
+    {
+      "text": "caring",
+      "start": 26.050249433106575,
+      "end": 26.370249433106576
+    },
+    {
+      "text": "about",
+      "start": 26.370249433106576,
+      "end": 26.610249433106574
+    },
+    {
+      "text": "something",
+      "start": 26.610249433106574,
+      "end": 27.090249433106575
+    },
+    {
+      "text": "You",
+      "start": 27.330249433106573,
+      "end": 27.490249433106577
+    },
+    {
+      "text": "write",
+      "start": 27.490249433106577,
+      "end": 27.730249433106575
+    },
+    {
+      "text": "add",
+      "start": 27.810249433106577,
+      "end": 28.050249433106575
+    },
+    {
+      "text": "these",
+      "start": 28.050249433106575,
+      "end": 28.290249433106574
+    },
+    {
+      "text": "two",
+      "start": 28.290249433106574,
+      "end": 28.450249433106578
+    },
+    {
+      "text": "numbers",
+      "start": 28.450249433106578,
+      "end": 28.930249433106574
+    },
+    {
+      "text": "Something",
+      "start": 29.271927437641722,
+      "end": 29.751927437641722
+    },
+    {
+      "text": "below",
+      "start": 29.751927437641722,
+      "end": 30.071927437641722
+    },
+    {
+      "text": "decides",
+      "start": 30.071927437641722,
+      "end": 30.551927437641723
+    },
+    {
+      "text": "which",
+      "start": 30.551927437641723,
+      "end": 30.79192743764172
+    },
+    {
+      "text": "piece",
+      "start": 30.79192743764172,
+      "end": 31.03192743764172
+    },
+    {
+      "text": "of",
+      "start": 31.03192743764172,
+      "end": 31.11192743764172
+    },
+    {
+      "text": "silicon",
+      "start": 31.11192743764172,
+      "end": 31.591927437641722
+    },
+    {
+      "text": "does",
+      "start": 31.591927437641722,
+      "end": 31.83192743764172
+    },
+    {
+      "text": "it",
+      "start": 31.83192743764172,
+      "end": 31.911927437641722
+    },
+    {
+      "text": "And",
+      "start": 32.151927437641724,
+      "end": 32.31192743764172
+    },
+    {
+      "text": "under",
+      "start": 32.31192743764172,
+      "end": 32.471927437641725
+    },
+    {
+      "text": "that",
+      "start": 32.55192743764172,
+      "end": 32.87192743764172
+    },
+    {
+      "text": "an",
+      "start": 32.95192743764172,
+      "end": 33.111927437641725
+    },
+    {
+      "text": "operating",
+      "start": 33.19192743764172,
+      "end": 33.67192743764172
+    },
+    {
+      "text": "system",
+      "start": 33.67192743764172,
+      "end": 34.07192743764172
+    },
+    {
+      "text": "is",
+      "start": 34.07192743764172,
+      "end": 34.151927437641724
+    },
+    {
+      "text": "deciding",
+      "start": 34.151927437641724,
+      "end": 34.71192743764172
+    },
+    {
+      "text": "who",
+      "start": 34.71192743764172,
+      "end": 34.87192743764172
+    },
+    {
+      "text": "gets",
+      "start": 34.87192743764172,
+      "end": 35.111927437641725
+    },
+    {
+      "text": "memory",
+      "start": 35.111927437641725,
+      "end": 35.59192743764172
+    },
+    {
+      "text": "and",
+      "start": 35.75192743764172,
+      "end": 35.99192743764172
+    },
+    {
+      "text": "when",
+      "start": 35.99192743764172,
+      "end": 36.31192743764172
+    },
+    {
+      "text": "None",
+      "start": 36.55192743764172,
+      "end": 36.79192743764172
+    },
+    {
+      "text": "of",
+      "start": 36.79192743764172,
+      "end": 36.87192743764172
+    },
+    {
+      "text": "the",
+      "start": 36.87192743764172,
+      "end": 36.95192743764172
+    },
+    {
+      "text": "layers",
+      "start": 36.95192743764172,
+      "end": 37.35192743764172
+    },
+    {
+      "text": "are",
+      "start": 37.35192743764172,
+      "end": 37.43192743764172
+    },
+    {
+      "text": "optional",
+      "start": 37.43192743764172,
+      "end": 37.99192743764172
+    },
+    {
+      "text": "and",
+      "start": 38.15192743764172,
+      "end": 38.31192743764172
+    },
+    {
+      "text": "none",
+      "start": 38.31192743764172,
+      "end": 38.471927437641725
+    },
+    {
+      "text": "of",
+      "start": 38.471927437641725,
+      "end": 38.55192743764172
+    },
+    {
+      "text": "them",
+      "start": 38.55192743764172,
+      "end": 38.71192743764172
+    },
+    {
+      "text": "are",
+      "start": 38.71192743764172,
+      "end": 38.79192743764172
+    },
+    {
+      "text": "visible",
+      "start": 38.79192743764172,
+      "end": 39.19192743764172
+    },
+    {
+      "text": "from",
+      "start": 39.19192743764172,
+      "end": 39.35192743764172
+    },
+    {
+      "text": "the",
+      "start": 39.35192743764172,
+      "end": 39.43192743764172
+    },
+    {
+      "text": "top",
+      "start": 39.43192743764172,
+      "end": 39.831927437641724
+    },
+    {
+      "text": "Which",
+      "start": 40.07192743764172,
+      "end": 40.23192743764172
+    },
+    {
+      "text": "is",
+      "start": 40.23192743764172,
+      "end": 40.31192743764172
+    },
+    {
+      "text": "how",
+      "start": 40.31192743764172,
+      "end": 40.471927437641725
+    },
+    {
+      "text": "three",
+      "start": 40.471927437641725,
+      "end": 40.79192743764172
+    },
+    {
+      "text": "lines",
+      "start": 40.79192743764172,
+      "end": 41.111927437641725
+    },
+    {
+      "text": "you",
+      "start": 41.111927437641725,
+      "end": 41.19192743764172
+    },
+    {
+      "text": "can",
+      "start": 41.19192743764172,
+      "end": 41.35192743764172
+    },
+    {
+      "text": "read",
+      "start": 41.35192743764172,
+      "end": 41.67192743764172
+    },
+    {
+      "text": "end",
+      "start": 41.67192743764172,
+      "end": 41.91192743764172
+    },
+    {
+      "text": "up",
+      "start": 41.91192743764172,
+      "end": 41.99192743764172
+    },
+    {
+      "text": "moving",
+      "start": 41.99192743764172,
+      "end": 42.39192743764172
+    },
+    {
+      "text": "billions",
+      "start": 42.39192743764172,
+      "end": 42.79192743764172
+    },
+    {
+      "text": "of",
+      "start": 42.79192743764172,
+      "end": 42.87192743764172
+    },
+    {
+      "text": "switches",
+      "start": 42.87192743764172,
+      "end": 43.35192743764172
+    },
+    {
+      "text": "you",
+      "start": 43.35192743764172,
+      "end": 43.43192743764172
+    },
+    {
+      "text": "cannot",
+      "start": 43.43192743764172,
+      "end": 43.831927437641724
+    },
+    {
+      "text": "One",
+      "start": 44.25814058956916,
+      "end": 44.498140589569154
+    },
+    {
+      "text": "of",
+      "start": 44.498140589569154,
+      "end": 44.65814058956916
+    },
+    {
+      "text": "these",
+      "start": 44.65814058956916,
+      "end": 44.89814058956916
+    },
+    {
+      "text": "every",
+      "start": 44.89814058956916,
+      "end": 45.138140589569154
+    },
+    {
+      "text": "day",
+      "start": 45.138140589569154,
+      "end": 45.458140589569155
+    },
+    {
+      "text": "Follow",
+      "start": 45.778140589569155,
+      "end": 46.098140589569155
+    },
+    {
+      "text": "so",
+      "start": 46.098140589569155,
+      "end": 46.25814058956916
+    },
+    {
+      "text": "you",
+      "start": 46.25814058956916,
+      "end": 46.418140589569155
+    },
+    {
+      "text": "do",
+      "start": 46.418140589569155,
+      "end": 46.57814058956916
+    },
+    {
+      "text": "not",
+      "start": 46.57814058956916,
+      "end": 46.738140589569156
+    },
+    {
+      "text": "miss",
+      "start": 46.738140589569156,
+      "end": 47.058140589569156
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.058140589569156,
+      "end": 47.53814058956916
+    }
+  ],
+  "text": "Code is a very long list of instructions for flipping switches, written in something a human can stand to read. The machine only understands numbers meaning move this, add that, jump there. Writing that directly is possible, and almost nobody does it, because it is unbearable. So we built a language slightly above it, and a program that translates downward. Then a language above that one. Then another above that. Each layer exists so the layer above it can stop caring about something. You write add these two numbers. Something below decides which piece of silicon does it. And under that, an operating system is deciding who gets memory, and when. None of the layers are optional, and none of them are visible from the top. Which is how three lines you can read end up moving billions of switches you cannot. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

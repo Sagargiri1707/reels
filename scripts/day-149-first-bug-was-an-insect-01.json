@@ -1,0 +1,109 @@
+{
+  "topic": "The first computer bug was an actual insect",
+  "lesson": "The most expensive software failures are almost never one wrong line inside a system, they are two systems that each worked fine disagreeing at the join.",
+  "slug": "day-149-first-bug-was-an-insect-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "In nineteen forty seven a moth got stuck in a relay. They taped it into the logbook.",
+      "scene": "an open logbook with a moth taped to the page, a small black cartoon figure pressing the tape down",
+      "image_text": "FIRST BUG",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open logbook with a moth taped to the page, a small black cartoon figure pressing the tape down. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FIRST BUG\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The note beside it reads first actual case of bug being found.",
+      "scene": "a magnifier over an open page, a small black cartoon figure lifting the magnifier",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a magnifier over an open page, a small black cartoon figure lifting the magnifier. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The word was already in use. The joke was finding a literal one.",
+      "scene": "a rubber stamp, a small black cartoon figure leaning on it with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rubber stamp, a small black cartoon figure leaning on it with their whole body. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "role": "turn",
+      "text": "But the expensive bugs are not insects, and they are almost never one mistake.",
+      "scene": "two gears not quite meshing, a small black cartoon figure forcing them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two gears not quite meshing, a small black cartoon figure forcing them together. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Mariner one was destroyed because of a single wrong character in a formula.",
+      "scene": "one card turned the wrong way in a neat row, a small black cartoon figure righting it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one card turned the wrong way in a neat row, a small black cartoon figure righting it. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Ariane five exploded because working code from the last rocket met a bigger number than it expected.",
+      "scene": "a jug overflowing a small cup, a small black cartoon figure catching the spill",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jug overflowing a small cup, a small black cartoon figure catching the spill. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The Therac twenty five gave massive radiation overdoses because two subsystems disagreed about state.",
+      "scene": "two levers set opposite each other, a small black cartoon figure hauling on both",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two levers set opposite each other, a small black cartoon figure hauling on both. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Notice the pattern. Every part worked. The joins did not.",
+      "scene": "a bridge with a gap exactly at the join, a small black cartoon figure standing at the edge",
+      "image_text": "THE JOINS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bridge with a gap exactly at the join, a small black cartoon figure standing at the edge. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THE JOINS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And the biggest one mostly did not happen, because people spent years quietly fixing it first.",
+      "scene": "a calendar page being torn away, a small black cartoon figure hauling it off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a calendar page being torn away, a small black cartoon figure hauling it off. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Complexity does not cause bugs on its own. Handovers do.",
+      "scene": "two pipe sections leaking at the joint, a small black cartoon figure wrapping the joint",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two pipe sections leaking at the joint, a small black cartoon figure wrapping the joint. the scene belongs to parts that each work perfectly failing where they meet, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "In 1947 a moth jammed a relay and was taped into the logbook as the first actual case of bug being found. The word already existed; the joke was finding a literal one. The expensive failures are different: Mariner 1 lost to a single wrong character, Ariane 5 destroyed by reused code meeting a larger number than it expected, Therac-25 overdoses caused by two subsystems disagreeing about state. Each part worked. The joins did not.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bugs #software #engineering #history #science",
+    "thumbnail_beat": "01"
+  }
+}

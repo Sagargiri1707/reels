@@ -1,0 +1,803 @@
+{
+  "audio_duration": 47.6995,
+  "segments": [
+    {
+      "text": "We",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "make",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "text": "more",
+      "start": 0.32,
+      "end": 0.48
+    },
+    {
+      "text": "transistors",
+      "start": 0.48,
+      "end": 1.2
+    },
+    {
+      "text": "each",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "text": "year",
+      "start": 1.52,
+      "end": 1.76
+    },
+    {
+      "text": "than",
+      "start": 1.76,
+      "end": 1.92
+    },
+    {
+      "text": "the",
+      "start": 1.92,
+      "end": 1.92
+    },
+    {
+      "text": "world",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "text": "grows",
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "text": "grains",
+      "start": 2.64,
+      "end": 3.04
+    },
+    {
+      "text": "of",
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "text": "rice",
+      "start": 3.12,
+      "end": 3.52
+    },
+    {
+      "text": "And",
+      "start": 3.84,
+      "end": 4.0
+    },
+    {
+      "text": "almost",
+      "start": 4.0,
+      "end": 4.32
+    },
+    {
+      "text": "all",
+      "start": 4.32,
+      "end": 4.56
+    },
+    {
+      "text": "of",
+      "start": 4.56,
+      "end": 4.64
+    },
+    {
+      "text": "the",
+      "start": 4.64,
+      "end": 4.72
+    },
+    {
+      "text": "best",
+      "start": 4.72,
+      "end": 5.04
+    },
+    {
+      "text": "ones",
+      "start": 5.04,
+      "end": 5.36
+    },
+    {
+      "text": "come",
+      "start": 5.36,
+      "end": 5.52
+    },
+    {
+      "text": "out",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "of",
+      "start": 5.6,
+      "end": 5.68
+    },
+    {
+      "text": "a",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "handful",
+      "start": 5.76,
+      "end": 6.24
+    },
+    {
+      "text": "of",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "text": "factories",
+      "start": 6.32,
+      "end": 6.96
+    },
+    {
+      "text": "You",
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "text": "do",
+      "start": 7.44,
+      "end": 7.52
+    },
+    {
+      "text": "not",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "carve",
+      "start": 7.84,
+      "end": 8.08
+    },
+    {
+      "text": "a",
+      "start": 8.08,
+      "end": 8.16
+    },
+    {
+      "text": "chip",
+      "start": 8.16,
+      "end": 8.48
+    },
+    {
+      "text": "You",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "text": "print",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "text": "it",
+      "start": 9.2,
+      "end": 9.36
+    },
+    {
+      "text": "with",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "text": "light",
+      "start": 9.6,
+      "end": 10.0
+    },
+    {
+      "text": "A",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "pattern",
+      "start": 10.48,
+      "end": 10.88
+    },
+    {
+      "text": "is",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "shone",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "text": "through",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "text": "a",
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "text": "mask",
+      "start": 11.52,
+      "end": 11.92
+    },
+    {
+      "text": "onto",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "text": "a",
+      "start": 12.32,
+      "end": 12.32
+    },
+    {
+      "text": "wafer",
+      "start": 12.32,
+      "end": 12.72
+    },
+    {
+      "text": "coated",
+      "start": 12.72,
+      "end": 13.12
+    },
+    {
+      "text": "in",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "something",
+      "start": 13.2,
+      "end": 13.6
+    },
+    {
+      "text": "light",
+      "start": 13.6,
+      "end": 13.92
+    },
+    {
+      "text": "sensitive",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "text": "Then",
+      "start": 14.902131519274377,
+      "end": 15.062131519274377
+    },
+    {
+      "text": "it",
+      "start": 15.062131519274377,
+      "end": 15.142131519274377
+    },
+    {
+      "text": "is",
+      "start": 15.222131519274377,
+      "end": 15.302131519274377
+    },
+    {
+      "text": "etched",
+      "start": 15.302131519274377,
+      "end": 15.782131519274376
+    },
+    {
+      "text": "coated",
+      "start": 15.862131519274376,
+      "end": 16.182131519274378
+    },
+    {
+      "text": "and",
+      "start": 16.182131519274378,
+      "end": 16.34213151927438
+    },
+    {
+      "text": "printed",
+      "start": 16.34213151927438,
+      "end": 16.662131519274375
+    },
+    {
+      "text": "again",
+      "start": 16.662131519274375,
+      "end": 17.142131519274376
+    },
+    {
+      "text": "Dozens",
+      "start": 17.382131519274377,
+      "end": 17.782131519274376
+    },
+    {
+      "text": "of",
+      "start": 17.782131519274376,
+      "end": 17.942131519274376
+    },
+    {
+      "text": "times",
+      "start": 17.942131519274376,
+      "end": 18.422131519274377
+    },
+    {
+      "text": "layer",
+      "start": 18.50213151927438,
+      "end": 18.902131519274377
+    },
+    {
+      "text": "on",
+      "start": 18.902131519274377,
+      "end": 19.142131519274376
+    },
+    {
+      "text": "layer",
+      "start": 19.142131519274376,
+      "end": 19.542131519274378
+    },
+    {
+      "text": "To",
+      "start": 19.862131519274378,
+      "end": 19.942131519274376
+    },
+    {
+      "text": "print",
+      "start": 19.942131519274376,
+      "end": 20.182131519274378
+    },
+    {
+      "text": "smaller",
+      "start": 20.182131519274378,
+      "end": 20.662131519274375
+    },
+    {
+      "text": "you",
+      "start": 20.662131519274375,
+      "end": 20.82213151927438
+    },
+    {
+      "text": "need",
+      "start": 20.82213151927438,
+      "end": 20.982131519274375
+    },
+    {
+      "text": "shorter",
+      "start": 20.982131519274375,
+      "end": 21.302131519274376
+    },
+    {
+      "text": "wavelengths",
+      "start": 21.302131519274376,
+      "end": 21.942131519274376
+    },
+    {
+      "text": "and",
+      "start": 22.262131519274377,
+      "end": 22.422131519274377
+    },
+    {
+      "text": "that",
+      "start": 22.422131519274377,
+      "end": 22.582131519274377
+    },
+    {
+      "text": "is",
+      "start": 22.582131519274377,
+      "end": 22.662131519274375
+    },
+    {
+      "text": "where",
+      "start": 22.662131519274375,
+      "end": 22.82213151927438
+    },
+    {
+      "text": "it",
+      "start": 22.82213151927438,
+      "end": 22.902131519274377
+    },
+    {
+      "text": "gets",
+      "start": 22.902131519274377,
+      "end": 23.14213151927438
+    },
+    {
+      "text": "absurd",
+      "start": 23.14213151927438,
+      "end": 23.622131519274376
+    },
+    {
+      "text": "The",
+      "start": 23.942131519274376,
+      "end": 24.022131519274375
+    },
+    {
+      "text": "machines",
+      "start": 24.022131519274375,
+      "end": 24.50213151927438
+    },
+    {
+      "text": "make",
+      "start": 24.50213151927438,
+      "end": 24.662131519274375
+    },
+    {
+      "text": "extreme",
+      "start": 24.662131519274375,
+      "end": 25.14213151927438
+    },
+    {
+      "text": "ultraviolet",
+      "start": 25.222131519274377,
+      "end": 25.942131519274376
+    },
+    {
+      "text": "by",
+      "start": 26.102131519274376,
+      "end": 26.262131519274377
+    },
+    {
+      "text": "hitting",
+      "start": 26.262131519274377,
+      "end": 26.50213151927438
+    },
+    {
+      "text": "falling",
+      "start": 26.50213151927438,
+      "end": 26.902131519274377
+    },
+    {
+      "text": "tin",
+      "start": 26.902131519274377,
+      "end": 27.222131519274377
+    },
+    {
+      "text": "droplets",
+      "start": 27.222131519274377,
+      "end": 27.702131519274374
+    },
+    {
+      "text": "with",
+      "start": 27.702131519274374,
+      "end": 27.782131519274376
+    },
+    {
+      "text": "a",
+      "start": 27.782131519274376,
+      "end": 27.862131519274378
+    },
+    {
+      "text": "laser",
+      "start": 27.862131519274378,
+      "end": 28.342131519274375
+    },
+    {
+      "text": "Twice",
+      "start": 28.50213151927438,
+      "end": 28.902131519274377
+    },
+    {
+      "text": "each",
+      "start": 28.902131519274377,
+      "end": 29.302131519274376
+    },
+    {
+      "text": "One",
+      "start": 29.746303854875286,
+      "end": 29.986303854875285
+    },
+    {
+      "text": "machine",
+      "start": 29.986303854875285,
+      "end": 30.386303854875287
+    },
+    {
+      "text": "costs",
+      "start": 30.386303854875287,
+      "end": 30.626303854875285
+    },
+    {
+      "text": "hundreds",
+      "start": 30.626303854875285,
+      "end": 31.106303854875286
+    },
+    {
+      "text": "of",
+      "start": 31.106303854875286,
+      "end": 31.186303854875288
+    },
+    {
+      "text": "millions",
+      "start": 31.186303854875288,
+      "end": 31.666303854875288
+    },
+    {
+      "text": "weighs",
+      "start": 31.906303854875286,
+      "end": 32.146303854875285
+    },
+    {
+      "text": "as",
+      "start": 32.146303854875285,
+      "end": 32.30630385487529
+    },
+    {
+      "text": "much",
+      "start": 32.30630385487529,
+      "end": 32.466303854875285
+    },
+    {
+      "text": "as",
+      "start": 32.466303854875285,
+      "end": 32.62630385487529
+    },
+    {
+      "text": "a",
+      "start": 32.62630385487529,
+      "end": 32.62630385487529
+    },
+    {
+      "text": "bus",
+      "start": 32.62630385487529,
+      "end": 33.02630385487529
+    },
+    {
+      "text": "and",
+      "start": 33.26630385487529,
+      "end": 33.506303854875284
+    },
+    {
+      "text": "one",
+      "start": 33.506303854875284,
+      "end": 33.66630385487529
+    },
+    {
+      "text": "company",
+      "start": 33.66630385487529,
+      "end": 34.06630385487529
+    },
+    {
+      "text": "makes",
+      "start": 34.06630385487529,
+      "end": 34.38630385487529
+    },
+    {
+      "text": "them",
+      "start": 34.38630385487529,
+      "end": 34.62630385487529
+    },
+    {
+      "text": "The",
+      "start": 35.02630385487529,
+      "end": 35.106303854875286
+    },
+    {
+      "text": "room",
+      "start": 35.106303854875286,
+      "end": 35.34630385487529
+    },
+    {
+      "text": "is",
+      "start": 35.34630385487529,
+      "end": 35.426303854875286
+    },
+    {
+      "text": "cleaner",
+      "start": 35.426303854875286,
+      "end": 35.826303854875285
+    },
+    {
+      "text": "than",
+      "start": 35.826303854875285,
+      "end": 35.90630385487529
+    },
+    {
+      "text": "an",
+      "start": 35.90630385487529,
+      "end": 36.06630385487529
+    },
+    {
+      "text": "operating",
+      "start": 36.06630385487529,
+      "end": 36.54630385487528
+    },
+    {
+      "text": "theatre",
+      "start": 36.54630385487528,
+      "end": 36.94630385487528
+    },
+    {
+      "text": "because",
+      "start": 37.186303854875284,
+      "end": 37.426303854875286
+    },
+    {
+      "text": "a",
+      "start": 37.426303854875286,
+      "end": 37.506303854875284
+    },
+    {
+      "text": "single",
+      "start": 37.506303854875284,
+      "end": 37.90630385487529
+    },
+    {
+      "text": "speck",
+      "start": 37.90630385487529,
+      "end": 38.22630385487528
+    },
+    {
+      "text": "ruins",
+      "start": 38.22630385487528,
+      "end": 38.54630385487528
+    },
+    {
+      "text": "the",
+      "start": 38.54630385487528,
+      "end": 38.70630385487529
+    },
+    {
+      "text": "chip",
+      "start": 38.70630385487529,
+      "end": 38.94630385487528
+    },
+    {
+      "text": "under",
+      "start": 38.94630385487528,
+      "end": 39.26630385487529
+    },
+    {
+      "text": "it",
+      "start": 39.26630385487529,
+      "end": 39.34630385487529
+    },
+    {
+      "text": "Which",
+      "start": 39.66630385487529,
+      "end": 39.826303854875285
+    },
+    {
+      "text": "is",
+      "start": 39.826303854875285,
+      "end": 39.98630385487529
+    },
+    {
+      "text": "why",
+      "start": 39.98630385487529,
+      "end": 40.146303854875285
+    },
+    {
+      "text": "a",
+      "start": 40.146303854875285,
+      "end": 40.22630385487528
+    },
+    {
+      "text": "chip",
+      "start": 40.22630385487528,
+      "end": 40.466303854875285
+    },
+    {
+      "text": "shortage",
+      "start": 40.466303854875285,
+      "end": 40.866303854875284
+    },
+    {
+      "text": "is",
+      "start": 40.866303854875284,
+      "end": 41.02630385487529
+    },
+    {
+      "text": "not",
+      "start": 41.02630385487529,
+      "end": 41.26630385487529
+    },
+    {
+      "text": "a",
+      "start": 41.26630385487529,
+      "end": 41.26630385487529
+    },
+    {
+      "text": "factory",
+      "start": 41.26630385487529,
+      "end": 41.746303854875286
+    },
+    {
+      "text": "problem",
+      "start": 41.746303854875286,
+      "end": 42.22630385487528
+    },
+    {
+      "text": "It",
+      "start": 42.466303854875285,
+      "end": 42.54630385487528
+    },
+    {
+      "text": "is",
+      "start": 42.54630385487528,
+      "end": 42.62630385487529
+    },
+    {
+      "text": "a",
+      "start": 42.62630385487529,
+      "end": 42.70630385487529
+    },
+    {
+      "text": "one",
+      "start": 42.70630385487529,
+      "end": 43.02630385487529
+    },
+    {
+      "text": "supplier",
+      "start": 43.02630385487529,
+      "end": 43.426303854875286
+    },
+    {
+      "text": "problem",
+      "start": 43.506303854875284,
+      "end": 43.98630385487529
+    },
+    {
+      "text": "One",
+      "start": 44.22630385487528,
+      "end": 44.466303854875285
+    },
+    {
+      "text": "of",
+      "start": 44.466303854875285,
+      "end": 44.54630385487528
+    },
+    {
+      "text": "these",
+      "start": 44.54630385487528,
+      "end": 44.786303854875285
+    },
+    {
+      "text": "every",
+      "start": 44.786303854875285,
+      "end": 45.106303854875286
+    },
+    {
+      "text": "day",
+      "start": 45.106303854875286,
+      "end": 45.426303854875286
+    },
+    {
+      "text": "Follow",
+      "start": 45.75854875283447,
+      "end": 46.07854875283447
+    },
+    {
+      "text": "so",
+      "start": 46.07854875283447,
+      "end": 46.23854875283447
+    },
+    {
+      "text": "you",
+      "start": 46.23854875283447,
+      "end": 46.31854875283447
+    },
+    {
+      "text": "do",
+      "start": 46.31854875283447,
+      "end": 46.47854875283447
+    },
+    {
+      "text": "not",
+      "start": 46.47854875283447,
+      "end": 46.71854875283447
+    },
+    {
+      "text": "miss",
+      "start": 46.71854875283447,
+      "end": 46.95854875283447
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.95854875283447,
+      "end": 47.51854875283447
+    }
+  ],
+  "text": "We make more transistors each year than the world grows grains of rice. And almost all of the best ones come out of a handful of factories. You do not carve a chip. You print it, with light. A pattern is shone through a mask onto a wafer coated in something light sensitive. Then it is etched, coated and printed again. Dozens of times, layer on layer. To print smaller you need shorter wavelengths, and that is where it gets absurd. The machines make extreme ultraviolet by hitting falling tin droplets with a laser. Twice each. One machine costs hundreds of millions, weighs as much as a bus, and one company makes them. The room is cleaner than an operating theatre, because a single speck ruins the chip under it. Which is why a chip shortage is not a factory problem. It is a one supplier problem. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Why we dream",
+  "lesson": "After a century of research nobody has settled what dreams are for, and four competing theories each hold real evidence, which is why the question is still open.",
+  "slug": "day-074-why-we-dream-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "We have studied dreams for a century and still cannot agree what they are for.",
+      "scene": "a jigsaw box with no lid, a small black cartoon figure holding up two pieces that will not join",
+      "image_text": "UNSOLVED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jigsaw box with no lid, a small black cartoon figure holding up two pieces that will not join. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"UNSOLVED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You spend around two hours a night doing it. Every night of your life.",
+      "scene": "a wall clock with a wide shaded arc on its face, a small black cartoon figure dragging the hand across the arc",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wall clock with a wide shaded arc on its face, a small black cartoon figure dragging the hand across the arc. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "One theory says it is filing. The brain replaying the day to decide what to keep.",
+      "scene": "a tray of loose glass slides, a small black cartoon figure pushing one into a wooden rack",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of loose glass slides, a small black cartoon figure pushing one into a wooden rack. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Another says it is rehearsal. Running dangerous situations where nothing can actually hurt you.",
+      "scene": "a paper target pinned upright, a small black cartoon figure hurling a small dart at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper target pinned upright, a small black cartoon figure hurling a small dart at it. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Notice how many dreams are being chased, or falling, or losing something.",
+      "scene": "a flight of steps with one tread missing, a small black cartoon figure stepping straight into the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flight of steps with one tread missing, a small black cartoon figure stepping straight into the gap. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A third says it is emotional processing. Taking the sting out while keeping the memory.",
+      "scene": "a hot pan held under running water, a small black cartoon figure gripping the handle in the stream",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hot pan held under running water, a small black cartoon figure gripping the handle in the stream. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And the fourth says there is no purpose at all.",
+      "scene": "a leather dice cup, a small black cartoon figure shaking it hard with both arms",
+      "image_text": "RANDOM",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a leather dice cup, a small black cartoon figure shaking it hard with both arms. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"RANDOM\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Random signals fire in a sleeping brain, and the brain does what it always does. It builds a story.",
+      "scene": "a heap of loose beads, a small black cartoon figure threading a few of them onto a string",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heap of loose beads, a small black cartoon figure threading a few of them onto a string. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "There is real evidence for all four, which is exactly why nobody has won.",
+      "scene": "a four legged stool with even legs, a small black cartoon figure pressing one corner that will not tip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a four legged stool with even legs, a small black cartoon figure pressing one corner that will not tip. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You will spend about six years of your life doing something nobody can explain.",
+      "scene": "a stack of six thick books, a small black cartoon figure standing on top with one arm raised",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of six thick books, a small black cartoon figure standing on top with one arm raised. the scene belongs to an open question with several answers that all partly fit, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A century of research and there is still no agreed answer. Four theories compete: dreams as memory consolidation and sorting, as threat simulation and rehearsal, as emotional processing that takes the sting out of a memory while keeping it, and the activation-synthesis view that random signals fire and the brain builds a story around them. All four have real supporting evidence, which is exactly why none has won. You will spend roughly six years of your life doing it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #dreams #sleep #brain #psychology #science",
+    "thumbnail_beat": "01"
+  }
+}

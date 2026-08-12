@@ -1,0 +1,753 @@
+{
+  "audio_duration": 47.046438,
+  "segments": [
+    {
+      "text": "Stay",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "awake",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "text": "seventeen",
+      "start": 0.64,
+      "end": 1.28
+    },
+    {
+      "text": "hours",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "text": "and",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "text": "your",
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "text": "reaction",
+      "start": 2.0,
+      "end": 2.48
+    },
+    {
+      "text": "times",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "text": "match",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "text": "a",
+      "start": 3.28,
+      "end": 3.28
+    },
+    {
+      "text": "legally",
+      "start": 3.28,
+      "end": 3.84
+    },
+    {
+      "text": "drunk",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "text": "driver",
+      "start": 4.16,
+      "end": 4.64
+    },
+    {
+      "text": "You",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "would",
+      "start": 5.2,
+      "end": 5.28
+    },
+    {
+      "text": "never",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "drive",
+      "start": 5.6,
+      "end": 6.0
+    },
+    {
+      "text": "after",
+      "start": 6.0,
+      "end": 6.24
+    },
+    {
+      "text": "four",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "text": "drinks",
+      "start": 6.56,
+      "end": 7.04
+    },
+    {
+      "text": "You",
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "text": "will",
+      "start": 7.44,
+      "end": 7.52
+    },
+    {
+      "text": "happily",
+      "start": 7.52,
+      "end": 8.0
+    },
+    {
+      "text": "drive",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "text": "after",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "text": "a",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "text": "long",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "text": "day",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "text": "Push",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "it",
+      "start": 10.08,
+      "end": 10.16
+    },
+    {
+      "text": "to",
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "text": "twenty",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "text": "four",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "text": "hours",
+      "start": 10.8,
+      "end": 11.28
+    },
+    {
+      "text": "and",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "text": "the",
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "text": "impairment",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "text": "roughly",
+      "start": 12.0,
+      "end": 12.4
+    },
+    {
+      "text": "doubles",
+      "start": 12.4,
+      "end": 12.96
+    },
+    {
+      "text": "Judgement",
+      "start": 13.28,
+      "end": 13.76
+    },
+    {
+      "text": "goes",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "text": "first",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "then",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "text": "emotional",
+      "start": 14.8,
+      "end": 15.28
+    },
+    {
+      "text": "control",
+      "start": 15.28,
+      "end": 15.84
+    },
+    {
+      "text": "then",
+      "start": 16.0,
+      "end": 16.24
+    },
+    {
+      "text": "your",
+      "start": 16.24,
+      "end": 16.4
+    },
+    {
+      "text": "immune",
+      "start": 16.4,
+      "end": 16.64
+    },
+    {
+      "text": "response",
+      "start": 16.64,
+      "end": 17.28
+    },
+    {
+      "text": "But",
+      "start": 17.688526077097507,
+      "end": 17.768526077097505
+    },
+    {
+      "text": "here",
+      "start": 17.768526077097505,
+      "end": 18.008526077097507
+    },
+    {
+      "text": "is",
+      "start": 18.008526077097507,
+      "end": 18.168526077097507
+    },
+    {
+      "text": "the",
+      "start": 18.168526077097507,
+      "end": 18.248526077097505
+    },
+    {
+      "text": "dangerous",
+      "start": 18.248526077097505,
+      "end": 18.728526077097506
+    },
+    {
+      "text": "part",
+      "start": 18.728526077097506,
+      "end": 19.128526077097508
+    },
+    {
+      "text": "Sleep",
+      "start": 19.368526077097506,
+      "end": 19.768526077097505
+    },
+    {
+      "text": "loss",
+      "start": 19.768526077097505,
+      "end": 20.088526077097505
+    },
+    {
+      "text": "removes",
+      "start": 20.248526077097505,
+      "end": 20.728526077097506
+    },
+    {
+      "text": "your",
+      "start": 20.728526077097506,
+      "end": 20.808526077097508
+    },
+    {
+      "text": "ability",
+      "start": 20.808526077097508,
+      "end": 21.288526077097508
+    },
+    {
+      "text": "to",
+      "start": 21.288526077097508,
+      "end": 21.288526077097508
+    },
+    {
+      "text": "notice",
+      "start": 21.288526077097508,
+      "end": 21.60852607709751
+    },
+    {
+      "text": "sleep",
+      "start": 21.60852607709751,
+      "end": 21.928526077097505
+    },
+    {
+      "text": "loss",
+      "start": 21.928526077097505,
+      "end": 22.328526077097507
+    },
+    {
+      "text": "People",
+      "start": 22.568526077097506,
+      "end": 22.888526077097506
+    },
+    {
+      "text": "tested",
+      "start": 22.888526077097506,
+      "end": 23.288526077097508
+    },
+    {
+      "text": "while",
+      "start": 23.288526077097508,
+      "end": 23.448526077097505
+    },
+    {
+      "text": "sleep",
+      "start": 23.448526077097505,
+      "end": 23.848526077097507
+    },
+    {
+      "text": "deprived",
+      "start": 23.848526077097507,
+      "end": 24.328526077097507
+    },
+    {
+      "text": "rate",
+      "start": 24.328526077097507,
+      "end": 24.568526077097506
+    },
+    {
+      "text": "their",
+      "start": 24.568526077097506,
+      "end": 24.728526077097506
+    },
+    {
+      "text": "own",
+      "start": 24.728526077097506,
+      "end": 24.888526077097506
+    },
+    {
+      "text": "performance",
+      "start": 24.888526077097506,
+      "end": 25.448526077097505
+    },
+    {
+      "text": "as",
+      "start": 25.448526077097505,
+      "end": 25.60852607709751
+    },
+    {
+      "text": "fine",
+      "start": 25.60852607709751,
+      "end": 26.088526077097505
+    },
+    {
+      "text": "It",
+      "start": 26.328526077097507,
+      "end": 26.408526077097505
+    },
+    {
+      "text": "is",
+      "start": 26.408526077097505,
+      "end": 26.568526077097506
+    },
+    {
+      "text": "not",
+      "start": 26.568526077097506,
+      "end": 26.968526077097508
+    },
+    {
+      "text": "Which",
+      "start": 27.208526077097506,
+      "end": 27.368526077097506
+    },
+    {
+      "text": "is",
+      "start": 27.368526077097506,
+      "end": 27.448526077097505
+    },
+    {
+      "text": "why",
+      "start": 27.448526077097505,
+      "end": 27.768526077097505
+    },
+    {
+      "text": "almost",
+      "start": 27.768526077097505,
+      "end": 28.088526077097505
+    },
+    {
+      "text": "nobody",
+      "start": 28.088526077097505,
+      "end": 28.568526077097506
+    },
+    {
+      "text": "who",
+      "start": 28.568526077097506,
+      "end": 28.728526077097506
+    },
+    {
+      "text": "says",
+      "start": 28.728526077097506,
+      "end": 28.968526077097508
+    },
+    {
+      "text": "they",
+      "start": 28.968526077097508,
+      "end": 29.128526077097504
+    },
+    {
+      "text": "function",
+      "start": 29.128526077097504,
+      "end": 29.528526077097506
+    },
+    {
+      "text": "on",
+      "start": 29.528526077097506,
+      "end": 29.688526077097507
+    },
+    {
+      "text": "five",
+      "start": 29.688526077097507,
+      "end": 30.008526077097507
+    },
+    {
+      "text": "hours",
+      "start": 30.008526077097507,
+      "end": 30.408526077097505
+    },
+    {
+      "text": "is",
+      "start": 30.408526077097505,
+      "end": 30.568526077097506
+    },
+    {
+      "text": "measuring",
+      "start": 30.568526077097506,
+      "end": 31.128526077097504
+    },
+    {
+      "text": "anything",
+      "start": 31.128526077097504,
+      "end": 31.60852607709751
+    },
+    {
+      "text": "A",
+      "start": 32.074013605442175,
+      "end": 32.154013605442174
+    },
+    {
+      "text": "very",
+      "start": 32.154013605442174,
+      "end": 32.474013605442174
+    },
+    {
+      "text": "small",
+      "start": 32.474013605442174,
+      "end": 32.794013605442174
+    },
+    {
+      "text": "number",
+      "start": 32.794013605442174,
+      "end": 33.114013605442175
+    },
+    {
+      "text": "of",
+      "start": 33.114013605442175,
+      "end": 33.19401360544217
+    },
+    {
+      "text": "people",
+      "start": 33.19401360544217,
+      "end": 33.59401360544218
+    },
+    {
+      "text": "genuinely",
+      "start": 33.59401360544218,
+      "end": 34.154013605442174
+    },
+    {
+      "text": "do",
+      "start": 34.154013605442174,
+      "end": 34.394013605442176
+    },
+    {
+      "text": "carry",
+      "start": 34.394013605442176,
+      "end": 34.714013605442176
+    },
+    {
+      "text": "a",
+      "start": 34.714013605442176,
+      "end": 34.714013605442176
+    },
+    {
+      "text": "gene",
+      "start": 34.714013605442176,
+      "end": 35.114013605442175
+    },
+    {
+      "text": "variant",
+      "start": 35.114013605442175,
+      "end": 35.434013605442175
+    },
+    {
+      "text": "for",
+      "start": 35.434013605442175,
+      "end": 35.59401360544217
+    },
+    {
+      "text": "short",
+      "start": 35.59401360544217,
+      "end": 35.91401360544218
+    },
+    {
+      "text": "sleep",
+      "start": 35.91401360544218,
+      "end": 36.23401360544217
+    },
+    {
+      "text": "It",
+      "start": 36.55401360544217,
+      "end": 36.714013605442176
+    },
+    {
+      "text": "is",
+      "start": 36.714013605442176,
+      "end": 36.794013605442174
+    },
+    {
+      "text": "rare",
+      "start": 36.794013605442174,
+      "end": 37.114013605442175
+    },
+    {
+      "text": "enough",
+      "start": 37.114013605442175,
+      "end": 37.434013605442175
+    },
+    {
+      "text": "that",
+      "start": 37.434013605442175,
+      "end": 37.51401360544217
+    },
+    {
+      "text": "if",
+      "start": 37.51401360544217,
+      "end": 37.67401360544218
+    },
+    {
+      "text": "you",
+      "start": 37.67401360544218,
+      "end": 37.754013605442175
+    },
+    {
+      "text": "are",
+      "start": 37.754013605442175,
+      "end": 37.83401360544217
+    },
+    {
+      "text": "wondering",
+      "start": 37.83401360544217,
+      "end": 38.31401360544218
+    },
+    {
+      "text": "whether",
+      "start": 38.31401360544218,
+      "end": 38.474013605442174
+    },
+    {
+      "text": "you",
+      "start": 38.474013605442174,
+      "end": 38.63401360544218
+    },
+    {
+      "text": "have",
+      "start": 38.63401360544218,
+      "end": 38.87401360544217
+    },
+    {
+      "text": "it",
+      "start": 38.87401360544217,
+      "end": 39.034013605442176
+    },
+    {
+      "text": "you",
+      "start": 39.034013605442176,
+      "end": 39.19401360544217
+    },
+    {
+      "text": "do",
+      "start": 39.19401360544217,
+      "end": 39.35401360544218
+    },
+    {
+      "text": "not",
+      "start": 39.35401360544218,
+      "end": 39.67401360544218
+    },
+    {
+      "text": "Most",
+      "start": 39.99401360544218,
+      "end": 40.31401360544218
+    },
+    {
+      "text": "people",
+      "start": 40.31401360544218,
+      "end": 40.63401360544218
+    },
+    {
+      "text": "who",
+      "start": 40.63401360544218,
+      "end": 40.714013605442176
+    },
+    {
+      "text": "need",
+      "start": 40.714013605442176,
+      "end": 40.95401360544217
+    },
+    {
+      "text": "less",
+      "start": 40.95401360544217,
+      "end": 41.19401360544217
+    },
+    {
+      "text": "sleep",
+      "start": 41.19401360544217,
+      "end": 41.51401360544217
+    },
+    {
+      "text": "have",
+      "start": 41.51401360544217,
+      "end": 41.67401360544218
+    },
+    {
+      "text": "simply",
+      "start": 41.67401360544218,
+      "end": 41.99401360544218
+    },
+    {
+      "text": "got",
+      "start": 41.99401360544218,
+      "end": 42.23401360544217
+    },
+    {
+      "text": "used",
+      "start": 42.23401360544217,
+      "end": 42.55401360544218
+    },
+    {
+      "text": "to",
+      "start": 42.55401360544218,
+      "end": 42.55401360544218
+    },
+    {
+      "text": "performing",
+      "start": 42.55401360544218,
+      "end": 43.114013605442175
+    },
+    {
+      "text": "worse",
+      "start": 43.114013605442175,
+      "end": 43.434013605442175
+    },
+    {
+      "text": "One",
+      "start": 43.67401360544218,
+      "end": 43.91401360544218
+    },
+    {
+      "text": "of",
+      "start": 43.91401360544218,
+      "end": 43.99401360544218
+    },
+    {
+      "text": "these",
+      "start": 43.99401360544218,
+      "end": 44.23401360544217
+    },
+    {
+      "text": "every",
+      "start": 44.23401360544217,
+      "end": 44.55401360544218
+    },
+    {
+      "text": "day",
+      "start": 44.55401360544218,
+      "end": 44.87401360544217
+    },
+    {
+      "text": "Follow",
+      "start": 45.19401360544217,
+      "end": 45.51401360544217
+    },
+    {
+      "text": "so",
+      "start": 45.51401360544217,
+      "end": 45.67401360544218
+    },
+    {
+      "text": "you",
+      "start": 45.67401360544218,
+      "end": 45.754013605442175
+    },
+    {
+      "text": "do",
+      "start": 45.754013605442175,
+      "end": 45.91401360544218
+    },
+    {
+      "text": "not",
+      "start": 45.91401360544218,
+      "end": 46.154013605442174
+    },
+    {
+      "text": "miss",
+      "start": 46.154013605442174,
+      "end": 46.394013605442176
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.394013605442176,
+      "end": 46.87401360544217
+    }
+  ],
+  "text": "Stay awake seventeen hours and your reaction times match a legally drunk driver. You would never drive after four drinks. You will happily drive after a long day. Push it to twenty four hours and the impairment roughly doubles. Judgement goes first, then emotional control, then your immune response. But here is the dangerous part. Sleep loss removes your ability to notice sleep loss. People tested while sleep deprived rate their own performance as fine. It is not. Which is why almost nobody who says they function on five hours is measuring anything. A very small number of people genuinely do carry a gene variant for short sleep. It is rare enough that if you are wondering whether you have it, you do not. Most people who need less sleep have simply got used to performing worse. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

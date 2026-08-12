@@ -1,0 +1,783 @@
+{
+  "audio_duration": 48.195813,
+  "segments": [
+    {
+      "text": "We",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "have",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "text": "studied",
+      "start": 0.32,
+      "end": 0.8
+    },
+    {
+      "text": "dreams",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "for",
+      "start": 1.2,
+      "end": 1.36
+    },
+    {
+      "text": "a",
+      "start": 1.36,
+      "end": 1.36
+    },
+    {
+      "text": "century",
+      "start": 1.36,
+      "end": 1.92
+    },
+    {
+      "text": "and",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "still",
+      "start": 2.08,
+      "end": 2.4
+    },
+    {
+      "text": "cannot",
+      "start": 2.4,
+      "end": 2.72
+    },
+    {
+      "text": "agree",
+      "start": 2.72,
+      "end": 2.96
+    },
+    {
+      "text": "what",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "text": "they",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "are",
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "text": "for",
+      "start": 3.44,
+      "end": 3.92
+    },
+    {
+      "text": "You",
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "text": "spend",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "around",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "two",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "hours",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "a",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "text": "night",
+      "start": 5.52,
+      "end": 5.84
+    },
+    {
+      "text": "doing",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "it",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "text": "Every",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "night",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "of",
+      "start": 7.12,
+      "end": 7.2
+    },
+    {
+      "text": "your",
+      "start": 7.2,
+      "end": 7.36
+    },
+    {
+      "text": "life",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "text": "One",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "text": "theory",
+      "start": 8.32,
+      "end": 8.56
+    },
+    {
+      "text": "says",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "text": "it",
+      "start": 8.88,
+      "end": 8.96
+    },
+    {
+      "text": "is",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "filing",
+      "start": 9.12,
+      "end": 9.76
+    },
+    {
+      "text": "The",
+      "start": 10.08,
+      "end": 10.08
+    },
+    {
+      "text": "brain",
+      "start": 10.08,
+      "end": 10.48
+    },
+    {
+      "text": "replaying",
+      "start": 10.48,
+      "end": 11.04
+    },
+    {
+      "text": "the",
+      "start": 11.04,
+      "end": 11.04
+    },
+    {
+      "text": "day",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "text": "to",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "decide",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "text": "what",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "text": "to",
+      "start": 12.08,
+      "end": 12.16
+    },
+    {
+      "text": "keep",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "text": "Another",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "text": "says",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "text": "it",
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "text": "is",
+      "start": 13.76,
+      "end": 13.84
+    },
+    {
+      "text": "rehearsal",
+      "start": 13.84,
+      "end": 14.48
+    },
+    {
+      "text": "Running",
+      "start": 14.742131519274377,
+      "end": 15.142131519274377
+    },
+    {
+      "text": "dangerous",
+      "start": 15.142131519274377,
+      "end": 15.622131519274376
+    },
+    {
+      "text": "situations",
+      "start": 15.622131519274376,
+      "end": 16.34213151927438
+    },
+    {
+      "text": "where",
+      "start": 16.34213151927438,
+      "end": 16.422131519274377
+    },
+    {
+      "text": "nothing",
+      "start": 16.422131519274377,
+      "end": 16.82213151927438
+    },
+    {
+      "text": "can",
+      "start": 16.82213151927438,
+      "end": 16.982131519274375
+    },
+    {
+      "text": "actually",
+      "start": 16.982131519274375,
+      "end": 17.382131519274377
+    },
+    {
+      "text": "hurt",
+      "start": 17.382131519274377,
+      "end": 17.622131519274376
+    },
+    {
+      "text": "you",
+      "start": 17.622131519274376,
+      "end": 17.942131519274376
+    },
+    {
+      "text": "Notice",
+      "start": 18.262131519274377,
+      "end": 18.582131519274377
+    },
+    {
+      "text": "how",
+      "start": 18.582131519274377,
+      "end": 18.742131519274377
+    },
+    {
+      "text": "many",
+      "start": 18.742131519274377,
+      "end": 18.982131519274375
+    },
+    {
+      "text": "dreams",
+      "start": 18.982131519274375,
+      "end": 19.302131519274376
+    },
+    {
+      "text": "are",
+      "start": 19.302131519274376,
+      "end": 19.382131519274377
+    },
+    {
+      "text": "being",
+      "start": 19.382131519274377,
+      "end": 19.622131519274376
+    },
+    {
+      "text": "chased",
+      "start": 19.622131519274376,
+      "end": 20.182131519274378
+    },
+    {
+      "text": "or",
+      "start": 20.342131519274375,
+      "end": 20.50213151927438
+    },
+    {
+      "text": "falling",
+      "start": 20.50213151927438,
+      "end": 21.062131519274377
+    },
+    {
+      "text": "or",
+      "start": 21.302131519274376,
+      "end": 21.382131519274377
+    },
+    {
+      "text": "losing",
+      "start": 21.382131519274377,
+      "end": 21.782131519274376
+    },
+    {
+      "text": "something",
+      "start": 21.782131519274376,
+      "end": 22.262131519274377
+    },
+    {
+      "text": "A",
+      "start": 22.662131519274375,
+      "end": 22.742131519274377
+    },
+    {
+      "text": "third",
+      "start": 22.742131519274377,
+      "end": 23.14213151927438
+    },
+    {
+      "text": "says",
+      "start": 23.14213151927438,
+      "end": 23.46213151927438
+    },
+    {
+      "text": "it",
+      "start": 23.46213151927438,
+      "end": 23.622131519274376
+    },
+    {
+      "text": "is",
+      "start": 23.622131519274376,
+      "end": 23.702131519274374
+    },
+    {
+      "text": "emotional",
+      "start": 23.702131519274374,
+      "end": 24.182131519274378
+    },
+    {
+      "text": "processing",
+      "start": 24.182131519274378,
+      "end": 24.902131519274377
+    },
+    {
+      "text": "Taking",
+      "start": 25.302131519274376,
+      "end": 25.622131519274376
+    },
+    {
+      "text": "the",
+      "start": 25.622131519274376,
+      "end": 25.702131519274374
+    },
+    {
+      "text": "sting",
+      "start": 25.702131519274374,
+      "end": 26.022131519274375
+    },
+    {
+      "text": "out",
+      "start": 26.022131519274375,
+      "end": 26.262131519274377
+    },
+    {
+      "text": "while",
+      "start": 26.262131519274377,
+      "end": 26.422131519274377
+    },
+    {
+      "text": "keeping",
+      "start": 26.422131519274377,
+      "end": 26.742131519274377
+    },
+    {
+      "text": "the",
+      "start": 26.742131519274377,
+      "end": 26.82213151927438
+    },
+    {
+      "text": "memory",
+      "start": 26.82213151927438,
+      "end": 27.302131519274376
+    },
+    {
+      "text": "And",
+      "start": 27.702131519274374,
+      "end": 27.782131519274376
+    },
+    {
+      "text": "the",
+      "start": 27.782131519274376,
+      "end": 27.862131519274378
+    },
+    {
+      "text": "fourth",
+      "start": 27.862131519274378,
+      "end": 28.182131519274378
+    },
+    {
+      "text": "says",
+      "start": 28.182131519274378,
+      "end": 28.50213151927438
+    },
+    {
+      "text": "there",
+      "start": 28.50213151927438,
+      "end": 28.662131519274375
+    },
+    {
+      "text": "is",
+      "start": 28.662131519274375,
+      "end": 28.742131519274377
+    },
+    {
+      "text": "no",
+      "start": 28.742131519274377,
+      "end": 28.982131519274375
+    },
+    {
+      "text": "purpose",
+      "start": 28.982131519274375,
+      "end": 29.382131519274377
+    },
+    {
+      "text": "at",
+      "start": 29.382131519274377,
+      "end": 29.46213151927438
+    },
+    {
+      "text": "all",
+      "start": 29.46213151927438,
+      "end": 29.862131519274378
+    },
+    {
+      "text": "Random",
+      "start": 30.220521541950113,
+      "end": 30.620521541950115
+    },
+    {
+      "text": "signals",
+      "start": 30.620521541950115,
+      "end": 31.100521541950116
+    },
+    {
+      "text": "fire",
+      "start": 31.100521541950116,
+      "end": 31.500521541950114
+    },
+    {
+      "text": "in",
+      "start": 31.500521541950114,
+      "end": 31.580521541950116
+    },
+    {
+      "text": "a",
+      "start": 31.580521541950116,
+      "end": 31.580521541950116
+    },
+    {
+      "text": "sleeping",
+      "start": 31.580521541950116,
+      "end": 32.060521541950116
+    },
+    {
+      "text": "brain",
+      "start": 32.060521541950116,
+      "end": 32.460521541950115
+    },
+    {
+      "text": "and",
+      "start": 32.780521541950115,
+      "end": 32.86052154195011
+    },
+    {
+      "text": "the",
+      "start": 32.86052154195011,
+      "end": 32.94052154195011
+    },
+    {
+      "text": "brain",
+      "start": 32.94052154195011,
+      "end": 33.26052154195011
+    },
+    {
+      "text": "does",
+      "start": 33.26052154195011,
+      "end": 33.500521541950114
+    },
+    {
+      "text": "what",
+      "start": 33.500521541950114,
+      "end": 33.66052154195012
+    },
+    {
+      "text": "it",
+      "start": 33.66052154195012,
+      "end": 33.740521541950116
+    },
+    {
+      "text": "always",
+      "start": 33.740521541950116,
+      "end": 34.140521541950115
+    },
+    {
+      "text": "does",
+      "start": 34.140521541950115,
+      "end": 34.54052154195011
+    },
+    {
+      "text": "It",
+      "start": 34.86052154195011,
+      "end": 35.02052154195012
+    },
+    {
+      "text": "builds",
+      "start": 35.02052154195012,
+      "end": 35.34052154195012
+    },
+    {
+      "text": "a",
+      "start": 35.34052154195012,
+      "end": 35.420521541950116
+    },
+    {
+      "text": "story",
+      "start": 35.420521541950116,
+      "end": 35.98052154195011
+    },
+    {
+      "text": "There",
+      "start": 36.30052154195012,
+      "end": 36.460521541950115
+    },
+    {
+      "text": "is",
+      "start": 36.460521541950115,
+      "end": 36.54052154195011
+    },
+    {
+      "text": "real",
+      "start": 36.54052154195011,
+      "end": 36.86052154195011
+    },
+    {
+      "text": "evidence",
+      "start": 36.86052154195011,
+      "end": 37.26052154195011
+    },
+    {
+      "text": "for",
+      "start": 37.26052154195011,
+      "end": 37.420521541950116
+    },
+    {
+      "text": "all",
+      "start": 37.420521541950116,
+      "end": 37.58052154195011
+    },
+    {
+      "text": "four",
+      "start": 37.58052154195011,
+      "end": 38.060521541950116
+    },
+    {
+      "text": "which",
+      "start": 38.30052154195012,
+      "end": 38.460521541950115
+    },
+    {
+      "text": "is",
+      "start": 38.460521541950115,
+      "end": 38.54052154195011
+    },
+    {
+      "text": "exactly",
+      "start": 38.54052154195011,
+      "end": 39.02052154195012
+    },
+    {
+      "text": "why",
+      "start": 39.02052154195012,
+      "end": 39.26052154195011
+    },
+    {
+      "text": "nobody",
+      "start": 39.26052154195011,
+      "end": 39.66052154195012
+    },
+    {
+      "text": "has",
+      "start": 39.66052154195012,
+      "end": 39.740521541950116
+    },
+    {
+      "text": "won",
+      "start": 39.740521541950116,
+      "end": 40.140521541950115
+    },
+    {
+      "text": "You",
+      "start": 40.460521541950115,
+      "end": 40.62052154195011
+    },
+    {
+      "text": "will",
+      "start": 40.62052154195011,
+      "end": 40.70052154195012
+    },
+    {
+      "text": "spend",
+      "start": 40.70052154195012,
+      "end": 41.02052154195012
+    },
+    {
+      "text": "about",
+      "start": 41.02052154195012,
+      "end": 41.26052154195011
+    },
+    {
+      "text": "six",
+      "start": 41.26052154195011,
+      "end": 41.58052154195011
+    },
+    {
+      "text": "years",
+      "start": 41.58052154195011,
+      "end": 41.820521541950114
+    },
+    {
+      "text": "of",
+      "start": 41.820521541950114,
+      "end": 41.90052154195011
+    },
+    {
+      "text": "your",
+      "start": 41.90052154195011,
+      "end": 42.060521541950116
+    },
+    {
+      "text": "life",
+      "start": 42.060521541950116,
+      "end": 42.38052154195012
+    },
+    {
+      "text": "doing",
+      "start": 42.38052154195012,
+      "end": 42.62052154195011
+    },
+    {
+      "text": "something",
+      "start": 42.62052154195011,
+      "end": 43.100521541950116
+    },
+    {
+      "text": "nobody",
+      "start": 43.100521541950116,
+      "end": 43.420521541950116
+    },
+    {
+      "text": "can",
+      "start": 43.420521541950116,
+      "end": 43.58052154195011
+    },
+    {
+      "text": "explain",
+      "start": 43.58052154195011,
+      "end": 44.140521541950115
+    },
+    {
+      "text": "One",
+      "start": 44.38052154195012,
+      "end": 44.62052154195011
+    },
+    {
+      "text": "of",
+      "start": 44.62052154195011,
+      "end": 44.780521541950115
+    },
+    {
+      "text": "these",
+      "start": 44.780521541950115,
+      "end": 45.02052154195012
+    },
+    {
+      "text": "every",
+      "start": 45.02052154195012,
+      "end": 45.34052154195011
+    },
+    {
+      "text": "day",
+      "start": 45.34052154195011,
+      "end": 45.66052154195012
+    },
+    {
+      "text": "Follow",
+      "start": 46.197868480725624,
+      "end": 46.517868480725625
+    },
+    {
+      "text": "so",
+      "start": 46.517868480725625,
+      "end": 46.59786848072562
+    },
+    {
+      "text": "you",
+      "start": 46.59786848072562,
+      "end": 46.75786848072563
+    },
+    {
+      "text": "do",
+      "start": 46.75786848072563,
+      "end": 46.91786848072562
+    },
+    {
+      "text": "not",
+      "start": 46.91786848072562,
+      "end": 47.157868480725625
+    },
+    {
+      "text": "miss",
+      "start": 47.157868480725625,
+      "end": 47.39786848072563
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.39786848072563,
+      "end": 48.03786848072563
+    }
+  ],
+  "text": "We have studied dreams for a century and still cannot agree what they are for. You spend around two hours a night doing it. Every night of your life. One theory says it is filing. The brain replaying the day to decide what to keep. Another says it is rehearsal. Running dangerous situations where nothing can actually hurt you. Notice how many dreams are being chased, or falling, or losing something. A third says it is emotional processing. Taking the sting out while keeping the memory. And the fourth says there is no purpose at all. Random signals fire in a sleeping brain, and the brain does what it always does. It builds a story. There is real evidence for all four, which is exactly why nobody has won. You will spend about six years of your life doing something nobody can explain. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

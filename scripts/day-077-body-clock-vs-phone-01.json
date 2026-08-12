@@ -1,0 +1,109 @@
+{
+  "topic": "Your phone is arguing with your body clock",
+  "lesson": "Your body runs a roughly twenty-four-hour clock that is reset by light, and morning daylight is a stronger lever on it than avoiding screens at night.",
+  "slug": "day-077-body-clock-vs-phone-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your body runs its own clock, and it is not quite twenty four hours long.",
+      "scene": "an old pocket watch running slightly off, a small black cartoon figure winding it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old pocket watch running slightly off, a small black cartoon figure winding it with both arms. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Shut people in a cave with no daylight and they drift. The clock runs slow.",
+      "scene": "a sundial shut inside a dark box, a small black cartoon figure heaving the box lid open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sundial shut inside a dark box, a small black cartoon figure heaving the box lid open. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So it gets reset every single day, and the thing that resets it is light. Mostly blue light.",
+      "scene": "a shutter thrown open onto a hard beam of light, a small black cartoon figure shoving the shutter wide",
+      "image_text": "LIGHT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shutter thrown open onto a hard beam of light, a small black cartoon figure shoving the shutter wide. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"LIGHT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A master clock in your brain reads that light and sets everything else by it.",
+      "scene": "a station clock on a post, a small black cartoon figure hauling the minute hand round",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a station clock on a post, a small black cartoon figure hauling the minute hand round. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Temperature, alertness, hunger, hormones. All of it runs on that one timetable.",
+      "scene": "a bank of levers all linked to one master bar, a small black cartoon figure pulling the bar down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bank of levers all linked to one master bar, a small black cartoon figure pulling the bar down. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Darkness triggers melatonin, which is not a sedative. It is a signal that night has started.",
+      "scene": "a heavy bell on a frame, a small black cartoon figure swinging off the bell rope",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy bell on a frame, a small black cartoon figure swinging off the bell rope. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "So a bright screen at midnight is not just keeping you up. It is arguing about what time it is.",
+      "scene": "a torch beam aimed straight at a sleeping mask, a small black cartoon figure holding the torch with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a torch beam aimed straight at a sleeping mask, a small black cartoon figure holding the torch with both arms. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Jet lag is the same argument. Your clock is still set to a place you have left.",
+      "scene": "a suitcase with an old paper tag, a small black cartoon figure dragging it across the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a suitcase with an old paper tag, a small black cartoon figure dragging it across the surface. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "But the practical lever is the other end of the day. Morning daylight resets it harder.",
+      "scene": "a curtain thrown wide at a window, a small black cartoon figure hauling it open with their whole body",
+      "image_text": "MORNING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a curtain thrown wide at a window, a small black cartoon figure hauling it open with their whole body. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"MORNING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "And for most people, going to bed at the same time beats going to bed for longer.",
+      "scene": "a row of identical eggcups in a perfect line, a small black cartoon figure nudging the last one into place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of identical eggcups in a perfect line, a small black cartoon figure nudging the last one into place. the scene belongs to a clock that drifts and has to be reset from outside every day, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Your circadian clock is not exactly 24 hours, so it has to be reset daily, and the signal that resets it is light. A master clock in the hypothalamus reads that and sets temperature, alertness, hunger and hormone timing by it. Melatonin is not a sedative, it is a darkness signal. Jet lag and shift work are the same argument in different clothes. The practical version: morning daylight is a stronger lever than evening screen avoidance, and consistent timing beats total duration.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #circadianrhythm #sleep #melatonin #health #science",
+    "thumbnail_beat": "03"
+  }
+}

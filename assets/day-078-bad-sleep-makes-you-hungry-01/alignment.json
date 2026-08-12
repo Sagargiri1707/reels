@@ -1,0 +1,743 @@
+{
+  "audio_duration": 42.5795,
+  "segments": [
+    {
+      "text": "One",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "bad",
+      "start": 0.32,
+      "end": 0.56
+    },
+    {
+      "text": "night",
+      "start": 0.56,
+      "end": 0.88
+    },
+    {
+      "text": "raises",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "text": "the",
+      "start": 1.2,
+      "end": 1.28
+    },
+    {
+      "text": "hormone",
+      "start": 1.28,
+      "end": 1.76
+    },
+    {
+      "text": "that",
+      "start": 1.76,
+      "end": 1.84
+    },
+    {
+      "text": "makes",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "text": "you",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "hungry",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "text": "and",
+      "start": 2.96,
+      "end": 3.12
+    },
+    {
+      "text": "lowers",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "the",
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "text": "one",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "text": "that",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "text": "says",
+      "start": 3.84,
+      "end": 4.08
+    },
+    {
+      "text": "stop",
+      "start": 4.08,
+      "end": 4.56
+    },
+    {
+      "text": "You",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "treat",
+      "start": 5.12,
+      "end": 5.36
+    },
+    {
+      "text": "sleep",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "text": "and",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "eating",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "text": "as",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "two",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "text": "separate",
+      "start": 6.56,
+      "end": 6.96
+    },
+    {
+      "text": "problems",
+      "start": 6.96,
+      "end": 7.52
+    },
+    {
+      "text": "Your",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "body",
+      "start": 7.84,
+      "end": 8.16
+    },
+    {
+      "text": "does",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "not",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "text": "Ghrelin",
+      "start": 8.88,
+      "end": 9.28
+    },
+    {
+      "text": "is",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "text": "the",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "one",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "text": "that",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "tells",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "you",
+      "start": 10.08,
+      "end": 10.24
+    },
+    {
+      "text": "to",
+      "start": 10.24,
+      "end": 10.24
+    },
+    {
+      "text": "eat",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "text": "After",
+      "start": 11.12,
+      "end": 11.44
+    },
+    {
+      "text": "a",
+      "start": 11.44,
+      "end": 11.44
+    },
+    {
+      "text": "short",
+      "start": 11.44,
+      "end": 11.76
+    },
+    {
+      "text": "night",
+      "start": 11.76,
+      "end": 12.0
+    },
+    {
+      "text": "it",
+      "start": 12.0,
+      "end": 12.08
+    },
+    {
+      "text": "goes",
+      "start": 12.08,
+      "end": 12.4
+    },
+    {
+      "text": "up",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "Leptin",
+      "start": 12.96,
+      "end": 13.36
+    },
+    {
+      "text": "is",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "text": "the",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "one",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "text": "that",
+      "start": 13.84,
+      "end": 13.92
+    },
+    {
+      "text": "says",
+      "start": 13.92,
+      "end": 14.16
+    },
+    {
+      "text": "you",
+      "start": 14.16,
+      "end": 14.32
+    },
+    {
+      "text": "have",
+      "start": 14.32,
+      "end": 14.4
+    },
+    {
+      "text": "had",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "text": "enough",
+      "start": 14.64,
+      "end": 14.96
+    },
+    {
+      "text": "After",
+      "start": 15.459410430839002,
+      "end": 15.699410430839002
+    },
+    {
+      "text": "a",
+      "start": 15.699410430839002,
+      "end": 15.779410430839002
+    },
+    {
+      "text": "short",
+      "start": 15.779410430839002,
+      "end": 16.019410430839002
+    },
+    {
+      "text": "night",
+      "start": 16.019410430839002,
+      "end": 16.259410430839
+    },
+    {
+      "text": "it",
+      "start": 16.259410430839,
+      "end": 16.339410430839003
+    },
+    {
+      "text": "goes",
+      "start": 16.339410430839003,
+      "end": 16.659410430839003
+    },
+    {
+      "text": "down",
+      "start": 16.659410430839003,
+      "end": 17.059410430839
+    },
+    {
+      "text": "Both",
+      "start": 17.299410430839004,
+      "end": 17.619410430839
+    },
+    {
+      "text": "controls",
+      "start": 17.619410430839,
+      "end": 18.099410430839
+    },
+    {
+      "text": "pushed",
+      "start": 18.099410430839,
+      "end": 18.419410430839
+    },
+    {
+      "text": "the",
+      "start": 18.419410430839,
+      "end": 18.499410430839003
+    },
+    {
+      "text": "wrong",
+      "start": 18.499410430839003,
+      "end": 18.819410430839003
+    },
+    {
+      "text": "way",
+      "start": 18.819410430839003,
+      "end": 19.139410430839
+    },
+    {
+      "text": "before",
+      "start": 19.299410430839004,
+      "end": 19.539410430839002
+    },
+    {
+      "text": "you",
+      "start": 19.539410430839002,
+      "end": 19.699410430839002
+    },
+    {
+      "text": "have",
+      "start": 19.699410430839002,
+      "end": 19.779410430839
+    },
+    {
+      "text": "made",
+      "start": 19.779410430839,
+      "end": 20.019410430839002
+    },
+    {
+      "text": "a",
+      "start": 20.019410430839002,
+      "end": 20.019410430839002
+    },
+    {
+      "text": "single",
+      "start": 20.019410430839002,
+      "end": 20.419410430839
+    },
+    {
+      "text": "decision",
+      "start": 20.419410430839,
+      "end": 20.979410430839003
+    },
+    {
+      "text": "And",
+      "start": 21.299410430839004,
+      "end": 21.379410430839002
+    },
+    {
+      "text": "the",
+      "start": 21.379410430839002,
+      "end": 21.459410430839
+    },
+    {
+      "text": "craving",
+      "start": 21.459410430839,
+      "end": 21.859410430839002
+    },
+    {
+      "text": "is",
+      "start": 21.859410430839002,
+      "end": 22.019410430839002
+    },
+    {
+      "text": "not",
+      "start": 22.019410430839002,
+      "end": 22.259410430839
+    },
+    {
+      "text": "random",
+      "start": 22.259410430839,
+      "end": 22.739410430839
+    },
+    {
+      "text": "It",
+      "start": 22.899410430839,
+      "end": 23.059410430839
+    },
+    {
+      "text": "skews",
+      "start": 23.059410430839,
+      "end": 23.459410430839
+    },
+    {
+      "text": "hard",
+      "start": 23.459410430839,
+      "end": 23.779410430839
+    },
+    {
+      "text": "towards",
+      "start": 23.779410430839,
+      "end": 24.019410430839002
+    },
+    {
+      "text": "high",
+      "start": 24.019410430839002,
+      "end": 24.259410430839
+    },
+    {
+      "text": "calorie",
+      "start": 24.259410430839,
+      "end": 24.659410430839003
+    },
+    {
+      "text": "food",
+      "start": 24.659410430839003,
+      "end": 25.059410430839
+    },
+    {
+      "text": "A",
+      "start": 25.379410430839002,
+      "end": 25.459410430839
+    },
+    {
+      "text": "tired",
+      "start": 25.459410430839,
+      "end": 25.859410430839002
+    },
+    {
+      "text": "brain",
+      "start": 25.859410430839002,
+      "end": 26.099410430839
+    },
+    {
+      "text": "wants",
+      "start": 26.099410430839,
+      "end": 26.339410430839003
+    },
+    {
+      "text": "fast",
+      "start": 26.339410430839003,
+      "end": 26.739410430839
+    },
+    {
+      "text": "energy",
+      "start": 26.739410430839,
+      "end": 27.219410430839
+    },
+    {
+      "text": "and",
+      "start": 27.379410430839002,
+      "end": 27.539410430839002
+    },
+    {
+      "text": "it",
+      "start": 27.539410430839002,
+      "end": 27.619410430839004
+    },
+    {
+      "text": "wants",
+      "start": 27.619410430839004,
+      "end": 27.939410430839004
+    },
+    {
+      "text": "it",
+      "start": 27.939410430839004,
+      "end": 28.019410430839002
+    },
+    {
+      "text": "now",
+      "start": 28.019410430839002,
+      "end": 28.419410430839
+    },
+    {
+      "text": "Insulin",
+      "start": 28.659410430839003,
+      "end": 29.059410430839
+    },
+    {
+      "text": "sensitivity",
+      "start": 29.059410430839,
+      "end": 29.779410430839
+    },
+    {
+      "text": "drops",
+      "start": 29.779410430839,
+      "end": 30.099410430839
+    },
+    {
+      "text": "too",
+      "start": 30.099410430839,
+      "end": 30.499410430839
+    },
+    {
+      "text": "after",
+      "start": 30.659410430839003,
+      "end": 30.899410430839
+    },
+    {
+      "text": "only",
+      "start": 30.899410430839,
+      "end": 31.219410430838998
+    },
+    {
+      "text": "a",
+      "start": 31.219410430838998,
+      "end": 31.219410430838998
+    },
+    {
+      "text": "few",
+      "start": 31.219410430838998,
+      "end": 31.459410430839
+    },
+    {
+      "text": "short",
+      "start": 31.459410430839,
+      "end": 31.779410430839
+    },
+    {
+      "text": "nights",
+      "start": 31.779410430839,
+      "end": 32.179410430839
+    },
+    {
+      "text": "Which",
+      "start": 32.59183673469388,
+      "end": 32.83183673469387
+    },
+    {
+      "text": "means",
+      "start": 32.83183673469387,
+      "end": 33.071836734693875
+    },
+    {
+      "text": "the",
+      "start": 33.071836734693875,
+      "end": 33.15183673469387
+    },
+    {
+      "text": "same",
+      "start": 33.15183673469387,
+      "end": 33.55183673469388
+    },
+    {
+      "text": "meal",
+      "start": 33.55183673469388,
+      "end": 33.711836734693875
+    },
+    {
+      "text": "does",
+      "start": 33.711836734693875,
+      "end": 33.95183673469388
+    },
+    {
+      "text": "more",
+      "start": 33.95183673469388,
+      "end": 34.19183673469388
+    },
+    {
+      "text": "damage",
+      "start": 34.19183673469388,
+      "end": 34.59183673469388
+    },
+    {
+      "text": "on",
+      "start": 34.59183673469388,
+      "end": 34.751836734693875
+    },
+    {
+      "text": "less",
+      "start": 34.751836734693875,
+      "end": 34.91183673469388
+    },
+    {
+      "text": "sleep",
+      "start": 34.91183673469388,
+      "end": 35.31183673469388
+    },
+    {
+      "text": "Sleep",
+      "start": 35.55183673469388,
+      "end": 35.95183673469388
+    },
+    {
+      "text": "is",
+      "start": 35.95183673469388,
+      "end": 36.031836734693876
+    },
+    {
+      "text": "not",
+      "start": 36.031836734693876,
+      "end": 36.351836734693876
+    },
+    {
+      "text": "the",
+      "start": 36.351836734693876,
+      "end": 36.431836734693874
+    },
+    {
+      "text": "opposite",
+      "start": 36.431836734693874,
+      "end": 36.83183673469388
+    },
+    {
+      "text": "of",
+      "start": 36.83183673469388,
+      "end": 36.99183673469388
+    },
+    {
+      "text": "doing",
+      "start": 36.99183673469388,
+      "end": 37.23183673469388
+    },
+    {
+      "text": "something",
+      "start": 37.23183673469388,
+      "end": 37.711836734693875
+    },
+    {
+      "text": "It",
+      "start": 37.87183673469387,
+      "end": 38.031836734693876
+    },
+    {
+      "text": "is",
+      "start": 38.031836734693876,
+      "end": 38.111836734693874
+    },
+    {
+      "text": "one",
+      "start": 38.111836734693874,
+      "end": 38.27183673469388
+    },
+    {
+      "text": "of",
+      "start": 38.27183673469388,
+      "end": 38.431836734693874
+    },
+    {
+      "text": "the",
+      "start": 38.431836734693874,
+      "end": 38.431836734693874
+    },
+    {
+      "text": "levers",
+      "start": 38.51183673469387,
+      "end": 38.99183673469388
+    },
+    {
+      "text": "One",
+      "start": 39.23183673469388,
+      "end": 39.391836734693875
+    },
+    {
+      "text": "of",
+      "start": 39.391836734693875,
+      "end": 39.55183673469388
+    },
+    {
+      "text": "these",
+      "start": 39.55183673469388,
+      "end": 39.791836734693874
+    },
+    {
+      "text": "every",
+      "start": 39.791836734693874,
+      "end": 40.111836734693874
+    },
+    {
+      "text": "day",
+      "start": 40.111836734693874,
+      "end": 40.431836734693874
+    },
+    {
+      "text": "Follow",
+      "start": 40.671836734693876,
+      "end": 40.99183673469388
+    },
+    {
+      "text": "so",
+      "start": 40.99183673469388,
+      "end": 41.15183673469387
+    },
+    {
+      "text": "you",
+      "start": 41.15183673469387,
+      "end": 41.23183673469388
+    },
+    {
+      "text": "do",
+      "start": 41.23183673469388,
+      "end": 41.391836734693875
+    },
+    {
+      "text": "not",
+      "start": 41.391836734693875,
+      "end": 41.63183673469388
+    },
+    {
+      "text": "miss",
+      "start": 41.63183673469388,
+      "end": 41.87183673469387
+    },
+    {
+      "text": "tomorrow",
+      "start": 41.87183673469387,
+      "end": 42.431836734693874
+    }
+  ],
+  "text": "One bad night raises the hormone that makes you hungry and lowers the one that says stop. You treat sleep and eating as two separate problems. Your body does not. Ghrelin is the one that tells you to eat. After a short night it goes up. Leptin is the one that says you have had enough. After a short night it goes down. Both controls pushed the wrong way, before you have made a single decision. And the craving is not random. It skews hard towards high calorie food. A tired brain wants fast energy, and it wants it now. Insulin sensitivity drops too, after only a few short nights. Which means the same meal does more damage on less sleep. Sleep is not the opposite of doing something. It is one of the levers. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

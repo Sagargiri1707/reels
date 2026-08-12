@@ -1,0 +1,708 @@
+{
+  "audio_duration": 47.621125,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "dolphin",
+      "start": 0.08,
+      "end": 0.64
+    },
+    {
+      "text": "cannot",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "text": "fall",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "text": "fully",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "text": "asleep",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "text": "If",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "it",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "did",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "text": "it",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "text": "would",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "drown",
+      "start": 3.36,
+      "end": 3.84
+    },
+    {
+      "text": "Breathing",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "text": "is",
+      "start": 4.88,
+      "end": 4.96
+    },
+    {
+      "text": "a",
+      "start": 4.96,
+      "end": 5.04
+    },
+    {
+      "text": "decision",
+      "start": 5.04,
+      "end": 5.52
+    },
+    {
+      "text": "for",
+      "start": 5.52,
+      "end": 5.68
+    },
+    {
+      "text": "a",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "dolphin",
+      "start": 5.76,
+      "end": 6.32
+    },
+    {
+      "text": "not",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "text": "a",
+      "start": 6.56,
+      "end": 6.56
+    },
+    {
+      "text": "reflex",
+      "start": 6.56,
+      "end": 7.28
+    },
+    {
+      "text": "Stop",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "text": "deciding",
+      "start": 8.0,
+      "end": 8.64
+    },
+    {
+      "text": "and",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "it",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "stops",
+      "start": 8.96,
+      "end": 9.52
+    },
+    {
+      "text": "So",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "text": "it",
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "text": "sleeps",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "one",
+      "start": 10.4,
+      "end": 10.64
+    },
+    {
+      "text": "half",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "text": "of",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "its",
+      "start": 11.04,
+      "end": 11.12
+    },
+    {
+      "text": "brain",
+      "start": 11.12,
+      "end": 11.44
+    },
+    {
+      "text": "at",
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "text": "a",
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "text": "time",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "text": "One",
+      "start": 12.24,
+      "end": 12.48
+    },
+    {
+      "text": "hemisphere",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "text": "rests",
+      "start": 12.96,
+      "end": 13.6
+    },
+    {
+      "text": "The",
+      "start": 13.84,
+      "end": 13.92
+    },
+    {
+      "text": "other",
+      "start": 13.92,
+      "end": 14.16
+    },
+    {
+      "text": "stays",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "alert",
+      "start": 14.56,
+      "end": 15.04
+    },
+    {
+      "text": "and",
+      "start": 15.2,
+      "end": 15.36
+    },
+    {
+      "text": "the",
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "text": "eye",
+      "start": 15.52,
+      "end": 15.84
+    },
+    {
+      "text": "on",
+      "start": 15.84,
+      "end": 15.92
+    },
+    {
+      "text": "that",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "side",
+      "start": 16.16,
+      "end": 16.48
+    },
+    {
+      "text": "stays",
+      "start": 16.48,
+      "end": 16.88
+    },
+    {
+      "text": "open",
+      "start": 16.88,
+      "end": 17.28
+    },
+    {
+      "text": "Then",
+      "start": 17.6,
+      "end": 17.76
+    },
+    {
+      "text": "they",
+      "start": 17.76,
+      "end": 17.92
+    },
+    {
+      "text": "swap",
+      "start": 17.92,
+      "end": 18.4
+    },
+    {
+      "text": "It",
+      "start": 18.735963718820862,
+      "end": 18.81596371882086
+    },
+    {
+      "text": "never",
+      "start": 18.81596371882086,
+      "end": 19.13596371882086
+    },
+    {
+      "text": "gets",
+      "start": 19.13596371882086,
+      "end": 19.375963718820863
+    },
+    {
+      "text": "a",
+      "start": 19.375963718820863,
+      "end": 19.45596371882086
+    },
+    {
+      "text": "full",
+      "start": 19.45596371882086,
+      "end": 19.695963718820863
+    },
+    {
+      "text": "night",
+      "start": 19.695963718820863,
+      "end": 20.015963718820863
+    },
+    {
+      "text": "and",
+      "start": 20.255963718820862,
+      "end": 20.415963718820862
+    },
+    {
+      "text": "it",
+      "start": 20.415963718820862,
+      "end": 20.49596371882086
+    },
+    {
+      "text": "never",
+      "start": 20.49596371882086,
+      "end": 20.81596371882086
+    },
+    {
+      "text": "stops",
+      "start": 20.81596371882086,
+      "end": 21.375963718820863
+    },
+    {
+      "text": "Evolution",
+      "start": 21.93596371882086,
+      "end": 22.415963718820862
+    },
+    {
+      "text": "had",
+      "start": 22.415963718820862,
+      "end": 22.655963718820864
+    },
+    {
+      "text": "every",
+      "start": 22.655963718820864,
+      "end": 22.975963718820864
+    },
+    {
+      "text": "reason",
+      "start": 22.975963718820864,
+      "end": 23.29596371882086
+    },
+    {
+      "text": "to",
+      "start": 23.375963718820863,
+      "end": 23.45596371882086
+    },
+    {
+      "text": "simply",
+      "start": 23.45596371882086,
+      "end": 23.855963718820863
+    },
+    {
+      "text": "drop",
+      "start": 23.855963718820863,
+      "end": 24.17596371882086
+    },
+    {
+      "text": "sleep",
+      "start": 24.17596371882086,
+      "end": 24.49596371882086
+    },
+    {
+      "text": "here",
+      "start": 24.49596371882086,
+      "end": 24.81596371882086
+    },
+    {
+      "text": "and",
+      "start": 24.975963718820864,
+      "end": 25.13596371882086
+    },
+    {
+      "text": "it",
+      "start": 25.13596371882086,
+      "end": 25.29596371882086
+    },
+    {
+      "text": "did",
+      "start": 25.29596371882086,
+      "end": 25.45596371882086
+    },
+    {
+      "text": "not",
+      "start": 25.45596371882086,
+      "end": 25.77596371882086
+    },
+    {
+      "text": "It",
+      "start": 26.09596371882086,
+      "end": 26.255963718820862
+    },
+    {
+      "text": "bent",
+      "start": 26.255963718820862,
+      "end": 26.49596371882086
+    },
+    {
+      "text": "the",
+      "start": 26.49596371882086,
+      "end": 26.655963718820864
+    },
+    {
+      "text": "entire",
+      "start": 26.655963718820864,
+      "end": 26.975963718820864
+    },
+    {
+      "text": "design",
+      "start": 26.975963718820864,
+      "end": 27.45596371882086
+    },
+    {
+      "text": "around",
+      "start": 27.45596371882086,
+      "end": 27.77596371882086
+    },
+    {
+      "text": "keeping",
+      "start": 27.77596371882086,
+      "end": 28.09596371882086
+    },
+    {
+      "text": "it",
+      "start": 28.09596371882086,
+      "end": 28.17596371882086
+    },
+    {
+      "text": "instead",
+      "start": 28.17596371882086,
+      "end": 28.81596371882086
+    },
+    {
+      "text": "Ducks",
+      "start": 29.13596371882086,
+      "end": 29.535963718820863
+    },
+    {
+      "text": "do",
+      "start": 29.535963718820863,
+      "end": 29.77596371882086
+    },
+    {
+      "text": "a",
+      "start": 29.77596371882086,
+      "end": 29.77596371882086
+    },
+    {
+      "text": "version",
+      "start": 29.77596371882086,
+      "end": 30.17596371882086
+    },
+    {
+      "text": "of",
+      "start": 30.17596371882086,
+      "end": 30.335963718820864
+    },
+    {
+      "text": "it",
+      "start": 30.335963718820864,
+      "end": 30.49596371882086
+    },
+    {
+      "text": "A",
+      "start": 30.655963718820864,
+      "end": 30.655963718820864
+    },
+    {
+      "text": "row",
+      "start": 30.655963718820864,
+      "end": 30.975963718820864
+    },
+    {
+      "text": "sleeps",
+      "start": 30.975963718820864,
+      "end": 31.375963718820863
+    },
+    {
+      "text": "together",
+      "start": 31.375963718820863,
+      "end": 31.85596371882086
+    },
+    {
+      "text": "and",
+      "start": 32.09596371882086,
+      "end": 32.17596371882086
+    },
+    {
+      "text": "the",
+      "start": 32.17596371882086,
+      "end": 32.335963718820864
+    },
+    {
+      "text": "outer",
+      "start": 32.335963718820864,
+      "end": 32.57596371882086
+    },
+    {
+      "text": "birds",
+      "start": 32.57596371882086,
+      "end": 32.975963718820864
+    },
+    {
+      "text": "keep",
+      "start": 32.975963718820864,
+      "end": 33.21596371882086
+    },
+    {
+      "text": "one",
+      "start": 33.21596371882086,
+      "end": 33.45596371882086
+    },
+    {
+      "text": "eye",
+      "start": 33.45596371882086,
+      "end": 33.69596371882086
+    },
+    {
+      "text": "open",
+      "start": 33.69596371882086,
+      "end": 34.17596371882086
+    },
+    {
+      "text": "Frigatebirds",
+      "start": 34.49596371882086,
+      "end": 35.13596371882086
+    },
+    {
+      "text": "sleep",
+      "start": 35.13596371882086,
+      "end": 35.45596371882086
+    },
+    {
+      "text": "while",
+      "start": 35.45596371882086,
+      "end": 35.615963718820865
+    },
+    {
+      "text": "flying",
+      "start": 35.615963718820865,
+      "end": 36.17596371882087
+    },
+    {
+      "text": "Giraffes",
+      "start": 36.52913832199547,
+      "end": 37.08913832199546
+    },
+    {
+      "text": "manage",
+      "start": 37.08913832199546,
+      "end": 37.48913832199547
+    },
+    {
+      "text": "two",
+      "start": 37.48913832199547,
+      "end": 37.729138321995464
+    },
+    {
+      "text": "hours",
+      "start": 37.729138321995464,
+      "end": 38.20913832199547
+    },
+    {
+      "text": "Some",
+      "start": 38.44913832199546,
+      "end": 38.76913832199546
+    },
+    {
+      "text": "bats",
+      "start": 38.76913832199546,
+      "end": 39.08913832199546
+    },
+    {
+      "text": "take",
+      "start": 39.08913832199546,
+      "end": 39.329138321995465
+    },
+    {
+      "text": "nineteen",
+      "start": 39.329138321995465,
+      "end": 39.969138321995466
+    },
+    {
+      "text": "The",
+      "start": 40.289138321995466,
+      "end": 40.44913832199546
+    },
+    {
+      "text": "amount",
+      "start": 40.44913832199546,
+      "end": 40.76913832199547
+    },
+    {
+      "text": "changes",
+      "start": 40.76913832199547,
+      "end": 41.16913832199547
+    },
+    {
+      "text": "everywhere",
+      "start": 41.16913832199547,
+      "end": 41.649138321995466
+    },
+    {
+      "text": "you",
+      "start": 41.649138321995466,
+      "end": 41.80913832199546
+    },
+    {
+      "text": "look",
+      "start": 41.80913832199546,
+      "end": 42.12913832199547
+    },
+    {
+      "text": "The",
+      "start": 42.369138321995464,
+      "end": 42.44913832199546
+    },
+    {
+      "text": "requirement",
+      "start": 42.44913832199546,
+      "end": 43.08913832199546
+    },
+    {
+      "text": "never",
+      "start": 43.08913832199546,
+      "end": 43.329138321995465
+    },
+    {
+      "text": "does",
+      "start": 43.329138321995465,
+      "end": 43.80913832199546
+    },
+    {
+      "text": "One",
+      "start": 44.049138321995464,
+      "end": 44.20913832199547
+    },
+    {
+      "text": "of",
+      "start": 44.20913832199547,
+      "end": 44.369138321995464
+    },
+    {
+      "text": "these",
+      "start": 44.369138321995464,
+      "end": 44.60913832199547
+    },
+    {
+      "text": "every",
+      "start": 44.60913832199547,
+      "end": 44.92913832199547
+    },
+    {
+      "text": "day",
+      "start": 44.92913832199547,
+      "end": 45.329138321995465
+    },
+    {
+      "text": "Follow",
+      "start": 45.56913832199547,
+      "end": 45.88913832199547
+    },
+    {
+      "text": "so",
+      "start": 45.88913832199547,
+      "end": 46.049138321995464
+    },
+    {
+      "text": "you",
+      "start": 46.049138321995464,
+      "end": 46.20913832199547
+    },
+    {
+      "text": "do",
+      "start": 46.20913832199547,
+      "end": 46.289138321995466
+    },
+    {
+      "text": "not",
+      "start": 46.289138321995466,
+      "end": 46.52913832199547
+    },
+    {
+      "text": "miss",
+      "start": 46.52913832199547,
+      "end": 46.84913832199547
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.84913832199547,
+      "end": 47.409138321995464
+    }
+  ],
+  "text": "A dolphin cannot fall fully asleep. If it did, it would drown. Breathing is a decision for a dolphin, not a reflex. Stop deciding and it stops. So it sleeps one half of its brain at a time. One hemisphere rests. The other stays alert, and the eye on that side stays open. Then they swap. It never gets a full night, and it never stops. Evolution had every reason to simply drop sleep here, and it did not. It bent the entire design around keeping it instead. Ducks do a version of it. A row sleeps together and the outer birds keep one eye open. Frigatebirds sleep while flying. Giraffes manage two hours. Some bats take nineteen. The amount changes everywhere you look. The requirement never does. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

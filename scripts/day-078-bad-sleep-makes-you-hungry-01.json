@@ -1,0 +1,109 @@
+{
+  "topic": "Bad sleep makes you hungrier",
+  "lesson": "One short night raises the hormone that makes you hungry and lowers the one that tells you to stop, which makes sleep a metabolic intervention rather than just a rest one.",
+  "slug": "day-078-bad-sleep-makes-you-hungry-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "One bad night raises the hormone that makes you hungry and lowers the one that says stop.",
+      "scene": "a box with two levers, a small black cartoon figure shoving one up and one down at the same time",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a box with two levers, a small black cartoon figure shoving one up and one down at the same time. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You treat sleep and eating as two separate problems. Your body does not.",
+      "scene": "two drawers pulled open at once, a small black cartoon figure with an arm stretched into each",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two drawers pulled open at once, a small black cartoon figure with an arm stretched into each. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Ghrelin is the one that tells you to eat. After a short night it goes up.",
+      "scene": "an empty plate held high, a small black cartoon figure holding it up with both arms",
+      "image_text": "GO",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty plate held high, a small black cartoon figure holding it up with both arms. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"GO\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Leptin is the one that says you have had enough. After a short night it goes down.",
+      "scene": "a covered dish, a small black cartoon figure straining to press the lid down onto it",
+      "image_text": "STOP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a covered dish, a small black cartoon figure straining to press the lid down onto it. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STOP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Both controls pushed the wrong way, before you have made a single decision.",
+      "scene": "a pair of taps, a small black cartoon figure opening one fully while shutting the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pair of taps, a small black cartoon figure opening one fully while shutting the other. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And the craving is not random. It skews hard towards high calorie food.",
+      "scene": "a bowl of plain leaves beside a slab of butter, a small black cartoon figure dragging the butter closer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of plain leaves beside a slab of butter, a small black cartoon figure dragging the butter closer. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "A tired brain wants fast energy, and it wants it now.",
+      "scene": "a single match being struck, a small black cartoon figure striking it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single match being struck, a small black cartoon figure striking it with both arms. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Insulin sensitivity drops too, after only a few short nights.",
+      "scene": "a stiff lock, a small black cartoon figure forcing a key round with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stiff lock, a small black cartoon figure forcing a key round with their whole body. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which means the same meal does more damage on less sleep.",
+      "scene": "one bread roll outweighing three on a balance, a small black cartoon figure pressing the light side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one bread roll outweighing three on a balance, a small black cartoon figure pressing the light side. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Sleep is not the opposite of doing something. It is one of the levers.",
+      "scene": "a toolbox with one empty slot, a small black cartoon figure setting the missing tool back into the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a toolbox with one empty slot, a small black cartoon figure setting the missing tool back into the gap. the scene belongs to two opposing controls both pushed the wrong way at once, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "One night of restricted sleep raises ghrelin, the hormone that says eat, and lowers leptin, the one that says stop. Both controls pushed the wrong way before you have made a single decision. Cravings skew towards high-calorie food because a tired brain wants fast energy, and insulin sensitivity measurably drops after even short-term restriction. Which means sleep is not just a rest intervention. It is a metabolic one.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #sleep #metabolism #hunger #health #science",
+    "thumbnail_beat": "01"
+  }
+}

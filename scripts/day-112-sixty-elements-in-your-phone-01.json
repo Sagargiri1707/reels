@@ -1,0 +1,109 @@
+{
+  "topic": "Your phone contains 60 elements from 30 countries",
+  "lesson": "No country on Earth can build a modern phone alone, and the real concentration risk sits in refining and chipmaking rather than in mining.",
+  "slug": "day-112-sixty-elements-in-your-phone-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your phone contains around sixty elements, from about thirty countries.",
+      "scene": "a flat slab ringed by sixty small stones, a small black cartoon figure setting one in place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat slab ringed by sixty small stones, a small black cartoon figure setting one in place. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It looks like one object. It is an assembly of the entire planet.",
+      "scene": "a sealed grey slab, a small black cartoon figure knocking on its face with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed grey slab, a small black cartoon figure knocking on its face with both arms. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Lithium out of Australia and South America. Cobalt largely out of Congo.",
+      "scene": "two small ore samples on the surface, a small black cartoon figure hauling one across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two small ore samples on the surface, a small black cartoon figure hauling one across. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Rare earth metals mined in several places, and refined almost entirely in one.",
+      "scene": "many buckets feeding one funnel, a small black cartoon figure tipping the last bucket in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. many buckets feeding one funnel, a small black cartoon figure tipping the last bucket in. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "That is the part people get wrong. The risk is not the mining. It is the refining.",
+      "scene": "a heap of raw rock beside one small refined ingot, a small black cartoon figure carrying the ingot",
+      "image_text": "REFINING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heap of raw rock beside one small refined ingot, a small black cartoon figure carrying the ingot. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"REFINING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Plenty of countries hold the ore. Very few hold the plants that make it usable.",
+      "scene": "a crucible with one spout, a small black cartoon figure tipping ore into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crucible with one spout, a small black cartoon figure tipping ore into it. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The chips come from Taiwan, made on machines built by one company in the Netherlands.",
+      "scene": "a single precise lens on a stand, a small black cartoon figure polishing it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single precise lens on a stand, a small black cartoon figure polishing it with both arms. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Then assembly in Vietnam or India, and shipping straight back out again.",
+      "scene": "a packing crate, a small black cartoon figure hauling the tape across its seam",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a packing crate, a small black cartoon figure hauling the tape across its seam. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Not one country on Earth can build a modern phone alone. Not one.",
+      "scene": "a jigsaw of many different coloured pieces, a small black cartoon figure pressing the last one in",
+      "image_text": "NOT ONE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jigsaw of many different coloured pieces, a small black cartoon figure pressing the last one in. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT ONE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is either remarkable cooperation or terrifying dependence, depending on the week.",
+      "scene": "a tall tower of stacked stones, a small black cartoon figure balancing on the top one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall tower of stacked stones, a small black cartoon figure balancing on the top one. the scene belongs to one object assembled out of pieces from everywhere, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Lithium from Australia and South America, cobalt largely from Congo, rare earths mined in several countries and refined almost entirely in one, chips from Taiwan made on machines from a single Dutch company, assembly in Vietnam or India. The concentration risk sits in refining and fabrication, not mining, which is the part most coverage gets backwards. No country can build a modern phone alone.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #supplychain #technology #minerals #trade #science",
+    "thumbnail_beat": "09"
+  }
+}

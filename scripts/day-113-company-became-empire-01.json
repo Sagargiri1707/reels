@@ -1,0 +1,109 @@
+{
+  "topic": "When a trading company became an empire",
+  "lesson": "The East India Company shows the mechanism by which commercial access hardens into governance: each protective step is reasonable and the end of the chain is a private army collecting taxes.",
+  "slug": "day-113-company-became-empire-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The East India Company had its own army, and it was bigger than Britain's.",
+      "scene": "a toy soldier standing on a heavy ledger, a small black cartoon figure lining them up",
+      "image_text": "OWN ARMY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a toy soldier standing on a heavy ledger, a small black cartoon figure lining them up. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"OWN ARMY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It started as a trading licence. Buy over there, sell over here.",
+      "scene": "a rolled paper with a wax seal, a small black cartoon figure cracking the seal open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rolled paper with a wax seal, a small black cartoon figure cracking the seal open. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But trading needs warehouses, and warehouses need guards.",
+      "scene": "a warehouse door with a heavy padlock, a small black cartoon figure fitting the lock",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a warehouse door with a heavy padlock, a small black cartoon figure fitting the lock. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Guards need a fort, and a fort needs land, and land needs an arrangement with whoever holds it.",
+      "scene": "a small wooden fort model, a small black cartoon figure setting the last wall in place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small wooden fort model, a small black cartoon figure setting the last wall in place. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Each step is reasonable. The end of the chain is not.",
+      "scene": "a staircase of blocks each larger than the last, a small black cartoon figure climbing it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a staircase of blocks each larger than the last, a small black cartoon figure climbing it. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "After Plassey in seventeen fifty seven it won the right to collect tax across Bengal.",
+      "scene": "a slotted collection box, a small black cartoon figure shoving coins into the slot",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slotted collection box, a small black cartoon figure shoving coins into the slot. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So a company was now funding its own army out of the taxes of the people it governed.",
+      "scene": "a coin lifted from the box, a small black cartoon figure carrying it to a toy soldier",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coin lifted from the box, a small black cartoon figure carrying it to a toy soldier. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It ran courts. It set prices. It decided what got planted.",
+      "scene": "a gavel, a set of scales and a seed packet in a row, a small black cartoon figure moving the gavel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a gavel, a set of scales and a seed packet in a row, a small black cartoon figure moving the gavel. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The pattern repeats elsewhere. Commercial access hardens into control, then into extraction.",
+      "scene": "three identical wooden stamps in a row, a small black cartoon figure pressing the last one",
+      "image_text": "SAME PATTERN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three identical wooden stamps in a row, a small black cartoon figure pressing the last one. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SAME PATTERN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Nobody voted for it. It was a supply chain that kept needing one more thing to protect itself.",
+      "scene": "a chain fixed to a warehouse door, a small black cartoon figure hauling it taut",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chain fixed to a warehouse door, a small black cartoon figure hauling it taut. the scene belongs to each reasonable step needing one more thing to protect it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The East India Company began with a trading licence and ended with an army larger than Britain's. The mechanism is the interesting part: trade needs warehouses, warehouses need guards, guards need forts, forts need land. After Plassey in 1757 it won the right to collect tax across Bengal, so a private company was funding its own army from the taxes of the people it governed. Commercial leverage converting into governance, then into extraction.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #eastindiacompany #history #empire #trade #science",
+    "thumbnail_beat": "01"
+  }
+}

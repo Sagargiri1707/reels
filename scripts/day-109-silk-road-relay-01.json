@@ -1,0 +1,109 @@
+{
+  "topic": "The Silk Road moved more than silk",
+  "lesson": "The Silk Road was a relay of short trips rather than one long route, which is why prices multiplied, ideas mutated, and nobody could control it.",
+  "slug": "day-109-silk-road-relay-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Almost nobody ever travelled the Silk Road. The goods did. The people mostly did not.",
+      "scene": "a parcel bound in string, a small black cartoon figure retying the knot with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a parcel bound in string, a small black cartoon figure retying the knot with both arms. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You picture one caravan crossing a continent. That almost never happened.",
+      "scene": "a very long chalk line with one cart on it, a small black cartoon figure shoving the cart along",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very long chalk line with one cart on it, a small black cartoon figure shoving the cart along. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A trader worked one segment. Buy at this end, sell at that end, turn around, go home.",
+      "scene": "a short plank between two posts, a small black cartoon figure carrying a bundle across it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a short plank between two posts, a small black cartoon figure carrying a bundle across it. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The next trader picked it up and carried it one more stretch.",
+      "scene": "a bundle set down at one plank's end, a small black cartoon figure heaving it onto the next",
+      "image_text": "HAND TO HAND",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bundle set down at one plank's end, a small black cartoon figure heaving it onto the next. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"HAND TO HAND\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Which is why the price multiplied. Every handover was somebody else's margin.",
+      "scene": "coins stacked higher along a row of steps, a small black cartoon figure adding one at the top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. coins stacked higher along a row of steps, a small black cartoon figure adding one at the top. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And it is why nobody could control it. There was no single road to close.",
+      "scene": "a gate standing alone with open ground both sides, a small black cartoon figure shoving it shut",
+      "image_text": "NO ROAD",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a gate standing alone with open ground both sides, a small black cartoon figure shoving it shut. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO ROAD\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Silk went west. So did paper, gunpowder and mathematics.",
+      "scene": "a roll of cloth, a sheet of paper and an abacus in a line, a small black cartoon figure dragging the cloth",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a roll of cloth, a sheet of paper and an abacus in a line, a small black cartoon figure dragging the cloth. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Religions travelled it too, changing shape at every handover, because nobody carried the whole story.",
+      "scene": "a lump of clay pressed and repressed, a small black cartoon figure squashing it again",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lump of clay pressed and repressed, a small black cartoon figure squashing it again. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So did the Black Death. Same routes, same relay, same speed.",
+      "scene": "a dark stain creeping along the same chalk line, a small black cartoon figure scrubbing at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a dark stain creeping along the same chalk line, a small black cartoon figure scrubbing at it. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "It was never a road. It was a chain of short trips that happened to reach across the world.",
+      "scene": "a chain of short paper links laid end to end, a small black cartoon figure hooking the last one on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chain of short paper links laid end to end, a small black cartoon figure hooking the last one on. the scene belongs to goods passing hand to hand along a chain of short journeys, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The Silk Road was a relay, not a highway. Almost no trader covered the whole distance; each worked one segment and handed the goods on, which is why prices multiplied at every transfer and why nobody could control the route. Silk, spices, paper, gunpowder, mathematics and religions all moved along it, mutating as they went because no one carried the full story. The Black Death used exactly the same routes.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #silkroad #trade #history #globalisation #science",
+    "thumbnail_beat": "04"
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "audio_duration": 47.464375,
+  "segments": [
+    {
+      "text": "Loading",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "a",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "text": "ship",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "text": "used",
+      "start": 0.72,
+      "end": 0.96
+    },
+    {
+      "text": "to",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "take",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "text": "days",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "text": "and",
+      "start": 1.68,
+      "end": 1.84
+    },
+    {
+      "text": "a",
+      "start": 1.84,
+      "end": 1.84
+    },
+    {
+      "text": "small",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "text": "army",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "text": "A",
+      "start": 3.04,
+      "end": 3.04
+    },
+    {
+      "text": "box",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "text": "cut",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "text": "it",
+      "start": 3.68,
+      "end": 3.76
+    },
+    {
+      "text": "down",
+      "start": 3.76,
+      "end": 4.0
+    },
+    {
+      "text": "to",
+      "start": 4.08,
+      "end": 4.08
+    },
+    {
+      "text": "minutes",
+      "start": 4.08,
+      "end": 4.56
+    },
+    {
+      "text": "Before",
+      "start": 4.88,
+      "end": 5.2
+    },
+    {
+      "text": "nineteen",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "text": "fifty",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "text": "six",
+      "start": 5.84,
+      "end": 6.24
+    },
+    {
+      "text": "cargo",
+      "start": 6.4,
+      "end": 6.8
+    },
+    {
+      "text": "was",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "sacks",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "text": "barrels",
+      "start": 7.44,
+      "end": 7.92
+    },
+    {
+      "text": "and",
+      "start": 7.92,
+      "end": 8.0
+    },
+    {
+      "text": "crates",
+      "start": 8.0,
+      "end": 8.48
+    },
+    {
+      "text": "every",
+      "start": 8.72,
+      "end": 8.96
+    },
+    {
+      "text": "one",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "text": "a",
+      "start": 9.2,
+      "end": 9.28
+    },
+    {
+      "text": "different",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "text": "shape",
+      "start": 9.6,
+      "end": 10.0
+    },
+    {
+      "text": "Every",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "text": "item",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "went",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "text": "on",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "text": "and",
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "text": "came",
+      "start": 11.6,
+      "end": 11.84
+    },
+    {
+      "text": "off",
+      "start": 11.84,
+      "end": 12.08
+    },
+    {
+      "text": "by",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "hand",
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "text": "and",
+      "start": 12.88,
+      "end": 12.96
+    },
+    {
+      "text": "half",
+      "start": 12.96,
+      "end": 13.28
+    },
+    {
+      "text": "the",
+      "start": 13.28,
+      "end": 13.28
+    },
+    {
+      "text": "cost",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "text": "of",
+      "start": 13.68,
+      "end": 13.76
+    },
+    {
+      "text": "shipping",
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "text": "was",
+      "start": 14.08,
+      "end": 14.32
+    },
+    {
+      "text": "that",
+      "start": 14.32,
+      "end": 14.56
+    },
+    {
+      "text": "Malcolm",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "text": "McLean's",
+      "start": 15.28,
+      "end": 15.68
+    },
+    {
+      "text": "idea",
+      "start": 15.68,
+      "end": 16.08
+    },
+    {
+      "text": "was",
+      "start": 16.08,
+      "end": 16.24
+    },
+    {
+      "text": "not",
+      "start": 16.24,
+      "end": 16.48
+    },
+    {
+      "text": "the",
+      "start": 16.48,
+      "end": 16.56
+    },
+    {
+      "text": "box",
+      "start": 16.56,
+      "end": 16.96
+    },
+    {
+      "text": "It",
+      "start": 17.456326530612245,
+      "end": 17.536326530612243
+    },
+    {
+      "text": "was",
+      "start": 17.536326530612243,
+      "end": 17.696326530612243
+    },
+    {
+      "text": "that",
+      "start": 17.696326530612243,
+      "end": 17.856326530612243
+    },
+    {
+      "text": "everybody",
+      "start": 17.936326530612245,
+      "end": 18.416326530612245
+    },
+    {
+      "text": "use",
+      "start": 18.416326530612245,
+      "end": 18.576326530612246
+    },
+    {
+      "text": "the",
+      "start": 18.576326530612246,
+      "end": 18.736326530612246
+    },
+    {
+      "text": "same",
+      "start": 18.736326530612246,
+      "end": 19.056326530612246
+    },
+    {
+      "text": "box",
+      "start": 19.056326530612246,
+      "end": 19.456326530612245
+    },
+    {
+      "text": "Same",
+      "start": 19.616326530612245,
+      "end": 20.016326530612243
+    },
+    {
+      "text": "corners",
+      "start": 20.016326530612243,
+      "end": 20.496326530612244
+    },
+    {
+      "text": "same",
+      "start": 20.576326530612246,
+      "end": 20.896326530612242
+    },
+    {
+      "text": "locks",
+      "start": 20.896326530612242,
+      "end": 21.296326530612244
+    },
+    {
+      "text": "same",
+      "start": 21.376326530612246,
+      "end": 21.696326530612243
+    },
+    {
+      "text": "crane",
+      "start": 21.696326530612243,
+      "end": 22.096326530612245
+    },
+    {
+      "text": "in",
+      "start": 22.336326530612244,
+      "end": 22.496326530612244
+    },
+    {
+      "text": "every",
+      "start": 22.496326530612244,
+      "end": 22.736326530612246
+    },
+    {
+      "text": "port",
+      "start": 22.736326530612246,
+      "end": 23.056326530612246
+    },
+    {
+      "text": "on",
+      "start": 23.136326530612244,
+      "end": 23.216326530612243
+    },
+    {
+      "text": "Earth",
+      "start": 23.216326530612243,
+      "end": 23.536326530612243
+    },
+    {
+      "text": "Loading",
+      "start": 23.856326530612243,
+      "end": 24.256326530612245
+    },
+    {
+      "text": "costs",
+      "start": 24.256326530612245,
+      "end": 24.656326530612244
+    },
+    {
+      "text": "fell",
+      "start": 24.656326530612244,
+      "end": 24.896326530612242
+    },
+    {
+      "text": "by",
+      "start": 24.896326530612242,
+      "end": 25.056326530612246
+    },
+    {
+      "text": "well",
+      "start": 25.056326530612246,
+      "end": 25.376326530612246
+    },
+    {
+      "text": "over",
+      "start": 25.376326530612246,
+      "end": 25.616326530612245
+    },
+    {
+      "text": "ninety",
+      "start": 25.616326530612245,
+      "end": 25.936326530612245
+    },
+    {
+      "text": "percent",
+      "start": 25.936326530612245,
+      "end": 26.416326530612245
+    },
+    {
+      "text": "Ports",
+      "start": 26.656326530612244,
+      "end": 26.976326530612244
+    },
+    {
+      "text": "were",
+      "start": 26.976326530612244,
+      "end": 27.136326530612244
+    },
+    {
+      "text": "rebuilt",
+      "start": 27.136326530612244,
+      "end": 27.536326530612243
+    },
+    {
+      "text": "around",
+      "start": 27.616326530612245,
+      "end": 27.936326530612245
+    },
+    {
+      "text": "cranes",
+      "start": 27.936326530612245,
+      "end": 28.416326530612245
+    },
+    {
+      "text": "and",
+      "start": 28.656326530612244,
+      "end": 28.736326530612246
+    },
+    {
+      "text": "the",
+      "start": 28.736326530612246,
+      "end": 28.896326530612242
+    },
+    {
+      "text": "old",
+      "start": 28.896326530612242,
+      "end": 29.136326530612244
+    },
+    {
+      "text": "dockwork",
+      "start": 29.136326530612244,
+      "end": 29.616326530612245
+    },
+    {
+      "text": "simply",
+      "start": 29.616326530612245,
+      "end": 29.936326530612245
+    },
+    {
+      "text": "ended",
+      "start": 29.936326530612245,
+      "end": 30.336326530612244
+    },
+    {
+      "text": "But",
+      "start": 30.656326530612244,
+      "end": 30.816326530612244
+    },
+    {
+      "text": "the",
+      "start": 30.816326530612244,
+      "end": 30.896326530612242
+    },
+    {
+      "text": "real",
+      "start": 30.896326530612242,
+      "end": 31.136326530612244
+    },
+    {
+      "text": "consequence",
+      "start": 31.136326530612244,
+      "end": 31.776326530612245
+    },
+    {
+      "text": "was",
+      "start": 31.776326530612245,
+      "end": 31.936326530612245
+    },
+    {
+      "text": "elsewhere",
+      "start": 31.936326530612245,
+      "end": 32.496326530612244
+    },
+    {
+      "text": "Shipping",
+      "start": 32.805691609977316,
+      "end": 33.28569160997732
+    },
+    {
+      "text": "got",
+      "start": 33.28569160997732,
+      "end": 33.44569160997732
+    },
+    {
+      "text": "cheap",
+      "start": 33.44569160997732,
+      "end": 33.68569160997732
+    },
+    {
+      "text": "enough",
+      "start": 33.68569160997732,
+      "end": 33.92569160997732
+    },
+    {
+      "text": "that",
+      "start": 34.24569160997732,
+      "end": 34.32569160997732
+    },
+    {
+      "text": "location",
+      "start": 34.32569160997732,
+      "end": 34.88569160997732
+    },
+    {
+      "text": "stopped",
+      "start": 34.88569160997732,
+      "end": 35.20569160997732
+    },
+    {
+      "text": "mattering",
+      "start": 35.20569160997732,
+      "end": 35.68569160997732
+    },
+    {
+      "text": "A",
+      "start": 36.00569160997732,
+      "end": 36.08569160997732
+    },
+    {
+      "text": "factory",
+      "start": 36.08569160997732,
+      "end": 36.64569160997732
+    },
+    {
+      "text": "could",
+      "start": 36.64569160997732,
+      "end": 36.805691609977316
+    },
+    {
+      "text": "sit",
+      "start": 36.805691609977316,
+      "end": 36.96569160997732
+    },
+    {
+      "text": "on",
+      "start": 36.96569160997732,
+      "end": 37.12569160997732
+    },
+    {
+      "text": "the",
+      "start": 37.12569160997732,
+      "end": 37.28569160997732
+    },
+    {
+      "text": "other",
+      "start": 37.28569160997732,
+      "end": 37.44569160997732
+    },
+    {
+      "text": "side",
+      "start": 37.44569160997732,
+      "end": 37.76569160997732
+    },
+    {
+      "text": "of",
+      "start": 37.76569160997732,
+      "end": 37.76569160997732
+    },
+    {
+      "text": "the",
+      "start": 37.76569160997732,
+      "end": 37.84569160997732
+    },
+    {
+      "text": "planet",
+      "start": 37.84569160997732,
+      "end": 38.32569160997732
+    },
+    {
+      "text": "and",
+      "start": 38.48569160997732,
+      "end": 38.64569160997732
+    },
+    {
+      "text": "nobody",
+      "start": 38.64569160997732,
+      "end": 38.96569160997732
+    },
+    {
+      "text": "would",
+      "start": 38.96569160997732,
+      "end": 39.12569160997732
+    },
+    {
+      "text": "see",
+      "start": 39.12569160997732,
+      "end": 39.36569160997732
+    },
+    {
+      "text": "it",
+      "start": 39.36569160997732,
+      "end": 39.44569160997732
+    },
+    {
+      "text": "in",
+      "start": 39.44569160997732,
+      "end": 39.52569160997732
+    },
+    {
+      "text": "the",
+      "start": 39.52569160997732,
+      "end": 39.60569160997732
+    },
+    {
+      "text": "price",
+      "start": 39.60569160997732,
+      "end": 40.00569160997732
+    },
+    {
+      "text": "Global",
+      "start": 40.24569160997732,
+      "end": 40.64569160997732
+    },
+    {
+      "text": "supply",
+      "start": 40.64569160997732,
+      "end": 41.04569160997732
+    },
+    {
+      "text": "chains",
+      "start": 41.04569160997732,
+      "end": 41.28569160997732
+    },
+    {
+      "text": "are",
+      "start": 41.28569160997732,
+      "end": 41.44569160997732
+    },
+    {
+      "text": "not",
+      "start": 41.44569160997732,
+      "end": 41.60569160997732
+    },
+    {
+      "text": "a",
+      "start": 41.60569160997732,
+      "end": 41.68569160997732
+    },
+    {
+      "text": "policy",
+      "start": 41.68569160997732,
+      "end": 42.24569160997732
+    },
+    {
+      "text": "They",
+      "start": 42.40569160997732,
+      "end": 42.56569160997732
+    },
+    {
+      "text": "are",
+      "start": 42.56569160997732,
+      "end": 42.64569160997732
+    },
+    {
+      "text": "a",
+      "start": 42.64569160997732,
+      "end": 42.72569160997732
+    },
+    {
+      "text": "consequence",
+      "start": 42.72569160997732,
+      "end": 43.28569160997732
+    },
+    {
+      "text": "of",
+      "start": 43.28569160997732,
+      "end": 43.44569160997732
+    },
+    {
+      "text": "the",
+      "start": 43.44569160997732,
+      "end": 43.52569160997732
+    },
+    {
+      "text": "box",
+      "start": 43.52569160997732,
+      "end": 43.92569160997732
+    },
+    {
+      "text": "One",
+      "start": 44.165691609977316,
+      "end": 44.40569160997732
+    },
+    {
+      "text": "of",
+      "start": 44.40569160997732,
+      "end": 44.48569160997732
+    },
+    {
+      "text": "these",
+      "start": 44.48569160997732,
+      "end": 44.72569160997732
+    },
+    {
+      "text": "every",
+      "start": 44.72569160997732,
+      "end": 45.04569160997732
+    },
+    {
+      "text": "day",
+      "start": 45.04569160997732,
+      "end": 45.36569160997732
+    },
+    {
+      "text": "Follow",
+      "start": 45.60569160997732,
+      "end": 45.92569160997732
+    },
+    {
+      "text": "so",
+      "start": 45.92569160997732,
+      "end": 46.08569160997732
+    },
+    {
+      "text": "you",
+      "start": 46.08569160997732,
+      "end": 46.165691609977316
+    },
+    {
+      "text": "do",
+      "start": 46.165691609977316,
+      "end": 46.32569160997732
+    },
+    {
+      "text": "not",
+      "start": 46.32569160997732,
+      "end": 46.56569160997732
+    },
+    {
+      "text": "miss",
+      "start": 46.56569160997732,
+      "end": 46.72569160997732
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.72569160997732,
+      "end": 47.28569160997732
+    }
+  ],
+  "text": "Loading a ship used to take days and a small army. A box cut it down to minutes. Before nineteen fifty six, cargo was sacks, barrels and crates, every one a different shape. Every item went on and came off by hand, and half the cost of shipping was that. Malcolm McLean's idea was not the box. It was that everybody use the same box. Same corners, same locks, same crane, in every port on Earth. Loading costs fell by well over ninety percent. Ports were rebuilt around cranes, and the old dockwork simply ended. But the real consequence was elsewhere. Shipping got cheap enough that location stopped mattering. A factory could sit on the other side of the planet and nobody would see it in the price. Global supply chains are not a policy. They are a consequence of the box. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

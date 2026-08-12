@@ -1,0 +1,109 @@
+{
+  "topic": "Six chokepoints control global trade",
+  "lesson": "Almost all seaborne trade funnels through about six narrow gaps, and just-in-time supply chains hold no reserve, so one blockage stops factories worldwide within days.",
+  "slug": "day-111-six-chokepoints-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "One ship turned sideways in the Suez Canal and held up billions of dollars a day.",
+      "scene": "a wide funnel with one stick jammed across its neck, a small black cartoon figure yanking at the stick",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide funnel with one stick jammed across its neck, a small black cartoon figure yanking at the stick. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Almost all world trade goes by sea, and the sea is not open everywhere.",
+      "scene": "a bowl of water with one channel cut in the rim, a small black cartoon figure tipping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of water with one channel cut in the rim, a small black cartoon figure tipping it. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It funnels through about six narrow gaps.",
+      "scene": "a wide board narrowing to a single slot, a small black cartoon figure shoving a card through",
+      "image_text": "SIX GAPS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide board narrowing to a single slot, a small black cartoon figure shoving a card through. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SIX GAPS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Suez. Panama. Malacca. Hormuz. Bab-el-Mandeb. The Danish straits.",
+      "scene": "a strip of card cut with six narrow gaps, a small black cartoon figure pushing an arm through one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a strip of card cut with six narrow gaps, a small black cartoon figure pushing an arm through one. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "A fifth of container traffic goes through Malacca. A fifth of all oil through Hormuz.",
+      "scene": "a queue of beads backed up at one gap, a small black cartoon figure feeding them in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a queue of beads backed up at one gap, a small black cartoon figure feeding them in. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And modern supply chains carry almost no slack, deliberately.",
+      "scene": "a rope pulled bar tight, a small black cartoon figure plucking it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope pulled bar tight, a small black cartoon figure plucking it. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Just in time means the part arrives the day it is needed, not a month before.",
+      "scene": "a parcel landing on an otherwise empty shelf, a small black cartoon figure setting it down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a parcel landing on an otherwise empty shelf, a small black cartoon figure setting it down. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "That is enormously efficient, and it means there is nothing sitting in reserve.",
+      "scene": "a bare store cupboard, a small black cartoon figure standing on the empty shelf",
+      "image_text": "NO SPARE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bare store cupboard, a small black cartoon figure standing on the empty shelf. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO SPARE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So one blockage in one of those gaps stops a factory somewhere else within days.",
+      "scene": "a line of gears with one jammed, a small black cartoon figure prying at the stuck one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a line of gears with one jammed, a small black cartoon figure prying at the stuck one. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We built the most efficient system in history by removing every buffer it had.",
+      "scene": "a bridge with every spare plank taken out, a small black cartoon figure stepping carefully across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bridge with every spare plank taken out, a small black cartoon figure stepping carefully across. the scene belongs to everything squeezing through a few narrow gaps with nothing held in reserve, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Almost all seaborne trade funnels through roughly six chokepoints: Suez, Panama, Malacca, Hormuz, Bab-el-Mandeb and the Danish straits. Around a fifth of container traffic passes Malacca and around a fifth of all oil passes Hormuz. Efficiency created the fragility: just-in-time supply chains hold almost no reserve, so a single blockage propagates worldwide within days. One ship sideways in Suez was the demonstration.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #suez #shipping #supplychain #trade #science",
+    "thumbnail_beat": "01"
+  }
+}

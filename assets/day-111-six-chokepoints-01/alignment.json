@@ -1,0 +1,703 @@
+{
+  "audio_duration": 47.516625,
+  "segments": [
+    {
+      "text": "One",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "ship",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "text": "turned",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "text": "sideways",
+      "start": 0.88,
+      "end": 1.52
+    },
+    {
+      "text": "in",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "the",
+      "start": 1.6,
+      "end": 1.68
+    },
+    {
+      "text": "Suez",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "text": "Canal",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "text": "and",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "held",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "up",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "text": "billions",
+      "start": 3.28,
+      "end": 3.68
+    },
+    {
+      "text": "of",
+      "start": 3.68,
+      "end": 3.76
+    },
+    {
+      "text": "dollars",
+      "start": 3.76,
+      "end": 4.16
+    },
+    {
+      "text": "a",
+      "start": 4.16,
+      "end": 4.16
+    },
+    {
+      "text": "day",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "text": "Almost",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "all",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "world",
+      "start": 5.76,
+      "end": 6.08
+    },
+    {
+      "text": "trade",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "goes",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "text": "by",
+      "start": 6.64,
+      "end": 6.8
+    },
+    {
+      "text": "sea",
+      "start": 6.8,
+      "end": 7.28
+    },
+    {
+      "text": "and",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "text": "the",
+      "start": 7.68,
+      "end": 7.68
+    },
+    {
+      "text": "sea",
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "text": "is",
+      "start": 8.0,
+      "end": 8.16
+    },
+    {
+      "text": "not",
+      "start": 8.16,
+      "end": 8.48
+    },
+    {
+      "text": "open",
+      "start": 8.48,
+      "end": 8.72
+    },
+    {
+      "text": "everywhere",
+      "start": 8.72,
+      "end": 9.28
+    },
+    {
+      "text": "It",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "funnels",
+      "start": 9.84,
+      "end": 10.24
+    },
+    {
+      "text": "through",
+      "start": 10.24,
+      "end": 10.48
+    },
+    {
+      "text": "about",
+      "start": 10.48,
+      "end": 10.72
+    },
+    {
+      "text": "six",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "text": "narrow",
+      "start": 11.12,
+      "end": 11.52
+    },
+    {
+      "text": "gaps",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "text": "Suez",
+      "start": 12.24,
+      "end": 12.88
+    },
+    {
+      "text": "Panama",
+      "start": 13.12,
+      "end": 13.68
+    },
+    {
+      "text": "Malacca",
+      "start": 13.84,
+      "end": 14.48
+    },
+    {
+      "text": "Hormuz",
+      "start": 14.72,
+      "end": 15.28
+    },
+    {
+      "text": "BabelMandeb",
+      "start": 15.52,
+      "end": 16.4
+    },
+    {
+      "text": "The",
+      "start": 16.64,
+      "end": 16.72
+    },
+    {
+      "text": "Danish",
+      "start": 16.72,
+      "end": 17.12
+    },
+    {
+      "text": "straits",
+      "start": 17.12,
+      "end": 17.68
+    },
+    {
+      "text": "A",
+      "start": 18.072925170068025,
+      "end": 18.152925170068027
+    },
+    {
+      "text": "fifth",
+      "start": 18.152925170068027,
+      "end": 18.552925170068026
+    },
+    {
+      "text": "of",
+      "start": 18.552925170068026,
+      "end": 18.632925170068027
+    },
+    {
+      "text": "container",
+      "start": 18.632925170068027,
+      "end": 19.032925170068026
+    },
+    {
+      "text": "traffic",
+      "start": 19.032925170068026,
+      "end": 19.432925170068028
+    },
+    {
+      "text": "goes",
+      "start": 19.432925170068028,
+      "end": 19.752925170068025
+    },
+    {
+      "text": "through",
+      "start": 19.752925170068025,
+      "end": 19.91292517006803
+    },
+    {
+      "text": "Malacca",
+      "start": 19.91292517006803,
+      "end": 20.472925170068027
+    },
+    {
+      "text": "A",
+      "start": 20.792925170068028,
+      "end": 20.872925170068026
+    },
+    {
+      "text": "fifth",
+      "start": 20.872925170068026,
+      "end": 21.192925170068026
+    },
+    {
+      "text": "of",
+      "start": 21.192925170068026,
+      "end": 21.352925170068026
+    },
+    {
+      "text": "all",
+      "start": 21.352925170068026,
+      "end": 21.512925170068026
+    },
+    {
+      "text": "oil",
+      "start": 21.512925170068026,
+      "end": 21.832925170068027
+    },
+    {
+      "text": "through",
+      "start": 21.832925170068027,
+      "end": 22.152925170068027
+    },
+    {
+      "text": "Hormuz",
+      "start": 22.152925170068027,
+      "end": 22.712925170068026
+    },
+    {
+      "text": "And",
+      "start": 23.032925170068026,
+      "end": 23.192925170068026
+    },
+    {
+      "text": "modern",
+      "start": 23.192925170068026,
+      "end": 23.512925170068026
+    },
+    {
+      "text": "supply",
+      "start": 23.512925170068026,
+      "end": 23.91292517006803
+    },
+    {
+      "text": "chains",
+      "start": 23.91292517006803,
+      "end": 24.23292517006803
+    },
+    {
+      "text": "carry",
+      "start": 24.23292517006803,
+      "end": 24.552925170068026
+    },
+    {
+      "text": "almost",
+      "start": 24.552925170068026,
+      "end": 24.872925170068026
+    },
+    {
+      "text": "no",
+      "start": 24.872925170068026,
+      "end": 25.112925170068028
+    },
+    {
+      "text": "slack",
+      "start": 25.112925170068028,
+      "end": 25.672925170068027
+    },
+    {
+      "text": "deliberately",
+      "start": 25.832925170068027,
+      "end": 26.472925170068027
+    },
+    {
+      "text": "Just",
+      "start": 26.792925170068028,
+      "end": 27.112925170068024
+    },
+    {
+      "text": "in",
+      "start": 27.112925170068024,
+      "end": 27.272925170068028
+    },
+    {
+      "text": "time",
+      "start": 27.272925170068028,
+      "end": 27.672925170068027
+    },
+    {
+      "text": "means",
+      "start": 27.672925170068027,
+      "end": 27.992925170068027
+    },
+    {
+      "text": "the",
+      "start": 27.992925170068027,
+      "end": 28.072925170068025
+    },
+    {
+      "text": "part",
+      "start": 28.072925170068025,
+      "end": 28.312925170068027
+    },
+    {
+      "text": "arrives",
+      "start": 28.312925170068027,
+      "end": 28.712925170068026
+    },
+    {
+      "text": "the",
+      "start": 28.712925170068026,
+      "end": 28.712925170068026
+    },
+    {
+      "text": "day",
+      "start": 28.712925170068026,
+      "end": 29.032925170068026
+    },
+    {
+      "text": "it",
+      "start": 29.032925170068026,
+      "end": 29.032925170068026
+    },
+    {
+      "text": "is",
+      "start": 29.032925170068026,
+      "end": 29.192925170068026
+    },
+    {
+      "text": "needed",
+      "start": 29.192925170068026,
+      "end": 29.59292517006803
+    },
+    {
+      "text": "not",
+      "start": 29.752925170068025,
+      "end": 29.992925170068027
+    },
+    {
+      "text": "a",
+      "start": 29.992925170068027,
+      "end": 29.992925170068027
+    },
+    {
+      "text": "month",
+      "start": 29.992925170068027,
+      "end": 30.312925170068027
+    },
+    {
+      "text": "before",
+      "start": 30.312925170068027,
+      "end": 30.792925170068028
+    },
+    {
+      "text": "That",
+      "start": 31.246938775510202,
+      "end": 31.406938775510202
+    },
+    {
+      "text": "is",
+      "start": 31.406938775510202,
+      "end": 31.4869387755102
+    },
+    {
+      "text": "enormously",
+      "start": 31.4869387755102,
+      "end": 32.126938775510204
+    },
+    {
+      "text": "efficient",
+      "start": 32.126938775510204,
+      "end": 32.6869387755102
+    },
+    {
+      "text": "and",
+      "start": 32.8469387755102,
+      "end": 33.0069387755102
+    },
+    {
+      "text": "it",
+      "start": 33.0069387755102,
+      "end": 33.086938775510205
+    },
+    {
+      "text": "means",
+      "start": 33.086938775510205,
+      "end": 33.4069387755102
+    },
+    {
+      "text": "there",
+      "start": 33.4069387755102,
+      "end": 33.486938775510204
+    },
+    {
+      "text": "is",
+      "start": 33.486938775510204,
+      "end": 33.6469387755102
+    },
+    {
+      "text": "nothing",
+      "start": 33.6469387755102,
+      "end": 34.0469387755102
+    },
+    {
+      "text": "sitting",
+      "start": 34.0469387755102,
+      "end": 34.3669387755102
+    },
+    {
+      "text": "in",
+      "start": 34.3669387755102,
+      "end": 34.446938775510205
+    },
+    {
+      "text": "reserve",
+      "start": 34.446938775510205,
+      "end": 34.9269387755102
+    },
+    {
+      "text": "So",
+      "start": 35.166938775510204,
+      "end": 35.3269387755102
+    },
+    {
+      "text": "one",
+      "start": 35.3269387755102,
+      "end": 35.6469387755102
+    },
+    {
+      "text": "blockage",
+      "start": 35.6469387755102,
+      "end": 36.2069387755102
+    },
+    {
+      "text": "in",
+      "start": 36.2069387755102,
+      "end": 36.3669387755102
+    },
+    {
+      "text": "one",
+      "start": 36.3669387755102,
+      "end": 36.5269387755102
+    },
+    {
+      "text": "of",
+      "start": 36.5269387755102,
+      "end": 36.6069387755102
+    },
+    {
+      "text": "those",
+      "start": 36.6069387755102,
+      "end": 36.7669387755102
+    },
+    {
+      "text": "gaps",
+      "start": 36.7669387755102,
+      "end": 37.166938775510204
+    },
+    {
+      "text": "stops",
+      "start": 37.3269387755102,
+      "end": 37.7269387755102
+    },
+    {
+      "text": "a",
+      "start": 37.7269387755102,
+      "end": 37.806938775510204
+    },
+    {
+      "text": "factory",
+      "start": 37.806938775510204,
+      "end": 38.2069387755102
+    },
+    {
+      "text": "somewhere",
+      "start": 38.2069387755102,
+      "end": 38.6069387755102
+    },
+    {
+      "text": "else",
+      "start": 38.6069387755102,
+      "end": 38.9269387755102
+    },
+    {
+      "text": "within",
+      "start": 38.9269387755102,
+      "end": 39.2469387755102
+    },
+    {
+      "text": "days",
+      "start": 39.2469387755102,
+      "end": 39.6469387755102
+    },
+    {
+      "text": "We",
+      "start": 39.9669387755102,
+      "end": 40.1269387755102
+    },
+    {
+      "text": "built",
+      "start": 40.1269387755102,
+      "end": 40.446938775510205
+    },
+    {
+      "text": "the",
+      "start": 40.446938775510205,
+      "end": 40.5269387755102
+    },
+    {
+      "text": "most",
+      "start": 40.5269387755102,
+      "end": 40.8469387755102
+    },
+    {
+      "text": "efficient",
+      "start": 40.8469387755102,
+      "end": 41.2469387755102
+    },
+    {
+      "text": "system",
+      "start": 41.2469387755102,
+      "end": 41.5669387755102
+    },
+    {
+      "text": "in",
+      "start": 41.5669387755102,
+      "end": 41.6469387755102
+    },
+    {
+      "text": "history",
+      "start": 41.6469387755102,
+      "end": 42.1269387755102
+    },
+    {
+      "text": "by",
+      "start": 42.3669387755102,
+      "end": 42.446938775510205
+    },
+    {
+      "text": "removing",
+      "start": 42.446938775510205,
+      "end": 42.9269387755102
+    },
+    {
+      "text": "every",
+      "start": 42.9269387755102,
+      "end": 43.166938775510204
+    },
+    {
+      "text": "buffer",
+      "start": 43.166938775510204,
+      "end": 43.5669387755102
+    },
+    {
+      "text": "it",
+      "start": 43.5669387755102,
+      "end": 43.6469387755102
+    },
+    {
+      "text": "had",
+      "start": 43.6469387755102,
+      "end": 44.0469387755102
+    },
+    {
+      "text": "One",
+      "start": 44.2069387755102,
+      "end": 44.3669387755102
+    },
+    {
+      "text": "of",
+      "start": 44.3669387755102,
+      "end": 44.446938775510205
+    },
+    {
+      "text": "these",
+      "start": 44.446938775510205,
+      "end": 44.6869387755102
+    },
+    {
+      "text": "every",
+      "start": 44.6869387755102,
+      "end": 45.0069387755102
+    },
+    {
+      "text": "day",
+      "start": 45.0069387755102,
+      "end": 45.4069387755102
+    },
+    {
+      "text": "Follow",
+      "start": 45.6469387755102,
+      "end": 45.8869387755102
+    },
+    {
+      "text": "so",
+      "start": 45.8869387755102,
+      "end": 46.0469387755102
+    },
+    {
+      "text": "you",
+      "start": 46.0469387755102,
+      "end": 46.2069387755102
+    },
+    {
+      "text": "do",
+      "start": 46.2069387755102,
+      "end": 46.2869387755102
+    },
+    {
+      "text": "not",
+      "start": 46.2869387755102,
+      "end": 46.6069387755102
+    },
+    {
+      "text": "miss",
+      "start": 46.6069387755102,
+      "end": 46.7669387755102
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.7669387755102,
+      "end": 47.3269387755102
+    }
+  ],
+  "text": "One ship turned sideways in the Suez Canal and held up billions of dollars a day. Almost all world trade goes by sea, and the sea is not open everywhere. It funnels through about six narrow gaps. Suez. Panama. Malacca. Hormuz. Bab-el-Mandeb. The Danish straits. A fifth of container traffic goes through Malacca. A fifth of all oil through Hormuz. And modern supply chains carry almost no slack, deliberately. Just in time means the part arrives the day it is needed, not a month before. That is enormously efficient, and it means there is nothing sitting in reserve. So one blockage in one of those gaps stops a factory somewhere else within days. We built the most efficient system in history by removing every buffer it had. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

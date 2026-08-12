@@ -1,0 +1,109 @@
+{
+  "topic": "Rewiring at any age",
+  "lesson": "Adult brains physically reorganise in response to sustained demand, but plasticity slows with age and needs repeated effort rather than a trick.",
+  "slug": "day-071-rewiring-at-any-age-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "London taxi drivers memorise twenty five thousand streets, and it shows up on a brain scan.",
+      "scene": "a folded paper street map opened across the surface, a small black cartoon figure crawling along a route on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded paper street map opened across the surface, a small black cartoon figure crawling along a route on it. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The old line was that adult brains are fixed. Set by your twenties, then downhill.",
+      "scene": "a block of set concrete, a small black cartoon figure hammering a chisel into its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a block of set concrete, a small black cartoon figure hammering a chisel into its face. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The region handling spatial memory is measurably larger in them than in anyone else.",
+      "scene": "two seed trays side by side, one much taller, a small black cartoon figure watering the taller one",
+      "image_text": "BIGGER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two seed trays side by side, one much taller, a small black cartoon figure watering the taller one. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BIGGER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "And it grows across the years of training, not before it. The job built it.",
+      "scene": "a leather work glove worn through at the fingertips, a small black cartoon figure hauling it on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a leather work glove worn through at the fingertips, a small black cartoon figure hauling it on. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Musicians show the same thing, in the regions controlling the fingers they actually use.",
+      "scene": "a piano keyboard with a few keys worn pale, a small black cartoon figure pressing one worn key with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a piano keyboard with a few keys worn pale, a small black cartoon figure pressing one worn key with their whole body. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But the strongest evidence comes from damage.",
+      "scene": "a cracked ceramic bowl mended with visible gold seams, a small black cartoon figure pressing one seam closed",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cracked ceramic bowl mended with visible gold seams, a small black cartoon figure pressing one seam closed. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "After a stroke, undamaged regions can take over work they were never assigned.",
+      "scene": "a road barrier across a lane with a chalk detour arrow, a small black cartoon figure dragging the arrow into place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a road barrier across a lane with a chalk detour arrow, a small black cartoon figure dragging the arrow into place. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "In people blind from birth, the visual cortex gets recruited for touch and hearing instead.",
+      "scene": "a bricked up window with a fresh doorway cut beside it, a small black cartoon figure shoving the new door wide",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bricked up window with a fresh doorway cut beside it, a small black cartoon figure shoving the new door wide. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Be honest about the price though. It slows with age and it needs sustained, repeated effort.",
+      "scene": "a long knotted rope hanging up a slope, a small black cartoon figure hauling themselves up one knot at a time",
+      "image_text": "SLOW",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long knotted rope hanging up a slope, a small black cartoon figure hauling themselves up one knot at a time. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SLOW\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Your brain is not fixed. It is just expensive to change.",
+      "scene": "a heavy stone wheel just starting to turn, a small black cartoon figure shoving it with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy stone wheel just starting to turn, a small black cartoon figure shoving it with their whole body. the scene belongs to things being reshaped by long use and rerouted around damage, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "London taxi drivers who memorise 25,000 streets have a measurably enlarged hippocampus, and it grows across the years of training rather than before it. Musicians show the same in the motor regions for the fingers they use. The strongest evidence comes from damage: stroke patients reroute function to undamaged regions, and people blind from birth recruit visual cortex for touch and hearing. Adult brains are not fixed. They are just expensive to change.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #neuroplasticity #brain #learning #neuroscience #science",
+    "thumbnail_beat": "01"
+  }
+}

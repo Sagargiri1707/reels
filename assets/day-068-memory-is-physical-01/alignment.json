@@ -1,0 +1,708 @@
+{
+  "audio_duration": 44.277438,
+  "segments": [
+    {
+      "text": "Learn",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "something",
+      "start": 0.24,
+      "end": 0.64
+    },
+    {
+      "text": "today",
+      "start": 0.64,
+      "end": 1.2
+    },
+    {
+      "text": "and",
+      "start": 1.36,
+      "end": 1.44
+    },
+    {
+      "text": "the",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "physical",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "shape",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "text": "of",
+      "start": 2.32,
+      "end": 2.4
+    },
+    {
+      "text": "your",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "brain",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "is",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "different",
+      "start": 3.04,
+      "end": 3.44
+    },
+    {
+      "text": "tonight",
+      "start": 3.44,
+      "end": 3.84
+    },
+    {
+      "text": "A",
+      "start": 4.32,
+      "end": 4.32
+    },
+    {
+      "text": "memory",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "is",
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "text": "not",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "a",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "file",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "text": "written",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "somewhere",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "There",
+      "start": 6.64,
+      "end": 6.72
+    },
+    {
+      "text": "is",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "no",
+      "start": 6.88,
+      "end": 7.04
+    },
+    {
+      "text": "drive",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "text": "in",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "text": "there",
+      "start": 7.68,
+      "end": 7.92
+    },
+    {
+      "text": "It",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "is",
+      "start": 8.32,
+      "end": 8.4
+    },
+    {
+      "text": "a",
+      "start": 8.4,
+      "end": 8.48
+    },
+    {
+      "text": "connection",
+      "start": 8.48,
+      "end": 8.96
+    },
+    {
+      "text": "between",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "text": "cells",
+      "start": 9.36,
+      "end": 9.84
+    },
+    {
+      "text": "and",
+      "start": 10.08,
+      "end": 10.24
+    },
+    {
+      "text": "connections",
+      "start": 10.24,
+      "end": 10.72
+    },
+    {
+      "text": "get",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "stronger",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "text": "with",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "use",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "text": "Neurons",
+      "start": 12.24,
+      "end": 12.72
+    },
+    {
+      "text": "that",
+      "start": 12.72,
+      "end": 12.88
+    },
+    {
+      "text": "fire",
+      "start": 12.88,
+      "end": 13.2
+    },
+    {
+      "text": "together",
+      "start": 13.2,
+      "end": 13.6
+    },
+    {
+      "text": "grow",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "text": "more",
+      "start": 13.84,
+      "end": 14.08
+    },
+    {
+      "text": "contact",
+      "start": 14.08,
+      "end": 14.64
+    },
+    {
+      "text": "points",
+      "start": 14.64,
+      "end": 14.88
+    },
+    {
+      "text": "between",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "text": "them",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "text": "Repeat",
+      "start": 15.970249433106575,
+      "end": 16.290249433106574
+    },
+    {
+      "text": "it",
+      "start": 16.290249433106574,
+      "end": 16.530249433106576
+    },
+    {
+      "text": "and",
+      "start": 16.770249433106574,
+      "end": 16.930249433106574
+    },
+    {
+      "text": "that",
+      "start": 16.930249433106574,
+      "end": 17.010249433106576
+    },
+    {
+      "text": "pathway",
+      "start": 17.010249433106576,
+      "end": 17.490249433106577
+    },
+    {
+      "text": "physically",
+      "start": 17.490249433106577,
+      "end": 18.050249433106575
+    },
+    {
+      "text": "thickens",
+      "start": 18.050249433106575,
+      "end": 18.610249433106574
+    },
+    {
+      "text": "like",
+      "start": 18.770249433106574,
+      "end": 18.930249433106574
+    },
+    {
+      "text": "a",
+      "start": 18.930249433106574,
+      "end": 19.010249433106576
+    },
+    {
+      "text": "track",
+      "start": 19.010249433106576,
+      "end": 19.410249433106575
+    },
+    {
+      "text": "worn",
+      "start": 19.410249433106575,
+      "end": 19.650249433106573
+    },
+    {
+      "text": "across",
+      "start": 19.650249433106573,
+      "end": 20.050249433106575
+    },
+    {
+      "text": "grass",
+      "start": 20.050249433106575,
+      "end": 20.610249433106574
+    },
+    {
+      "text": "Which",
+      "start": 20.930249433106574,
+      "end": 21.090249433106575
+    },
+    {
+      "text": "means",
+      "start": 21.090249433106575,
+      "end": 21.330249433106573
+    },
+    {
+      "text": "a",
+      "start": 21.330249433106573,
+      "end": 21.410249433106575
+    },
+    {
+      "text": "memory",
+      "start": 21.410249433106575,
+      "end": 21.810249433106577
+    },
+    {
+      "text": "has",
+      "start": 21.810249433106577,
+      "end": 22.050249433106575
+    },
+    {
+      "text": "to",
+      "start": 22.050249433106575,
+      "end": 22.050249433106575
+    },
+    {
+      "text": "be",
+      "start": 22.050249433106575,
+      "end": 22.210249433106576
+    },
+    {
+      "text": "built",
+      "start": 22.210249433106576,
+      "end": 22.610249433106574
+    },
+    {
+      "text": "and",
+      "start": 22.850249433106576,
+      "end": 23.010249433106576
+    },
+    {
+      "text": "building",
+      "start": 23.010249433106576,
+      "end": 23.330249433106573
+    },
+    {
+      "text": "takes",
+      "start": 23.330249433106573,
+      "end": 23.650249433106573
+    },
+    {
+      "text": "time",
+      "start": 23.650249433106573,
+      "end": 24.050249433106575
+    },
+    {
+      "text": "Most",
+      "start": 24.450249433106578,
+      "end": 24.770249433106574
+    },
+    {
+      "text": "of",
+      "start": 24.770249433106574,
+      "end": 24.850249433106576
+    },
+    {
+      "text": "that",
+      "start": 24.850249433106576,
+      "end": 25.010249433106573
+    },
+    {
+      "text": "building",
+      "start": 25.010249433106573,
+      "end": 25.330249433106573
+    },
+    {
+      "text": "happens",
+      "start": 25.330249433106573,
+      "end": 25.730249433106575
+    },
+    {
+      "text": "while",
+      "start": 25.730249433106575,
+      "end": 25.810249433106577
+    },
+    {
+      "text": "you",
+      "start": 25.810249433106577,
+      "end": 25.970249433106574
+    },
+    {
+      "text": "sleep",
+      "start": 25.970249433106574,
+      "end": 26.370249433106576
+    },
+    {
+      "text": "not",
+      "start": 26.610249433106574,
+      "end": 26.850249433106576
+    },
+    {
+      "text": "while",
+      "start": 26.850249433106576,
+      "end": 27.010249433106573
+    },
+    {
+      "text": "you",
+      "start": 27.010249433106573,
+      "end": 27.090249433106575
+    },
+    {
+      "text": "study",
+      "start": 27.090249433106575,
+      "end": 27.650249433106573
+    },
+    {
+      "text": "So",
+      "start": 27.890249433106575,
+      "end": 28.050249433106575
+    },
+    {
+      "text": "cramming",
+      "start": 28.050249433106575,
+      "end": 28.450249433106578
+    },
+    {
+      "text": "loads",
+      "start": 28.450249433106578,
+      "end": 28.770249433106574
+    },
+    {
+      "text": "all",
+      "start": 28.850249433106576,
+      "end": 29.010249433106573
+    },
+    {
+      "text": "the",
+      "start": 29.010249433106573,
+      "end": 29.170249433106576
+    },
+    {
+      "text": "input",
+      "start": 29.170249433106576,
+      "end": 29.570249433106575
+    },
+    {
+      "text": "in",
+      "start": 29.570249433106575,
+      "end": 29.810249433106577
+    },
+    {
+      "text": "and",
+      "start": 29.810249433106577,
+      "end": 29.890249433106575
+    },
+    {
+      "text": "skips",
+      "start": 29.890249433106575,
+      "end": 30.290249433106574
+    },
+    {
+      "text": "the",
+      "start": 30.290249433106574,
+      "end": 30.370249433106576
+    },
+    {
+      "text": "construction",
+      "start": 30.370249433106576,
+      "end": 30.930249433106574
+    },
+    {
+      "text": "entirely",
+      "start": 30.930249433106574,
+      "end": 31.650249433106573
+    },
+    {
+      "text": "Spacing",
+      "start": 31.951678004535143,
+      "end": 32.51167800453514
+    },
+    {
+      "text": "it",
+      "start": 32.51167800453514,
+      "end": 32.59167800453515
+    },
+    {
+      "text": "out",
+      "start": 32.59167800453515,
+      "end": 32.83167800453514
+    },
+    {
+      "text": "lets",
+      "start": 32.991678004535146,
+      "end": 33.23167800453515
+    },
+    {
+      "text": "the",
+      "start": 33.23167800453515,
+      "end": 33.311678004535146
+    },
+    {
+      "text": "structure",
+      "start": 33.311678004535146,
+      "end": 33.79167800453514
+    },
+    {
+      "text": "set",
+      "start": 33.79167800453514,
+      "end": 34.11167800453514
+    },
+    {
+      "text": "between",
+      "start": 34.11167800453514,
+      "end": 34.431678004535144
+    },
+    {
+      "text": "sessions",
+      "start": 34.431678004535144,
+      "end": 34.991678004535146
+    },
+    {
+      "text": "That",
+      "start": 35.23167800453515,
+      "end": 35.391678004535144
+    },
+    {
+      "text": "is",
+      "start": 35.391678004535144,
+      "end": 35.47167800453514
+    },
+    {
+      "text": "the",
+      "start": 35.47167800453514,
+      "end": 35.55167800453515
+    },
+    {
+      "text": "whole",
+      "start": 35.55167800453515,
+      "end": 35.87167800453514
+    },
+    {
+      "text": "reason",
+      "start": 35.87167800453514,
+      "end": 36.19167800453515
+    },
+    {
+      "text": "it",
+      "start": 36.19167800453515,
+      "end": 36.27167800453515
+    },
+    {
+      "text": "wins",
+      "start": 36.27167800453515,
+      "end": 36.671678004535146
+    },
+    {
+      "text": "You",
+      "start": 36.91167800453515,
+      "end": 37.071678004535144
+    },
+    {
+      "text": "are",
+      "start": 37.071678004535144,
+      "end": 37.15167800453514
+    },
+    {
+      "text": "not",
+      "start": 37.15167800453514,
+      "end": 37.391678004535144
+    },
+    {
+      "text": "memorising",
+      "start": 37.391678004535144,
+      "end": 38.11167800453514
+    },
+    {
+      "text": "You",
+      "start": 38.351678004535145,
+      "end": 38.51167800453514
+    },
+    {
+      "text": "are",
+      "start": 38.51167800453514,
+      "end": 38.59167800453515
+    },
+    {
+      "text": "laying",
+      "start": 38.59167800453515,
+      "end": 38.91167800453515
+    },
+    {
+      "text": "down",
+      "start": 38.91167800453515,
+      "end": 39.15167800453514
+    },
+    {
+      "text": "something",
+      "start": 39.15167800453514,
+      "end": 39.47167800453514
+    },
+    {
+      "text": "you",
+      "start": 39.47167800453514,
+      "end": 39.55167800453515
+    },
+    {
+      "text": "can",
+      "start": 39.55167800453515,
+      "end": 39.79167800453514
+    },
+    {
+      "text": "walk",
+      "start": 39.79167800453514,
+      "end": 40.031678004535145
+    },
+    {
+      "text": "on",
+      "start": 40.031678004535145,
+      "end": 40.19167800453515
+    },
+    {
+      "text": "later",
+      "start": 40.19167800453515,
+      "end": 40.59167800453515
+    },
+    {
+      "text": "One",
+      "start": 40.83167800453514,
+      "end": 41.071678004535144
+    },
+    {
+      "text": "of",
+      "start": 41.071678004535144,
+      "end": 41.15167800453514
+    },
+    {
+      "text": "these",
+      "start": 41.15167800453514,
+      "end": 41.391678004535144
+    },
+    {
+      "text": "every",
+      "start": 41.391678004535144,
+      "end": 41.711678004535145
+    },
+    {
+      "text": "day",
+      "start": 41.711678004535145,
+      "end": 42.031678004535145
+    },
+    {
+      "text": "Follow",
+      "start": 42.27167800453515,
+      "end": 42.59167800453515
+    },
+    {
+      "text": "so",
+      "start": 42.59167800453515,
+      "end": 42.751678004535144
+    },
+    {
+      "text": "you",
+      "start": 42.751678004535144,
+      "end": 42.91167800453515
+    },
+    {
+      "text": "do",
+      "start": 42.91167800453515,
+      "end": 43.071678004535144
+    },
+    {
+      "text": "not",
+      "start": 43.071678004535144,
+      "end": 43.311678004535146
+    },
+    {
+      "text": "miss",
+      "start": 43.311678004535146,
+      "end": 43.55167800453515
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.55167800453515,
+      "end": 44.11167800453514
+    }
+  ],
+  "text": "Learn something today and the physical shape of your brain is different tonight. A memory is not a file written somewhere. There is no drive in there. It is a connection between cells, and connections get stronger with use. Neurons that fire together grow more contact points between them. Repeat it and that pathway physically thickens, like a track worn across grass. Which means a memory has to be built, and building takes time. Most of that building happens while you sleep, not while you study. So cramming loads all the input in and skips the construction entirely. Spacing it out lets the structure set between sessions. That is the whole reason it wins. You are not memorising. You are laying down something you can walk on later. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

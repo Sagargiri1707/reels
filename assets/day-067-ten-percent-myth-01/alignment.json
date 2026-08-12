@@ -1,0 +1,748 @@
+{
+  "audio_duration": 43.781125,
+  "segments": [
+    {
+      "text": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "do",
+      "start": 0.16,
+      "end": 0.24
+    },
+    {
+      "text": "not",
+      "start": 0.24,
+      "end": 0.48
+    },
+    {
+      "text": "use",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "ten",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "percent",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "text": "of",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "your",
+      "start": 1.52,
+      "end": 1.68
+    },
+    {
+      "text": "brain",
+      "start": 1.68,
+      "end": 2.16
+    },
+    {
+      "text": "You",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "use",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "text": "all",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "text": "of",
+      "start": 3.04,
+      "end": 3.2
+    },
+    {
+      "text": "it",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "including",
+      "start": 3.6,
+      "end": 4.08
+    },
+    {
+      "text": "while",
+      "start": 4.08,
+      "end": 4.32
+    },
+    {
+      "text": "asleep",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "It",
+      "start": 5.04,
+      "end": 5.12
+    },
+    {
+      "text": "is",
+      "start": 5.12,
+      "end": 5.28
+    },
+    {
+      "text": "one",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "text": "of",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "text": "the",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "most",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "repeated",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "wrong",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "things",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "text": "anyone",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "has",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "text": "ever",
+      "start": 7.68,
+      "end": 7.92
+    },
+    {
+      "text": "said",
+      "start": 7.92,
+      "end": 8.16
+    },
+    {
+      "text": "about",
+      "start": 8.16,
+      "end": 8.4
+    },
+    {
+      "text": "you",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "text": "Scan",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "text": "a",
+      "start": 9.36,
+      "end": 9.36
+    },
+    {
+      "text": "brain",
+      "start": 9.36,
+      "end": 9.76
+    },
+    {
+      "text": "doing",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "text": "almost",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "nothing",
+      "start": 10.4,
+      "end": 10.88
+    },
+    {
+      "text": "and",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "there",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "is",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "text": "activity",
+      "start": 11.44,
+      "end": 12.0
+    },
+    {
+      "text": "right",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "text": "across",
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "text": "the",
+      "start": 12.64,
+      "end": 12.8
+    },
+    {
+      "text": "whole",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "thing",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "There",
+      "start": 13.68,
+      "end": 13.76
+    },
+    {
+      "text": "is",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "no",
+      "start": 13.92,
+      "end": 14.16
+    },
+    {
+      "text": "silent",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "region",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "text": "waiting",
+      "start": 14.96,
+      "end": 15.28
+    },
+    {
+      "text": "to",
+      "start": 15.28,
+      "end": 15.36
+    },
+    {
+      "text": "be",
+      "start": 15.36,
+      "end": 15.52
+    },
+    {
+      "text": "unlocked",
+      "start": 15.52,
+      "end": 16.08
+    },
+    {
+      "text": "Damage",
+      "start": 16.48108843537415,
+      "end": 16.96108843537415
+    },
+    {
+      "text": "anywhere",
+      "start": 16.96108843537415,
+      "end": 17.36108843537415
+    },
+    {
+      "text": "costs",
+      "start": 17.36108843537415,
+      "end": 17.84108843537415
+    },
+    {
+      "text": "you",
+      "start": 17.84108843537415,
+      "end": 17.921088435374152
+    },
+    {
+      "text": "something",
+      "start": 17.921088435374152,
+      "end": 18.40108843537415
+    },
+    {
+      "text": "But",
+      "start": 18.72108843537415,
+      "end": 18.80108843537415
+    },
+    {
+      "text": "the",
+      "start": 18.80108843537415,
+      "end": 18.88108843537415
+    },
+    {
+      "text": "real",
+      "start": 18.88108843537415,
+      "end": 19.28108843537415
+    },
+    {
+      "text": "argument",
+      "start": 19.28108843537415,
+      "end": 19.761088435374152
+    },
+    {
+      "text": "was",
+      "start": 19.761088435374152,
+      "end": 19.921088435374152
+    },
+    {
+      "text": "never",
+      "start": 19.921088435374152,
+      "end": 20.16108843537415
+    },
+    {
+      "text": "the",
+      "start": 20.16108843537415,
+      "end": 20.32108843537415
+    },
+    {
+      "text": "scanning",
+      "start": 20.32108843537415,
+      "end": 20.88108843537415
+    },
+    {
+      "text": "It",
+      "start": 21.12108843537415,
+      "end": 21.20108843537415
+    },
+    {
+      "text": "is",
+      "start": 21.20108843537415,
+      "end": 21.36108843537415
+    },
+    {
+      "text": "the",
+      "start": 21.36108843537415,
+      "end": 21.44108843537415
+    },
+    {
+      "text": "cost",
+      "start": 21.44108843537415,
+      "end": 22.00108843537415
+    },
+    {
+      "text": "Your",
+      "start": 22.16108843537415,
+      "end": 22.32108843537415
+    },
+    {
+      "text": "brain",
+      "start": 22.32108843537415,
+      "end": 22.72108843537415
+    },
+    {
+      "text": "is",
+      "start": 22.72108843537415,
+      "end": 22.88108843537415
+    },
+    {
+      "text": "two",
+      "start": 22.88108843537415,
+      "end": 23.12108843537415
+    },
+    {
+      "text": "percent",
+      "start": 23.12108843537415,
+      "end": 23.52108843537415
+    },
+    {
+      "text": "of",
+      "start": 23.52108843537415,
+      "end": 23.60108843537415
+    },
+    {
+      "text": "your",
+      "start": 23.60108843537415,
+      "end": 23.68108843537415
+    },
+    {
+      "text": "body",
+      "start": 23.68108843537415,
+      "end": 24.00108843537415
+    },
+    {
+      "text": "weight",
+      "start": 24.00108843537415,
+      "end": 24.32108843537415
+    },
+    {
+      "text": "It",
+      "start": 24.64108843537415,
+      "end": 24.72108843537415
+    },
+    {
+      "text": "burns",
+      "start": 24.72108843537415,
+      "end": 25.12108843537415
+    },
+    {
+      "text": "about",
+      "start": 25.12108843537415,
+      "end": 25.36108843537415
+    },
+    {
+      "text": "twenty",
+      "start": 25.36108843537415,
+      "end": 25.68108843537415
+    },
+    {
+      "text": "percent",
+      "start": 25.68108843537415,
+      "end": 26.00108843537415
+    },
+    {
+      "text": "of",
+      "start": 26.00108843537415,
+      "end": 26.08108843537415
+    },
+    {
+      "text": "your",
+      "start": 26.08108843537415,
+      "end": 26.241088435374152
+    },
+    {
+      "text": "energy",
+      "start": 26.241088435374152,
+      "end": 26.72108843537415
+    },
+    {
+      "text": "every",
+      "start": 26.96108843537415,
+      "end": 27.28108843537415
+    },
+    {
+      "text": "hour",
+      "start": 27.28108843537415,
+      "end": 27.60108843537415
+    },
+    {
+      "text": "awake",
+      "start": 27.68108843537415,
+      "end": 28.08108843537415
+    },
+    {
+      "text": "or",
+      "start": 28.08108843537415,
+      "end": 28.16108843537415
+    },
+    {
+      "text": "not",
+      "start": 28.16108843537415,
+      "end": 28.48108843537415
+    },
+    {
+      "text": "Nothing",
+      "start": 28.72108843537415,
+      "end": 29.12108843537415
+    },
+    {
+      "text": "that",
+      "start": 29.12108843537415,
+      "end": 29.28108843537415
+    },
+    {
+      "text": "expensive",
+      "start": 29.28108843537415,
+      "end": 29.84108843537415
+    },
+    {
+      "text": "survives",
+      "start": 29.84108843537415,
+      "end": 30.32108843537415
+    },
+    {
+      "text": "evolution",
+      "start": 30.32108843537415,
+      "end": 30.881088435374153
+    },
+    {
+      "text": "while",
+      "start": 30.881088435374153,
+      "end": 31.04108843537415
+    },
+    {
+      "text": "sitting",
+      "start": 31.04108843537415,
+      "end": 31.36108843537415
+    },
+    {
+      "text": "idle",
+      "start": 31.36108843537415,
+      "end": 31.76108843537415
+    },
+    {
+      "text": "A",
+      "start": 32.131632653061224,
+      "end": 32.131632653061224
+    },
+    {
+      "text": "body",
+      "start": 32.131632653061224,
+      "end": 32.53163265306123
+    },
+    {
+      "text": "that",
+      "start": 32.53163265306123,
+      "end": 32.61163265306123
+    },
+    {
+      "text": "could",
+      "start": 32.61163265306123,
+      "end": 32.771632653061225
+    },
+    {
+      "text": "switch",
+      "start": 32.771632653061225,
+      "end": 33.091632653061225
+    },
+    {
+      "text": "off",
+      "start": 33.091632653061225,
+      "end": 33.25163265306123
+    },
+    {
+      "text": "nine",
+      "start": 33.25163265306123,
+      "end": 33.57163265306123
+    },
+    {
+      "text": "tenths",
+      "start": 33.57163265306123,
+      "end": 33.89163265306123
+    },
+    {
+      "text": "of",
+      "start": 33.89163265306123,
+      "end": 34.051632653061226
+    },
+    {
+      "text": "that",
+      "start": 34.051632653061226,
+      "end": 34.21163265306123
+    },
+    {
+      "text": "would",
+      "start": 34.451632653061225,
+      "end": 34.61163265306123
+    },
+    {
+      "text": "have",
+      "start": 34.61163265306123,
+      "end": 34.69163265306123
+    },
+    {
+      "text": "done",
+      "start": 34.69163265306123,
+      "end": 34.85163265306123
+    },
+    {
+      "text": "it",
+      "start": 34.85163265306123,
+      "end": 35.01163265306123
+    },
+    {
+      "text": "long",
+      "start": 35.01163265306123,
+      "end": 35.25163265306123
+    },
+    {
+      "text": "ago",
+      "start": 35.25163265306123,
+      "end": 35.65163265306123
+    },
+    {
+      "text": "You",
+      "start": 35.89163265306123,
+      "end": 36.13163265306123
+    },
+    {
+      "text": "are",
+      "start": 36.13163265306123,
+      "end": 36.13163265306123
+    },
+    {
+      "text": "not",
+      "start": 36.13163265306123,
+      "end": 36.371632653061226
+    },
+    {
+      "text": "idling",
+      "start": 36.451632653061225,
+      "end": 36.85163265306123
+    },
+    {
+      "text": "at",
+      "start": 36.85163265306123,
+      "end": 36.93163265306123
+    },
+    {
+      "text": "ten",
+      "start": 36.93163265306123,
+      "end": 37.17163265306123
+    },
+    {
+      "text": "percent",
+      "start": 37.17163265306123,
+      "end": 37.65163265306123
+    },
+    {
+      "text": "You",
+      "start": 37.89163265306123,
+      "end": 38.051632653061226
+    },
+    {
+      "text": "are",
+      "start": 38.051632653061226,
+      "end": 38.051632653061226
+    },
+    {
+      "text": "running",
+      "start": 38.051632653061226,
+      "end": 38.451632653061225
+    },
+    {
+      "text": "flat",
+      "start": 38.451632653061225,
+      "end": 38.771632653061225
+    },
+    {
+      "text": "out",
+      "start": 38.771632653061225,
+      "end": 39.01163265306123
+    },
+    {
+      "text": "and",
+      "start": 39.25163265306123,
+      "end": 39.33163265306123
+    },
+    {
+      "text": "it",
+      "start": 39.33163265306123,
+      "end": 39.49163265306123
+    },
+    {
+      "text": "is",
+      "start": 39.49163265306123,
+      "end": 39.57163265306123
+    },
+    {
+      "text": "costing",
+      "start": 39.57163265306123,
+      "end": 40.051632653061226
+    },
+    {
+      "text": "you",
+      "start": 40.051632653061226,
+      "end": 40.21163265306123
+    },
+    {
+      "text": "One",
+      "start": 40.451632653061225,
+      "end": 40.61163265306123
+    },
+    {
+      "text": "of",
+      "start": 40.61163265306123,
+      "end": 40.77163265306123
+    },
+    {
+      "text": "these",
+      "start": 40.77163265306123,
+      "end": 41.01163265306123
+    },
+    {
+      "text": "every",
+      "start": 41.01163265306123,
+      "end": 41.33163265306123
+    },
+    {
+      "text": "day",
+      "start": 41.33163265306123,
+      "end": 41.65163265306123
+    },
+    {
+      "text": "Follow",
+      "start": 41.89163265306123,
+      "end": 42.21163265306123
+    },
+    {
+      "text": "so",
+      "start": 42.21163265306123,
+      "end": 42.371632653061226
+    },
+    {
+      "text": "you",
+      "start": 42.371632653061226,
+      "end": 42.53163265306123
+    },
+    {
+      "text": "do",
+      "start": 42.53163265306123,
+      "end": 42.61163265306123
+    },
+    {
+      "text": "not",
+      "start": 42.61163265306123,
+      "end": 42.85163265306123
+    },
+    {
+      "text": "miss",
+      "start": 42.85163265306123,
+      "end": 43.091632653061225
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.091632653061225,
+      "end": 43.57163265306123
+    }
+  ],
+  "text": "You do not use ten percent of your brain. You use all of it, including while asleep. It is one of the most repeated wrong things anyone has ever said about you. Scan a brain doing almost nothing and there is activity right across the whole thing. There is no silent region waiting to be unlocked. Damage anywhere costs you something. But the real argument was never the scanning. It is the cost. Your brain is two percent of your body weight. It burns about twenty percent of your energy, every hour, awake or not. Nothing that expensive survives evolution while sitting idle. A body that could switch off nine tenths of that would have done it long ago. You are not idling at ten percent. You are running flat out, and it is costing you. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,748 @@
+{
+  "audio_duration": 48.248063,
+  "segments": [
+    {
+      "text": "London",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "taxi",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "text": "drivers",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "memorise",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "text": "twenty",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "text": "five",
+      "start": 2.0,
+      "end": 2.4
+    },
+    {
+      "text": "thousand",
+      "start": 2.4,
+      "end": 2.8
+    },
+    {
+      "text": "streets",
+      "start": 2.8,
+      "end": 3.36
+    },
+    {
+      "text": "and",
+      "start": 3.68,
+      "end": 3.76
+    },
+    {
+      "text": "it",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "text": "shows",
+      "start": 3.84,
+      "end": 4.24
+    },
+    {
+      "text": "up",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "text": "on",
+      "start": 4.4,
+      "end": 4.48
+    },
+    {
+      "text": "a",
+      "start": 4.48,
+      "end": 4.56
+    },
+    {
+      "text": "brain",
+      "start": 4.56,
+      "end": 4.88
+    },
+    {
+      "text": "scan",
+      "start": 4.88,
+      "end": 5.36
+    },
+    {
+      "text": "The",
+      "start": 5.68,
+      "end": 5.84
+    },
+    {
+      "text": "old",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "line",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "was",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "that",
+      "start": 6.56,
+      "end": 6.64
+    },
+    {
+      "text": "adult",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "text": "brains",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "are",
+      "start": 7.36,
+      "end": 7.44
+    },
+    {
+      "text": "fixed",
+      "start": 7.44,
+      "end": 8.0
+    },
+    {
+      "text": "Set",
+      "start": 8.08,
+      "end": 8.48
+    },
+    {
+      "text": "by",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "text": "your",
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "text": "twenties",
+      "start": 8.72,
+      "end": 9.2
+    },
+    {
+      "text": "then",
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "text": "downhill",
+      "start": 9.52,
+      "end": 10.16
+    },
+    {
+      "text": "The",
+      "start": 10.4,
+      "end": 10.56
+    },
+    {
+      "text": "region",
+      "start": 10.56,
+      "end": 10.88
+    },
+    {
+      "text": "handling",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "spatial",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "memory",
+      "start": 11.68,
+      "end": 12.08
+    },
+    {
+      "text": "is",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "measurably",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "text": "larger",
+      "start": 12.8,
+      "end": 13.12
+    },
+    {
+      "text": "in",
+      "start": 13.12,
+      "end": 13.28
+    },
+    {
+      "text": "them",
+      "start": 13.28,
+      "end": 13.52
+    },
+    {
+      "text": "than",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "in",
+      "start": 13.6,
+      "end": 13.68
+    },
+    {
+      "text": "anyone",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "text": "else",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "And",
+      "start": 14.855691609977324,
+      "end": 15.015691609977324
+    },
+    {
+      "text": "it",
+      "start": 15.015691609977324,
+      "end": 15.095691609977324
+    },
+    {
+      "text": "grows",
+      "start": 15.095691609977324,
+      "end": 15.415691609977324
+    },
+    {
+      "text": "across",
+      "start": 15.415691609977324,
+      "end": 15.815691609977323
+    },
+    {
+      "text": "the",
+      "start": 15.815691609977323,
+      "end": 15.815691609977323
+    },
+    {
+      "text": "years",
+      "start": 15.815691609977323,
+      "end": 16.135691609977325
+    },
+    {
+      "text": "of",
+      "start": 16.135691609977325,
+      "end": 16.295691609977325
+    },
+    {
+      "text": "training",
+      "start": 16.295691609977325,
+      "end": 16.775691609977322
+    },
+    {
+      "text": "not",
+      "start": 16.775691609977322,
+      "end": 17.015691609977324
+    },
+    {
+      "text": "before",
+      "start": 17.015691609977324,
+      "end": 17.415691609977323
+    },
+    {
+      "text": "it",
+      "start": 17.415691609977323,
+      "end": 17.495691609977325
+    },
+    {
+      "text": "The",
+      "start": 17.975691609977325,
+      "end": 18.055691609977323
+    },
+    {
+      "text": "job",
+      "start": 18.055691609977323,
+      "end": 18.455691609977322
+    },
+    {
+      "text": "built",
+      "start": 18.455691609977322,
+      "end": 18.695691609977324
+    },
+    {
+      "text": "it",
+      "start": 18.695691609977324,
+      "end": 18.855691609977324
+    },
+    {
+      "text": "Musicians",
+      "start": 19.175691609977324,
+      "end": 19.735691609977323
+    },
+    {
+      "text": "show",
+      "start": 19.735691609977323,
+      "end": 19.895691609977323
+    },
+    {
+      "text": "the",
+      "start": 19.895691609977323,
+      "end": 19.975691609977325
+    },
+    {
+      "text": "same",
+      "start": 19.975691609977325,
+      "end": 20.375691609977324
+    },
+    {
+      "text": "thing",
+      "start": 20.375691609977324,
+      "end": 20.775691609977322
+    },
+    {
+      "text": "in",
+      "start": 21.015691609977324,
+      "end": 21.175691609977324
+    },
+    {
+      "text": "the",
+      "start": 21.175691609977324,
+      "end": 21.255691609977323
+    },
+    {
+      "text": "regions",
+      "start": 21.255691609977323,
+      "end": 21.655691609977325
+    },
+    {
+      "text": "controlling",
+      "start": 21.655691609977325,
+      "end": 22.13569160997732
+    },
+    {
+      "text": "the",
+      "start": 22.13569160997732,
+      "end": 22.215691609977323
+    },
+    {
+      "text": "fingers",
+      "start": 22.215691609977323,
+      "end": 22.615691609977326
+    },
+    {
+      "text": "they",
+      "start": 22.615691609977326,
+      "end": 22.775691609977322
+    },
+    {
+      "text": "actually",
+      "start": 22.775691609977322,
+      "end": 23.175691609977324
+    },
+    {
+      "text": "use",
+      "start": 23.175691609977324,
+      "end": 23.655691609977325
+    },
+    {
+      "text": "But",
+      "start": 23.975691609977325,
+      "end": 24.055691609977323
+    },
+    {
+      "text": "the",
+      "start": 24.055691609977323,
+      "end": 24.13569160997732
+    },
+    {
+      "text": "strongest",
+      "start": 24.13569160997732,
+      "end": 24.695691609977324
+    },
+    {
+      "text": "evidence",
+      "start": 24.695691609977324,
+      "end": 25.095691609977322
+    },
+    {
+      "text": "comes",
+      "start": 25.095691609977322,
+      "end": 25.415691609977323
+    },
+    {
+      "text": "from",
+      "start": 25.415691609977323,
+      "end": 25.575691609977323
+    },
+    {
+      "text": "damage",
+      "start": 25.575691609977323,
+      "end": 26.13569160997732
+    },
+    {
+      "text": "After",
+      "start": 26.455691609977322,
+      "end": 26.695691609977324
+    },
+    {
+      "text": "a",
+      "start": 26.695691609977324,
+      "end": 26.775691609977322
+    },
+    {
+      "text": "stroke",
+      "start": 26.775691609977322,
+      "end": 27.255691609977326
+    },
+    {
+      "text": "undamaged",
+      "start": 27.575691609977323,
+      "end": 28.13569160997732
+    },
+    {
+      "text": "regions",
+      "start": 28.13569160997732,
+      "end": 28.535691609977324
+    },
+    {
+      "text": "can",
+      "start": 28.535691609977324,
+      "end": 28.695691609977324
+    },
+    {
+      "text": "take",
+      "start": 28.695691609977324,
+      "end": 28.935691609977326
+    },
+    {
+      "text": "over",
+      "start": 28.935691609977326,
+      "end": 29.175691609977324
+    },
+    {
+      "text": "work",
+      "start": 29.175691609977324,
+      "end": 29.495691609977325
+    },
+    {
+      "text": "they",
+      "start": 29.495691609977325,
+      "end": 29.575691609977323
+    },
+    {
+      "text": "were",
+      "start": 29.575691609977323,
+      "end": 29.735691609977323
+    },
+    {
+      "text": "never",
+      "start": 29.735691609977323,
+      "end": 30.055691609977323
+    },
+    {
+      "text": "assigned",
+      "start": 30.055691609977323,
+      "end": 30.535691609977324
+    },
+    {
+      "text": "In",
+      "start": 30.958253968253967,
+      "end": 31.118253968253967
+    },
+    {
+      "text": "people",
+      "start": 31.118253968253967,
+      "end": 31.35825396825397
+    },
+    {
+      "text": "blind",
+      "start": 31.35825396825397,
+      "end": 31.758253968253968
+    },
+    {
+      "text": "from",
+      "start": 31.758253968253968,
+      "end": 31.918253968253968
+    },
+    {
+      "text": "birth",
+      "start": 31.918253968253968,
+      "end": 32.23825396825397
+    },
+    {
+      "text": "the",
+      "start": 32.478253968253966,
+      "end": 32.55825396825397
+    },
+    {
+      "text": "visual",
+      "start": 32.55825396825397,
+      "end": 32.95825396825397
+    },
+    {
+      "text": "cortex",
+      "start": 32.95825396825397,
+      "end": 33.43825396825397
+    },
+    {
+      "text": "gets",
+      "start": 33.43825396825397,
+      "end": 33.67825396825397
+    },
+    {
+      "text": "recruited",
+      "start": 33.67825396825397,
+      "end": 34.07825396825397
+    },
+    {
+      "text": "for",
+      "start": 34.07825396825397,
+      "end": 34.158253968253966
+    },
+    {
+      "text": "touch",
+      "start": 34.158253968253966,
+      "end": 34.558253968253965
+    },
+    {
+      "text": "and",
+      "start": 34.558253968253965,
+      "end": 34.63825396825397
+    },
+    {
+      "text": "hearing",
+      "start": 34.63825396825397,
+      "end": 35.03825396825397
+    },
+    {
+      "text": "instead",
+      "start": 35.03825396825397,
+      "end": 35.518253968253966
+    },
+    {
+      "text": "Be",
+      "start": 35.838253968253966,
+      "end": 36.07825396825397
+    },
+    {
+      "text": "honest",
+      "start": 36.07825396825397,
+      "end": 36.478253968253966
+    },
+    {
+      "text": "about",
+      "start": 36.478253968253966,
+      "end": 36.63825396825397
+    },
+    {
+      "text": "the",
+      "start": 36.63825396825397,
+      "end": 36.71825396825397
+    },
+    {
+      "text": "price",
+      "start": 36.71825396825397,
+      "end": 37.11825396825397
+    },
+    {
+      "text": "though",
+      "start": 37.11825396825397,
+      "end": 37.35825396825397
+    },
+    {
+      "text": "It",
+      "start": 37.67825396825397,
+      "end": 37.838253968253966
+    },
+    {
+      "text": "slows",
+      "start": 37.838253968253966,
+      "end": 38.23825396825397
+    },
+    {
+      "text": "with",
+      "start": 38.23825396825397,
+      "end": 38.39825396825397
+    },
+    {
+      "text": "age",
+      "start": 38.39825396825397,
+      "end": 38.79825396825397
+    },
+    {
+      "text": "and",
+      "start": 38.95825396825397,
+      "end": 39.03825396825397
+    },
+    {
+      "text": "it",
+      "start": 39.03825396825397,
+      "end": 39.11825396825397
+    },
+    {
+      "text": "needs",
+      "start": 39.11825396825397,
+      "end": 39.43825396825397
+    },
+    {
+      "text": "sustained",
+      "start": 39.43825396825397,
+      "end": 40.07825396825397
+    },
+    {
+      "text": "repeated",
+      "start": 40.07825396825397,
+      "end": 40.558253968253965
+    },
+    {
+      "text": "effort",
+      "start": 40.558253968253965,
+      "end": 40.87825396825397
+    },
+    {
+      "text": "Your",
+      "start": 41.11825396825397,
+      "end": 41.27825396825397
+    },
+    {
+      "text": "brain",
+      "start": 41.27825396825397,
+      "end": 41.67825396825397
+    },
+    {
+      "text": "is",
+      "start": 41.67825396825397,
+      "end": 41.75825396825397
+    },
+    {
+      "text": "not",
+      "start": 41.75825396825397,
+      "end": 41.99825396825397
+    },
+    {
+      "text": "fixed",
+      "start": 41.99825396825397,
+      "end": 42.478253968253966
+    },
+    {
+      "text": "It",
+      "start": 42.71825396825397,
+      "end": 42.79825396825397
+    },
+    {
+      "text": "is",
+      "start": 42.79825396825397,
+      "end": 42.87825396825397
+    },
+    {
+      "text": "just",
+      "start": 42.87825396825397,
+      "end": 43.198253968253965
+    },
+    {
+      "text": "expensive",
+      "start": 43.198253968253965,
+      "end": 43.67825396825397
+    },
+    {
+      "text": "to",
+      "start": 43.75825396825397,
+      "end": 43.838253968253966
+    },
+    {
+      "text": "change",
+      "start": 43.838253968253966,
+      "end": 44.31825396825397
+    },
+    {
+      "text": "One",
+      "start": 44.558253968253965,
+      "end": 44.79825396825397
+    },
+    {
+      "text": "of",
+      "start": 44.79825396825397,
+      "end": 44.87825396825397
+    },
+    {
+      "text": "these",
+      "start": 44.87825396825397,
+      "end": 45.11825396825397
+    },
+    {
+      "text": "every",
+      "start": 45.11825396825397,
+      "end": 45.35825396825397
+    },
+    {
+      "text": "day",
+      "start": 45.35825396825397,
+      "end": 45.75825396825397
+    },
+    {
+      "text": "Follow",
+      "start": 46.16287981859411,
+      "end": 46.48287981859411
+    },
+    {
+      "text": "so",
+      "start": 46.48287981859411,
+      "end": 46.6428798185941
+    },
+    {
+      "text": "you",
+      "start": 46.6428798185941,
+      "end": 46.80287981859411
+    },
+    {
+      "text": "do",
+      "start": 46.80287981859411,
+      "end": 46.962879818594104
+    },
+    {
+      "text": "not",
+      "start": 46.962879818594104,
+      "end": 47.202879818594106
+    },
+    {
+      "text": "miss",
+      "start": 47.202879818594106,
+      "end": 47.44287981859411
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.44287981859411,
+      "end": 48.00287981859411
+    }
+  ],
+  "text": "London taxi drivers memorise twenty five thousand streets, and it shows up on a brain scan. The old line was that adult brains are fixed. Set by your twenties, then downhill. The region handling spatial memory is measurably larger in them than in anyone else. And it grows across the years of training, not before it. The job built it. Musicians show the same thing, in the regions controlling the fingers they actually use. But the strongest evidence comes from damage. After a stroke, undamaged regions can take over work they were never assigned. In people blind from birth, the visual cortex gets recruited for touch and hearing instead. Be honest about the price though. It slows with age and it needs sustained, repeated effort. Your brain is not fixed. It is just expensive to change. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

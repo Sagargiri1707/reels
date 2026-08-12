@@ -1,0 +1,748 @@
+{
+  "audio_duration": 44.643188,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "perfect",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "memory",
+      "start": 0.56,
+      "end": 0.96
+    },
+    {
+      "text": "is",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "text": "not",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "text": "a",
+      "start": 1.44,
+      "end": 1.44
+    },
+    {
+      "text": "superpower",
+      "start": 1.44,
+      "end": 2.24
+    },
+    {
+      "text": "It",
+      "start": 2.48,
+      "end": 2.56
+    },
+    {
+      "text": "is",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "a",
+      "start": 2.72,
+      "end": 2.8
+    },
+    {
+      "text": "diagnosis",
+      "start": 2.8,
+      "end": 3.68
+    },
+    {
+      "text": "You",
+      "start": 3.92,
+      "end": 4.08
+    },
+    {
+      "text": "assume",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "text": "forgetting",
+      "start": 4.48,
+      "end": 4.96
+    },
+    {
+      "text": "is",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "your",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "brain",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "failing",
+      "start": 5.52,
+      "end": 6.08
+    },
+    {
+      "text": "It",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "is",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "your",
+      "start": 6.56,
+      "end": 6.64
+    },
+    {
+      "text": "brain",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "text": "choosing",
+      "start": 7.04,
+      "end": 7.6
+    },
+    {
+      "text": "Connections",
+      "start": 7.92,
+      "end": 8.48
+    },
+    {
+      "text": "you",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "text": "stop",
+      "start": 8.64,
+      "end": 8.96
+    },
+    {
+      "text": "using",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "text": "get",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "pruned",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "text": "away",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "deliberately",
+      "start": 10.08,
+      "end": 10.72
+    },
+    {
+      "text": "to",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "keep",
+      "start": 11.04,
+      "end": 11.28
+    },
+    {
+      "text": "the",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "useful",
+      "start": 11.36,
+      "end": 11.76
+    },
+    {
+      "text": "ones",
+      "start": 11.76,
+      "end": 12.0
+    },
+    {
+      "text": "clear",
+      "start": 12.0,
+      "end": 12.4
+    },
+    {
+      "text": "People",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "text": "who",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "cannot",
+      "start": 13.12,
+      "end": 13.52
+    },
+    {
+      "text": "forget",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "text": "exist",
+      "start": 13.76,
+      "end": 14.32
+    },
+    {
+      "text": "Their",
+      "start": 14.76281179138322,
+      "end": 14.92281179138322
+    },
+    {
+      "text": "day",
+      "start": 14.92281179138322,
+      "end": 15.16281179138322
+    },
+    {
+      "text": "is",
+      "start": 15.16281179138322,
+      "end": 15.32281179138322
+    },
+    {
+      "text": "interrupted",
+      "start": 15.32281179138322,
+      "end": 15.882811791383219
+    },
+    {
+      "text": "by",
+      "start": 15.882811791383219,
+      "end": 16.04281179138322
+    },
+    {
+      "text": "decades",
+      "start": 16.04281179138322,
+      "end": 16.52281179138322
+    },
+    {
+      "text": "of",
+      "start": 16.52281179138322,
+      "end": 16.602811791383218
+    },
+    {
+      "text": "detail",
+      "start": 16.602811791383218,
+      "end": 17.082811791383218
+    },
+    {
+      "text": "they",
+      "start": 17.082811791383218,
+      "end": 17.16281179138322
+    },
+    {
+      "text": "did",
+      "start": 17.16281179138322,
+      "end": 17.32281179138322
+    },
+    {
+      "text": "not",
+      "start": 17.32281179138322,
+      "end": 17.56281179138322
+    },
+    {
+      "text": "ask",
+      "start": 17.64281179138322,
+      "end": 17.96281179138322
+    },
+    {
+      "text": "for",
+      "start": 17.96281179138322,
+      "end": 18.282811791383217
+    },
+    {
+      "text": "They",
+      "start": 18.602811791383218,
+      "end": 18.68281179138322
+    },
+    {
+      "text": "struggle",
+      "start": 18.68281179138322,
+      "end": 19.082811791383218
+    },
+    {
+      "text": "to",
+      "start": 19.16281179138322,
+      "end": 19.242811791383218
+    },
+    {
+      "text": "think",
+      "start": 19.242811791383218,
+      "end": 19.48281179138322
+    },
+    {
+      "text": "in",
+      "start": 19.48281179138322,
+      "end": 19.64281179138322
+    },
+    {
+      "text": "general",
+      "start": 19.64281179138322,
+      "end": 19.962811791383217
+    },
+    {
+      "text": "terms",
+      "start": 19.962811791383217,
+      "end": 20.44281179138322
+    },
+    {
+      "text": "because",
+      "start": 20.68281179138322,
+      "end": 20.922811791383218
+    },
+    {
+      "text": "every",
+      "start": 21.00281179138322,
+      "end": 21.242811791383218
+    },
+    {
+      "text": "example",
+      "start": 21.242811791383218,
+      "end": 21.72281179138322
+    },
+    {
+      "text": "arrives",
+      "start": 21.72281179138322,
+      "end": 22.12281179138322
+    },
+    {
+      "text": "whole",
+      "start": 22.12281179138322,
+      "end": 22.52281179138322
+    },
+    {
+      "text": "But",
+      "start": 22.922811791383218,
+      "end": 23.00281179138322
+    },
+    {
+      "text": "the",
+      "start": 23.00281179138322,
+      "end": 23.16281179138322
+    },
+    {
+      "text": "unsettling",
+      "start": 23.16281179138322,
+      "end": 23.80281179138322
+    },
+    {
+      "text": "part",
+      "start": 23.80281179138322,
+      "end": 24.12281179138322
+    },
+    {
+      "text": "is",
+      "start": 24.12281179138322,
+      "end": 24.20281179138322
+    },
+    {
+      "text": "what",
+      "start": 24.20281179138322,
+      "end": 24.36281179138322
+    },
+    {
+      "text": "happens",
+      "start": 24.36281179138322,
+      "end": 24.84281179138322
+    },
+    {
+      "text": "to",
+      "start": 24.84281179138322,
+      "end": 24.84281179138322
+    },
+    {
+      "text": "the",
+      "start": 24.84281179138322,
+      "end": 24.922811791383218
+    },
+    {
+      "text": "memories",
+      "start": 24.922811791383218,
+      "end": 25.402811791383222
+    },
+    {
+      "text": "you",
+      "start": 25.402811791383222,
+      "end": 25.48281179138322
+    },
+    {
+      "text": "do",
+      "start": 25.48281179138322,
+      "end": 25.72281179138322
+    },
+    {
+      "text": "keep",
+      "start": 25.72281179138322,
+      "end": 26.04281179138322
+    },
+    {
+      "text": "Pulling",
+      "start": 26.44281179138322,
+      "end": 26.68281179138322
+    },
+    {
+      "text": "a",
+      "start": 26.68281179138322,
+      "end": 26.76281179138322
+    },
+    {
+      "text": "memory",
+      "start": 26.76281179138322,
+      "end": 27.16281179138322
+    },
+    {
+      "text": "up",
+      "start": 27.16281179138322,
+      "end": 27.32281179138322
+    },
+    {
+      "text": "does",
+      "start": 27.32281179138322,
+      "end": 27.56281179138322
+    },
+    {
+      "text": "not",
+      "start": 27.56281179138322,
+      "end": 27.80281179138322
+    },
+    {
+      "text": "read",
+      "start": 27.80281179138322,
+      "end": 28.04281179138322
+    },
+    {
+      "text": "it",
+      "start": 28.04281179138322,
+      "end": 28.20281179138322
+    },
+    {
+      "text": "It",
+      "start": 28.44281179138322,
+      "end": 28.602811791383218
+    },
+    {
+      "text": "reopens",
+      "start": 28.602811791383218,
+      "end": 29.16281179138322
+    },
+    {
+      "text": "it",
+      "start": 29.16281179138322,
+      "end": 29.32281179138322
+    },
+    {
+      "text": "And",
+      "start": 29.784943310657596,
+      "end": 29.944943310657596
+    },
+    {
+      "text": "when",
+      "start": 29.944943310657596,
+      "end": 30.024943310657594
+    },
+    {
+      "text": "it",
+      "start": 30.024943310657594,
+      "end": 30.104943310657596
+    },
+    {
+      "text": "goes",
+      "start": 30.104943310657596,
+      "end": 30.344943310657595
+    },
+    {
+      "text": "back",
+      "start": 30.344943310657595,
+      "end": 30.584943310657597
+    },
+    {
+      "text": "down",
+      "start": 30.584943310657597,
+      "end": 30.984943310657595
+    },
+    {
+      "text": "it",
+      "start": 31.224943310657597,
+      "end": 31.384943310657597
+    },
+    {
+      "text": "goes",
+      "start": 31.384943310657597,
+      "end": 31.624943310657596
+    },
+    {
+      "text": "back",
+      "start": 31.624943310657596,
+      "end": 31.864943310657594
+    },
+    {
+      "text": "changed",
+      "start": 31.864943310657594,
+      "end": 32.3449433106576
+    },
+    {
+      "text": "by",
+      "start": 32.3449433106576,
+      "end": 32.504943310657595
+    },
+    {
+      "text": "the",
+      "start": 32.504943310657595,
+      "end": 32.58494331065759
+    },
+    {
+      "text": "room",
+      "start": 32.58494331065759,
+      "end": 32.90494331065759
+    },
+    {
+      "text": "you",
+      "start": 32.90494331065759,
+      "end": 33.0649433106576
+    },
+    {
+      "text": "are",
+      "start": 33.0649433106576,
+      "end": 33.0649433106576
+    },
+    {
+      "text": "standing",
+      "start": 33.0649433106576,
+      "end": 33.544943310657594
+    },
+    {
+      "text": "in",
+      "start": 33.544943310657594,
+      "end": 33.7049433106576
+    },
+    {
+      "text": "now",
+      "start": 33.7049433106576,
+      "end": 34.0249433106576
+    },
+    {
+      "text": "So",
+      "start": 34.3449433106576,
+      "end": 34.504943310657595
+    },
+    {
+      "text": "the",
+      "start": 34.504943310657595,
+      "end": 34.58494331065759
+    },
+    {
+      "text": "story",
+      "start": 34.58494331065759,
+      "end": 34.9849433106576
+    },
+    {
+      "text": "you",
+      "start": 34.9849433106576,
+      "end": 35.144943310657595
+    },
+    {
+      "text": "have",
+      "start": 35.144943310657595,
+      "end": 35.22494331065759
+    },
+    {
+      "text": "told",
+      "start": 35.22494331065759,
+      "end": 35.544943310657594
+    },
+    {
+      "text": "the",
+      "start": 35.544943310657594,
+      "end": 35.6249433106576
+    },
+    {
+      "text": "most",
+      "start": 35.6249433106576,
+      "end": 35.94494331065759
+    },
+    {
+      "text": "times",
+      "start": 35.94494331065759,
+      "end": 36.3449433106576
+    },
+    {
+      "text": "is",
+      "start": 36.3449433106576,
+      "end": 36.504943310657595
+    },
+    {
+      "text": "the",
+      "start": 36.504943310657595,
+      "end": 36.58494331065759
+    },
+    {
+      "text": "one",
+      "start": 36.58494331065759,
+      "end": 36.824943310657595
+    },
+    {
+      "text": "furthest",
+      "start": 36.824943310657595,
+      "end": 37.30494331065759
+    },
+    {
+      "text": "from",
+      "start": 37.30494331065759,
+      "end": 37.464943310657596
+    },
+    {
+      "text": "what",
+      "start": 37.464943310657596,
+      "end": 37.6249433106576
+    },
+    {
+      "text": "happened",
+      "start": 37.6249433106576,
+      "end": 38.104943310657596
+    },
+    {
+      "text": "Your",
+      "start": 38.2649433106576,
+      "end": 38.424943310657596
+    },
+    {
+      "text": "clearest",
+      "start": 38.424943310657596,
+      "end": 38.824943310657595
+    },
+    {
+      "text": "memories",
+      "start": 38.824943310657595,
+      "end": 39.3849433106576
+    },
+    {
+      "text": "are",
+      "start": 39.3849433106576,
+      "end": 39.464943310657596
+    },
+    {
+      "text": "the",
+      "start": 39.464943310657596,
+      "end": 39.544943310657594
+    },
+    {
+      "text": "ones",
+      "start": 39.544943310657594,
+      "end": 39.864943310657594
+    },
+    {
+      "text": "you",
+      "start": 39.864943310657594,
+      "end": 40.0249433106576
+    },
+    {
+      "text": "have",
+      "start": 40.0249433106576,
+      "end": 40.104943310657596
+    },
+    {
+      "text": "edited",
+      "start": 40.184943310657594,
+      "end": 40.504943310657595
+    },
+    {
+      "text": "the",
+      "start": 40.504943310657595,
+      "end": 40.58494331065759
+    },
+    {
+      "text": "most",
+      "start": 40.58494331065759,
+      "end": 40.9849433106576
+    },
+    {
+      "text": "One",
+      "start": 41.30494331065759,
+      "end": 41.544943310657594
+    },
+    {
+      "text": "of",
+      "start": 41.544943310657594,
+      "end": 41.6249433106576
+    },
+    {
+      "text": "these",
+      "start": 41.6249433106576,
+      "end": 41.864943310657594
+    },
+    {
+      "text": "every",
+      "start": 41.864943310657594,
+      "end": 42.104943310657596
+    },
+    {
+      "text": "day",
+      "start": 42.104943310657596,
+      "end": 42.424943310657596
+    },
+    {
+      "text": "Follow",
+      "start": 42.7449433106576,
+      "end": 43.0649433106576
+    },
+    {
+      "text": "so",
+      "start": 43.0649433106576,
+      "end": 43.22494331065759
+    },
+    {
+      "text": "you",
+      "start": 43.22494331065759,
+      "end": 43.30494331065759
+    },
+    {
+      "text": "do",
+      "start": 43.30494331065759,
+      "end": 43.3849433106576
+    },
+    {
+      "text": "not",
+      "start": 43.3849433106576,
+      "end": 43.7049433106576
+    },
+    {
+      "text": "miss",
+      "start": 43.7049433106576,
+      "end": 43.94494331065759
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.94494331065759,
+      "end": 44.424943310657596
+    }
+  ],
+  "text": "A perfect memory is not a superpower. It is a diagnosis. You assume forgetting is your brain failing. It is your brain choosing. Connections you stop using get pruned away deliberately, to keep the useful ones clear. People who cannot forget exist. Their day is interrupted by decades of detail they did not ask for. They struggle to think in general terms, because every example arrives whole. But the unsettling part is what happens to the memories you do keep. Pulling a memory up does not read it. It reopens it. And when it goes back down, it goes back changed by the room you are standing in now. So the story you have told the most times is the one furthest from what happened. Your clearest memories are the ones you have edited the most. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

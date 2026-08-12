@@ -1,0 +1,733 @@
+{
+  "audio_duration": 42.971313,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "sunlight",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "on",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "your",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "text": "face",
+      "start": 0.8,
+      "end": 1.36
+    },
+    {
+      "text": "left",
+      "start": 1.52,
+      "end": 1.76
+    },
+    {
+      "text": "the",
+      "start": 1.76,
+      "end": 1.84
+    },
+    {
+      "text": "Sun",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "text": "eight",
+      "start": 2.24,
+      "end": 2.48
+    },
+    {
+      "text": "minutes",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "text": "ago",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "text": "Light",
+      "start": 3.52,
+      "end": 3.84
+    },
+    {
+      "text": "is",
+      "start": 3.84,
+      "end": 4.0
+    },
+    {
+      "text": "fast",
+      "start": 4.0,
+      "end": 4.56
+    },
+    {
+      "text": "but",
+      "start": 4.64,
+      "end": 4.8
+    },
+    {
+      "text": "it",
+      "start": 4.8,
+      "end": 4.88
+    },
+    {
+      "text": "is",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "not",
+      "start": 5.04,
+      "end": 5.36
+    },
+    {
+      "text": "instant",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "text": "and",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "that",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "changes",
+      "start": 6.4,
+      "end": 6.88
+    },
+    {
+      "text": "what",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "seeing",
+      "start": 7.12,
+      "end": 7.52
+    },
+    {
+      "text": "actually",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "text": "means",
+      "start": 7.92,
+      "end": 8.4
+    },
+    {
+      "text": "Nothing",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "text": "you",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "have",
+      "start": 9.12,
+      "end": 9.2
+    },
+    {
+      "text": "ever",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "text": "seen",
+      "start": 9.44,
+      "end": 9.68
+    },
+    {
+      "text": "was",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "happening",
+      "start": 9.84,
+      "end": 10.32
+    },
+    {
+      "text": "at",
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "text": "the",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "moment",
+      "start": 10.48,
+      "end": 10.8
+    },
+    {
+      "text": "you",
+      "start": 10.8,
+      "end": 10.88
+    },
+    {
+      "text": "saw",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "text": "it",
+      "start": 11.28,
+      "end": 11.44
+    },
+    {
+      "text": "The",
+      "start": 11.92,
+      "end": 12.0
+    },
+    {
+      "text": "Moon",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "text": "is",
+      "start": 12.32,
+      "end": 12.48
+    },
+    {
+      "text": "a",
+      "start": 12.48,
+      "end": 12.48
+    },
+    {
+      "text": "second",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "text": "away",
+      "start": 12.96,
+      "end": 13.36
+    },
+    {
+      "text": "The",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "Sun",
+      "start": 13.6,
+      "end": 14.0
+    },
+    {
+      "text": "is",
+      "start": 14.0,
+      "end": 14.08
+    },
+    {
+      "text": "eight",
+      "start": 14.16,
+      "end": 14.4
+    },
+    {
+      "text": "minutes",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "text": "Jupiter's",
+      "start": 15.193650793650795,
+      "end": 15.753650793650795
+    },
+    {
+      "text": "light",
+      "start": 15.753650793650795,
+      "end": 15.993650793650794
+    },
+    {
+      "text": "is",
+      "start": 15.993650793650794,
+      "end": 16.153650793650794
+    },
+    {
+      "text": "forty",
+      "start": 16.153650793650794,
+      "end": 16.473650793650794
+    },
+    {
+      "text": "minutes",
+      "start": 16.473650793650794,
+      "end": 16.793650793650794
+    },
+    {
+      "text": "old",
+      "start": 16.793650793650794,
+      "end": 17.193650793650797
+    },
+    {
+      "text": "by",
+      "start": 17.353650793650793,
+      "end": 17.513650793650793
+    },
+    {
+      "text": "the",
+      "start": 17.513650793650793,
+      "end": 17.593650793650795
+    },
+    {
+      "text": "time",
+      "start": 17.593650793650795,
+      "end": 17.913650793650795
+    },
+    {
+      "text": "it",
+      "start": 17.913650793650795,
+      "end": 17.993650793650794
+    },
+    {
+      "text": "reaches",
+      "start": 17.993650793650794,
+      "end": 18.313650793650794
+    },
+    {
+      "text": "your",
+      "start": 18.313650793650794,
+      "end": 18.473650793650794
+    },
+    {
+      "text": "eye",
+      "start": 18.473650793650794,
+      "end": 18.873650793650796
+    },
+    {
+      "text": "Go",
+      "start": 19.193650793650797,
+      "end": 19.433650793650795
+    },
+    {
+      "text": "further",
+      "start": 19.433650793650795,
+      "end": 19.913650793650795
+    },
+    {
+      "text": "and",
+      "start": 20.153650793650794,
+      "end": 20.233650793650796
+    },
+    {
+      "text": "the",
+      "start": 20.233650793650796,
+      "end": 20.313650793650794
+    },
+    {
+      "text": "delay",
+      "start": 20.313650793650794,
+      "end": 20.713650793650793
+    },
+    {
+      "text": "stops",
+      "start": 20.713650793650793,
+      "end": 21.033650793650793
+    },
+    {
+      "text": "being",
+      "start": 21.033650793650793,
+      "end": 21.353650793650793
+    },
+    {
+      "text": "a",
+      "start": 21.353650793650793,
+      "end": 21.353650793650793
+    },
+    {
+      "text": "technicality",
+      "start": 21.353650793650793,
+      "end": 22.153650793650794
+    },
+    {
+      "text": "The",
+      "start": 22.553650793650796,
+      "end": 22.633650793650794
+    },
+    {
+      "text": "nearest",
+      "start": 22.633650793650794,
+      "end": 23.033650793650793
+    },
+    {
+      "text": "star",
+      "start": 23.033650793650793,
+      "end": 23.273650793650795
+    },
+    {
+      "text": "you",
+      "start": 23.273650793650795,
+      "end": 23.433650793650795
+    },
+    {
+      "text": "can",
+      "start": 23.433650793650795,
+      "end": 23.593650793650795
+    },
+    {
+      "text": "see",
+      "start": 23.593650793650795,
+      "end": 23.753650793650795
+    },
+    {
+      "text": "tonight",
+      "start": 23.753650793650795,
+      "end": 24.153650793650794
+    },
+    {
+      "text": "sent",
+      "start": 24.313650793650794,
+      "end": 24.633650793650794
+    },
+    {
+      "text": "that",
+      "start": 24.633650793650794,
+      "end": 24.793650793650794
+    },
+    {
+      "text": "light",
+      "start": 24.793650793650794,
+      "end": 25.033650793650793
+    },
+    {
+      "text": "four",
+      "start": 25.033650793650793,
+      "end": 25.273650793650795
+    },
+    {
+      "text": "years",
+      "start": 25.273650793650795,
+      "end": 25.593650793650795
+    },
+    {
+      "text": "ago",
+      "start": 25.593650793650795,
+      "end": 25.913650793650795
+    },
+    {
+      "text": "Some",
+      "start": 26.073650793650792,
+      "end": 26.313650793650794
+    },
+    {
+      "text": "of",
+      "start": 26.313650793650794,
+      "end": 26.393650793650792
+    },
+    {
+      "text": "the",
+      "start": 26.393650793650792,
+      "end": 26.473650793650794
+    },
+    {
+      "text": "stars",
+      "start": 26.473650793650794,
+      "end": 26.873650793650796
+    },
+    {
+      "text": "up",
+      "start": 26.873650793650796,
+      "end": 27.033650793650793
+    },
+    {
+      "text": "there",
+      "start": 27.033650793650793,
+      "end": 27.273650793650795
+    },
+    {
+      "text": "have",
+      "start": 27.273650793650795,
+      "end": 27.433650793650795
+    },
+    {
+      "text": "already",
+      "start": 27.433650793650795,
+      "end": 27.833650793650797
+    },
+    {
+      "text": "died",
+      "start": 27.833650793650797,
+      "end": 28.233650793650796
+    },
+    {
+      "text": "The",
+      "start": 28.553650793650796,
+      "end": 28.633650793650794
+    },
+    {
+      "text": "news",
+      "start": 28.633650793650794,
+      "end": 28.953650793650795
+    },
+    {
+      "text": "has",
+      "start": 28.953650793650795,
+      "end": 29.033650793650793
+    },
+    {
+      "text": "not",
+      "start": 29.033650793650793,
+      "end": 29.273650793650795
+    },
+    {
+      "text": "arrived",
+      "start": 29.273650793650795,
+      "end": 29.673650793650793
+    },
+    {
+      "text": "yet",
+      "start": 29.673650793650793,
+      "end": 29.993650793650794
+    },
+    {
+      "text": "And",
+      "start": 30.377505668934237,
+      "end": 30.45750566893424
+    },
+    {
+      "text": "a",
+      "start": 30.45750566893424,
+      "end": 30.537505668934237
+    },
+    {
+      "text": "faint",
+      "start": 30.537505668934237,
+      "end": 30.857505668934238
+    },
+    {
+      "text": "smudge",
+      "start": 30.857505668934238,
+      "end": 31.25750566893424
+    },
+    {
+      "text": "of",
+      "start": 31.25750566893424,
+      "end": 31.337505668934238
+    },
+    {
+      "text": "a",
+      "start": 31.337505668934238,
+      "end": 31.41750566893424
+    },
+    {
+      "text": "galaxy",
+      "start": 31.41750566893424,
+      "end": 31.97750566893424
+    },
+    {
+      "text": "is",
+      "start": 32.13750566893424,
+      "end": 32.297505668934235
+    },
+    {
+      "text": "showing",
+      "start": 32.297505668934235,
+      "end": 32.617505668934236
+    },
+    {
+      "text": "you",
+      "start": 32.617505668934236,
+      "end": 32.77750566893424
+    },
+    {
+      "text": "light",
+      "start": 32.77750566893424,
+      "end": 33.01750566893424
+    },
+    {
+      "text": "that",
+      "start": 33.17750566893424,
+      "end": 33.33750566893424
+    },
+    {
+      "text": "left",
+      "start": 33.33750566893424,
+      "end": 33.65750566893424
+    },
+    {
+      "text": "before",
+      "start": 33.65750566893424,
+      "end": 33.97750566893424
+    },
+    {
+      "text": "there",
+      "start": 33.97750566893424,
+      "end": 34.13750566893424
+    },
+    {
+      "text": "were",
+      "start": 34.13750566893424,
+      "end": 34.21750566893424
+    },
+    {
+      "text": "humans",
+      "start": 34.21750566893424,
+      "end": 34.77750566893424
+    },
+    {
+      "text": "There",
+      "start": 34.937505668934236,
+      "end": 35.09750566893424
+    },
+    {
+      "text": "is",
+      "start": 35.09750566893424,
+      "end": 35.257505668934236
+    },
+    {
+      "text": "no",
+      "start": 35.257505668934236,
+      "end": 35.49750566893424
+    },
+    {
+      "text": "now",
+      "start": 35.49750566893424,
+      "end": 35.73750566893424
+    },
+    {
+      "text": "at",
+      "start": 35.73750566893424,
+      "end": 35.89750566893424
+    },
+    {
+      "text": "a",
+      "start": 35.89750566893424,
+      "end": 35.89750566893424
+    },
+    {
+      "text": "distance",
+      "start": 35.89750566893424,
+      "end": 36.45750566893424
+    },
+    {
+      "text": "Even",
+      "start": 36.69750566893424,
+      "end": 36.937505668934236
+    },
+    {
+      "text": "the",
+      "start": 36.937505668934236,
+      "end": 37.01750566893424
+    },
+    {
+      "text": "person",
+      "start": 37.01750566893424,
+      "end": 37.33750566893424
+    },
+    {
+      "text": "across",
+      "start": 37.33750566893424,
+      "end": 37.657505668934235
+    },
+    {
+      "text": "the",
+      "start": 37.657505668934235,
+      "end": 37.81750566893424
+    },
+    {
+      "text": "room",
+      "start": 37.81750566893424,
+      "end": 38.13750566893424
+    },
+    {
+      "text": "is",
+      "start": 38.13750566893424,
+      "end": 38.297505668934235
+    },
+    {
+      "text": "nanoseconds",
+      "start": 38.297505668934235,
+      "end": 39.09750566893424
+    },
+    {
+      "text": "late",
+      "start": 39.09750566893424,
+      "end": 39.41750566893424
+    },
+    {
+      "text": "One",
+      "start": 39.657505668934235,
+      "end": 39.89750566893424
+    },
+    {
+      "text": "of",
+      "start": 39.89750566893424,
+      "end": 39.97750566893424
+    },
+    {
+      "text": "these",
+      "start": 39.97750566893424,
+      "end": 40.21750566893424
+    },
+    {
+      "text": "every",
+      "start": 40.21750566893424,
+      "end": 40.53750566893424
+    },
+    {
+      "text": "day",
+      "start": 40.53750566893424,
+      "end": 40.937505668934236
+    },
+    {
+      "text": "Follow",
+      "start": 41.17750566893424,
+      "end": 41.41750566893424
+    },
+    {
+      "text": "so",
+      "start": 41.41750566893424,
+      "end": 41.577505668934236
+    },
+    {
+      "text": "you",
+      "start": 41.577505668934236,
+      "end": 41.73750566893424
+    },
+    {
+      "text": "do",
+      "start": 41.73750566893424,
+      "end": 41.89750566893424
+    },
+    {
+      "text": "not",
+      "start": 41.89750566893424,
+      "end": 42.05750566893424
+    },
+    {
+      "text": "miss",
+      "start": 42.05750566893424,
+      "end": 42.297505668934235
+    },
+    {
+      "text": "tomorrow",
+      "start": 42.297505668934235,
+      "end": 42.77750566893424
+    }
+  ],
+  "text": "The sunlight on your face left the Sun eight minutes ago. Light is fast, but it is not instant, and that changes what seeing actually means. Nothing you have ever seen was happening at the moment you saw it. The Moon is a second away. The Sun is eight minutes. Jupiter's light is forty minutes old by the time it reaches your eye. Go further and the delay stops being a technicality. The nearest star you can see tonight sent that light four years ago. Some of the stars up there have already died. The news has not arrived yet. And a faint smudge of a galaxy is showing you light that left before there were humans. There is no now at a distance. Even the person across the room is nanoseconds late. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

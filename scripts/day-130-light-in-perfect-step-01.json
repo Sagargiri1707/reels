@@ -1,0 +1,109 @@
+{
+  "topic": "Light marching in perfect step",
+  "lesson": "A laser is light where every wave is synchronised, so the beam barely spreads, which is what lets us bounce one off a mirror on the Moon and measure the distance to millimetres.",
+  "slug": "day-130-light-in-perfect-step-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A laser is only light where every wave is in step. That single change turns it into a tool.",
+      "scene": "a row of pendulums swinging in exact unison, a small black cartoon figure starting the last one",
+      "image_text": "IN STEP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of pendulums swinging in exact unison, a small black cartoon figure starting the last one. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"IN STEP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A bulb throws out waves of every length, in every direction, all at random.",
+      "scene": "a bare bulb, a small black cartoon figure shielding themselves from it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bare bulb, a small black cartoon figure shielding themselves from it with both arms. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Which is fine for lighting a room and useless for anything that needs precision.",
+      "scene": "a scattered handful of arrows, a small black cartoon figure gathering them up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a scattered handful of arrows, a small black cartoon figure gathering them up. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A laser puts out one wavelength, one direction, every crest lined up with every other.",
+      "scene": "a bundle of arrows all pointing one way, a small black cartoon figure tying them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bundle of arrows all pointing one way, a small black cartoon figure tying them together. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Which means the beam barely spreads, so you can aim it at something very far away.",
+      "scene": "a torch narrowed to a thin line, a small black cartoon figure aiming it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a torch narrowed to a thin line, a small black cartoon figure aiming it with both arms. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Cutting metal, reading barcodes, reshaping a cornea, carrying the internet through glass.",
+      "scene": "a metal plate with one clean cut line, a small black cartoon figure running an arm along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal plate with one clean cut line, a small black cartoon figure running an arm along it. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "But the best one is on the Moon.",
+      "scene": "a small grey rock on the bare surface, a small black cartoon figure setting it down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small grey rock on the bare surface, a small black cartoon figure setting it down. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Apollo crews left mirrors up there. We fire a laser at them and time the return.",
+      "scene": "a mirror tile propped on the grey rock, a small black cartoon figure angling it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mirror tile propped on the grey rock, a small black cartoon figure angling it. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "That measures the distance to within millimetres, which is how we know the Moon is drifting away.",
+      "scene": "a stopwatch, a small black cartoon figure slamming its button down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stopwatch, a small black cartoon figure slamming its button down. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "About four centimetres a year, measured with a beam of light in perfect step.",
+      "scene": "a ruler with one tiny gap marked, a small black cartoon figure pressing a pin into the gap",
+      "image_text": "FOUR CENTIMETRES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ruler with one tiny gap marked, a small black cartoon figure pressing a pin into the gap. the scene belongs to many things moving in exact unison instead of at random, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FOUR CENTIMETRES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A laser is coherent light: one wavelength, one direction, every wave in step. That is why the beam barely spreads, which makes it a precision tool rather than just a bright light. Fibre communication, barcode scanners, eye surgery and metal cutting all depend on it. The standout is lunar ranging: Apollo crews left retroreflectors on the Moon, and timing a laser's return measures the distance to millimetres. That is how we know the Moon drifts about 3.8 cm further away each year.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #laser #light #moon #physics #science",
+    "thumbnail_beat": "01"
+  }
+}

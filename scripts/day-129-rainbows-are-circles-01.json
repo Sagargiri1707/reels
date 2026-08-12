@@ -1,0 +1,109 @@
+{
+  "topic": "Rainbows are actually full circles",
+  "lesson": "A rainbow is a fixed angle drawn around your own shadow rather than an object in the sky, which is why it is a full circle and why nobody else sees yours.",
+  "slug": "day-129-rainbows-are-circles-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "You have never seen a whole rainbow. The ground cuts off the bottom half.",
+      "scene": "a plate with its lower half hidden behind a board, a small black cartoon figure heaving the board away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plate with its lower half hidden behind a board, a small black cartoon figure heaving the board away. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A rainbow is not in the sky. It is not anywhere.",
+      "scene": "a glass of water alone on the bare surface, a small black cartoon figure tipping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass of water alone on the bare surface, a small black cartoon figure tipping it. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Sunlight enters a raindrop, bends, bounces off the back, and bends again on the way out.",
+      "scene": "a glass sphere on a card, a small black cartoon figure turning the sphere with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass sphere on a card, a small black cartoon figure turning the sphere with both arms. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Each colour bends by a slightly different amount, so they leave separated.",
+      "scene": "a glass prism, a small black cartoon figure rotating it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass prism, a small black cartoon figure rotating it with both arms. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "And they all leave at almost exactly forty two degrees from the direction you are looking.",
+      "scene": "a brass protractor, a small black cartoon figure dragging its arm round",
+      "image_text": "FORTY TWO",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass protractor, a small black cartoon figure dragging its arm round. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FORTY TWO\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which means the rainbow is a shape drawn around your own shadow.",
+      "scene": "a chalk circle drawn around a small shadow, a small black cartoon figure dragging the chalk",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk circle drawn around a small shadow, a small black cartoon figure dragging the chalk. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "It is a full circle. From the ground you only ever get the top of it.",
+      "scene": "a card ring with its lower half buried, a small black cartoon figure hauling it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card ring with its lower half buried, a small black cartoon figure hauling it up. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "From an aircraft, with nothing in the way, you can see the whole ring.",
+      "scene": "a complete card ring held clear of the surface, a small black cartoon figure holding it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a complete card ring held clear of the surface, a small black cartoon figure holding it up. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And nobody else is seeing yours. Their circle is built from entirely different droplets.",
+      "scene": "two chalk circles drawn from different spots, a small black cartoon figure walking between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two chalk circles drawn from different spots, a small black cartoon figure walking between them. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You cannot walk to it, because it is not an object. It is an angle.",
+      "scene": "a chalk arc on the surface, a small black cartoon figure running at it and reaching bare desk",
+      "image_text": "AN ANGLE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk arc on the surface, a small black cartoon figure running at it and reaching bare desk. the scene belongs to a shape that exists only relative to where the viewer is standing, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"AN ANGLE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Light enters a raindrop, refracts, reflects off the back and refracts again on the way out, with each colour bending slightly differently. It all emerges at about 42 degrees from your line of sight, which means a rainbow is a circle centred on your own shadow. From the ground the horizon cuts off the bottom half; from an aircraft you can see the whole ring. And nobody sees yours, because their circle is built from different droplets entirely.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #rainbow #optics #light #weather #science",
+    "thumbnail_beat": "08"
+  }
+}

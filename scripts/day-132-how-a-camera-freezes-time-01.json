@@ -1,0 +1,109 @@
+{
+  "topic": "How a camera freezes time",
+  "lesson": "Your phone does not take a photograph, it takes several at different settings and computes one, so the image you keep was never on the sensor.",
+  "slug": "day-132-how-a-camera-freezes-time-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A photo is a count of how many photons landed in each square of a grid, and for how long.",
+      "scene": "a grid tray unevenly filled with beads, a small black cartoon figure dropping one more in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a grid tray unevenly filled with beads, a small black cartoon figure dropping one more in. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Three dials, and every photograph ever taken is a compromise between them.",
+      "scene": "three dials in a row, a small black cartoon figure turning the middle one with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three dials in a row, a small black cartoon figure turning the middle one with both arms. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "How wide you open the hole. How long you leave it open. How hard you amplify what arrives.",
+      "scene": "an iris diaphragm, a small black cartoon figure hauling it open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an iris diaphragm, a small black cartoon figure hauling it open. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Leave it open longer and you get more light, and anything moving smears across the frame.",
+      "scene": "a smeared chalk line, a small black cartoon figure dragging a wet cloth through it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a smeared chalk line, a small black cartoon figure dragging a wet cloth through it. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Amplify harder and you get a usable picture full of grain.",
+      "scene": "a coarse grainy print, a small black cartoon figure brushing at its surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coarse grainy print, a small black cartoon figure brushing at its surface. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which is why your phone does not really take a photo at all.",
+      "scene": "one print beside a thick stack of them, a small black cartoon figure hauling the stack over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one print beside a thick stack of them, a small black cartoon figure hauling the stack over. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "It takes a burst of them, at different settings, inside the moment you thought was one.",
+      "scene": "a fan of prints spread out, a small black cartoon figure spreading the last one",
+      "image_text": "SEVERAL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fan of prints spread out, a small black cartoon figure spreading the last one. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SEVERAL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Then it combines them, keeping the sharp parts of one and the clean parts of another.",
+      "scene": "two prints held overlapping, a small black cartoon figure pressing them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two prints held overlapping, a small black cartoon figure pressing them together. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The image you keep was never on the sensor. It was computed afterwards.",
+      "scene": "a finished print with no negative anywhere, a small black cartoon figure holding it up",
+      "image_text": "COMPUTED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a finished print with no negative anywhere, a small black cartoon figure holding it up. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"COMPUTED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is exactly what your brain has been doing with your eyes the entire time.",
+      "scene": "a print and a pair of spectacles side by side, a small black cartoon figure setting the spectacles down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a print and a pair of spectacles side by side, a small black cartoon figure setting the spectacles down. the scene belongs to a final result assembled from several attempts rather than captured in one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A photo is a count of photons per sensor well over a set time, and the three dials are aperture, shutter and sensitivity. Longer exposure means more light and more motion blur; more amplification means a usable frame full of noise. Which is why your phone does not take one photo. It takes a burst at different settings and merges them, keeping the sharp parts of one and the clean parts of another. The image you keep is a reconstruction that was never on the sensor.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #photography #camera #light #technology #science",
+    "thumbnail_beat": "09"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "The internet is light trapped in glass",
+  "lesson": "Total internal reflection traps light inside a fibre so it cannot escape, which means the cloud is physically a bundle of glass threads lying on the seafloor.",
+  "slug": "day-131-internet-is-light-in-glass-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your message crosses an ocean as flashes of light bouncing inside a strand thinner than a hair.",
+      "scene": "a single glass fibre beside a hair, a small black cartoon figure holding the fibre up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single glass fibre beside a hair, a small black cartoon figure holding the fibre up. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You picture the internet as radio, or as a cloud. It is mostly glass, lying in the dark.",
+      "scene": "a heavy coil of cable, a small black cartoon figure sitting on top of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy coil of cable, a small black cartoon figure sitting on top of it. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Shine light into glass at a shallow enough angle and it cannot get back out.",
+      "scene": "a shallow beam entering a glass rod, a small black cartoon figure aiming it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow beam entering a glass rod, a small black cartoon figure aiming it with both arms. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It reaches the boundary, reflects straight back in, and does it again. Every single time.",
+      "scene": "a marble ricocheting inside a narrow trough, a small black cartoon figure dropping it in",
+      "image_text": "CANNOT GET OUT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a marble ricocheting inside a narrow trough, a small black cartoon figure dropping it in. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"CANNOT GET OUT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So the light never travels straight. It ricochets the whole length of the fibre.",
+      "scene": "a very long trough, a small black cartoon figure catching the marble at the far end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very long trough, a small black cartoon figure catching the marble at the far end. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And the glass is made so pure that the signal survives a hundred kilometres before it needs a boost.",
+      "scene": "an extremely clear glass block, a small black cartoon figure polishing its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an extremely clear glass block, a small black cartoon figure polishing its face. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Each strand carries terabits a second, and one cable holds a bundle of them.",
+      "scene": "a tied bundle of fine strands, a small black cartoon figure gripping the bundle with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tied bundle of fine strands, a small black cartoon figure gripping the bundle with both arms. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "There are hundreds of those cables on the seafloor, right now, carrying almost everything.",
+      "scene": "a thick armoured cable end, a small black cartoon figure hauling it across the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick armoured cable end, a small black cartoon figure hauling it across the surface. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The cloud is not in the sky. It is a rope of glass in the dark at the bottom of the ocean.",
+      "scene": "a cable running off the edge into a shallow tray of water, a small black cartoon figure feeding it in",
+      "image_text": "THE CLOUD",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cable running off the edge into a shallow tray of water, a small black cartoon figure feeding it in. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THE CLOUD\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Every message you have ever sent abroad went as light, trapped in a thread it could not escape.",
+      "scene": "a knot tied in a fibre still glowing at the end, a small black cartoon figure tightening the knot",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a knot tied in a fibre still glowing at the end, a small black cartoon figure tightening the knot. the scene belongs to light held inside a thread it cannot get out of, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Light entering glass at a shallow enough angle undergoes total internal reflection: it hits the boundary and bounces straight back in, over and over, all the way down the fibre. The glass is pure enough that a signal survives around a hundred kilometres before needing a repeater, and each strand carries terabits per second. Hundreds of those cables lie on the seafloor right now. The cloud is a rope of glass in the dark.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #internet #fibreoptics #light #technology #science",
+    "thumbnail_beat": "01"
+  }
+}

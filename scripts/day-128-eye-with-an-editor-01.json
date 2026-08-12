@@ -1,0 +1,109 @@
+{
+  "topic": "Your eye is a lens with a live editor behind it",
+  "lesson": "Your eye is ordinary optics with a real blind spot where the nerve leaves, and everything you see is that raw image after a very confident editor has finished with it.",
+  "slug": "day-128-eye-with-an-editor-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "There is a hole in your vision right now, and your brain is painting over it.",
+      "scene": "a torn poster patched with plain paper, a small black cartoon figure smoothing the patch down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a torn poster patched with plain paper, a small black cartoon figure smoothing the patch down. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Your eye is a lens, an aperture and a sheet of sensor. Nothing exotic about it.",
+      "scene": "a lens, a shutter blade and a flat plate in a row, a small black cartoon figure lining them up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lens, a shutter blade and a flat plate in a row, a small black cartoon figure lining them up. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The cornea does most of the bending. The lens does the fine focusing on top.",
+      "scene": "a thick curved glass, a small black cartoon figure pressing both arms against it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick curved glass, a small black cartoon figure pressing both arms against it. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The image lands on the back of your eye upside down, and it stays that way.",
+      "scene": "a picture card held upside down, a small black cartoon figure turning it the right way up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a picture card held upside down, a small black cartoon figure turning it the right way up. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "But the cable has to leave somewhere, and where it leaves there are no sensors at all.",
+      "scene": "a bundle of cables leaving through a hole in a board, a small black cartoon figure hauling them through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bundle of cables leaving through a hole in a board, a small black cartoon figure hauling them through. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "That is a real blind spot in each eye, and you have never once seen it.",
+      "scene": "a sensor board with one bare patch, a small black cartoon figure standing in the empty patch",
+      "image_text": "BLIND SPOT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sensor board with one bare patch, a small black cartoon figure standing in the empty patch. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BLIND SPOT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Because your brain fills it with whatever is around it and hands you the finished result.",
+      "scene": "a roll of matching wallpaper, a small black cartoon figure rolling it across the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a roll of matching wallpaper, a small black cartoon figure rolling it across the gap. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And if the eyeball is slightly too long, the focus lands short of the back. That is short sight.",
+      "scene": "a projector focused short of a screen, a small black cartoon figure sliding the screen forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a projector focused short of a screen, a small black cartoon figure sliding the screen forward. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Slightly too short and it lands behind. Glasses only move the focal point back onto the sensor.",
+      "scene": "a pair of spectacles set into the beam, a small black cartoon figure placing them upright",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pair of spectacles set into the beam, a small black cartoon figure placing them upright. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Your eye is decent optics with a very confident editor sitting behind it.",
+      "scene": "a red pen lying on a photograph, a small black cartoon figure lifting the pen away",
+      "image_text": "EDITOR",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a red pen lying on a photograph, a small black cartoon figure lifting the pen away. the scene belongs to an image being fixed up before anybody is allowed to see it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"EDITOR\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The cornea does most of the refraction, the lens fine-tunes it, and the image lands upside down on the retina. Where the optic nerve leaves there are no photoreceptors at all, so each eye has a genuine blind spot you never notice, because your brain fills it with plausible surroundings. Short and long sight are just the eyeball being slightly the wrong length, and glasses move the focal point back onto the retina.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #eyes #vision #optics #perception #science",
+    "thumbnail_beat": "06"
+  }
+}

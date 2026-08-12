@@ -1,0 +1,768 @@
+{
+  "audio_duration": 45.061125,
+  "segments": [
+    {
+      "text": "You",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "have",
+      "start": 0.16,
+      "end": 0.24
+    },
+    {
+      "text": "never",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "text": "seen",
+      "start": 0.56,
+      "end": 0.8
+    },
+    {
+      "text": "a",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "text": "whole",
+      "start": 0.88,
+      "end": 1.28
+    },
+    {
+      "text": "rainbow",
+      "start": 1.28,
+      "end": 1.76
+    },
+    {
+      "text": "The",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "ground",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "cuts",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "off",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "the",
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "text": "bottom",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "half",
+      "start": 3.44,
+      "end": 3.84
+    },
+    {
+      "text": "A",
+      "start": 4.32,
+      "end": 4.4
+    },
+    {
+      "text": "rainbow",
+      "start": 4.4,
+      "end": 4.8
+    },
+    {
+      "text": "is",
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "text": "not",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "in",
+      "start": 5.2,
+      "end": 5.28
+    },
+    {
+      "text": "the",
+      "start": 5.28,
+      "end": 5.36
+    },
+    {
+      "text": "sky",
+      "start": 5.36,
+      "end": 5.92
+    },
+    {
+      "text": "It",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "text": "is",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "text": "not",
+      "start": 6.48,
+      "end": 6.72
+    },
+    {
+      "text": "anywhere",
+      "start": 6.72,
+      "end": 7.36
+    },
+    {
+      "text": "Sunlight",
+      "start": 7.68,
+      "end": 8.24
+    },
+    {
+      "text": "enters",
+      "start": 8.24,
+      "end": 8.56
+    },
+    {
+      "text": "a",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "raindrop",
+      "start": 8.64,
+      "end": 9.28
+    },
+    {
+      "text": "bends",
+      "start": 9.52,
+      "end": 10.08
+    },
+    {
+      "text": "bounces",
+      "start": 10.16,
+      "end": 10.64
+    },
+    {
+      "text": "off",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "text": "the",
+      "start": 10.88,
+      "end": 10.88
+    },
+    {
+      "text": "back",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "and",
+      "start": 11.52,
+      "end": 11.68
+    },
+    {
+      "text": "bends",
+      "start": 11.68,
+      "end": 11.92
+    },
+    {
+      "text": "again",
+      "start": 11.92,
+      "end": 12.24
+    },
+    {
+      "text": "on",
+      "start": 12.24,
+      "end": 12.32
+    },
+    {
+      "text": "the",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "way",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "out",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "text": "Each",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "text": "colour",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "text": "bends",
+      "start": 13.84,
+      "end": 14.24
+    },
+    {
+      "text": "by",
+      "start": 14.24,
+      "end": 14.4
+    },
+    {
+      "text": "a",
+      "start": 14.4,
+      "end": 14.4
+    },
+    {
+      "text": "slightly",
+      "start": 14.4,
+      "end": 14.88
+    },
+    {
+      "text": "different",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "text": "amount",
+      "start": 15.28,
+      "end": 15.6
+    },
+    {
+      "text": "so",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "text": "they",
+      "start": 16.0,
+      "end": 16.16
+    },
+    {
+      "text": "leave",
+      "start": 16.16,
+      "end": 16.4
+    },
+    {
+      "text": "separated",
+      "start": 16.4,
+      "end": 17.04
+    },
+    {
+      "text": "And",
+      "start": 17.54920634920635,
+      "end": 17.62920634920635
+    },
+    {
+      "text": "they",
+      "start": 17.62920634920635,
+      "end": 17.78920634920635
+    },
+    {
+      "text": "all",
+      "start": 17.78920634920635,
+      "end": 18.10920634920635
+    },
+    {
+      "text": "leave",
+      "start": 18.10920634920635,
+      "end": 18.34920634920635
+    },
+    {
+      "text": "at",
+      "start": 18.34920634920635,
+      "end": 18.42920634920635
+    },
+    {
+      "text": "almost",
+      "start": 18.42920634920635,
+      "end": 18.74920634920635
+    },
+    {
+      "text": "exactly",
+      "start": 18.74920634920635,
+      "end": 19.22920634920635
+    },
+    {
+      "text": "forty",
+      "start": 19.22920634920635,
+      "end": 19.62920634920635
+    },
+    {
+      "text": "two",
+      "start": 19.62920634920635,
+      "end": 19.78920634920635
+    },
+    {
+      "text": "degrees",
+      "start": 19.78920634920635,
+      "end": 20.26920634920635
+    },
+    {
+      "text": "from",
+      "start": 20.26920634920635,
+      "end": 20.42920634920635
+    },
+    {
+      "text": "the",
+      "start": 20.42920634920635,
+      "end": 20.42920634920635
+    },
+    {
+      "text": "direction",
+      "start": 20.42920634920635,
+      "end": 20.90920634920635
+    },
+    {
+      "text": "you",
+      "start": 20.90920634920635,
+      "end": 21.06920634920635
+    },
+    {
+      "text": "are",
+      "start": 21.06920634920635,
+      "end": 21.149206349206352
+    },
+    {
+      "text": "looking",
+      "start": 21.149206349206352,
+      "end": 21.62920634920635
+    },
+    {
+      "text": "Which",
+      "start": 22.02920634920635,
+      "end": 22.18920634920635
+    },
+    {
+      "text": "means",
+      "start": 22.18920634920635,
+      "end": 22.50920634920635
+    },
+    {
+      "text": "the",
+      "start": 22.50920634920635,
+      "end": 22.58920634920635
+    },
+    {
+      "text": "rainbow",
+      "start": 22.58920634920635,
+      "end": 22.98920634920635
+    },
+    {
+      "text": "is",
+      "start": 22.98920634920635,
+      "end": 23.06920634920635
+    },
+    {
+      "text": "a",
+      "start": 23.06920634920635,
+      "end": 23.149206349206352
+    },
+    {
+      "text": "shape",
+      "start": 23.149206349206352,
+      "end": 23.54920634920635
+    },
+    {
+      "text": "drawn",
+      "start": 23.54920634920635,
+      "end": 23.86920634920635
+    },
+    {
+      "text": "around",
+      "start": 23.86920634920635,
+      "end": 24.18920634920635
+    },
+    {
+      "text": "your",
+      "start": 24.18920634920635,
+      "end": 24.26920634920635
+    },
+    {
+      "text": "own",
+      "start": 24.26920634920635,
+      "end": 24.50920634920635
+    },
+    {
+      "text": "shadow",
+      "start": 24.50920634920635,
+      "end": 24.98920634920635
+    },
+    {
+      "text": "It",
+      "start": 25.30920634920635,
+      "end": 25.469206349206353
+    },
+    {
+      "text": "is",
+      "start": 25.469206349206353,
+      "end": 25.54920634920635
+    },
+    {
+      "text": "a",
+      "start": 25.54920634920635,
+      "end": 25.62920634920635
+    },
+    {
+      "text": "full",
+      "start": 25.62920634920635,
+      "end": 25.86920634920635
+    },
+    {
+      "text": "circle",
+      "start": 25.86920634920635,
+      "end": 26.42920634920635
+    },
+    {
+      "text": "From",
+      "start": 26.74920634920635,
+      "end": 26.90920634920635
+    },
+    {
+      "text": "the",
+      "start": 26.90920634920635,
+      "end": 26.98920634920635
+    },
+    {
+      "text": "ground",
+      "start": 26.98920634920635,
+      "end": 27.30920634920635
+    },
+    {
+      "text": "you",
+      "start": 27.30920634920635,
+      "end": 27.469206349206353
+    },
+    {
+      "text": "only",
+      "start": 27.469206349206353,
+      "end": 27.789206349206353
+    },
+    {
+      "text": "ever",
+      "start": 27.789206349206353,
+      "end": 27.94920634920635
+    },
+    {
+      "text": "get",
+      "start": 27.94920634920635,
+      "end": 28.18920634920635
+    },
+    {
+      "text": "the",
+      "start": 28.18920634920635,
+      "end": 28.26920634920635
+    },
+    {
+      "text": "top",
+      "start": 28.26920634920635,
+      "end": 28.50920634920635
+    },
+    {
+      "text": "of",
+      "start": 28.50920634920635,
+      "end": 28.66920634920635
+    },
+    {
+      "text": "it",
+      "start": 28.66920634920635,
+      "end": 28.829206349206352
+    },
+    {
+      "text": "From",
+      "start": 29.149206349206352,
+      "end": 29.22920634920635
+    },
+    {
+      "text": "an",
+      "start": 29.22920634920635,
+      "end": 29.30920634920635
+    },
+    {
+      "text": "aircraft",
+      "start": 29.38920634920635,
+      "end": 30.02920634920635
+    },
+    {
+      "text": "with",
+      "start": 30.18920634920635,
+      "end": 30.349206349206348
+    },
+    {
+      "text": "nothing",
+      "start": 30.349206349206348,
+      "end": 30.66920634920635
+    },
+    {
+      "text": "in",
+      "start": 30.66920634920635,
+      "end": 30.74920634920635
+    },
+    {
+      "text": "the",
+      "start": 30.74920634920635,
+      "end": 30.829206349206352
+    },
+    {
+      "text": "way",
+      "start": 30.829206349206352,
+      "end": 31.149206349206352
+    },
+    {
+      "text": "you",
+      "start": 31.30920634920635,
+      "end": 31.469206349206353
+    },
+    {
+      "text": "can",
+      "start": 31.469206349206353,
+      "end": 31.62920634920635
+    },
+    {
+      "text": "see",
+      "start": 31.62920634920635,
+      "end": 31.789206349206353
+    },
+    {
+      "text": "the",
+      "start": 31.789206349206353,
+      "end": 31.94920634920635
+    },
+    {
+      "text": "whole",
+      "start": 31.94920634920635,
+      "end": 32.18920634920635
+    },
+    {
+      "text": "ring",
+      "start": 32.18920634920635,
+      "end": 32.58920634920635
+    },
+    {
+      "text": "And",
+      "start": 33.042086167800456,
+      "end": 33.122086167800454
+    },
+    {
+      "text": "nobody",
+      "start": 33.122086167800454,
+      "end": 33.442086167800454
+    },
+    {
+      "text": "else",
+      "start": 33.442086167800454,
+      "end": 33.682086167800456
+    },
+    {
+      "text": "is",
+      "start": 33.682086167800456,
+      "end": 33.84208616780045
+    },
+    {
+      "text": "seeing",
+      "start": 33.84208616780045,
+      "end": 34.16208616780045
+    },
+    {
+      "text": "yours",
+      "start": 34.16208616780045,
+      "end": 34.64208616780046
+    },
+    {
+      "text": "Their",
+      "start": 34.88208616780045,
+      "end": 35.042086167800456
+    },
+    {
+      "text": "circle",
+      "start": 35.042086167800456,
+      "end": 35.442086167800454
+    },
+    {
+      "text": "is",
+      "start": 35.442086167800454,
+      "end": 35.52208616780045
+    },
+    {
+      "text": "built",
+      "start": 35.52208616780045,
+      "end": 35.84208616780045
+    },
+    {
+      "text": "from",
+      "start": 35.84208616780045,
+      "end": 36.00208616780046
+    },
+    {
+      "text": "entirely",
+      "start": 36.00208616780046,
+      "end": 36.48208616780045
+    },
+    {
+      "text": "different",
+      "start": 36.56208616780046,
+      "end": 36.88208616780045
+    },
+    {
+      "text": "droplets",
+      "start": 36.88208616780045,
+      "end": 37.442086167800454
+    },
+    {
+      "text": "You",
+      "start": 37.682086167800456,
+      "end": 37.84208616780045
+    },
+    {
+      "text": "cannot",
+      "start": 37.84208616780045,
+      "end": 38.16208616780045
+    },
+    {
+      "text": "walk",
+      "start": 38.16208616780045,
+      "end": 38.48208616780045
+    },
+    {
+      "text": "to",
+      "start": 38.48208616780045,
+      "end": 38.64208616780046
+    },
+    {
+      "text": "it",
+      "start": 38.64208616780046,
+      "end": 38.802086167800454
+    },
+    {
+      "text": "because",
+      "start": 39.042086167800456,
+      "end": 39.28208616780046
+    },
+    {
+      "text": "it",
+      "start": 39.28208616780046,
+      "end": 39.28208616780046
+    },
+    {
+      "text": "is",
+      "start": 39.28208616780046,
+      "end": 39.442086167800454
+    },
+    {
+      "text": "not",
+      "start": 39.442086167800454,
+      "end": 39.682086167800456
+    },
+    {
+      "text": "an",
+      "start": 39.682086167800456,
+      "end": 39.762086167800454
+    },
+    {
+      "text": "object",
+      "start": 39.762086167800454,
+      "end": 40.32208616780046
+    },
+    {
+      "text": "It",
+      "start": 40.56208616780046,
+      "end": 40.64208616780046
+    },
+    {
+      "text": "is",
+      "start": 40.64208616780046,
+      "end": 40.802086167800454
+    },
+    {
+      "text": "an",
+      "start": 40.802086167800454,
+      "end": 40.88208616780045
+    },
+    {
+      "text": "angle",
+      "start": 40.88208616780045,
+      "end": 41.362086167800456
+    },
+    {
+      "text": "One",
+      "start": 41.60208616780046,
+      "end": 41.84208616780045
+    },
+    {
+      "text": "of",
+      "start": 41.84208616780045,
+      "end": 41.92208616780046
+    },
+    {
+      "text": "these",
+      "start": 41.92208616780046,
+      "end": 42.16208616780045
+    },
+    {
+      "text": "every",
+      "start": 42.16208616780045,
+      "end": 42.48208616780045
+    },
+    {
+      "text": "day",
+      "start": 42.48208616780045,
+      "end": 42.802086167800454
+    },
+    {
+      "text": "Follow",
+      "start": 43.122086167800454,
+      "end": 43.442086167800454
+    },
+    {
+      "text": "so",
+      "start": 43.442086167800454,
+      "end": 43.60208616780046
+    },
+    {
+      "text": "you",
+      "start": 43.60208616780046,
+      "end": 43.682086167800456
+    },
+    {
+      "text": "do",
+      "start": 43.682086167800456,
+      "end": 43.84208616780045
+    },
+    {
+      "text": "not",
+      "start": 43.84208616780045,
+      "end": 44.082086167800455
+    },
+    {
+      "text": "miss",
+      "start": 44.082086167800455,
+      "end": 44.32208616780046
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.32208616780046,
+      "end": 44.88208616780045
+    }
+  ],
+  "text": "You have never seen a whole rainbow. The ground cuts off the bottom half. A rainbow is not in the sky. It is not anywhere. Sunlight enters a raindrop, bends, bounces off the back, and bends again on the way out. Each colour bends by a slightly different amount, so they leave separated. And they all leave at almost exactly forty two degrees from the direction you are looking. Which means the rainbow is a shape drawn around your own shadow. It is a full circle. From the ground you only ever get the top of it. From an aircraft, with nothing in the way, you can see the whole ring. And nobody else is seeing yours. Their circle is built from entirely different droplets. You cannot walk to it, because it is not an object. It is an angle. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

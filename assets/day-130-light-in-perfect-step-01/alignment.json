@@ -1,0 +1,793 @@
+{
+  "audio_duration": 48.901125,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "laser",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "is",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "only",
+      "start": 0.72,
+      "end": 1.12
+    },
+    {
+      "text": "light",
+      "start": 1.12,
+      "end": 1.52
+    },
+    {
+      "text": "where",
+      "start": 1.52,
+      "end": 1.68
+    },
+    {
+      "text": "every",
+      "start": 1.76,
+      "end": 2.08
+    },
+    {
+      "text": "wave",
+      "start": 2.08,
+      "end": 2.4
+    },
+    {
+      "text": "is",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "in",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "step",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "text": "That",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "text": "single",
+      "start": 3.76,
+      "end": 4.16
+    },
+    {
+      "text": "change",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "text": "turns",
+      "start": 4.64,
+      "end": 4.88
+    },
+    {
+      "text": "it",
+      "start": 4.88,
+      "end": 4.96
+    },
+    {
+      "text": "into",
+      "start": 4.96,
+      "end": 5.2
+    },
+    {
+      "text": "a",
+      "start": 5.2,
+      "end": 5.28
+    },
+    {
+      "text": "tool",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "A",
+      "start": 6.08,
+      "end": 6.16
+    },
+    {
+      "text": "bulb",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "text": "throws",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "out",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "waves",
+      "start": 7.12,
+      "end": 7.44
+    },
+    {
+      "text": "of",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "text": "every",
+      "start": 7.6,
+      "end": 7.92
+    },
+    {
+      "text": "length",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "text": "in",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "text": "every",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "text": "direction",
+      "start": 9.04,
+      "end": 9.6
+    },
+    {
+      "text": "all",
+      "start": 9.92,
+      "end": 10.16
+    },
+    {
+      "text": "at",
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "text": "random",
+      "start": 10.24,
+      "end": 10.8
+    },
+    {
+      "text": "Which",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "text": "is",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "fine",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "text": "for",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "text": "lighting",
+      "start": 11.84,
+      "end": 12.16
+    },
+    {
+      "text": "a",
+      "start": 12.16,
+      "end": 12.16
+    },
+    {
+      "text": "room",
+      "start": 12.16,
+      "end": 12.48
+    },
+    {
+      "text": "and",
+      "start": 12.48,
+      "end": 12.64
+    },
+    {
+      "text": "useless",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "text": "for",
+      "start": 13.12,
+      "end": 13.28
+    },
+    {
+      "text": "anything",
+      "start": 13.28,
+      "end": 13.76
+    },
+    {
+      "text": "that",
+      "start": 13.76,
+      "end": 13.76
+    },
+    {
+      "text": "needs",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "text": "precision",
+      "start": 14.0,
+      "end": 14.64
+    },
+    {
+      "text": "A",
+      "start": 15.041451247165533,
+      "end": 15.121451247165533
+    },
+    {
+      "text": "laser",
+      "start": 15.121451247165533,
+      "end": 15.521451247165533
+    },
+    {
+      "text": "puts",
+      "start": 15.521451247165533,
+      "end": 15.761451247165532
+    },
+    {
+      "text": "out",
+      "start": 15.761451247165532,
+      "end": 16.001451247165534
+    },
+    {
+      "text": "one",
+      "start": 16.001451247165534,
+      "end": 16.321451247165534
+    },
+    {
+      "text": "wavelength",
+      "start": 16.321451247165534,
+      "end": 16.80145124716553
+    },
+    {
+      "text": "one",
+      "start": 17.041451247165533,
+      "end": 17.361451247165533
+    },
+    {
+      "text": "direction",
+      "start": 17.361451247165533,
+      "end": 17.921451247165532
+    },
+    {
+      "text": "every",
+      "start": 18.161451247165534,
+      "end": 18.48145124716553
+    },
+    {
+      "text": "crest",
+      "start": 18.48145124716553,
+      "end": 18.881451247165533
+    },
+    {
+      "text": "lined",
+      "start": 18.881451247165533,
+      "end": 19.12145124716553
+    },
+    {
+      "text": "up",
+      "start": 19.12145124716553,
+      "end": 19.361451247165533
+    },
+    {
+      "text": "with",
+      "start": 19.361451247165533,
+      "end": 19.44145124716553
+    },
+    {
+      "text": "every",
+      "start": 19.521451247165533,
+      "end": 19.841451247165534
+    },
+    {
+      "text": "other",
+      "start": 19.841451247165534,
+      "end": 20.161451247165534
+    },
+    {
+      "text": "Which",
+      "start": 20.401451247165532,
+      "end": 20.561451247165532
+    },
+    {
+      "text": "means",
+      "start": 20.561451247165532,
+      "end": 20.80145124716553
+    },
+    {
+      "text": "the",
+      "start": 20.80145124716553,
+      "end": 20.961451247165535
+    },
+    {
+      "text": "beam",
+      "start": 20.961451247165535,
+      "end": 21.28145124716553
+    },
+    {
+      "text": "barely",
+      "start": 21.28145124716553,
+      "end": 21.60145124716553
+    },
+    {
+      "text": "spreads",
+      "start": 21.60145124716553,
+      "end": 22.161451247165534
+    },
+    {
+      "text": "so",
+      "start": 22.401451247165532,
+      "end": 22.48145124716553
+    },
+    {
+      "text": "you",
+      "start": 22.48145124716553,
+      "end": 22.561451247165532
+    },
+    {
+      "text": "can",
+      "start": 22.561451247165532,
+      "end": 22.721451247165533
+    },
+    {
+      "text": "aim",
+      "start": 22.80145124716553,
+      "end": 22.961451247165535
+    },
+    {
+      "text": "it",
+      "start": 22.961451247165535,
+      "end": 23.041451247165533
+    },
+    {
+      "text": "at",
+      "start": 23.041451247165533,
+      "end": 23.201451247165533
+    },
+    {
+      "text": "something",
+      "start": 23.201451247165533,
+      "end": 23.601451247165535
+    },
+    {
+      "text": "very",
+      "start": 23.601451247165535,
+      "end": 23.921451247165532
+    },
+    {
+      "text": "far",
+      "start": 23.921451247165532,
+      "end": 24.16145124716553
+    },
+    {
+      "text": "away",
+      "start": 24.16145124716553,
+      "end": 24.561451247165532
+    },
+    {
+      "text": "Cutting",
+      "start": 24.881451247165533,
+      "end": 25.201451247165533
+    },
+    {
+      "text": "metal",
+      "start": 25.201451247165533,
+      "end": 25.601451247165535
+    },
+    {
+      "text": "reading",
+      "start": 25.76145124716553,
+      "end": 26.081451247165532
+    },
+    {
+      "text": "barcodes",
+      "start": 26.081451247165532,
+      "end": 26.721451247165533
+    },
+    {
+      "text": "reshaping",
+      "start": 26.961451247165535,
+      "end": 27.521451247165533
+    },
+    {
+      "text": "a",
+      "start": 27.521451247165533,
+      "end": 27.601451247165535
+    },
+    {
+      "text": "cornea",
+      "start": 27.601451247165535,
+      "end": 28.16145124716553
+    },
+    {
+      "text": "carrying",
+      "start": 28.321451247165534,
+      "end": 28.721451247165533
+    },
+    {
+      "text": "the",
+      "start": 28.721451247165533,
+      "end": 28.80145124716553
+    },
+    {
+      "text": "internet",
+      "start": 28.80145124716553,
+      "end": 29.201451247165533
+    },
+    {
+      "text": "through",
+      "start": 29.201451247165533,
+      "end": 29.361451247165533
+    },
+    {
+      "text": "glass",
+      "start": 29.361451247165533,
+      "end": 29.921451247165532
+    },
+    {
+      "text": "But",
+      "start": 30.16145124716553,
+      "end": 30.321451247165534
+    },
+    {
+      "text": "the",
+      "start": 30.321451247165534,
+      "end": 30.401451247165532
+    },
+    {
+      "text": "best",
+      "start": 30.401451247165532,
+      "end": 30.721451247165533
+    },
+    {
+      "text": "one",
+      "start": 30.721451247165533,
+      "end": 30.96145124716553
+    },
+    {
+      "text": "is",
+      "start": 30.96145124716553,
+      "end": 31.041451247165533
+    },
+    {
+      "text": "on",
+      "start": 31.041451247165533,
+      "end": 31.201451247165533
+    },
+    {
+      "text": "the",
+      "start": 31.201451247165533,
+      "end": 31.28145124716553
+    },
+    {
+      "text": "Moon",
+      "start": 31.28145124716553,
+      "end": 31.681451247165533
+    },
+    {
+      "text": "Apollo",
+      "start": 32.07437641723356,
+      "end": 32.554376417233556
+    },
+    {
+      "text": "crews",
+      "start": 32.554376417233556,
+      "end": 32.874376417233556
+    },
+    {
+      "text": "left",
+      "start": 32.874376417233556,
+      "end": 33.11437641723356
+    },
+    {
+      "text": "mirrors",
+      "start": 33.11437641723356,
+      "end": 33.51437641723356
+    },
+    {
+      "text": "up",
+      "start": 33.51437641723356,
+      "end": 33.67437641723356
+    },
+    {
+      "text": "there",
+      "start": 33.67437641723356,
+      "end": 33.914376417233555
+    },
+    {
+      "text": "We",
+      "start": 34.15437641723356,
+      "end": 34.234376417233555
+    },
+    {
+      "text": "fire",
+      "start": 34.234376417233555,
+      "end": 34.63437641723356
+    },
+    {
+      "text": "a",
+      "start": 34.63437641723356,
+      "end": 34.63437641723356
+    },
+    {
+      "text": "laser",
+      "start": 34.63437641723356,
+      "end": 35.03437641723356
+    },
+    {
+      "text": "at",
+      "start": 35.03437641723356,
+      "end": 35.194376417233556
+    },
+    {
+      "text": "them",
+      "start": 35.194376417233556,
+      "end": 35.35437641723356
+    },
+    {
+      "text": "and",
+      "start": 35.35437641723356,
+      "end": 35.51437641723356
+    },
+    {
+      "text": "time",
+      "start": 35.51437641723356,
+      "end": 35.83437641723356
+    },
+    {
+      "text": "the",
+      "start": 35.83437641723356,
+      "end": 35.914376417233555
+    },
+    {
+      "text": "return",
+      "start": 35.914376417233555,
+      "end": 36.39437641723356
+    },
+    {
+      "text": "That",
+      "start": 36.71437641723356,
+      "end": 36.874376417233556
+    },
+    {
+      "text": "measures",
+      "start": 36.874376417233556,
+      "end": 37.194376417233556
+    },
+    {
+      "text": "the",
+      "start": 37.194376417233556,
+      "end": 37.27437641723356
+    },
+    {
+      "text": "distance",
+      "start": 37.27437641723356,
+      "end": 37.83437641723356
+    },
+    {
+      "text": "to",
+      "start": 37.83437641723356,
+      "end": 37.83437641723356
+    },
+    {
+      "text": "within",
+      "start": 37.83437641723356,
+      "end": 38.15437641723356
+    },
+    {
+      "text": "millimetres",
+      "start": 38.15437641723356,
+      "end": 38.79437641723356
+    },
+    {
+      "text": "which",
+      "start": 39.03437641723356,
+      "end": 39.194376417233556
+    },
+    {
+      "text": "is",
+      "start": 39.194376417233556,
+      "end": 39.27437641723356
+    },
+    {
+      "text": "how",
+      "start": 39.27437641723356,
+      "end": 39.43437641723356
+    },
+    {
+      "text": "we",
+      "start": 39.43437641723356,
+      "end": 39.59437641723356
+    },
+    {
+      "text": "know",
+      "start": 39.59437641723356,
+      "end": 39.75437641723356
+    },
+    {
+      "text": "the",
+      "start": 39.75437641723356,
+      "end": 39.83437641723356
+    },
+    {
+      "text": "Moon",
+      "start": 39.83437641723356,
+      "end": 40.07437641723356
+    },
+    {
+      "text": "is",
+      "start": 40.07437641723356,
+      "end": 40.15437641723356
+    },
+    {
+      "text": "drifting",
+      "start": 40.15437641723356,
+      "end": 40.554376417233556
+    },
+    {
+      "text": "away",
+      "start": 40.554376417233556,
+      "end": 40.95437641723356
+    },
+    {
+      "text": "About",
+      "start": 41.194376417233556,
+      "end": 41.51437641723356
+    },
+    {
+      "text": "four",
+      "start": 41.51437641723356,
+      "end": 41.75437641723356
+    },
+    {
+      "text": "centimetres",
+      "start": 41.75437641723356,
+      "end": 42.31437641723356
+    },
+    {
+      "text": "a",
+      "start": 42.31437641723356,
+      "end": 42.39437641723356
+    },
+    {
+      "text": "year",
+      "start": 42.39437641723356,
+      "end": 42.79437641723356
+    },
+    {
+      "text": "measured",
+      "start": 42.95437641723356,
+      "end": 43.35437641723356
+    },
+    {
+      "text": "with",
+      "start": 43.35437641723356,
+      "end": 43.51437641723356
+    },
+    {
+      "text": "a",
+      "start": 43.51437641723356,
+      "end": 43.51437641723356
+    },
+    {
+      "text": "beam",
+      "start": 43.51437641723356,
+      "end": 43.75437641723356
+    },
+    {
+      "text": "of",
+      "start": 43.75437641723356,
+      "end": 43.914376417233555
+    },
+    {
+      "text": "light",
+      "start": 43.914376417233555,
+      "end": 44.23437641723356
+    },
+    {
+      "text": "in",
+      "start": 44.23437641723356,
+      "end": 44.31437641723356
+    },
+    {
+      "text": "perfect",
+      "start": 44.31437641723356,
+      "end": 44.71437641723356
+    },
+    {
+      "text": "step",
+      "start": 44.71437641723356,
+      "end": 45.03437641723356
+    },
+    {
+      "text": "One",
+      "start": 45.274376417233555,
+      "end": 45.51437641723356
+    },
+    {
+      "text": "of",
+      "start": 45.51437641723356,
+      "end": 45.59437641723356
+    },
+    {
+      "text": "these",
+      "start": 45.59437641723356,
+      "end": 45.83437641723356
+    },
+    {
+      "text": "every",
+      "start": 45.83437641723356,
+      "end": 46.07437641723356
+    },
+    {
+      "text": "day",
+      "start": 46.07437641723356,
+      "end": 46.39437641723356
+    },
+    {
+      "text": "Follow",
+      "start": 46.84467120181406,
+      "end": 47.16467120181406
+    },
+    {
+      "text": "so",
+      "start": 47.16467120181406,
+      "end": 47.324671201814056
+    },
+    {
+      "text": "you",
+      "start": 47.324671201814056,
+      "end": 47.48467120181406
+    },
+    {
+      "text": "do",
+      "start": 47.48467120181406,
+      "end": 47.644671201814056
+    },
+    {
+      "text": "not",
+      "start": 47.644671201814056,
+      "end": 47.88467120181406
+    },
+    {
+      "text": "miss",
+      "start": 47.88467120181406,
+      "end": 48.12467120181406
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.12467120181406,
+      "end": 48.76467120181406
+    }
+  ],
+  "text": "A laser is only light where every wave is in step. That single change turns it into a tool. A bulb throws out waves of every length, in every direction, all at random. Which is fine for lighting a room and useless for anything that needs precision. A laser puts out one wavelength, one direction, every crest lined up with every other. Which means the beam barely spreads, so you can aim it at something very far away. Cutting metal, reading barcodes, reshaping a cornea, carrying the internet through glass. But the best one is on the Moon. Apollo crews left mirrors up there. We fire a laser at them and time the return. That measures the distance to within millimetres, which is how we know the Moon is drifting away. About four centimetres a year, measured with a beam of light in perfect step. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,748 @@
+{
+  "audio_duration": 44.251313,
+  "segments": [
+    {
+      "text": "Zero",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "is",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "not",
+      "start": 0.64,
+      "end": 0.88
+    },
+    {
+      "text": "obvious",
+      "start": 0.96,
+      "end": 1.52
+    },
+    {
+      "text": "Some",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "text": "of",
+      "start": 2.0,
+      "end": 2.08
+    },
+    {
+      "text": "the",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "greatest",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "mathematicians",
+      "start": 2.56,
+      "end": 3.28
+    },
+    {
+      "text": "in",
+      "start": 3.28,
+      "end": 3.36
+    },
+    {
+      "text": "history",
+      "start": 3.36,
+      "end": 3.76
+    },
+    {
+      "text": "worked",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "text": "entirely",
+      "start": 4.08,
+      "end": 4.64
+    },
+    {
+      "text": "without",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "it",
+      "start": 5.04,
+      "end": 5.12
+    },
+    {
+      "text": "Try",
+      "start": 5.36,
+      "end": 5.6
+    },
+    {
+      "text": "multiplying",
+      "start": 5.6,
+      "end": 6.32
+    },
+    {
+      "text": "one",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "text": "thousand",
+      "start": 6.56,
+      "end": 6.96
+    },
+    {
+      "text": "seven",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "text": "hundred",
+      "start": 7.28,
+      "end": 7.6
+    },
+    {
+      "text": "and",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "text": "seventy",
+      "start": 7.68,
+      "end": 8.08
+    },
+    {
+      "text": "six",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "by",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "forty",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "text": "two",
+      "start": 8.96,
+      "end": 9.2
+    },
+    {
+      "text": "in",
+      "start": 9.2,
+      "end": 9.36
+    },
+    {
+      "text": "Roman",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "numerals",
+      "start": 9.68,
+      "end": 10.16
+    },
+    {
+      "text": "You",
+      "start": 10.4,
+      "end": 10.56
+    },
+    {
+      "text": "cannot",
+      "start": 10.56,
+      "end": 11.04
+    },
+    {
+      "text": "There",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "is",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "nowhere",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "to",
+      "start": 11.84,
+      "end": 11.92
+    },
+    {
+      "text": "carry",
+      "start": 11.92,
+      "end": 12.24
+    },
+    {
+      "text": "into",
+      "start": 12.24,
+      "end": 12.56
+    },
+    {
+      "text": "because",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "there",
+      "start": 13.04,
+      "end": 13.2
+    },
+    {
+      "text": "are",
+      "start": 13.2,
+      "end": 13.28
+    },
+    {
+      "text": "no",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "columns",
+      "start": 13.44,
+      "end": 14.08
+    },
+    {
+      "text": "Roman",
+      "start": 14.404172335600908,
+      "end": 14.804172335600908
+    },
+    {
+      "text": "numerals",
+      "start": 14.804172335600908,
+      "end": 15.204172335600909
+    },
+    {
+      "text": "are",
+      "start": 15.204172335600909,
+      "end": 15.364172335600907
+    },
+    {
+      "text": "for",
+      "start": 15.364172335600907,
+      "end": 15.444172335600907
+    },
+    {
+      "text": "recording",
+      "start": 15.444172335600907,
+      "end": 15.844172335600907
+    },
+    {
+      "text": "a",
+      "start": 15.844172335600907,
+      "end": 15.924172335600908
+    },
+    {
+      "text": "number",
+      "start": 15.924172335600908,
+      "end": 16.324172335600906
+    },
+    {
+      "text": "not",
+      "start": 16.484172335600906,
+      "end": 16.724172335600908
+    },
+    {
+      "text": "for",
+      "start": 16.724172335600908,
+      "end": 16.88417233560091
+    },
+    {
+      "text": "working",
+      "start": 16.88417233560091,
+      "end": 17.20417233560091
+    },
+    {
+      "text": "with",
+      "start": 17.20417233560091,
+      "end": 17.36417233560091
+    },
+    {
+      "text": "one",
+      "start": 17.36417233560091,
+      "end": 17.68417233560091
+    },
+    {
+      "text": "The",
+      "start": 17.924172335600908,
+      "end": 18.004172335600906
+    },
+    {
+      "text": "fix",
+      "start": 18.004172335600906,
+      "end": 18.324172335600906
+    },
+    {
+      "text": "is",
+      "start": 18.324172335600906,
+      "end": 18.48417233560091
+    },
+    {
+      "text": "a",
+      "start": 18.48417233560091,
+      "end": 18.564172335600908
+    },
+    {
+      "text": "symbol",
+      "start": 18.564172335600908,
+      "end": 18.964172335600907
+    },
+    {
+      "text": "that",
+      "start": 18.964172335600907,
+      "end": 19.124172335600907
+    },
+    {
+      "text": "means",
+      "start": 19.124172335600907,
+      "end": 19.36417233560091
+    },
+    {
+      "text": "this",
+      "start": 19.36417233560091,
+      "end": 19.604172335600907
+    },
+    {
+      "text": "column",
+      "start": 19.604172335600907,
+      "end": 19.924172335600908
+    },
+    {
+      "text": "is",
+      "start": 19.924172335600908,
+      "end": 20.084172335600908
+    },
+    {
+      "text": "empty",
+      "start": 20.084172335600908,
+      "end": 20.48417233560091
+    },
+    {
+      "text": "Once",
+      "start": 20.724172335600908,
+      "end": 20.964172335600907
+    },
+    {
+      "text": "you",
+      "start": 20.964172335600907,
+      "end": 21.04417233560091
+    },
+    {
+      "text": "have",
+      "start": 21.04417233560091,
+      "end": 21.284172335600907
+    },
+    {
+      "text": "that",
+      "start": 21.284172335600907,
+      "end": 21.52417233560091
+    },
+    {
+      "text": "position",
+      "start": 21.684172335600906,
+      "end": 22.16417233560091
+    },
+    {
+      "text": "carries",
+      "start": 22.16417233560091,
+      "end": 22.48417233560091
+    },
+    {
+      "text": "meaning",
+      "start": 22.48417233560091,
+      "end": 22.88417233560091
+    },
+    {
+      "text": "and",
+      "start": 23.04417233560091,
+      "end": 23.20417233560091
+    },
+    {
+      "text": "arithmetic",
+      "start": 23.20417233560091,
+      "end": 23.764172335600907
+    },
+    {
+      "text": "becomes",
+      "start": 23.764172335600907,
+      "end": 24.084172335600908
+    },
+    {
+      "text": "something",
+      "start": 24.084172335600908,
+      "end": 24.404172335600908
+    },
+    {
+      "text": "you",
+      "start": 24.404172335600908,
+      "end": 24.48417233560091
+    },
+    {
+      "text": "can",
+      "start": 24.48417233560091,
+      "end": 24.644172335600906
+    },
+    {
+      "text": "do",
+      "start": 24.644172335600906,
+      "end": 24.80417233560091
+    },
+    {
+      "text": "on",
+      "start": 24.80417233560091,
+      "end": 24.964172335600907
+    },
+    {
+      "text": "paper",
+      "start": 24.964172335600907,
+      "end": 25.364172335600905
+    },
+    {
+      "text": "But",
+      "start": 25.604172335600907,
+      "end": 25.764172335600907
+    },
+    {
+      "text": "a",
+      "start": 25.764172335600907,
+      "end": 25.764172335600907
+    },
+    {
+      "text": "placeholder",
+      "start": 25.764172335600907,
+      "end": 26.48417233560091
+    },
+    {
+      "text": "is",
+      "start": 26.644172335600906,
+      "end": 26.80417233560091
+    },
+    {
+      "text": "not",
+      "start": 26.80417233560091,
+      "end": 27.04417233560091
+    },
+    {
+      "text": "yet",
+      "start": 27.04417233560091,
+      "end": 27.284172335600907
+    },
+    {
+      "text": "a",
+      "start": 27.284172335600907,
+      "end": 27.364172335600905
+    },
+    {
+      "text": "number",
+      "start": 27.364172335600905,
+      "end": 27.604172335600907
+    },
+    {
+      "text": "you",
+      "start": 27.604172335600907,
+      "end": 27.764172335600907
+    },
+    {
+      "text": "can",
+      "start": 27.764172335600907,
+      "end": 27.924172335600908
+    },
+    {
+      "text": "do",
+      "start": 27.924172335600908,
+      "end": 28.084172335600908
+    },
+    {
+      "text": "anything",
+      "start": 28.084172335600908,
+      "end": 28.48417233560091
+    },
+    {
+      "text": "with",
+      "start": 28.48417233560091,
+      "end": 28.724172335600908
+    },
+    {
+      "text": "In",
+      "start": 29.109773242630386,
+      "end": 29.189773242630388
+    },
+    {
+      "text": "seventh",
+      "start": 29.189773242630388,
+      "end": 29.589773242630386
+    },
+    {
+      "text": "century",
+      "start": 29.589773242630386,
+      "end": 30.069773242630387
+    },
+    {
+      "text": "India",
+      "start": 30.069773242630387,
+      "end": 30.46977324263039
+    },
+    {
+      "text": "Brahmagupta",
+      "start": 30.709773242630387,
+      "end": 31.349773242630388
+    },
+    {
+      "text": "wrote",
+      "start": 31.349773242630388,
+      "end": 31.669773242630388
+    },
+    {
+      "text": "the",
+      "start": 31.669773242630388,
+      "end": 31.749773242630386
+    },
+    {
+      "text": "rules",
+      "start": 31.749773242630386,
+      "end": 32.06977324263039
+    },
+    {
+      "text": "for",
+      "start": 32.06977324263039,
+      "end": 32.22977324263039
+    },
+    {
+      "text": "treating",
+      "start": 32.22977324263039,
+      "end": 32.54977324263039
+    },
+    {
+      "text": "it",
+      "start": 32.54977324263039,
+      "end": 32.629773242630385
+    },
+    {
+      "text": "as",
+      "start": 32.629773242630385,
+      "end": 32.78977324263039
+    },
+    {
+      "text": "a",
+      "start": 32.78977324263039,
+      "end": 32.78977324263039
+    },
+    {
+      "text": "quantity",
+      "start": 32.78977324263039,
+      "end": 33.34977324263039
+    },
+    {
+      "text": "It",
+      "start": 33.589773242630386,
+      "end": 33.74977324263039
+    },
+    {
+      "text": "travelled",
+      "start": 33.74977324263039,
+      "end": 34.14977324263039
+    },
+    {
+      "text": "through",
+      "start": 34.14977324263039,
+      "end": 34.309773242630385
+    },
+    {
+      "text": "the",
+      "start": 34.309773242630385,
+      "end": 34.46977324263039
+    },
+    {
+      "text": "Arab",
+      "start": 34.46977324263039,
+      "end": 34.70977324263039
+    },
+    {
+      "text": "world",
+      "start": 34.70977324263039,
+      "end": 35.029773242630384
+    },
+    {
+      "text": "into",
+      "start": 35.029773242630384,
+      "end": 35.18977324263039
+    },
+    {
+      "text": "Europe",
+      "start": 35.18977324263039,
+      "end": 35.589773242630386
+    },
+    {
+      "text": "where",
+      "start": 35.74977324263039,
+      "end": 35.909773242630386
+    },
+    {
+      "text": "several",
+      "start": 35.909773242630386,
+      "end": 36.309773242630385
+    },
+    {
+      "text": "cities",
+      "start": 36.309773242630385,
+      "end": 36.70977324263039
+    },
+    {
+      "text": "banned",
+      "start": 36.70977324263039,
+      "end": 36.949773242630386
+    },
+    {
+      "text": "it",
+      "start": 36.949773242630386,
+      "end": 37.029773242630384
+    },
+    {
+      "text": "as",
+      "start": 37.029773242630384,
+      "end": 37.18977324263039
+    },
+    {
+      "text": "suspicious",
+      "start": 37.269773242630386,
+      "end": 37.82977324263039
+    },
+    {
+      "text": "Nothing",
+      "start": 38.06977324263039,
+      "end": 38.38977324263038
+    },
+    {
+      "text": "had",
+      "start": 38.38977324263038,
+      "end": 38.629773242630385
+    },
+    {
+      "text": "to",
+      "start": 38.629773242630385,
+      "end": 38.629773242630385
+    },
+    {
+      "text": "be",
+      "start": 38.629773242630385,
+      "end": 38.78977324263039
+    },
+    {
+      "text": "invented",
+      "start": 38.78977324263039,
+      "end": 39.269773242630386
+    },
+    {
+      "text": "Then",
+      "start": 39.50977324263039,
+      "end": 39.669773242630384
+    },
+    {
+      "text": "it",
+      "start": 39.669773242630384,
+      "end": 39.74977324263039
+    },
+    {
+      "text": "had",
+      "start": 39.74977324263039,
+      "end": 39.989773242630385
+    },
+    {
+      "text": "to",
+      "start": 39.989773242630385,
+      "end": 39.989773242630385
+    },
+    {
+      "text": "be",
+      "start": 39.989773242630385,
+      "end": 40.14977324263039
+    },
+    {
+      "text": "argued",
+      "start": 40.14977324263039,
+      "end": 40.54977324263039
+    },
+    {
+      "text": "for",
+      "start": 40.54977324263039,
+      "end": 40.86977324263039
+    },
+    {
+      "text": "One",
+      "start": 41.029773242630384,
+      "end": 41.18977324263039
+    },
+    {
+      "text": "of",
+      "start": 41.18977324263039,
+      "end": 41.34977324263039
+    },
+    {
+      "text": "these",
+      "start": 41.34977324263039,
+      "end": 41.50977324263039
+    },
+    {
+      "text": "every",
+      "start": 41.50977324263039,
+      "end": 41.82977324263039
+    },
+    {
+      "text": "day",
+      "start": 41.82977324263039,
+      "end": 42.14977324263039
+    },
+    {
+      "text": "Follow",
+      "start": 42.38977324263038,
+      "end": 42.629773242630385
+    },
+    {
+      "text": "so",
+      "start": 42.629773242630385,
+      "end": 42.78977324263039
+    },
+    {
+      "text": "you",
+      "start": 42.78977324263039,
+      "end": 42.949773242630386
+    },
+    {
+      "text": "do",
+      "start": 42.949773242630386,
+      "end": 43.10977324263039
+    },
+    {
+      "text": "not",
+      "start": 43.10977324263039,
+      "end": 43.269773242630386
+    },
+    {
+      "text": "miss",
+      "start": 43.269773242630386,
+      "end": 43.589773242630386
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.589773242630386,
+      "end": 44.06977324263039
+    }
+  ],
+  "text": "Zero is not obvious. Some of the greatest mathematicians in history worked entirely without it. Try multiplying one thousand seven hundred and seventy six by forty two in Roman numerals. You cannot. There is nowhere to carry into, because there are no columns. Roman numerals are for recording a number, not for working with one. The fix is a symbol that means this column is empty. Once you have that, position carries meaning, and arithmetic becomes something you can do on paper. But a placeholder is not yet a number you can do anything with. In seventh century India, Brahmagupta wrote the rules for treating it as a quantity. It travelled through the Arab world into Europe, where several cities banned it as suspicious. Nothing had to be invented. Then it had to be argued for. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

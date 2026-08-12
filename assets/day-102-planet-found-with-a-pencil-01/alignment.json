@@ -1,0 +1,763 @@
+{
+  "audio_duration": 49.789313,
+  "segments": [
+    {
+      "text": "Neptune",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "was",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "found",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "by",
+      "start": 1.04,
+      "end": 1.12
+    },
+    {
+      "text": "doing",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "text": "arithmetic",
+      "start": 1.44,
+      "end": 2.08
+    },
+    {
+      "text": "They",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "pointed",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "text": "a",
+      "start": 3.04,
+      "end": 3.12
+    },
+    {
+      "text": "telescope",
+      "start": 3.12,
+      "end": 3.76
+    },
+    {
+      "text": "where",
+      "start": 3.76,
+      "end": 3.92
+    },
+    {
+      "text": "the",
+      "start": 3.92,
+      "end": 4.0
+    },
+    {
+      "text": "maths",
+      "start": 4.0,
+      "end": 4.32
+    },
+    {
+      "text": "said",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "and",
+      "start": 5.04,
+      "end": 5.12
+    },
+    {
+      "text": "it",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "was",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "text": "there",
+      "start": 5.36,
+      "end": 5.76
+    },
+    {
+      "text": "Uranus",
+      "start": 6.24,
+      "end": 6.72
+    },
+    {
+      "text": "was",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "drifting",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "text": "Its",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "position",
+      "start": 7.84,
+      "end": 8.4
+    },
+    {
+      "text": "kept",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "missing",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "text": "the",
+      "start": 8.96,
+      "end": 8.96
+    },
+    {
+      "text": "prediction",
+      "start": 8.96,
+      "end": 9.44
+    },
+    {
+      "text": "by",
+      "start": 9.44,
+      "end": 9.68
+    },
+    {
+      "text": "a",
+      "start": 9.68,
+      "end": 9.68
+    },
+    {
+      "text": "little",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "text": "year",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "text": "after",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "text": "year",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "text": "Something",
+      "start": 11.68,
+      "end": 12.16
+    },
+    {
+      "text": "was",
+      "start": 12.16,
+      "end": 12.24
+    },
+    {
+      "text": "pulling",
+      "start": 12.24,
+      "end": 12.64
+    },
+    {
+      "text": "on",
+      "start": 12.64,
+      "end": 12.72
+    },
+    {
+      "text": "it",
+      "start": 12.72,
+      "end": 12.88
+    },
+    {
+      "text": "that",
+      "start": 12.88,
+      "end": 13.04
+    },
+    {
+      "text": "nobody",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "could",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "text": "see",
+      "start": 13.6,
+      "end": 14.0
+    },
+    {
+      "text": "Le",
+      "start": 14.437732426303855,
+      "end": 14.597732426303855
+    },
+    {
+      "text": "Verrier",
+      "start": 14.597732426303855,
+      "end": 15.077732426303854
+    },
+    {
+      "text": "in",
+      "start": 15.077732426303854,
+      "end": 15.237732426303854
+    },
+    {
+      "text": "France",
+      "start": 15.237732426303854,
+      "end": 15.717732426303854
+    },
+    {
+      "text": "and",
+      "start": 15.717732426303854,
+      "end": 15.877732426303854
+    },
+    {
+      "text": "Adams",
+      "start": 15.957732426303854,
+      "end": 16.357732426303855
+    },
+    {
+      "text": "in",
+      "start": 16.357732426303855,
+      "end": 16.437732426303853
+    },
+    {
+      "text": "England",
+      "start": 16.437732426303853,
+      "end": 16.917732426303854
+    },
+    {
+      "text": "worked",
+      "start": 17.157732426303856,
+      "end": 17.397732426303854
+    },
+    {
+      "text": "out",
+      "start": 17.397732426303854,
+      "end": 17.637732426303856
+    },
+    {
+      "text": "where",
+      "start": 17.637732426303856,
+      "end": 17.877732426303854
+    },
+    {
+      "text": "that",
+      "start": 17.877732426303854,
+      "end": 18.037732426303855
+    },
+    {
+      "text": "something",
+      "start": 18.037732426303855,
+      "end": 18.437732426303853
+    },
+    {
+      "text": "had",
+      "start": 18.437732426303853,
+      "end": 18.677732426303855
+    },
+    {
+      "text": "to",
+      "start": 18.677732426303855,
+      "end": 18.757732426303853
+    },
+    {
+      "text": "be",
+      "start": 18.757732426303853,
+      "end": 19.077732426303854
+    },
+    {
+      "text": "Not",
+      "start": 19.397732426303854,
+      "end": 19.637732426303856
+    },
+    {
+      "text": "just",
+      "start": 19.637732426303856,
+      "end": 19.877732426303854
+    },
+    {
+      "text": "the",
+      "start": 19.877732426303854,
+      "end": 19.957732426303856
+    },
+    {
+      "text": "direction",
+      "start": 19.957732426303856,
+      "end": 20.597732426303857
+    },
+    {
+      "text": "Its",
+      "start": 20.837732426303855,
+      "end": 20.997732426303855
+    },
+    {
+      "text": "mass",
+      "start": 20.997732426303855,
+      "end": 21.477732426303856
+    },
+    {
+      "text": "its",
+      "start": 21.557732426303854,
+      "end": 21.717732426303854
+    },
+    {
+      "text": "distance",
+      "start": 21.717732426303854,
+      "end": 22.277732426303857
+    },
+    {
+      "text": "and",
+      "start": 22.357732426303855,
+      "end": 22.437732426303853
+    },
+    {
+      "text": "its",
+      "start": 22.437732426303853,
+      "end": 22.597732426303857
+    },
+    {
+      "text": "position",
+      "start": 22.597732426303857,
+      "end": 23.077732426303854
+    },
+    {
+      "text": "on",
+      "start": 23.077732426303854,
+      "end": 23.237732426303854
+    },
+    {
+      "text": "a",
+      "start": 23.237732426303854,
+      "end": 23.237732426303854
+    },
+    {
+      "text": "given",
+      "start": 23.237732426303854,
+      "end": 23.557732426303854
+    },
+    {
+      "text": "night",
+      "start": 23.557732426303854,
+      "end": 23.957732426303856
+    },
+    {
+      "text": "An",
+      "start": 24.517732426303855,
+      "end": 24.677732426303855
+    },
+    {
+      "text": "observatory",
+      "start": 24.677732426303855,
+      "end": 25.317732426303856
+    },
+    {
+      "text": "in",
+      "start": 25.317732426303856,
+      "end": 25.477732426303852
+    },
+    {
+      "text": "Berlin",
+      "start": 25.477732426303852,
+      "end": 25.877732426303854
+    },
+    {
+      "text": "swung",
+      "start": 25.877732426303854,
+      "end": 26.197732426303855
+    },
+    {
+      "text": "a",
+      "start": 26.197732426303855,
+      "end": 26.277732426303857
+    },
+    {
+      "text": "telescope",
+      "start": 26.277732426303857,
+      "end": 26.837732426303855
+    },
+    {
+      "text": "to",
+      "start": 26.837732426303855,
+      "end": 26.917732426303857
+    },
+    {
+      "text": "the",
+      "start": 26.917732426303857,
+      "end": 26.997732426303855
+    },
+    {
+      "text": "coordinates",
+      "start": 26.997732426303855,
+      "end": 27.637732426303856
+    },
+    {
+      "text": "They",
+      "start": 27.957732426303856,
+      "end": 28.037732426303855
+    },
+    {
+      "text": "found",
+      "start": 28.037732426303855,
+      "end": 28.357732426303855
+    },
+    {
+      "text": "it",
+      "start": 28.357732426303855,
+      "end": 28.437732426303853
+    },
+    {
+      "text": "inside",
+      "start": 28.437732426303853,
+      "end": 28.837732426303855
+    },
+    {
+      "text": "an",
+      "start": 28.837732426303855,
+      "end": 28.997732426303855
+    },
+    {
+      "text": "hour",
+      "start": 28.997732426303855,
+      "end": 29.317732426303856
+    },
+    {
+      "text": "within",
+      "start": 29.477732426303852,
+      "end": 29.877732426303854
+    },
+    {
+      "text": "one",
+      "start": 29.877732426303854,
+      "end": 30.037732426303855
+    },
+    {
+      "text": "degree",
+      "start": 30.037732426303855,
+      "end": 30.357732426303855
+    },
+    {
+      "text": "of",
+      "start": 30.357732426303855,
+      "end": 30.437732426303853
+    },
+    {
+      "text": "the",
+      "start": 30.437732426303853,
+      "end": 30.51773242630385
+    },
+    {
+      "text": "prediction",
+      "start": 30.51773242630385,
+      "end": 31.077732426303854
+    },
+    {
+      "text": "A",
+      "start": 31.576258503401363,
+      "end": 31.65625850340136
+    },
+    {
+      "text": "planet",
+      "start": 31.65625850340136,
+      "end": 32.05625850340136
+    },
+    {
+      "text": "discovered",
+      "start": 32.05625850340136,
+      "end": 32.53625850340136
+    },
+    {
+      "text": "on",
+      "start": 32.53625850340136,
+      "end": 32.69625850340136
+    },
+    {
+      "text": "paper",
+      "start": 32.69625850340136,
+      "end": 33.01625850340136
+    },
+    {
+      "text": "before",
+      "start": 33.01625850340136,
+      "end": 33.416258503401366
+    },
+    {
+      "text": "anybody",
+      "start": 33.416258503401366,
+      "end": 33.89625850340136
+    },
+    {
+      "text": "had",
+      "start": 33.89625850340136,
+      "end": 34.05625850340136
+    },
+    {
+      "text": "ever",
+      "start": 34.05625850340136,
+      "end": 34.29625850340136
+    },
+    {
+      "text": "seen",
+      "start": 34.29625850340136,
+      "end": 34.53625850340136
+    },
+    {
+      "text": "it",
+      "start": 34.53625850340136,
+      "end": 34.776258503401365
+    },
+    {
+      "text": "But",
+      "start": 35.25625850340136,
+      "end": 35.416258503401366
+    },
+    {
+      "text": "the",
+      "start": 35.416258503401366,
+      "end": 35.416258503401366
+    },
+    {
+      "text": "method",
+      "start": 35.416258503401366,
+      "end": 35.816258503401365
+    },
+    {
+      "text": "has",
+      "start": 35.816258503401365,
+      "end": 35.97625850340136
+    },
+    {
+      "text": "a",
+      "start": 36.05625850340136,
+      "end": 36.05625850340136
+    },
+    {
+      "text": "failure",
+      "start": 36.05625850340136,
+      "end": 36.53625850340136
+    },
+    {
+      "text": "case",
+      "start": 36.53625850340136,
+      "end": 36.93625850340136
+    },
+    {
+      "text": "Mercury",
+      "start": 37.176258503401364,
+      "end": 37.65625850340136
+    },
+    {
+      "text": "drifted",
+      "start": 37.65625850340136,
+      "end": 38.136258503401365
+    },
+    {
+      "text": "too",
+      "start": 38.136258503401365,
+      "end": 38.456258503401365
+    },
+    {
+      "text": "so",
+      "start": 38.61625850340136,
+      "end": 38.856258503401364
+    },
+    {
+      "text": "Le",
+      "start": 38.856258503401364,
+      "end": 38.93625850340136
+    },
+    {
+      "text": "Verrier",
+      "start": 38.93625850340136,
+      "end": 39.33625850340136
+    },
+    {
+      "text": "predicted",
+      "start": 39.33625850340136,
+      "end": 39.816258503401365
+    },
+    {
+      "text": "another",
+      "start": 39.816258503401365,
+      "end": 40.136258503401365
+    },
+    {
+      "text": "planet",
+      "start": 40.136258503401365,
+      "end": 40.53625850340136
+    },
+    {
+      "text": "It",
+      "start": 40.776258503401365,
+      "end": 40.856258503401364
+    },
+    {
+      "text": "does",
+      "start": 40.856258503401364,
+      "end": 41.01625850340136
+    },
+    {
+      "text": "not",
+      "start": 41.01625850340136,
+      "end": 41.25625850340136
+    },
+    {
+      "text": "exist",
+      "start": 41.25625850340136,
+      "end": 41.816258503401365
+    },
+    {
+      "text": "The",
+      "start": 42.21625850340136,
+      "end": 42.45625850340136
+    },
+    {
+      "text": "answer",
+      "start": 42.45625850340136,
+      "end": 42.69625850340136
+    },
+    {
+      "text": "was",
+      "start": 42.69625850340136,
+      "end": 42.856258503401364
+    },
+    {
+      "text": "that",
+      "start": 42.856258503401364,
+      "end": 43.01625850340136
+    },
+    {
+      "text": "gravity",
+      "start": 43.01625850340136,
+      "end": 43.416258503401366
+    },
+    {
+      "text": "itself",
+      "start": 43.416258503401366,
+      "end": 43.89625850340136
+    },
+    {
+      "text": "was",
+      "start": 43.89625850340136,
+      "end": 44.05625850340137
+    },
+    {
+      "text": "slightly",
+      "start": 44.05625850340137,
+      "end": 44.45625850340136
+    },
+    {
+      "text": "different",
+      "start": 44.45625850340136,
+      "end": 44.856258503401364
+    },
+    {
+      "text": "from",
+      "start": 44.856258503401364,
+      "end": 45.01625850340136
+    },
+    {
+      "text": "what",
+      "start": 45.01625850340136,
+      "end": 45.176258503401364
+    },
+    {
+      "text": "he",
+      "start": 45.176258503401364,
+      "end": 45.33625850340136
+    },
+    {
+      "text": "assumed",
+      "start": 45.33625850340136,
+      "end": 45.816258503401365
+    },
+    {
+      "text": "One",
+      "start": 46.05625850340137,
+      "end": 46.29625850340136
+    },
+    {
+      "text": "of",
+      "start": 46.29625850340136,
+      "end": 46.45625850340136
+    },
+    {
+      "text": "these",
+      "start": 46.45625850340136,
+      "end": 46.69625850340136
+    },
+    {
+      "text": "every",
+      "start": 46.69625850340136,
+      "end": 46.93625850340136
+    },
+    {
+      "text": "day",
+      "start": 46.93625850340136,
+      "end": 47.33625850340136
+    },
+    {
+      "text": "Follow",
+      "start": 47.73607709750567,
+      "end": 48.05607709750567
+    },
+    {
+      "text": "so",
+      "start": 48.05607709750567,
+      "end": 48.21607709750567
+    },
+    {
+      "text": "you",
+      "start": 48.21607709750567,
+      "end": 48.37607709750567
+    },
+    {
+      "text": "do",
+      "start": 48.37607709750567,
+      "end": 48.53607709750567
+    },
+    {
+      "text": "not",
+      "start": 48.53607709750567,
+      "end": 48.77607709750567
+    },
+    {
+      "text": "miss",
+      "start": 48.77607709750567,
+      "end": 49.01607709750567
+    },
+    {
+      "text": "tomorrow",
+      "start": 49.01607709750567,
+      "end": 49.65607709750567
+    }
+  ],
+  "text": "Neptune was found by doing arithmetic. They pointed a telescope where the maths said, and it was there. Uranus was drifting. Its position kept missing the prediction by a little, year after year. Something was pulling on it that nobody could see. Le Verrier in France and Adams in England worked out where that something had to be. Not just the direction. Its mass, its distance, and its position on a given night. An observatory in Berlin swung a telescope to the coordinates. They found it inside an hour, within one degree of the prediction. A planet discovered on paper before anybody had ever seen it. But the method has a failure case. Mercury drifted too, so Le Verrier predicted another planet. It does not exist. The answer was that gravity itself was slightly different from what he assumed. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

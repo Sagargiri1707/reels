@@ -1,0 +1,109 @@
+{
+  "topic": "Someone had to invent zero",
+  "lesson": "Zero had to be invented twice, first as a placeholder that makes positional arithmetic possible and then as a number you can actually operate on.",
+  "slug": "day-098-someone-invented-zero-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Zero is not obvious. Some of the greatest mathematicians in history worked entirely without it.",
+      "scene": "an empty bowl on a bare shelf, a small black cartoon figure holding it up with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty bowl on a bare shelf, a small black cartoon figure holding it up with both arms. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Try multiplying one thousand seven hundred and seventy six by forty two in Roman numerals.",
+      "scene": "a slate covered in tally strokes, a small black cartoon figure scratching another one on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slate covered in tally strokes, a small black cartoon figure scratching another one on. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "You cannot. There is nowhere to carry into, because there are no columns.",
+      "scene": "an abacus with one rod missing, a small black cartoon figure reaching into the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an abacus with one rod missing, a small black cartoon figure reaching into the gap. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Roman numerals are for recording a number, not for working with one.",
+      "scene": "a carved stone tablet, a small black cartoon figure brushing dust along its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a carved stone tablet, a small black cartoon figure brushing dust along its face. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "The fix is a symbol that means this column is empty.",
+      "scene": "an empty egg cup set into a row of full ones, a small black cartoon figure pushing it into place",
+      "image_text": "EMPTY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty egg cup set into a row of full ones, a small black cartoon figure pushing it into place. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"EMPTY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Once you have that, position carries meaning, and arithmetic becomes something you can do on paper.",
+      "scene": "nested boxes lined up in columns, a small black cartoon figure sliding one along the row",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. nested boxes lined up in columns, a small black cartoon figure sliding one along the row. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "But a placeholder is not yet a number you can do anything with.",
+      "scene": "a blank counter beside marked ones, a small black cartoon figure shoving the blank forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blank counter beside marked ones, a small black cartoon figure shoving the blank forward. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "In seventh century India, Brahmagupta wrote the rules for treating it as a quantity.",
+      "scene": "an open palm leaf manuscript, a small black cartoon figure smoothing it flat",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open palm leaf manuscript, a small black cartoon figure smoothing it flat. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It travelled through the Arab world into Europe, where several cities banned it as suspicious.",
+      "scene": "a shut city gate with a bundle outside, a small black cartoon figure shoving the bundle underneath",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shut city gate with a bundle outside, a small black cartoon figure shoving the bundle underneath. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Nothing had to be invented. Then it had to be argued for.",
+      "scene": "an empty ring on the bare surface, a small black cartoon figure standing inside the ring",
+      "image_text": "NOTHING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty ring on the bare surface, a small black cartoon figure standing inside the ring. the scene belongs to an empty slot that has to be marked before anything can be counted properly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOTHING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Zero had to be invented twice. First as a placeholder marking an empty column, which is what makes positional notation and paper arithmetic possible at all. Try multiplying MDCCLXXVI by XLII and the problem becomes obvious immediately. Then as a number you can operate on, which Brahmagupta set out rules for in seventh-century India. It reached Europe through the Arab world, where several cities banned it as suspicious.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #zero #maths #history #numbers #science",
+    "thumbnail_beat": "05"
+  }
+}

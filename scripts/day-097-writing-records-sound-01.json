@@ -1,0 +1,109 @@
+{
+  "topic": "Writing began as debt tracking",
+  "lesson": "Writing could only express anything once it stopped drawing things and started recording sounds, and it was invented independently at least three times, all of them for accounting.",
+  "slug": "day-097-writing-records-sound-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Writing could not say anything at all until somebody thought of recording sound instead of things.",
+      "scene": "a struck tuning fork held against the surface, a small black cartoon figure gripping it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a struck tuning fork held against the surface, a small black cartoon figure gripping it with both arms. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The earliest marks are pictures. A drawing of a head of grain means grain.",
+      "scene": "a drawn picture card of a grain head, a small black cartoon figure holding it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drawn picture card of a grain head, a small black cartoon figure holding it up. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "That works right up until you need to write a name, or a verb, or a maybe.",
+      "scene": "a blank faced card, a small black cartoon figure turning it over and finding nothing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blank faced card, a small black cartoon figure turning it over and finding nothing. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "You cannot draw the word owed. You cannot draw somebody's name.",
+      "scene": "a row of blank name tags, a small black cartoon figure struggling to pin one on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of blank name tags, a small black cartoon figure struggling to pin one on. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "The leap was to stop drawing the thing and start drawing the noise.",
+      "scene": "a reed and a small bell, a small black cartoon figure swapping the reed out for the bell",
+      "image_text": "SOUND",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a reed and a small bell, a small black cartoon figure swapping the reed out for the bell. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SOUND\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A picture of a reed stops meaning reed and starts meaning the sound of the word.",
+      "scene": "a single reed on the surface, a small black cartoon figure rolling it under both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single reed on the surface, a small black cartoon figure rolling it under both arms. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "String those sounds together and suddenly you can write anything anyone can say.",
+      "scene": "a string of beads, a small black cartoon figure threading one more onto the end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a string of beads, a small black cartoon figure threading one more onto the end. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "The pictures drift too. Scribes writing fast turn a careful drawing into a few wedges.",
+      "scene": "a drawn picture beside three quick wedge marks, a small black cartoon figure pressing wedges fast",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drawn picture beside three quick wedge marks, a small black cartoon figure pressing wedges fast. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And this happened independently at least three times. Mesopotamia, China, Mesoamerica.",
+      "scene": "three clay tablets far apart on the surface, a small black cartoon figure walking between them",
+      "image_text": "THREE TIMES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three clay tablets far apart on the surface, a small black cartoon figure walking between them. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THREE TIMES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Three separate peoples invented writing, and every one of them started with accounts.",
+      "scene": "three stacked ledgers, a small black cartoon figure clambering up them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three stacked ledgers, a small black cartoon figure clambering up them. the scene belongs to marks that stop standing for objects and start standing for noises, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Before anyone wrote a story, someone wrote down who owed them barley. Sumerian temple accounting drove the first marks, pictographs drifted into abstract wedge symbols as scribes wrote faster, and the real leap came when signs stopped standing for things and started standing for sounds. That is what made writing able to express anything at all. It happened independently at least three times, and mostly for the same administrative reason.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #writing #language #history #linguistics #science",
+    "thumbnail_beat": "05"
+  }
+}

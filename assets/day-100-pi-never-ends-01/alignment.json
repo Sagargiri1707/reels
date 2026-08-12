@@ -1,0 +1,728 @@
+{
+  "audio_duration": 48.352563,
+  "segments": [
+    {
+      "text": "NASA",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "navigates",
+      "start": 0.4,
+      "end": 0.96
+    },
+    {
+      "text": "the",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "text": "entire",
+      "start": 1.12,
+      "end": 1.52
+    },
+    {
+      "text": "solar",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "system",
+      "start": 1.92,
+      "end": 2.32
+    },
+    {
+      "text": "using",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "text": "fifteen",
+      "start": 2.8,
+      "end": 3.44
+    },
+    {
+      "text": "decimal",
+      "start": 3.44,
+      "end": 3.84
+    },
+    {
+      "text": "places",
+      "start": 3.84,
+      "end": 4.24
+    },
+    {
+      "text": "of",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "text": "pi",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "text": "Pi",
+      "start": 4.88,
+      "end": 4.88
+    },
+    {
+      "text": "goes",
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "text": "on",
+      "start": 5.68,
+      "end": 5.92
+    },
+    {
+      "text": "forever",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "and",
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "text": "it",
+      "start": 6.56,
+      "end": 6.64
+    },
+    {
+      "text": "never",
+      "start": 6.64,
+      "end": 6.96
+    },
+    {
+      "text": "repeats",
+      "start": 7.04,
+      "end": 7.6
+    },
+    {
+      "text": "That",
+      "start": 7.92,
+      "end": 8.16
+    },
+    {
+      "text": "part",
+      "start": 8.16,
+      "end": 8.4
+    },
+    {
+      "text": "is",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "true",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "text": "and",
+      "start": 8.88,
+      "end": 9.04
+    },
+    {
+      "text": "permanent",
+      "start": 9.04,
+      "end": 9.6
+    },
+    {
+      "text": "It",
+      "start": 9.76,
+      "end": 9.92
+    },
+    {
+      "text": "is",
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "text": "only",
+      "start": 10.0,
+      "end": 10.32
+    },
+    {
+      "text": "the",
+      "start": 10.32,
+      "end": 10.4
+    },
+    {
+      "text": "ratio",
+      "start": 10.4,
+      "end": 10.88
+    },
+    {
+      "text": "between",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "text": "a",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "circle's",
+      "start": 11.28,
+      "end": 11.76
+    },
+    {
+      "text": "edge",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "text": "and",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "its",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "text": "width",
+      "start": 12.4,
+      "end": 12.72
+    },
+    {
+      "text": "Every",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "circle",
+      "start": 13.44,
+      "end": 13.92
+    },
+    {
+      "text": "always",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "the",
+      "start": 14.4,
+      "end": 14.48
+    },
+    {
+      "text": "same",
+      "start": 14.48,
+      "end": 14.88
+    },
+    {
+      "text": "People",
+      "start": 15.366530612244897,
+      "end": 15.606530612244898
+    },
+    {
+      "text": "spent",
+      "start": 15.606530612244898,
+      "end": 16.006530612244898
+    },
+    {
+      "text": "two",
+      "start": 16.006530612244898,
+      "end": 16.166530612244898
+    },
+    {
+      "text": "thousand",
+      "start": 16.166530612244898,
+      "end": 16.6465306122449
+    },
+    {
+      "text": "years",
+      "start": 16.6465306122449,
+      "end": 16.886530612244897
+    },
+    {
+      "text": "grinding",
+      "start": 16.886530612244897,
+      "end": 17.286530612244896
+    },
+    {
+      "text": "out",
+      "start": 17.286530612244896,
+      "end": 17.446530612244896
+    },
+    {
+      "text": "more",
+      "start": 17.446530612244896,
+      "end": 17.686530612244898
+    },
+    {
+      "text": "digits",
+      "start": 17.686530612244898,
+      "end": 18.086530612244896
+    },
+    {
+      "text": "of",
+      "start": 18.086530612244896,
+      "end": 18.246530612244896
+    },
+    {
+      "text": "it",
+      "start": 18.246530612244896,
+      "end": 18.3265306122449
+    },
+    {
+      "text": "by",
+      "start": 18.3265306122449,
+      "end": 18.4865306122449
+    },
+    {
+      "text": "hand",
+      "start": 18.4865306122449,
+      "end": 18.966530612244895
+    },
+    {
+      "text": "But",
+      "start": 19.366530612244897,
+      "end": 19.4465306122449
+    },
+    {
+      "text": "the",
+      "start": 19.4465306122449,
+      "end": 19.526530612244898
+    },
+    {
+      "text": "precision",
+      "start": 19.526530612244898,
+      "end": 20.006530612244898
+    },
+    {
+      "text": "stops",
+      "start": 20.006530612244898,
+      "end": 20.406530612244897
+    },
+    {
+      "text": "mattering",
+      "start": 20.406530612244897,
+      "end": 20.886530612244897
+    },
+    {
+      "text": "almost",
+      "start": 20.886530612244897,
+      "end": 21.286530612244896
+    },
+    {
+      "text": "immediately",
+      "start": 21.286530612244896,
+      "end": 22.006530612244898
+    },
+    {
+      "text": "Fifteen",
+      "start": 22.3265306122449,
+      "end": 22.8065306122449
+    },
+    {
+      "text": "digits",
+      "start": 22.8065306122449,
+      "end": 23.1265306122449
+    },
+    {
+      "text": "places",
+      "start": 23.1265306122449,
+      "end": 23.526530612244898
+    },
+    {
+      "text": "a",
+      "start": 23.526530612244898,
+      "end": 23.606530612244896
+    },
+    {
+      "text": "spacecraft",
+      "start": 23.606530612244896,
+      "end": 24.326530612244895
+    },
+    {
+      "text": "across",
+      "start": 24.326530612244895,
+      "end": 24.726530612244897
+    },
+    {
+      "text": "the",
+      "start": 24.726530612244897,
+      "end": 24.8065306122449
+    },
+    {
+      "text": "solar",
+      "start": 24.8065306122449,
+      "end": 25.1265306122449
+    },
+    {
+      "text": "system",
+      "start": 25.1265306122449,
+      "end": 25.606530612244896
+    },
+    {
+      "text": "to",
+      "start": 25.7665306122449,
+      "end": 25.846530612244898
+    },
+    {
+      "text": "within",
+      "start": 25.846530612244898,
+      "end": 26.086530612244896
+    },
+    {
+      "text": "a",
+      "start": 26.086530612244896,
+      "end": 26.166530612244898
+    },
+    {
+      "text": "few",
+      "start": 26.166530612244898,
+      "end": 26.406530612244897
+    },
+    {
+      "text": "centimetres",
+      "start": 26.406530612244897,
+      "end": 27.1265306122449
+    },
+    {
+      "text": "Forty",
+      "start": 27.495804988662133,
+      "end": 27.815804988662133
+    },
+    {
+      "text": "digits",
+      "start": 27.815804988662133,
+      "end": 28.215804988662132
+    },
+    {
+      "text": "would",
+      "start": 28.215804988662132,
+      "end": 28.295804988662134
+    },
+    {
+      "text": "size",
+      "start": 28.295804988662134,
+      "end": 28.695804988662132
+    },
+    {
+      "text": "a",
+      "start": 28.695804988662132,
+      "end": 28.695804988662132
+    },
+    {
+      "text": "circle",
+      "start": 28.695804988662132,
+      "end": 29.095804988662135
+    },
+    {
+      "text": "as",
+      "start": 29.095804988662135,
+      "end": 29.255804988662135
+    },
+    {
+      "text": "wide",
+      "start": 29.255804988662135,
+      "end": 29.655804988662133
+    },
+    {
+      "text": "as",
+      "start": 29.655804988662133,
+      "end": 29.815804988662133
+    },
+    {
+      "text": "the",
+      "start": 29.815804988662133,
+      "end": 29.89580498866213
+    },
+    {
+      "text": "observable",
+      "start": 29.89580498866213,
+      "end": 30.375804988662132
+    },
+    {
+      "text": "universe",
+      "start": 30.375804988662132,
+      "end": 30.935804988662134
+    },
+    {
+      "text": "accurate",
+      "start": 31.255804988662135,
+      "end": 31.815804988662133
+    },
+    {
+      "text": "to",
+      "start": 31.815804988662133,
+      "end": 31.815804988662133
+    },
+    {
+      "text": "one",
+      "start": 31.815804988662133,
+      "end": 32.05580498866213
+    },
+    {
+      "text": "atom",
+      "start": 32.05580498866213,
+      "end": 32.45580498866213
+    },
+    {
+      "text": "Everything",
+      "start": 32.77580498866213,
+      "end": 33.255804988662135
+    },
+    {
+      "text": "past",
+      "start": 33.255804988662135,
+      "end": 33.575804988662135
+    },
+    {
+      "text": "that",
+      "start": 33.575804988662135,
+      "end": 33.81580498866214
+    },
+    {
+      "text": "is",
+      "start": 33.81580498866214,
+      "end": 33.975804988662134
+    },
+    {
+      "text": "not",
+      "start": 33.975804988662134,
+      "end": 34.215804988662136
+    },
+    {
+      "text": "useful",
+      "start": 34.215804988662136,
+      "end": 34.77580498866213
+    },
+    {
+      "text": "It",
+      "start": 35.01580498866213,
+      "end": 35.09580498866213
+    },
+    {
+      "text": "is",
+      "start": 35.09580498866213,
+      "end": 35.255804988662135
+    },
+    {
+      "text": "only",
+      "start": 35.255804988662135,
+      "end": 35.575804988662135
+    },
+    {
+      "text": "interesting",
+      "start": 35.575804988662135,
+      "end": 36.215804988662136
+    },
+    {
+      "text": "And",
+      "start": 36.45580498866213,
+      "end": 36.615804988662134
+    },
+    {
+      "text": "we",
+      "start": 36.615804988662134,
+      "end": 36.69580498866213
+    },
+    {
+      "text": "keep",
+      "start": 36.69580498866213,
+      "end": 36.935804988662134
+    },
+    {
+      "text": "computing",
+      "start": 36.935804988662134,
+      "end": 37.41580498866213
+    },
+    {
+      "text": "it",
+      "start": 37.41580498866213,
+      "end": 37.49580498866213
+    },
+    {
+      "text": "anyway",
+      "start": 37.49580498866213,
+      "end": 37.975804988662134
+    },
+    {
+      "text": "into",
+      "start": 38.215804988662136,
+      "end": 38.37580498866213
+    },
+    {
+      "text": "the",
+      "start": 38.37580498866213,
+      "end": 38.535804988662136
+    },
+    {
+      "text": "trillions",
+      "start": 38.535804988662136,
+      "end": 39.01580498866213
+    },
+    {
+      "text": "of",
+      "start": 39.01580498866213,
+      "end": 39.17580498866214
+    },
+    {
+      "text": "digits",
+      "start": 39.17580498866214,
+      "end": 39.575804988662135
+    },
+    {
+      "text": "because",
+      "start": 39.81580498866214,
+      "end": 40.13580498866213
+    },
+    {
+      "text": "it",
+      "start": 40.13580498866213,
+      "end": 40.13580498866213
+    },
+    {
+      "text": "is",
+      "start": 40.13580498866213,
+      "end": 40.295804988662134
+    },
+    {
+      "text": "there",
+      "start": 40.295804988662134,
+      "end": 40.69580498866213
+    },
+    {
+      "text": "Infinite",
+      "start": 41.149727891156466,
+      "end": 41.549727891156465
+    },
+    {
+      "text": "complexity",
+      "start": 41.549727891156465,
+      "end": 42.269727891156464
+    },
+    {
+      "text": "and",
+      "start": 42.42972789115647,
+      "end": 42.589727891156464
+    },
+    {
+      "text": "we",
+      "start": 42.589727891156464,
+      "end": 42.66972789115647
+    },
+    {
+      "text": "ran",
+      "start": 42.66972789115647,
+      "end": 42.909727891156464
+    },
+    {
+      "text": "out",
+      "start": 42.909727891156464,
+      "end": 43.06972789115647
+    },
+    {
+      "text": "of",
+      "start": 43.06972789115647,
+      "end": 43.229727891156465
+    },
+    {
+      "text": "things",
+      "start": 43.229727891156465,
+      "end": 43.46972789115647
+    },
+    {
+      "text": "to",
+      "start": 43.46972789115647,
+      "end": 43.549727891156465
+    },
+    {
+      "text": "spend",
+      "start": 43.549727891156465,
+      "end": 43.869727891156465
+    },
+    {
+      "text": "it",
+      "start": 43.869727891156465,
+      "end": 43.94972789115646
+    },
+    {
+      "text": "on",
+      "start": 43.94972789115646,
+      "end": 44.10972789115647
+    },
+    {
+      "text": "at",
+      "start": 44.10972789115647,
+      "end": 44.189727891156465
+    },
+    {
+      "text": "forty",
+      "start": 44.269727891156464,
+      "end": 44.66972789115647
+    },
+    {
+      "text": "One",
+      "start": 44.829727891156466,
+      "end": 45.06972789115647
+    },
+    {
+      "text": "of",
+      "start": 45.06972789115647,
+      "end": 45.149727891156466
+    },
+    {
+      "text": "these",
+      "start": 45.149727891156466,
+      "end": 45.46972789115647
+    },
+    {
+      "text": "every",
+      "start": 45.46972789115647,
+      "end": 45.78972789115647
+    },
+    {
+      "text": "day",
+      "start": 45.78972789115647,
+      "end": 46.10972789115647
+    },
+    {
+      "text": "Follow",
+      "start": 46.42972789115647,
+      "end": 46.74972789115647
+    },
+    {
+      "text": "so",
+      "start": 46.74972789115647,
+      "end": 46.909727891156464
+    },
+    {
+      "text": "you",
+      "start": 46.909727891156464,
+      "end": 47.06972789115647
+    },
+    {
+      "text": "do",
+      "start": 47.06972789115647,
+      "end": 47.229727891156465
+    },
+    {
+      "text": "not",
+      "start": 47.229727891156465,
+      "end": 47.38972789115647
+    },
+    {
+      "text": "miss",
+      "start": 47.38972789115647,
+      "end": 47.62972789115646
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.62972789115646,
+      "end": 48.189727891156465
+    }
+  ],
+  "text": "NASA navigates the entire solar system using fifteen decimal places of pi. Pi goes on forever and it never repeats. That part is true and permanent. It is only the ratio between a circle's edge and its width. Every circle, always the same. People spent two thousand years grinding out more digits of it by hand. But the precision stops mattering almost immediately. Fifteen digits places a spacecraft across the solar system to within a few centimetres. Forty digits would size a circle as wide as the observable universe, accurate to one atom. Everything past that is not useful. It is only interesting. And we keep computing it anyway, into the trillions of digits, because it is there. Infinite complexity, and we ran out of things to spend it on at forty. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

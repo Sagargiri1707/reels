@@ -1,0 +1,109 @@
+{
+  "topic": "The pattern in sunflowers",
+  "lesson": "A sunflower's spiral counts fall on Fibonacci numbers because each seed is placed about 137.5 degrees from the last, the one angle that never lines up with itself.",
+  "slug": "day-101-pattern-in-sunflowers-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Count the spirals on a sunflower and you will land on thirty four, or fifty five, or eighty nine.",
+      "scene": "a sunflower head laid flat, a small black cartoon figure tracing a spiral across it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sunflower head laid flat, a small black cartoon figure tracing a spiral across it. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Those are not random. Each one is the sum of the two numbers before it.",
+      "scene": "a row of pebbles growing in size, a small black cartoon figure shoving two together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of pebbles growing in size, a small black cartoon figure shoving two together. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The plant is not counting anything. It places each new seed a fixed turn from the last.",
+      "scene": "a turntable with one marker, a small black cartoon figure turning it one notch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a turntable with one marker, a small black cartoon figure turning it one notch. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "That turn is about one hundred and thirty seven and a half degrees.",
+      "scene": "a brass protractor, a small black cartoon figure dragging its arm round",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass protractor, a small black cartoon figure dragging its arm round. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And that specific angle is the only one that never lines up with itself.",
+      "scene": "a circle of pegs with string wound round them, a small black cartoon figure winding another turn",
+      "image_text": "NEVER REPEATS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a circle of pegs with string wound round them, a small black cartoon figure winding another turn. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NEVER REPEATS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Any simpler fraction of a circle and the seeds fall into rows, leaving gaps.",
+      "scene": "a tray where beads have settled into neat rows with gaps, a small black cartoon figure poking a gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray where beads have settled into neat rows with gaps, a small black cartoon figure poking a gap. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "This angle keeps every new seed landing in the largest space left.",
+      "scene": "a tray packed solid with beads, a small black cartoon figure forcing one more in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray packed solid with beads, a small black cartoon figure forcing one more in. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Same reason pinecones spiral, and leaves stagger up a stem instead of shading each other.",
+      "scene": "a pinecone standing upright, a small black cartoon figure climbing its spiral",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pinecone standing upright, a small black cartoon figure climbing its spiral. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "But be careful with the rest of it. The golden ratio in art and faces is mostly retrofitted.",
+      "scene": "a classical column with a tape measure round it, a small black cartoon figure hauling the tape",
+      "image_text": "RETROFITTED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a classical column with a tape measure round it, a small black cartoon figure hauling the tape. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"RETROFITTED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The plant maths is completely real. The Parthenon claim mostly is not.",
+      "scene": "a paper overlay being peeled off a photograph, a small black cartoon figure pulling it away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper overlay being peeled off a photograph, a small black cartoon figure pulling it away. the scene belongs to packing things as tightly as possible by never letting them line up, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Sunflower spiral counts land on Fibonacci numbers because each seed is placed about 137.5 degrees around from the last, and that is the one angle that never lines up with itself. Any simpler fraction of a circle and seeds fall into rows leaving gaps. Same reason pinecones spiral and leaves stagger up a stem. The honest caveat: the golden ratio in art, architecture and human faces is largely retrofitted. The plant maths is real, the Parthenon claim mostly is not.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #fibonacci #maths #nature #plants #science",
+    "thumbnail_beat": "01"
+  }
+}

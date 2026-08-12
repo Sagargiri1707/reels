@@ -1,0 +1,733 @@
+{
+  "audio_duration": 46.915813,
+  "segments": [
+    {
+      "text": "There",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "text": "is",
+      "start": 0.24,
+      "end": 0.32
+    },
+    {
+      "text": "nothing",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "text": "mathematically",
+      "start": 0.72,
+      "end": 1.36
+    },
+    {
+      "text": "special",
+      "start": 1.36,
+      "end": 1.84
+    },
+    {
+      "text": "about",
+      "start": 1.84,
+      "end": 2.16
+    },
+    {
+      "text": "ten",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "We",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "just",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "happen",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "to",
+      "start": 3.44,
+      "end": 3.44
+    },
+    {
+      "text": "have",
+      "start": 3.44,
+      "end": 3.68
+    },
+    {
+      "text": "ten",
+      "start": 3.68,
+      "end": 3.92
+    },
+    {
+      "text": "fingers",
+      "start": 3.92,
+      "end": 4.48
+    },
+    {
+      "text": "It",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "text": "feels",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "text": "like",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "text": "the",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "text": "natural",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "text": "way",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "text": "to",
+      "start": 6.08,
+      "end": 6.16
+    },
+    {
+      "text": "count",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "text": "because",
+      "start": 6.64,
+      "end": 6.88
+    },
+    {
+      "text": "it",
+      "start": 6.88,
+      "end": 6.96
+    },
+    {
+      "text": "is",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "text": "the",
+      "start": 7.04,
+      "end": 7.2
+    },
+    {
+      "text": "only",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "one",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "text": "you",
+      "start": 7.76,
+      "end": 7.84
+    },
+    {
+      "text": "have",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "ever",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "text": "used",
+      "start": 8.24,
+      "end": 8.72
+    },
+    {
+      "text": "Twelve",
+      "start": 8.96,
+      "end": 9.36
+    },
+    {
+      "text": "would",
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "text": "arguably",
+      "start": 9.44,
+      "end": 10.0
+    },
+    {
+      "text": "be",
+      "start": 10.0,
+      "end": 10.16
+    },
+    {
+      "text": "better",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "text": "It",
+      "start": 10.8,
+      "end": 10.88
+    },
+    {
+      "text": "divides",
+      "start": 10.88,
+      "end": 11.36
+    },
+    {
+      "text": "evenly",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "text": "by",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "two",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "text": "three",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "text": "four",
+      "start": 13.2,
+      "end": 13.44
+    },
+    {
+      "text": "and",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "text": "six",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "text": "Ten",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "text": "only",
+      "start": 14.72,
+      "end": 14.96
+    },
+    {
+      "text": "manages",
+      "start": 14.96,
+      "end": 15.44
+    },
+    {
+      "text": "two",
+      "start": 15.44,
+      "end": 15.68
+    },
+    {
+      "text": "and",
+      "start": 15.68,
+      "end": 15.84
+    },
+    {
+      "text": "five",
+      "start": 15.84,
+      "end": 16.32
+    },
+    {
+      "text": "Try",
+      "start": 16.726167800453513,
+      "end": 16.966167800453515
+    },
+    {
+      "text": "splitting",
+      "start": 16.966167800453515,
+      "end": 17.446167800453516
+    },
+    {
+      "text": "ten",
+      "start": 17.446167800453516,
+      "end": 17.686167800453514
+    },
+    {
+      "text": "into",
+      "start": 17.686167800453514,
+      "end": 17.846167800453514
+    },
+    {
+      "text": "three",
+      "start": 17.846167800453514,
+      "end": 18.086167800453516
+    },
+    {
+      "text": "fair",
+      "start": 18.086167800453516,
+      "end": 18.406167800453517
+    },
+    {
+      "text": "parts",
+      "start": 18.406167800453517,
+      "end": 18.806167800453515
+    },
+    {
+      "text": "Other",
+      "start": 19.126167800453516,
+      "end": 19.366167800453514
+    },
+    {
+      "text": "people",
+      "start": 19.366167800453514,
+      "end": 19.606167800453516
+    },
+    {
+      "text": "chose",
+      "start": 19.606167800453516,
+      "end": 19.926167800453516
+    },
+    {
+      "text": "differently",
+      "start": 19.926167800453516,
+      "end": 20.486167800453515
+    },
+    {
+      "text": "and",
+      "start": 20.726167800453517,
+      "end": 20.806167800453515
+    },
+    {
+      "text": "you",
+      "start": 20.806167800453515,
+      "end": 20.886167800453514
+    },
+    {
+      "text": "still",
+      "start": 20.886167800453514,
+      "end": 21.206167800453514
+    },
+    {
+      "text": "live",
+      "start": 21.206167800453514,
+      "end": 21.446167800453516
+    },
+    {
+      "text": "inside",
+      "start": 21.446167800453516,
+      "end": 21.766167800453516
+    },
+    {
+      "text": "their",
+      "start": 21.766167800453516,
+      "end": 21.926167800453516
+    },
+    {
+      "text": "choices",
+      "start": 21.926167800453516,
+      "end": 22.486167800453515
+    },
+    {
+      "text": "The",
+      "start": 22.726167800453517,
+      "end": 22.806167800453515
+    },
+    {
+      "text": "Babylonians",
+      "start": 22.806167800453515,
+      "end": 23.526167800453514
+    },
+    {
+      "text": "counted",
+      "start": 23.526167800453514,
+      "end": 23.846167800453514
+    },
+    {
+      "text": "in",
+      "start": 23.846167800453514,
+      "end": 24.006167800453515
+    },
+    {
+      "text": "sixty",
+      "start": 24.006167800453515,
+      "end": 24.486167800453515
+    },
+    {
+      "text": "Sixty",
+      "start": 24.646167800453515,
+      "end": 25.046167800453517
+    },
+    {
+      "text": "seconds",
+      "start": 25.046167800453517,
+      "end": 25.606167800453512
+    },
+    {
+      "text": "sixty",
+      "start": 25.686167800453514,
+      "end": 26.086167800453516
+    },
+    {
+      "text": "minutes",
+      "start": 26.086167800453516,
+      "end": 26.486167800453515
+    },
+    {
+      "text": "three",
+      "start": 26.726167800453517,
+      "end": 26.886167800453514
+    },
+    {
+      "text": "hundred",
+      "start": 26.886167800453514,
+      "end": 27.206167800453514
+    },
+    {
+      "text": "and",
+      "start": 27.206167800453514,
+      "end": 27.286167800453516
+    },
+    {
+      "text": "sixty",
+      "start": 27.286167800453516,
+      "end": 27.686167800453514
+    },
+    {
+      "text": "degrees",
+      "start": 27.686167800453514,
+      "end": 28.166167800453515
+    },
+    {
+      "text": "A",
+      "start": 28.406167800453517,
+      "end": 28.486167800453515
+    },
+    {
+      "text": "four",
+      "start": 28.486167800453515,
+      "end": 28.806167800453515
+    },
+    {
+      "text": "thousand",
+      "start": 28.806167800453515,
+      "end": 29.206167800453514
+    },
+    {
+      "text": "year",
+      "start": 29.206167800453514,
+      "end": 29.286167800453516
+    },
+    {
+      "text": "old",
+      "start": 29.286167800453516,
+      "end": 29.526167800453514
+    },
+    {
+      "text": "fossil",
+      "start": 29.526167800453514,
+      "end": 29.926167800453513
+    },
+    {
+      "text": "on",
+      "start": 29.926167800453513,
+      "end": 30.086167800453516
+    },
+    {
+      "text": "your",
+      "start": 30.086167800453516,
+      "end": 30.246167800453513
+    },
+    {
+      "text": "wrist",
+      "start": 30.246167800453513,
+      "end": 30.646167800453515
+    },
+    {
+      "text": "Twelve",
+      "start": 30.806167800453515,
+      "end": 31.126167800453516
+    },
+    {
+      "text": "survives",
+      "start": 31.126167800453516,
+      "end": 31.606167800453512
+    },
+    {
+      "text": "too",
+      "start": 31.606167800453512,
+      "end": 31.926167800453513
+    },
+    {
+      "text": "A",
+      "start": 32.39006802721089,
+      "end": 32.470068027210885
+    },
+    {
+      "text": "dozen",
+      "start": 32.470068027210885,
+      "end": 33.03006802721089
+    },
+    {
+      "text": "twelve",
+      "start": 33.190068027210884,
+      "end": 33.510068027210885
+    },
+    {
+      "text": "inches",
+      "start": 33.510068027210885,
+      "end": 33.99006802721089
+    },
+    {
+      "text": "twenty",
+      "start": 34.150068027210885,
+      "end": 34.39006802721089
+    },
+    {
+      "text": "four",
+      "start": 34.39006802721089,
+      "end": 34.63006802721089
+    },
+    {
+      "text": "hours",
+      "start": 34.63006802721089,
+      "end": 35.110068027210886
+    },
+    {
+      "text": "And",
+      "start": 35.35006802721089,
+      "end": 35.430068027210886
+    },
+    {
+      "text": "some",
+      "start": 35.430068027210886,
+      "end": 35.67006802721089
+    },
+    {
+      "text": "languages",
+      "start": 35.67006802721089,
+      "end": 36.150068027210885
+    },
+    {
+      "text": "count",
+      "start": 36.150068027210885,
+      "end": 36.39006802721089
+    },
+    {
+      "text": "in",
+      "start": 36.39006802721089,
+      "end": 36.550068027210884
+    },
+    {
+      "text": "twenties",
+      "start": 36.550068027210884,
+      "end": 37.03006802721089
+    },
+    {
+      "text": "which",
+      "start": 37.190068027210884,
+      "end": 37.35006802721089
+    },
+    {
+      "text": "is",
+      "start": 37.35006802721089,
+      "end": 37.510068027210885
+    },
+    {
+      "text": "why",
+      "start": 37.510068027210885,
+      "end": 37.67006802721089
+    },
+    {
+      "text": "French",
+      "start": 37.67006802721089,
+      "end": 38.07006802721089
+    },
+    {
+      "text": "says",
+      "start": 38.07006802721089,
+      "end": 38.31006802721089
+    },
+    {
+      "text": "four",
+      "start": 38.31006802721089,
+      "end": 38.63006802721089
+    },
+    {
+      "text": "twenties",
+      "start": 38.63006802721089,
+      "end": 39.110068027210886
+    },
+    {
+      "text": "for",
+      "start": 39.110068027210886,
+      "end": 39.190068027210884
+    },
+    {
+      "text": "eighty",
+      "start": 39.190068027210884,
+      "end": 39.59006802721089
+    },
+    {
+      "text": "We",
+      "start": 39.91006802721088,
+      "end": 40.07006802721089
+    },
+    {
+      "text": "did",
+      "start": 40.07006802721089,
+      "end": 40.150068027210885
+    },
+    {
+      "text": "not",
+      "start": 40.150068027210885,
+      "end": 40.39006802721089
+    },
+    {
+      "text": "pick",
+      "start": 40.39006802721089,
+      "end": 40.63006802721089
+    },
+    {
+      "text": "the",
+      "start": 40.63006802721089,
+      "end": 40.71006802721089
+    },
+    {
+      "text": "best",
+      "start": 40.71006802721089,
+      "end": 41.03006802721089
+    },
+    {
+      "text": "base",
+      "start": 41.03006802721089,
+      "end": 41.430068027210886
+    },
+    {
+      "text": "We",
+      "start": 41.59006802721089,
+      "end": 41.75006802721089
+    },
+    {
+      "text": "picked",
+      "start": 41.75006802721089,
+      "end": 41.99006802721089
+    },
+    {
+      "text": "the",
+      "start": 41.99006802721089,
+      "end": 42.07006802721089
+    },
+    {
+      "text": "one",
+      "start": 42.07006802721089,
+      "end": 42.31006802721089
+    },
+    {
+      "text": "we",
+      "start": 42.31006802721089,
+      "end": 42.39006802721089
+    },
+    {
+      "text": "were",
+      "start": 42.39006802721089,
+      "end": 42.470068027210885
+    },
+    {
+      "text": "already",
+      "start": 42.470068027210885,
+      "end": 42.87006802721089
+    },
+    {
+      "text": "holding",
+      "start": 42.87006802721089,
+      "end": 43.35006802721089
+    },
+    {
+      "text": "One",
+      "start": 43.59006802721089,
+      "end": 43.830068027210885
+    },
+    {
+      "text": "of",
+      "start": 43.830068027210885,
+      "end": 43.91006802721088
+    },
+    {
+      "text": "these",
+      "start": 43.91006802721088,
+      "end": 44.150068027210885
+    },
+    {
+      "text": "every",
+      "start": 44.150068027210885,
+      "end": 44.39006802721089
+    },
+    {
+      "text": "day",
+      "start": 44.39006802721089,
+      "end": 44.790068027210886
+    },
+    {
+      "text": "Follow",
+      "start": 45.03006802721089,
+      "end": 45.35006802721089
+    },
+    {
+      "text": "so",
+      "start": 45.35006802721089,
+      "end": 45.510068027210885
+    },
+    {
+      "text": "you",
+      "start": 45.510068027210885,
+      "end": 45.67006802721089
+    },
+    {
+      "text": "do",
+      "start": 45.67006802721089,
+      "end": 45.75006802721089
+    },
+    {
+      "text": "not",
+      "start": 45.75006802721089,
+      "end": 45.99006802721089
+    },
+    {
+      "text": "miss",
+      "start": 45.99006802721089,
+      "end": 46.23006802721089
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.23006802721089,
+      "end": 46.71006802721089
+    }
+  ],
+  "text": "There is nothing mathematically special about ten. We just happen to have ten fingers. It feels like the natural way to count because it is the only one you have ever used. Twelve would arguably be better. It divides evenly by two, three, four and six. Ten only manages two and five. Try splitting ten into three fair parts. Other people chose differently, and you still live inside their choices. The Babylonians counted in sixty. Sixty seconds, sixty minutes, three hundred and sixty degrees. A four thousand year old fossil on your wrist. Twelve survives too. A dozen, twelve inches, twenty four hours. And some languages count in twenties, which is why French says four twenties for eighty. We did not pick the best base. We picked the one we were already holding. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

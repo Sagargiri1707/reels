@@ -1,0 +1,109 @@
+{
+  "topic": "Why base 10? Because of fingers.",
+  "lesson": "There is nothing mathematically special about ten, and the bases other people chose are still fossilised in your clock, your dozen and your degrees.",
+  "slug": "day-099-why-base-ten-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "There is nothing mathematically special about ten. We just happen to have ten fingers.",
+      "scene": "a pair of gloves laid flat, a small black cartoon figure walking along counting the fingers",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pair of gloves laid flat, a small black cartoon figure walking along counting the fingers. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It feels like the natural way to count because it is the only one you have ever used.",
+      "scene": "a worn wooden ruler, a small black cartoon figure dragging it across the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a worn wooden ruler, a small black cartoon figure dragging it across the surface. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Twelve would arguably be better. It divides evenly by two, three, four and six.",
+      "scene": "a round cake cut cleanly into twelve, a small black cartoon figure lifting one slice out",
+      "image_text": "TWELVE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a round cake cut cleanly into twelve, a small black cartoon figure lifting one slice out. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TWELVE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Ten only manages two and five. Try splitting ten into three fair parts.",
+      "scene": "a rope folded into three uneven lengths, a small black cartoon figure tugging at the short end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope folded into three uneven lengths, a small black cartoon figure tugging at the short end. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Other people chose differently, and you still live inside their choices.",
+      "scene": "a fork in a chalk path, a small black cartoon figure taking one arm of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fork in a chalk path, a small black cartoon figure taking one arm of it. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The Babylonians counted in sixty.",
+      "scene": "a clay tablet ruled into rows of wedge counts, a small black cartoon figure pressing marks in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay tablet ruled into rows of wedge counts, a small black cartoon figure pressing marks in. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Sixty seconds, sixty minutes, three hundred and sixty degrees. A four thousand year old fossil on your wrist.",
+      "scene": "a clock face, a small black cartoon figure hauling the minute hand round",
+      "image_text": "SIXTY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clock face, a small black cartoon figure hauling the minute hand round. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SIXTY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Twelve survives too. A dozen, twelve inches, twenty four hours.",
+      "scene": "an egg box of twelve, a small black cartoon figure heaving the lid open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an egg box of twelve, a small black cartoon figure heaving the lid open. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And some languages count in twenties, which is why French says four twenties for eighty.",
+      "scene": "a bundle of twenty sticks tied together, a small black cartoon figure hauling the bundle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bundle of twenty sticks tied together, a small black cartoon figure hauling the bundle. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We did not pick the best base. We picked the one we were already holding.",
+      "scene": "a plaster cast of an open hand, a small black cartoon figure standing in the palm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plaster cast of an open hand, a small black cartoon figure standing in the palm. the scene belongs to counting systems built around whatever the counter happened to have, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Base 10 is anatomy, not mathematics. Twelve divides evenly by 2, 3, 4 and 6 while ten only manages 2 and 5. The Babylonians used base 60, which is why you still get 60 seconds, 60 minutes and 360 degrees. Base 12 survives in dozens, inches and the 24-hour day, and base 20 survives in the number words of several languages. We did not choose the most convenient base. We chose the one on our hands.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #maths #numbers #history #counting #science",
+    "thumbnail_beat": "03"
+  }
+}

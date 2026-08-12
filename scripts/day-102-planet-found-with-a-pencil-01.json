@@ -1,0 +1,109 @@
+{
+  "topic": "A planet discovered with a pencil",
+  "lesson": "Neptune was calculated before it was seen, from the way Uranus kept missing its predicted position, and the same method's failure case turned out to reveal that gravity itself was different.",
+  "slug": "day-102-planet-found-with-a-pencil-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Neptune was found by doing arithmetic. They pointed a telescope where the maths said, and it was there.",
+      "scene": "a pencil standing upright beside a small telescope, a small black cartoon figure hauling the pencil over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pencil standing upright beside a small telescope, a small black cartoon figure hauling the pencil over. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Uranus was drifting. Its position kept missing the prediction by a little, year after year.",
+      "scene": "a chalk circle with one bead sitting off the line, a small black cartoon figure nudging the bead",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk circle with one bead sitting off the line, a small black cartoon figure nudging the bead. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Something was pulling on it that nobody could see.",
+      "scene": "a string pulled taut over the edge of the surface, a small black cartoon figure hauling back on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a string pulled taut over the edge of the surface, a small black cartoon figure hauling back on it. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Le Verrier in France and Adams in England worked out where that something had to be.",
+      "scene": "two identical notebooks side by side, a small black cartoon figure writing into one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical notebooks side by side, a small black cartoon figure writing into one. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Not just the direction. Its mass, its distance, and its position on a given night.",
+      "scene": "a set of brass weights and a rule, a small black cartoon figure balancing one weight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a set of brass weights and a rule, a small black cartoon figure balancing one weight. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "An observatory in Berlin swung a telescope to the coordinates.",
+      "scene": "a telescope on a tripod, a small black cartoon figure swinging it round with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a telescope on a tripod, a small black cartoon figure swinging it round with both arms. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "They found it inside an hour, within one degree of the prediction.",
+      "scene": "a marble dropped into a chalk ring, a small black cartoon figure letting it go",
+      "image_text": "ONE HOUR",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a marble dropped into a chalk ring, a small black cartoon figure letting it go. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE HOUR\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "A planet discovered on paper before anybody had ever seen it.",
+      "scene": "a sheet of paper pinned upright, a small black cartoon figure pressing a pin through one spot",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sheet of paper pinned upright, a small black cartoon figure pressing a pin through one spot. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "But the method has a failure case. Mercury drifted too, so Le Verrier predicted another planet.",
+      "scene": "a chalk circle half rubbed out, a small black cartoon figure erasing the rest of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk circle half rubbed out, a small black cartoon figure erasing the rest of it. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "It does not exist. The answer was that gravity itself was slightly different from what he assumed.",
+      "scene": "a bent metal ruler, a small black cartoon figure straining to straighten it",
+      "image_text": "NOT THERE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bent metal ruler, a small black cartoon figure straining to straighten it. the scene belongs to an unseen thing located by the pull it exerts on something visible, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT THERE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Uranus kept missing its predicted position, so Le Verrier and Adams independently calculated the mass, distance and position of an unseen planet pulling on it. Berlin Observatory pointed a telescope at the coordinates and found Neptune within an hour, one degree from the prediction. The same method's failure case is just as interesting: Mercury's drift led Le Verrier to predict a planet called Vulcan. It does not exist. Gravity itself was different from what he assumed.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #neptune #astronomy #maths #space #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "audio_duration": 50.860313,
+  "segments": [
+    {
+      "text": "Move",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "a",
+      "start": 0.32,
+      "end": 0.32
+    },
+    {
+      "text": "magnet",
+      "start": 0.32,
+      "end": 0.8
+    },
+    {
+      "text": "near",
+      "start": 0.8,
+      "end": 1.04
+    },
+    {
+      "text": "a",
+      "start": 1.04,
+      "end": 1.12
+    },
+    {
+      "text": "wire",
+      "start": 1.12,
+      "end": 1.68
+    },
+    {
+      "text": "and",
+      "start": 1.84,
+      "end": 2.0
+    },
+    {
+      "text": "electricity",
+      "start": 2.0,
+      "end": 2.64
+    },
+    {
+      "text": "appears",
+      "start": 2.64,
+      "end": 3.2
+    },
+    {
+      "text": "Run",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "text": "electricity",
+      "start": 3.76,
+      "end": 4.4
+    },
+    {
+      "text": "through",
+      "start": 4.4,
+      "end": 4.64
+    },
+    {
+      "text": "a",
+      "start": 4.64,
+      "end": 4.64
+    },
+    {
+      "text": "wire",
+      "start": 4.64,
+      "end": 5.04
+    },
+    {
+      "text": "and",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "text": "a",
+      "start": 5.28,
+      "end": 5.28
+    },
+    {
+      "text": "magnet",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "appears",
+      "start": 5.76,
+      "end": 6.32
+    },
+    {
+      "text": "They",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "were",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "text": "studied",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "text": "as",
+      "start": 7.52,
+      "end": 7.68
+    },
+    {
+      "text": "two",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "separate",
+      "start": 7.84,
+      "end": 8.32
+    },
+    {
+      "text": "things",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "text": "for",
+      "start": 8.64,
+      "end": 8.8
+    },
+    {
+      "text": "a",
+      "start": 8.8,
+      "end": 8.88
+    },
+    {
+      "text": "very",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "text": "long",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "text": "time",
+      "start": 9.44,
+      "end": 9.92
+    },
+    {
+      "text": "Faraday",
+      "start": 10.4,
+      "end": 10.8
+    },
+    {
+      "text": "showed",
+      "start": 10.8,
+      "end": 11.28
+    },
+    {
+      "text": "that",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "it",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "is",
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "text": "one",
+      "start": 11.52,
+      "end": 11.84
+    },
+    {
+      "text": "relationship",
+      "start": 11.84,
+      "end": 12.48
+    },
+    {
+      "text": "read",
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "text": "in",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "two",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "directions",
+      "start": 13.12,
+      "end": 13.84
+    },
+    {
+      "text": "Which",
+      "start": 14.0,
+      "end": 14.16
+    },
+    {
+      "text": "means",
+      "start": 14.16,
+      "end": 14.4
+    },
+    {
+      "text": "a",
+      "start": 14.4,
+      "end": 14.48
+    },
+    {
+      "text": "motor",
+      "start": 14.48,
+      "end": 14.96
+    },
+    {
+      "text": "and",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "text": "a",
+      "start": 15.2,
+      "end": 15.2
+    },
+    {
+      "text": "generator",
+      "start": 15.2,
+      "end": 15.84
+    },
+    {
+      "text": "are",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "text": "the",
+      "start": 16.0,
+      "end": 16.08
+    },
+    {
+      "text": "same",
+      "start": 16.08,
+      "end": 16.4
+    },
+    {
+      "text": "machine",
+      "start": 16.4,
+      "end": 16.96
+    },
+    {
+      "text": "Feed",
+      "start": 17.40988662131519,
+      "end": 17.64988662131519
+    },
+    {
+      "text": "it",
+      "start": 17.64988662131519,
+      "end": 17.72988662131519
+    },
+    {
+      "text": "electricity",
+      "start": 17.72988662131519,
+      "end": 18.44988662131519
+    },
+    {
+      "text": "and",
+      "start": 18.44988662131519,
+      "end": 18.529886621315192
+    },
+    {
+      "text": "the",
+      "start": 18.529886621315192,
+      "end": 18.60988662131519
+    },
+    {
+      "text": "shaft",
+      "start": 18.60988662131519,
+      "end": 19.08988662131519
+    },
+    {
+      "text": "turns",
+      "start": 19.08988662131519,
+      "end": 19.56988662131519
+    },
+    {
+      "text": "Turn",
+      "start": 19.96988662131519,
+      "end": 20.209886621315192
+    },
+    {
+      "text": "the",
+      "start": 20.209886621315192,
+      "end": 20.28988662131519
+    },
+    {
+      "text": "shaft",
+      "start": 20.28988662131519,
+      "end": 20.689886621315193
+    },
+    {
+      "text": "and",
+      "start": 20.689886621315193,
+      "end": 20.849886621315193
+    },
+    {
+      "text": "electricity",
+      "start": 20.849886621315193,
+      "end": 21.40988662131519
+    },
+    {
+      "text": "comes",
+      "start": 21.40988662131519,
+      "end": 21.72988662131519
+    },
+    {
+      "text": "out",
+      "start": 21.72988662131519,
+      "end": 22.049886621315192
+    },
+    {
+      "text": "Which",
+      "start": 22.369886621315192,
+      "end": 22.60988662131519
+    },
+    {
+      "text": "is",
+      "start": 22.60988662131519,
+      "end": 22.68988662131519
+    },
+    {
+      "text": "why",
+      "start": 22.68988662131519,
+      "end": 23.00988662131519
+    },
+    {
+      "text": "almost",
+      "start": 23.00988662131519,
+      "end": 23.32988662131519
+    },
+    {
+      "text": "every",
+      "start": 23.40988662131519,
+      "end": 23.64988662131519
+    },
+    {
+      "text": "power",
+      "start": 23.64988662131519,
+      "end": 23.96988662131519
+    },
+    {
+      "text": "station",
+      "start": 23.96988662131519,
+      "end": 24.369886621315192
+    },
+    {
+      "text": "on",
+      "start": 24.369886621315192,
+      "end": 24.529886621315192
+    },
+    {
+      "text": "Earth",
+      "start": 24.529886621315192,
+      "end": 24.849886621315193
+    },
+    {
+      "text": "is",
+      "start": 24.92988662131519,
+      "end": 25.00988662131519
+    },
+    {
+      "text": "doing",
+      "start": 25.00988662131519,
+      "end": 25.24988662131519
+    },
+    {
+      "text": "the",
+      "start": 25.24988662131519,
+      "end": 25.32988662131519
+    },
+    {
+      "text": "same",
+      "start": 25.32988662131519,
+      "end": 25.72988662131519
+    },
+    {
+      "text": "final",
+      "start": 25.72988662131519,
+      "end": 26.049886621315192
+    },
+    {
+      "text": "thing",
+      "start": 26.049886621315192,
+      "end": 26.44988662131519
+    },
+    {
+      "text": "Coal",
+      "start": 26.849886621315193,
+      "end": 27.24988662131519
+    },
+    {
+      "text": "gas",
+      "start": 27.40988662131519,
+      "end": 27.809886621315194
+    },
+    {
+      "text": "and",
+      "start": 27.889886621315192,
+      "end": 28.049886621315192
+    },
+    {
+      "text": "nuclear",
+      "start": 28.049886621315192,
+      "end": 28.529886621315192
+    },
+    {
+      "text": "all",
+      "start": 28.529886621315192,
+      "end": 28.76988662131519
+    },
+    {
+      "text": "boil",
+      "start": 28.76988662131519,
+      "end": 29.08988662131519
+    },
+    {
+      "text": "water",
+      "start": 29.08988662131519,
+      "end": 29.56988662131519
+    },
+    {
+      "text": "The",
+      "start": 29.72988662131519,
+      "end": 29.809886621315194
+    },
+    {
+      "text": "steam",
+      "start": 29.809886621315194,
+      "end": 30.209886621315192
+    },
+    {
+      "text": "pushes",
+      "start": 30.209886621315192,
+      "end": 30.60988662131519
+    },
+    {
+      "text": "a",
+      "start": 30.60988662131519,
+      "end": 30.68988662131519
+    },
+    {
+      "text": "turbine",
+      "start": 30.68988662131519,
+      "end": 31.08988662131519
+    },
+    {
+      "text": "The",
+      "start": 31.40988662131519,
+      "end": 31.489886621315193
+    },
+    {
+      "text": "turbine",
+      "start": 31.489886621315193,
+      "end": 31.889886621315192
+    },
+    {
+      "text": "spins",
+      "start": 31.889886621315192,
+      "end": 32.28988662131519
+    },
+    {
+      "text": "a",
+      "start": 32.28988662131519,
+      "end": 32.28988662131519
+    },
+    {
+      "text": "magnet",
+      "start": 32.28988662131519,
+      "end": 32.769886621315194
+    },
+    {
+      "text": "Hydro",
+      "start": 33.19714285714286,
+      "end": 33.677142857142854
+    },
+    {
+      "text": "and",
+      "start": 33.677142857142854,
+      "end": 33.83714285714286
+    },
+    {
+      "text": "wind",
+      "start": 33.83714285714286,
+      "end": 34.07714285714285
+    },
+    {
+      "text": "skip",
+      "start": 34.07714285714285,
+      "end": 34.47714285714286
+    },
+    {
+      "text": "the",
+      "start": 34.47714285714286,
+      "end": 34.55714285714286
+    },
+    {
+      "text": "boiling",
+      "start": 34.55714285714286,
+      "end": 35.037142857142854
+    },
+    {
+      "text": "and",
+      "start": 35.037142857142854,
+      "end": 35.19714285714286
+    },
+    {
+      "text": "push",
+      "start": 35.19714285714286,
+      "end": 35.51714285714286
+    },
+    {
+      "text": "the",
+      "start": 35.51714285714286,
+      "end": 35.51714285714286
+    },
+    {
+      "text": "same",
+      "start": 35.51714285714286,
+      "end": 35.917142857142856
+    },
+    {
+      "text": "wheel",
+      "start": 35.917142857142856,
+      "end": 36.15714285714286
+    },
+    {
+      "text": "directly",
+      "start": 36.15714285714286,
+      "end": 36.71714285714285
+    },
+    {
+      "text": "Solar",
+      "start": 36.957142857142856,
+      "end": 37.43714285714286
+    },
+    {
+      "text": "is",
+      "start": 37.43714285714286,
+      "end": 37.597142857142856
+    },
+    {
+      "text": "the",
+      "start": 37.597142857142856,
+      "end": 37.75714285714285
+    },
+    {
+      "text": "odd",
+      "start": 37.75714285714285,
+      "end": 37.997142857142855
+    },
+    {
+      "text": "one",
+      "start": 37.997142857142855,
+      "end": 38.15714285714286
+    },
+    {
+      "text": "out",
+      "start": 38.15714285714286,
+      "end": 38.47714285714285
+    },
+    {
+      "text": "It",
+      "start": 38.71714285714285,
+      "end": 38.87714285714286
+    },
+    {
+      "text": "has",
+      "start": 38.87714285714286,
+      "end": 39.037142857142854
+    },
+    {
+      "text": "no",
+      "start": 39.037142857142854,
+      "end": 39.277142857142856
+    },
+    {
+      "text": "moving",
+      "start": 39.277142857142856,
+      "end": 39.597142857142856
+    },
+    {
+      "text": "part",
+      "start": 39.597142857142856,
+      "end": 39.83714285714286
+    },
+    {
+      "text": "at",
+      "start": 39.83714285714286,
+      "end": 39.997142857142855
+    },
+    {
+      "text": "all",
+      "start": 39.997142857142855,
+      "end": 40.317142857142855
+    },
+    {
+      "text": "and",
+      "start": 40.55714285714286,
+      "end": 40.637142857142855
+    },
+    {
+      "text": "no",
+      "start": 40.637142857142855,
+      "end": 40.79714285714286
+    },
+    {
+      "text": "spinning",
+      "start": 40.79714285714286,
+      "end": 41.19714285714286
+    },
+    {
+      "text": "magnet",
+      "start": 41.19714285714286,
+      "end": 41.597142857142856
+    },
+    {
+      "text": "anywhere",
+      "start": 41.597142857142856,
+      "end": 42.15714285714286
+    },
+    {
+      "text": "Almost",
+      "start": 42.55714285714286,
+      "end": 42.87714285714286
+    },
+    {
+      "text": "all",
+      "start": 42.87714285714286,
+      "end": 43.11714285714285
+    },
+    {
+      "text": "the",
+      "start": 43.11714285714285,
+      "end": 43.277142857142856
+    },
+    {
+      "text": "electricity",
+      "start": 43.277142857142856,
+      "end": 43.83714285714286
+    },
+    {
+      "text": "you",
+      "start": 43.83714285714286,
+      "end": 43.997142857142855
+    },
+    {
+      "text": "have",
+      "start": 43.997142857142855,
+      "end": 44.15714285714286
+    },
+    {
+      "text": "ever",
+      "start": 44.15714285714286,
+      "end": 44.39714285714285
+    },
+    {
+      "text": "used",
+      "start": 44.39714285714285,
+      "end": 44.79714285714286
+    },
+    {
+      "text": "came",
+      "start": 45.037142857142854,
+      "end": 45.277142857142856
+    },
+    {
+      "text": "from",
+      "start": 45.277142857142856,
+      "end": 45.43714285714286
+    },
+    {
+      "text": "something",
+      "start": 45.43714285714286,
+      "end": 45.83714285714286
+    },
+    {
+      "text": "turning",
+      "start": 45.83714285714286,
+      "end": 46.15714285714286
+    },
+    {
+      "text": "a",
+      "start": 46.15714285714286,
+      "end": 46.15714285714286
+    },
+    {
+      "text": "magnet",
+      "start": 46.15714285714286,
+      "end": 46.55714285714286
+    },
+    {
+      "text": "round",
+      "start": 46.55714285714286,
+      "end": 47.037142857142854
+    },
+    {
+      "text": "One",
+      "start": 47.277142857142856,
+      "end": 47.51714285714286
+    },
+    {
+      "text": "of",
+      "start": 47.51714285714286,
+      "end": 47.597142857142856
+    },
+    {
+      "text": "these",
+      "start": 47.597142857142856,
+      "end": 47.83714285714286
+    },
+    {
+      "text": "every",
+      "start": 47.83714285714286,
+      "end": 48.07714285714285
+    },
+    {
+      "text": "day",
+      "start": 48.07714285714285,
+      "end": 48.39714285714285
+    },
+    {
+      "text": "Follow",
+      "start": 48.88718820861678,
+      "end": 49.20718820861678
+    },
+    {
+      "text": "so",
+      "start": 49.20718820861678,
+      "end": 49.367188208616774
+    },
+    {
+      "text": "you",
+      "start": 49.367188208616774,
+      "end": 49.52718820861678
+    },
+    {
+      "text": "do",
+      "start": 49.52718820861678,
+      "end": 49.607188208616776
+    },
+    {
+      "text": "not",
+      "start": 49.607188208616776,
+      "end": 49.84718820861678
+    },
+    {
+      "text": "miss",
+      "start": 49.84718820861678,
+      "end": 50.08718820861678
+    },
+    {
+      "text": "tomorrow",
+      "start": 50.08718820861678,
+      "end": 50.647188208616775
+    }
+  ],
+  "text": "Move a magnet near a wire and electricity appears. Run electricity through a wire and a magnet appears. They were studied as two separate things for a very long time. Faraday showed that it is one relationship read in two directions. Which means a motor and a generator are the same machine. Feed it electricity and the shaft turns. Turn the shaft and electricity comes out. Which is why almost every power station on Earth is doing the same final thing. Coal, gas and nuclear all boil water. The steam pushes a turbine. The turbine spins a magnet. Hydro and wind skip the boiling and push the same wheel directly. Solar is the odd one out. It has no moving part at all, and no spinning magnet anywhere. Almost all the electricity you have ever used came from something turning a magnet round. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

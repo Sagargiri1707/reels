@@ -1,0 +1,108 @@
+{
+  "topic": "Light is electricity waving",
+  "lesson": "Radio, microwaves, visible light, X-rays and gamma rays are one continuum at different frequencies, and we see the narrow slice that gets through water and air best.",
+  "slug": "day-126-light-is-electricity-waving-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Radio waves, microwaves, visible light, X-rays and gamma rays are the same thing at different speeds of wobble.",
+      "scene": "a long rope shaken slowly at one end, a small black cartoon figure whipping it faster",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long rope shaken slowly at one end, a small black cartoon figure whipping it faster. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "They feel like completely different phenomena because of what they do to matter.",
+      "scene": "a row of unlike objects on the surface, a small black cartoon figure dragging them into one line",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of unlike objects on the surface, a small black cartoon figure dragging them into one line. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Slow wobbles are long waves. They go around obstacles and through walls.",
+      "scene": "a wide loop of rope passing around a post, a small black cartoon figure guiding it past",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide loop of rope passing around a post, a small black cartoon figure guiding it past. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Speed it up and the waves get short enough to shake water molecules, which is a microwave oven.",
+      "scene": "a bowl of water beside a fast shaken rope, a small black cartoon figure shaking hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of water beside a fast shaken rope, a small black cartoon figure shaking hard. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Keep going and you reach one absurdly narrow band, and that is everything you have ever seen.",
+      "scene": "a wide ruler with one hairline scratch, a small black cartoon figure standing on the scratch",
+      "image_text": "ALL YOU SEE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide ruler with one hairline scratch, a small black cartoon figure standing on the scratch. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ALL YOU SEE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Faster still and each wave carries enough energy to knock electrons off atoms. That is an X-ray.",
+      "scene": "a marble fired hard at a stack of counters, a small black cartoon figure launching it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a marble fired hard at a stack of counters, a small black cartoon figure launching it. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "There is no boundary anywhere along it. The names are just labels we put on a ramp.",
+      "scene": "a smooth ramp with chalk marks along it, a small black cartoon figure drawing another mark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a smooth ramp with chalk marks along it, a small black cartoon figure drawing another mark. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So why do we see that particular slice and not another?",
+      "scene": "a card with one narrow slot, a small black cartoon figure holding it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card with one narrow slot, a small black cartoon figure holding it up. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Because it is the band that gets through water and air best, and our eyes started in the sea.",
+      "scene": "a beam passing cleanly through a glass of water, a small black cartoon figure steadying the glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a beam passing cleanly through a glass of water, a small black cartoon figure steadying the glass. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Your entire sense of what the world looks like is a bandwidth accident.",
+      "scene": "a wide fan of card with one thin wedge cut out, a small black cartoon figure holding the wedge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide fan of card with one thin wedge cut out, a small black cartoon figure holding the wedge. the scene belongs to one continuous range with a hairline slice of it picked out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Radio, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays are one continuum at different frequencies, with no boundaries anywhere along it. The names are labels on a ramp. Long waves bend around obstacles and pass through walls; short ones carry enough energy per wave to knock electrons off atoms. Visible light is an absurdly narrow slice, and we see it because it is what penetrates water and atmosphere best. Our reality is a bandwidth accident.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #light #spectrum #physics #vision #science",
+    "thumbnail_beat": "05"
+  }
+}

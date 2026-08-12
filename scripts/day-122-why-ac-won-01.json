@@ -1,0 +1,110 @@
+{
+  "topic": "Why AC won the current war",
+  "lesson": "AC won because it can be transformed to very high voltage for transmission and back down for homes, and modern electronics have since made long-distance DC viable after all.",
+  "slug": "day-122-why-ac-won-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Edison publicly electrocuted animals to prove his rival's system was dangerous. He still lost.",
+      "scene": "a brass switch thrown hard over, a small black cartoon figure hanging off the lever",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass switch thrown hard over, a small black cartoon figure hanging off the lever. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Both systems delivered power. The argument was about distance.",
+      "scene": "two chalk lines of very different lengths, a small black cartoon figure walking the longer one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two chalk lines of very different lengths, a small black cartoon figure walking the longer one. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Push current down a wire and some of it is lost as heat, all the way along.",
+      "scene": "a length of wire with a hot patch, a small black cartoon figure snatching an arm back from it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of wire with a hot patch, a small black cartoon figure snatching an arm back from it. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The loss depends on current, not voltage. Halve the current and you lose a quarter as much.",
+      "scene": "a wide channel narrowed to a thin one, a small black cartoon figure damming the wide part",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide channel narrowed to a thin one, a small black cartoon figure damming the wide part. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So send it at enormous voltage and tiny current, then step it back down at the far end.",
+      "scene": "a tall funnel feeding a narrow spout, a small black cartoon figure tipping it over",
+      "image_text": "STEP DOWN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall funnel feeding a narrow spout, a small black cartoon figure tipping it over. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STEP DOWN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A transformer does that, and a transformer only works on current that keeps changing direction.",
+      "scene": "two coils on an iron ring, a small black cartoon figure winding wire around one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two coils on an iron ring, a small black cartoon figure winding wire around one. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Direct current does not change direction, so at the time there was no way to step it up.",
+      "scene": "a one way valve, a small black cartoon figure shoving against it from the wrong side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a one way valve, a small black cartoon figure shoving against it from the wrong side. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "That is the whole reason alternating current won. Not safety, and not showmanship.",
+      "scene": "a pendulum swinging back and forth, a small black cartoon figure riding it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pendulum swinging back and forth, a small black cartoon figure riding it. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "turn",
+      "text": "But here is the twist. The biggest transmission projects being built now are direct current.",
+      "scene": "a fresh cable being laid over an old one, a small black cartoon figure hauling the new one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fresh cable being laid over an old one, a small black cartoon figure hauling the new one. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Modern electronics can convert it efficiently. Edison was not wrong. He was early.",
+      "scene": "an old tool being lifted off a shelf again, a small black cartoon figure dusting it",
+      "image_text": "EARLY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old tool being lifted off a shelf again, a small black cartoon figure dusting it. the scene belongs to losing less along the way by changing the pressure rather than the amount, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"EARLY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Transmission losses depend on current, not voltage, so the trick is to send power at enormous voltage and tiny current and step it back down at the far end. Transformers do that, and transformers only work on current that keeps reversing. Direct current could not be stepped up at the time, which is the real reason AC won, not safety or showmanship. The twist: modern power electronics made high-voltage DC efficient, and the biggest transmission projects now use it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #electricity #edison #tesla #engineering #science",
+    "thumbnail_beat": "01"
+  }
+}

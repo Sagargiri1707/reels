@@ -1,0 +1,108 @@
+{
+  "topic": "Electricity and magnetism are the same phenomenon",
+  "lesson": "A motor and a generator are the same machine run in opposite directions, and almost all grid electricity comes from spinning a magnet by some means.",
+  "slug": "day-123-electricity-and-magnetism-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Move a magnet near a wire and electricity appears. Run electricity through a wire and a magnet appears.",
+      "scene": "a bar magnet swept past a coil of wire, a small black cartoon figure dragging the magnet",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bar magnet swept past a coil of wire, a small black cartoon figure dragging the magnet. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "They were studied as two separate things for a very long time.",
+      "scene": "two boxes standing apart on the surface, a small black cartoon figure pushing one towards the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two boxes standing apart on the surface, a small black cartoon figure pushing one towards the other. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Faraday showed that it is one relationship read in two directions.",
+      "scene": "a two way arrow cut from card, a small black cartoon figure spinning it around",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a two way arrow cut from card, a small black cartoon figure spinning it around. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Which means a motor and a generator are the same machine.",
+      "scene": "a hand crank on a small machine, a small black cartoon figure turning the crank",
+      "image_text": "SAME MACHINE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand crank on a small machine, a small black cartoon figure turning the crank. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SAME MACHINE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Feed it electricity and the shaft turns. Turn the shaft and electricity comes out.",
+      "scene": "the same machine with the crank now turning by itself, a small black cartoon figure holding on to it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same machine with the crank now turning by itself, a small black cartoon figure holding on to it. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which is why almost every power station on Earth is doing the same final thing.",
+      "scene": "a row of different fuel containers all feeding one kettle, a small black cartoon figure lighting under it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of different fuel containers all feeding one kettle, a small black cartoon figure lighting under it. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Coal, gas and nuclear all boil water. The steam pushes a turbine. The turbine spins a magnet.",
+      "scene": "a kettle spout blowing onto a paper pinwheel, a small black cartoon figure steadying the pinwheel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a kettle spout blowing onto a paper pinwheel, a small black cartoon figure steadying the pinwheel. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Hydro and wind skip the boiling and push the same wheel directly.",
+      "scene": "a jug of water poured onto the same pinwheel, a small black cartoon figure tipping the jug",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jug of water poured onto the same pinwheel, a small black cartoon figure tipping the jug. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Solar is the odd one out. It has no moving part at all, and no spinning magnet anywhere.",
+      "scene": "a flat panel lying still beside a stopped pinwheel, a small black cartoon figure sitting on the panel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat panel lying still beside a stopped pinwheel, a small black cartoon figure sitting on the panel. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Almost all the electricity you have ever used came from something turning a magnet round.",
+      "scene": "a magnet on a spindle, a small black cartoon figure spinning it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a magnet on a spindle, a small black cartoon figure spinning it with both arms. the scene belongs to one machine that does opposite jobs depending on which end you drive, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Faraday's induction says electricity and magnetism are one relationship read two ways. Which means a motor and a generator are literally the same machine: feed it current and the shaft turns, turn the shaft and current comes out. Coal, gas and nuclear all do the identical final step, boiling water to push a turbine that spins a magnet. Hydro and wind push the same wheel without the boiling. Solar is the odd one out, with no spinning anything.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #electricity #magnetism #faraday #physics #science",
+    "thumbnail_beat": "04"
+  }
+}

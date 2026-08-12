@@ -1,0 +1,109 @@
+{
+  "topic": "What's actually inside a battery",
+  "lesson": "A battery stores a chemical reaction rather than electricity, and each cycle leaves small irreversible changes, which is why capacity fades and why heat and full charges make it worse.",
+  "slug": "day-124-whats-inside-a-battery-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A battery does not store electricity. It stores a chemical reaction that is waiting to happen.",
+      "scene": "a cocked mousetrap sitting still, a small black cartoon figure leaning over the set bar",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cocked mousetrap sitting still, a small black cartoon figure leaning over the set bar. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Two materials that would react if they touched, kept apart on purpose.",
+      "scene": "two lumps held apart by a wooden wedge, a small black cartoon figure gripping the wedge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two lumps held apart by a wooden wedge, a small black cartoon figure gripping the wedge. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Between them sits a substance that lets the ions cross but blocks the electrons.",
+      "scene": "a sieve in a frame, a small black cartoon figure pushing small beads through and large ones back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sieve in a frame, a small black cartoon figure pushing small beads through and large ones back. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So the electrons cannot take the short way. They have to go around the outside.",
+      "scene": "a blocked doorway with a long corridor beside it, a small black cartoon figure running the long way",
+      "image_text": "LONG WAY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blocked doorway with a long corridor beside it, a small black cartoon figure running the long way. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"LONG WAY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "That detour is the current, and everything you plug in sits along it.",
+      "scene": "a lamp wired into a long loop of cable, a small black cartoon figure hauling the cable taut",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lamp wired into a long loop of cable, a small black cartoon figure hauling the cable taut. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "A rechargeable one just runs the same reaction backwards.",
+      "scene": "a hand crank being turned the other way, a small black cartoon figure reversing it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand crank being turned the other way, a small black cartoon figure reversing it with both arms. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "But it never runs perfectly backwards. Each cycle leaves small permanent changes in the structure.",
+      "scene": "a sheet of paper folded and unfolded, a small black cartoon figure smoothing a crease that stays",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sheet of paper folded and unfolded, a small black cartoon figure smoothing a crease that stays. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Those changes add up, and that is exactly what capacity fade is.",
+      "scene": "a jar that will not quite refill to its old line, a small black cartoon figure pouring into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar that will not quite refill to its old line, a small black cartoon figure pouring into it. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Heat speeds it up. So does sitting at a full charge, and running it flat.",
+      "scene": "a jar left beside a hot plate, a small black cartoon figure dragging it away from the heat",
+      "image_text": "HEAT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar left beside a hot plate, a small black cartoon figure dragging it away from the heat. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"HEAT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You are not filling a tank. You are bending something back into shape, and it remembers.",
+      "scene": "a bent metal strip pushed back straight, a small black cartoon figure pressing it flat",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bent metal strip pushed back straight, a small black cartoon figure pressing it flat. the scene belongs to a reaction held back until the only way through is the long way round, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A battery stores a chemical reaction, not electricity. Two materials that would react are kept apart, with an electrolyte between them that lets ions cross but blocks electrons, so the electrons have to take the long way round through your device. That detour is the current. Rechargeables run the reaction backwards, but never perfectly: each cycle leaves small irreversible structural changes, which is capacity fade. Heat, full charges and deep discharges all accelerate it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #battery #chemistry #electricity #technology #science",
+    "thumbnail_beat": "04"
+  }
+}

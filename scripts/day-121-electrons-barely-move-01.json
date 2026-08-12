@@ -1,0 +1,108 @@
+{
+  "topic": "Electrons barely move. So why is the light instant?",
+  "lesson": "Electrons drift through a wire slower than you walk, and the light comes on instantly because the energy travels in the field around the wire, not in the electrons themselves.",
+  "slug": "day-121-electrons-barely-move-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Electrons drift through a wire slower than you walk. The bulb still lights the instant you flip the switch.",
+      "scene": "a light switch, a small black cartoon figure throwing it down with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a light switch, a small black cartoon figure throwing it down with their whole body. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You were taught it works like water in a pipe. That is wrong in one important way.",
+      "scene": "a length of clear pipe with water standing in it, a small black cartoon figure tapping the pipe",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of clear pipe with water standing in it, a small black cartoon figure tapping the pipe. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "An electron in a household wire moves a few millimetres a second.",
+      "scene": "a single bead being pushed slowly along a groove, a small black cartoon figure inching it forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single bead being pushed slowly along a groove, a small black cartoon figure inching it forward. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "At that speed it would take hours to get from the switch to the bulb.",
+      "scene": "a very long groove with the bead near the start, a small black cartoon figure sitting beside it waiting",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very long groove with the bead near the start, a small black cartoon figure sitting beside it waiting. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Think of a bicycle chain instead. Push one link and the whole loop moves at once.",
+      "scene": "a bicycle chain looped around two cogs, a small black cartoon figure shoving one link",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bicycle chain looped around two cogs, a small black cartoon figure shoving one link. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Every electron is already there, all along the wire, waiting.",
+      "scene": "a groove packed end to end with beads, a small black cartoon figure pressing one more in",
+      "image_text": "ALREADY THERE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a groove packed end to end with beads, a small black cartoon figure pressing one more in. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ALREADY THERE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The push travels down the line at close to the speed of light. The electrons barely stir.",
+      "scene": "a taut rope flicked at one end, a small black cartoon figure snapping the rope",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a taut rope flicked at one end, a small black cartoon figure snapping the rope. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And the energy is not even inside the wire. It rides in the field around it.",
+      "scene": "a bar with iron filings gathered in the space around it, a small black cartoon figure brushing them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bar with iron filings gathered in the space around it, a small black cartoon figure brushing them. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The wire is a guide. It tells the energy where to go and where to be delivered.",
+      "scene": "a chalk channel drawn on the surface, a small black cartoon figure dragging the chalk along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk channel drawn on the surface, a small black cartoon figure dragging the chalk along it. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Nothing raced from your switch to your bulb. The whole loop simply started moving together.",
+      "scene": "a closed loop of string round pegs, a small black cartoon figure pulling one part so all of it moves",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a closed loop of string round pegs, a small black cartoon figure pulling one part so all of it moves. the scene belongs to a signal arriving instantly along a loop that is barely moving, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Drift velocity in a household wire is on the order of millimetres per second, so at that pace an electron would take hours to reach the bulb. The light is instant because the electromagnetic field propagates at close to light speed, and the energy travels in the field around the wire rather than inside it. The water-pipe analogy misses this. A bicycle chain is closer: push one link and the whole loop moves at once.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #electricity #physics #electrons #energy #science",
+    "thumbnail_beat": "05"
+  }
+}

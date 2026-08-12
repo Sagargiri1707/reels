@@ -1,0 +1,813 @@
+{
+  "audio_duration": 51.565625,
+  "segments": [
+    {
+      "text": "Edison",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "publicly",
+      "start": 0.4,
+      "end": 0.88
+    },
+    {
+      "text": "electrocuted",
+      "start": 0.88,
+      "end": 1.52
+    },
+    {
+      "text": "animals",
+      "start": 1.52,
+      "end": 2.0
+    },
+    {
+      "text": "to",
+      "start": 2.0,
+      "end": 2.08
+    },
+    {
+      "text": "prove",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "text": "his",
+      "start": 2.32,
+      "end": 2.56
+    },
+    {
+      "text": "rival's",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "system",
+      "start": 2.88,
+      "end": 3.28
+    },
+    {
+      "text": "was",
+      "start": 3.28,
+      "end": 3.36
+    },
+    {
+      "text": "dangerous",
+      "start": 3.36,
+      "end": 4.0
+    },
+    {
+      "text": "He",
+      "start": 4.32,
+      "end": 4.48
+    },
+    {
+      "text": "still",
+      "start": 4.48,
+      "end": 4.8
+    },
+    {
+      "text": "lost",
+      "start": 4.88,
+      "end": 5.36
+    },
+    {
+      "text": "Both",
+      "start": 5.68,
+      "end": 5.92
+    },
+    {
+      "text": "systems",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "text": "delivered",
+      "start": 6.32,
+      "end": 6.72
+    },
+    {
+      "text": "power",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "text": "The",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "text": "argument",
+      "start": 7.6,
+      "end": 8.08
+    },
+    {
+      "text": "was",
+      "start": 8.08,
+      "end": 8.16
+    },
+    {
+      "text": "about",
+      "start": 8.16,
+      "end": 8.56
+    },
+    {
+      "text": "distance",
+      "start": 8.56,
+      "end": 9.04
+    },
+    {
+      "text": "Push",
+      "start": 9.28,
+      "end": 9.6
+    },
+    {
+      "text": "current",
+      "start": 9.6,
+      "end": 9.92
+    },
+    {
+      "text": "down",
+      "start": 9.92,
+      "end": 10.16
+    },
+    {
+      "text": "a",
+      "start": 10.16,
+      "end": 10.16
+    },
+    {
+      "text": "wire",
+      "start": 10.16,
+      "end": 10.64
+    },
+    {
+      "text": "and",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "some",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "text": "of",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "it",
+      "start": 11.28,
+      "end": 11.36
+    },
+    {
+      "text": "is",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "lost",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "as",
+      "start": 11.84,
+      "end": 11.92
+    },
+    {
+      "text": "heat",
+      "start": 11.92,
+      "end": 12.32
+    },
+    {
+      "text": "all",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "the",
+      "start": 12.8,
+      "end": 12.8
+    },
+    {
+      "text": "way",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "along",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "The",
+      "start": 13.76,
+      "end": 13.76
+    },
+    {
+      "text": "loss",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "text": "depends",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "on",
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "text": "current",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "text": "not",
+      "start": 15.28,
+      "end": 15.52
+    },
+    {
+      "text": "voltage",
+      "start": 15.52,
+      "end": 16.08
+    },
+    {
+      "text": "Halve",
+      "start": 16.49396825396825,
+      "end": 16.813968253968252
+    },
+    {
+      "text": "the",
+      "start": 16.813968253968252,
+      "end": 16.893968253968254
+    },
+    {
+      "text": "current",
+      "start": 16.893968253968254,
+      "end": 17.293968253968252
+    },
+    {
+      "text": "and",
+      "start": 17.453968253968252,
+      "end": 17.613968253968252
+    },
+    {
+      "text": "you",
+      "start": 17.613968253968252,
+      "end": 17.693968253968254
+    },
+    {
+      "text": "lose",
+      "start": 17.693968253968254,
+      "end": 17.933968253968253
+    },
+    {
+      "text": "a",
+      "start": 17.933968253968253,
+      "end": 18.013968253968255
+    },
+    {
+      "text": "quarter",
+      "start": 18.013968253968255,
+      "end": 18.33396825396825
+    },
+    {
+      "text": "as",
+      "start": 18.33396825396825,
+      "end": 18.493968253968255
+    },
+    {
+      "text": "much",
+      "start": 18.493968253968255,
+      "end": 18.813968253968252
+    },
+    {
+      "text": "So",
+      "start": 19.053968253968254,
+      "end": 19.213968253968254
+    },
+    {
+      "text": "send",
+      "start": 19.213968253968254,
+      "end": 19.533968253968254
+    },
+    {
+      "text": "it",
+      "start": 19.533968253968254,
+      "end": 19.613968253968252
+    },
+    {
+      "text": "at",
+      "start": 19.613968253968252,
+      "end": 19.693968253968254
+    },
+    {
+      "text": "enormous",
+      "start": 19.693968253968254,
+      "end": 20.173968253968255
+    },
+    {
+      "text": "voltage",
+      "start": 20.173968253968255,
+      "end": 20.65396825396825
+    },
+    {
+      "text": "and",
+      "start": 20.65396825396825,
+      "end": 20.813968253968252
+    },
+    {
+      "text": "tiny",
+      "start": 20.813968253968252,
+      "end": 21.133968253968252
+    },
+    {
+      "text": "current",
+      "start": 21.133968253968252,
+      "end": 21.533968253968254
+    },
+    {
+      "text": "then",
+      "start": 21.773968253968253,
+      "end": 21.933968253968253
+    },
+    {
+      "text": "step",
+      "start": 21.933968253968253,
+      "end": 22.173968253968255
+    },
+    {
+      "text": "it",
+      "start": 22.173968253968255,
+      "end": 22.33396825396825
+    },
+    {
+      "text": "back",
+      "start": 22.33396825396825,
+      "end": 22.573968253968253
+    },
+    {
+      "text": "down",
+      "start": 22.573968253968253,
+      "end": 22.813968253968252
+    },
+    {
+      "text": "at",
+      "start": 22.813968253968252,
+      "end": 22.973968253968252
+    },
+    {
+      "text": "the",
+      "start": 22.973968253968252,
+      "end": 22.973968253968252
+    },
+    {
+      "text": "far",
+      "start": 22.973968253968252,
+      "end": 23.293968253968252
+    },
+    {
+      "text": "end",
+      "start": 23.293968253968252,
+      "end": 23.613968253968252
+    },
+    {
+      "text": "A",
+      "start": 23.933968253968253,
+      "end": 23.933968253968253
+    },
+    {
+      "text": "transformer",
+      "start": 23.933968253968253,
+      "end": 24.573968253968253
+    },
+    {
+      "text": "does",
+      "start": 24.573968253968253,
+      "end": 24.893968253968254
+    },
+    {
+      "text": "that",
+      "start": 24.893968253968254,
+      "end": 25.133968253968256
+    },
+    {
+      "text": "and",
+      "start": 25.37396825396825,
+      "end": 25.453968253968252
+    },
+    {
+      "text": "a",
+      "start": 25.453968253968252,
+      "end": 25.533968253968254
+    },
+    {
+      "text": "transformer",
+      "start": 25.533968253968254,
+      "end": 26.173968253968255
+    },
+    {
+      "text": "only",
+      "start": 26.173968253968255,
+      "end": 26.493968253968255
+    },
+    {
+      "text": "works",
+      "start": 26.493968253968255,
+      "end": 26.733968253968253
+    },
+    {
+      "text": "on",
+      "start": 26.733968253968253,
+      "end": 26.893968253968254
+    },
+    {
+      "text": "current",
+      "start": 26.893968253968254,
+      "end": 27.293968253968252
+    },
+    {
+      "text": "that",
+      "start": 27.293968253968252,
+      "end": 27.37396825396825
+    },
+    {
+      "text": "keeps",
+      "start": 27.37396825396825,
+      "end": 27.613968253968252
+    },
+    {
+      "text": "changing",
+      "start": 27.613968253968252,
+      "end": 28.093968253968253
+    },
+    {
+      "text": "direction",
+      "start": 28.093968253968253,
+      "end": 28.573968253968253
+    },
+    {
+      "text": "Direct",
+      "start": 28.969319727891154,
+      "end": 29.289319727891154
+    },
+    {
+      "text": "current",
+      "start": 29.289319727891154,
+      "end": 29.689319727891156
+    },
+    {
+      "text": "does",
+      "start": 29.689319727891156,
+      "end": 29.849319727891157
+    },
+    {
+      "text": "not",
+      "start": 29.849319727891157,
+      "end": 30.089319727891155
+    },
+    {
+      "text": "change",
+      "start": 30.089319727891155,
+      "end": 30.409319727891155
+    },
+    {
+      "text": "direction",
+      "start": 30.409319727891155,
+      "end": 30.969319727891154
+    },
+    {
+      "text": "so",
+      "start": 31.129319727891154,
+      "end": 31.289319727891154
+    },
+    {
+      "text": "at",
+      "start": 31.289319727891154,
+      "end": 31.369319727891156
+    },
+    {
+      "text": "the",
+      "start": 31.369319727891156,
+      "end": 31.449319727891154
+    },
+    {
+      "text": "time",
+      "start": 31.449319727891154,
+      "end": 31.769319727891155
+    },
+    {
+      "text": "there",
+      "start": 31.769319727891155,
+      "end": 31.929319727891155
+    },
+    {
+      "text": "was",
+      "start": 31.929319727891155,
+      "end": 32.08931972789116
+    },
+    {
+      "text": "no",
+      "start": 32.08931972789116,
+      "end": 32.249319727891155
+    },
+    {
+      "text": "way",
+      "start": 32.249319727891155,
+      "end": 32.40931972789116
+    },
+    {
+      "text": "to",
+      "start": 32.40931972789116,
+      "end": 32.48931972789116
+    },
+    {
+      "text": "step",
+      "start": 32.48931972789116,
+      "end": 32.80931972789116
+    },
+    {
+      "text": "it",
+      "start": 32.80931972789116,
+      "end": 32.889319727891156
+    },
+    {
+      "text": "up",
+      "start": 32.889319727891156,
+      "end": 33.04931972789116
+    },
+    {
+      "text": "That",
+      "start": 33.44931972789116,
+      "end": 33.609319727891155
+    },
+    {
+      "text": "is",
+      "start": 33.609319727891155,
+      "end": 33.68931972789115
+    },
+    {
+      "text": "the",
+      "start": 33.68931972789115,
+      "end": 33.84931972789116
+    },
+    {
+      "text": "whole",
+      "start": 33.84931972789116,
+      "end": 34.08931972789116
+    },
+    {
+      "text": "reason",
+      "start": 34.08931972789116,
+      "end": 34.40931972789116
+    },
+    {
+      "text": "alternating",
+      "start": 34.40931972789116,
+      "end": 34.969319727891154
+    },
+    {
+      "text": "current",
+      "start": 34.969319727891154,
+      "end": 35.209319727891156
+    },
+    {
+      "text": "won",
+      "start": 35.209319727891156,
+      "end": 35.609319727891155
+    },
+    {
+      "text": "Not",
+      "start": 35.929319727891155,
+      "end": 36.16931972789116
+    },
+    {
+      "text": "safety",
+      "start": 36.16931972789116,
+      "end": 36.72931972789115
+    },
+    {
+      "text": "and",
+      "start": 36.889319727891156,
+      "end": 37.04931972789116
+    },
+    {
+      "text": "not",
+      "start": 37.04931972789116,
+      "end": 37.209319727891156
+    },
+    {
+      "text": "showmanship",
+      "start": 37.209319727891156,
+      "end": 37.84931972789116
+    },
+    {
+      "text": "But",
+      "start": 38.16931972789116,
+      "end": 38.32931972789115
+    },
+    {
+      "text": "here",
+      "start": 38.32931972789115,
+      "end": 38.48931972789116
+    },
+    {
+      "text": "is",
+      "start": 38.48931972789116,
+      "end": 38.649319727891154
+    },
+    {
+      "text": "the",
+      "start": 38.649319727891154,
+      "end": 38.72931972789115
+    },
+    {
+      "text": "twist",
+      "start": 38.72931972789115,
+      "end": 39.12931972789116
+    },
+    {
+      "text": "The",
+      "start": 39.44931972789116,
+      "end": 39.529319727891156
+    },
+    {
+      "text": "biggest",
+      "start": 39.529319727891156,
+      "end": 39.929319727891155
+    },
+    {
+      "text": "transmission",
+      "start": 39.929319727891155,
+      "end": 40.48931972789116
+    },
+    {
+      "text": "projects",
+      "start": 40.48931972789116,
+      "end": 40.889319727891156
+    },
+    {
+      "text": "being",
+      "start": 40.889319727891156,
+      "end": 41.209319727891156
+    },
+    {
+      "text": "built",
+      "start": 41.209319727891156,
+      "end": 41.36931972789115
+    },
+    {
+      "text": "now",
+      "start": 41.36931972789115,
+      "end": 41.76931972789116
+    },
+    {
+      "text": "are",
+      "start": 42.00931972789115,
+      "end": 42.08931972789115
+    },
+    {
+      "text": "direct",
+      "start": 42.08931972789115,
+      "end": 42.48931972789116
+    },
+    {
+      "text": "current",
+      "start": 42.48931972789116,
+      "end": 42.889319727891156
+    },
+    {
+      "text": "Modern",
+      "start": 43.33396825396825,
+      "end": 43.73396825396825
+    },
+    {
+      "text": "electronics",
+      "start": 43.73396825396825,
+      "end": 44.37396825396825
+    },
+    {
+      "text": "can",
+      "start": 44.37396825396825,
+      "end": 44.45396825396825
+    },
+    {
+      "text": "convert",
+      "start": 44.45396825396825,
+      "end": 44.853968253968254
+    },
+    {
+      "text": "it",
+      "start": 44.853968253968254,
+      "end": 44.93396825396825
+    },
+    {
+      "text": "efficiently",
+      "start": 44.93396825396825,
+      "end": 45.57396825396825
+    },
+    {
+      "text": "Edison",
+      "start": 45.893968253968254,
+      "end": 46.29396825396825
+    },
+    {
+      "text": "was",
+      "start": 46.29396825396825,
+      "end": 46.45396825396825
+    },
+    {
+      "text": "not",
+      "start": 46.45396825396825,
+      "end": 46.69396825396825
+    },
+    {
+      "text": "wrong",
+      "start": 46.69396825396825,
+      "end": 47.09396825396825
+    },
+    {
+      "text": "He",
+      "start": 47.25396825396825,
+      "end": 47.41396825396825
+    },
+    {
+      "text": "was",
+      "start": 47.41396825396825,
+      "end": 47.57396825396825
+    },
+    {
+      "text": "early",
+      "start": 47.57396825396825,
+      "end": 48.05396825396825
+    },
+    {
+      "text": "One",
+      "start": 48.29396825396825,
+      "end": 48.45396825396825
+    },
+    {
+      "text": "of",
+      "start": 48.45396825396825,
+      "end": 48.61396825396825
+    },
+    {
+      "text": "these",
+      "start": 48.61396825396825,
+      "end": 48.77396825396825
+    },
+    {
+      "text": "every",
+      "start": 48.77396825396825,
+      "end": 49.09396825396825
+    },
+    {
+      "text": "day",
+      "start": 49.09396825396825,
+      "end": 49.41396825396825
+    },
+    {
+      "text": "Follow",
+      "start": 49.65396825396825,
+      "end": 49.97396825396825
+    },
+    {
+      "text": "so",
+      "start": 49.97396825396825,
+      "end": 50.13396825396825
+    },
+    {
+      "text": "you",
+      "start": 50.13396825396825,
+      "end": 50.29396825396825
+    },
+    {
+      "text": "do",
+      "start": 50.29396825396825,
+      "end": 50.37396825396825
+    },
+    {
+      "text": "not",
+      "start": 50.37396825396825,
+      "end": 50.61396825396825
+    },
+    {
+      "text": "miss",
+      "start": 50.61396825396825,
+      "end": 50.85396825396825
+    },
+    {
+      "text": "tomorrow",
+      "start": 50.85396825396825,
+      "end": 51.41396825396825
+    }
+  ],
+  "text": "Edison publicly electrocuted animals to prove his rival's system was dangerous. He still lost. Both systems delivered power. The argument was about distance. Push current down a wire and some of it is lost as heat, all the way along. The loss depends on current, not voltage. Halve the current and you lose a quarter as much. So send it at enormous voltage and tiny current, then step it back down at the far end. A transformer does that, and a transformer only works on current that keeps changing direction. Direct current does not change direction, so at the time there was no way to step it up. That is the whole reason alternating current won. Not safety, and not showmanship. But here is the twist. The biggest transmission projects being built now are direct current. Modern electronics can convert it efficiently. Edison was not wrong. He was early. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

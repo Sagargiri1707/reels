@@ -1,0 +1,808 @@
+{
+  "audio_duration": 52.244813,
+  "segments": [
+    {
+      "text": "There",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "is",
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "text": "almost",
+      "start": 0.24,
+      "end": 0.64
+    },
+    {
+      "text": "no",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "text": "electricity",
+      "start": 0.96,
+      "end": 1.6
+    },
+    {
+      "text": "stored",
+      "start": 1.6,
+      "end": 1.92
+    },
+    {
+      "text": "in",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "the",
+      "start": 2.08,
+      "end": 2.08
+    },
+    {
+      "text": "grid",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "text": "Generation",
+      "start": 2.96,
+      "end": 3.6
+    },
+    {
+      "text": "matches",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "demand",
+      "start": 4.0,
+      "end": 4.48
+    },
+    {
+      "text": "in",
+      "start": 4.48,
+      "end": 4.64
+    },
+    {
+      "text": "real",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "time",
+      "start": 4.96,
+      "end": 5.44
+    },
+    {
+      "text": "always",
+      "start": 5.6,
+      "end": 6.24
+    },
+    {
+      "text": "You",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "picture",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "text": "a",
+      "start": 7.04,
+      "end": 7.12
+    },
+    {
+      "text": "reservoir",
+      "start": 7.12,
+      "end": 7.6
+    },
+    {
+      "text": "somewhere",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "text": "with",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "text": "power",
+      "start": 8.24,
+      "end": 8.56
+    },
+    {
+      "text": "sitting",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "text": "in",
+      "start": 8.96,
+      "end": 9.04
+    },
+    {
+      "text": "it",
+      "start": 9.04,
+      "end": 9.2
+    },
+    {
+      "text": "There",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "is",
+      "start": 9.52,
+      "end": 9.6
+    },
+    {
+      "text": "not",
+      "start": 9.6,
+      "end": 9.92
+    },
+    {
+      "text": "one",
+      "start": 9.92,
+      "end": 10.32
+    },
+    {
+      "text": "Switch",
+      "start": 10.56,
+      "end": 10.88
+    },
+    {
+      "text": "a",
+      "start": 10.88,
+      "end": 10.88
+    },
+    {
+      "text": "kettle",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "on",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "and",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "text": "something",
+      "start": 11.84,
+      "end": 12.32
+    },
+    {
+      "text": "somewhere",
+      "start": 12.32,
+      "end": 12.96
+    },
+    {
+      "text": "burns",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "a",
+      "start": 13.44,
+      "end": 13.52
+    },
+    {
+      "text": "little",
+      "start": 13.52,
+      "end": 13.76
+    },
+    {
+      "text": "more",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "fuel",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "text": "within",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "seconds",
+      "start": 14.72,
+      "end": 15.28
+    },
+    {
+      "text": "And",
+      "start": 15.531609977324264,
+      "end": 15.691609977324264
+    },
+    {
+      "text": "there",
+      "start": 15.691609977324264,
+      "end": 15.771609977324264
+    },
+    {
+      "text": "is",
+      "start": 15.771609977324264,
+      "end": 15.931609977324264
+    },
+    {
+      "text": "one",
+      "start": 15.931609977324264,
+      "end": 16.171609977324263
+    },
+    {
+      "text": "dial",
+      "start": 16.171609977324263,
+      "end": 16.571609977324265
+    },
+    {
+      "text": "that",
+      "start": 16.571609977324265,
+      "end": 16.651609977324263
+    },
+    {
+      "text": "tells",
+      "start": 16.651609977324263,
+      "end": 16.971609977324263
+    },
+    {
+      "text": "you",
+      "start": 16.971609977324263,
+      "end": 17.051609977324265
+    },
+    {
+      "text": "whether",
+      "start": 17.051609977324265,
+      "end": 17.291609977324264
+    },
+    {
+      "text": "the",
+      "start": 17.291609977324264,
+      "end": 17.371609977324262
+    },
+    {
+      "text": "match",
+      "start": 17.371609977324262,
+      "end": 17.691609977324262
+    },
+    {
+      "text": "is",
+      "start": 17.691609977324262,
+      "end": 17.771609977324264
+    },
+    {
+      "text": "holding",
+      "start": 17.771609977324264,
+      "end": 18.251609977324264
+    },
+    {
+      "text": "Frequency",
+      "start": 18.571609977324265,
+      "end": 19.211609977324265
+    },
+    {
+      "text": "Too",
+      "start": 19.531609977324266,
+      "end": 19.611609977324264
+    },
+    {
+      "text": "much",
+      "start": 19.611609977324264,
+      "end": 19.931609977324264
+    },
+    {
+      "text": "demand",
+      "start": 19.931609977324264,
+      "end": 20.411609977324265
+    },
+    {
+      "text": "and",
+      "start": 20.571609977324265,
+      "end": 20.651609977324263
+    },
+    {
+      "text": "the",
+      "start": 20.651609977324263,
+      "end": 20.731609977324265
+    },
+    {
+      "text": "generators",
+      "start": 20.731609977324265,
+      "end": 21.291609977324264
+    },
+    {
+      "text": "are",
+      "start": 21.291609977324264,
+      "end": 21.371609977324262
+    },
+    {
+      "text": "dragged",
+      "start": 21.371609977324262,
+      "end": 21.771609977324264
+    },
+    {
+      "text": "slower",
+      "start": 21.771609977324264,
+      "end": 22.331609977324263
+    },
+    {
+      "text": "Too",
+      "start": 22.571609977324265,
+      "end": 22.731609977324265
+    },
+    {
+      "text": "little",
+      "start": 22.731609977324265,
+      "end": 23.131609977324263
+    },
+    {
+      "text": "and",
+      "start": 23.211609977324265,
+      "end": 23.371609977324262
+    },
+    {
+      "text": "they",
+      "start": 23.371609977324262,
+      "end": 23.451609977324264
+    },
+    {
+      "text": "run",
+      "start": 23.451609977324264,
+      "end": 23.691609977324262
+    },
+    {
+      "text": "fast",
+      "start": 23.691609977324262,
+      "end": 24.251609977324264
+    },
+    {
+      "text": "Which",
+      "start": 24.491609977324263,
+      "end": 24.651609977324263
+    },
+    {
+      "text": "is",
+      "start": 24.651609977324263,
+      "end": 24.73160997732426
+    },
+    {
+      "text": "why",
+      "start": 24.73160997732426,
+      "end": 24.971609977324263
+    },
+    {
+      "text": "operators",
+      "start": 24.971609977324263,
+      "end": 25.531609977324266
+    },
+    {
+      "text": "forecast",
+      "start": 25.531609977324266,
+      "end": 26.091609977324264
+    },
+    {
+      "text": "things",
+      "start": 26.091609977324264,
+      "end": 26.331609977324263
+    },
+    {
+      "text": "you",
+      "start": 26.331609977324263,
+      "end": 26.491609977324263
+    },
+    {
+      "text": "would",
+      "start": 26.491609977324263,
+      "end": 26.571609977324265
+    },
+    {
+      "text": "never",
+      "start": 26.571609977324265,
+      "end": 26.891609977324265
+    },
+    {
+      "text": "think",
+      "start": 26.891609977324265,
+      "end": 27.131609977324263
+    },
+    {
+      "text": "were",
+      "start": 27.131609977324263,
+      "end": 27.291609977324264
+    },
+    {
+      "text": "their",
+      "start": 27.291609977324264,
+      "end": 27.371609977324262
+    },
+    {
+      "text": "problem",
+      "start": 27.371609977324262,
+      "end": 27.931609977324264
+    },
+    {
+      "text": "The",
+      "start": 28.251609977324264,
+      "end": 28.491609977324263
+    },
+    {
+      "text": "end",
+      "start": 28.491609977324263,
+      "end": 28.651609977324263
+    },
+    {
+      "text": "of",
+      "start": 28.651609977324263,
+      "end": 28.73160997732426
+    },
+    {
+      "text": "a",
+      "start": 28.73160997732426,
+      "end": 28.811609977324263
+    },
+    {
+      "text": "popular",
+      "start": 28.811609977324263,
+      "end": 29.211609977324265
+    },
+    {
+      "text": "broadcast",
+      "start": 29.211609977324265,
+      "end": 29.851609977324266
+    },
+    {
+      "text": "is",
+      "start": 29.851609977324266,
+      "end": 30.011609977324262
+    },
+    {
+      "text": "a",
+      "start": 30.011609977324262,
+      "end": 30.091609977324264
+    },
+    {
+      "text": "real",
+      "start": 30.091609977324264,
+      "end": 30.331609977324263
+    },
+    {
+      "text": "event",
+      "start": 30.331609977324263,
+      "end": 30.73160997732426
+    },
+    {
+      "text": "Everyone",
+      "start": 31.142902494331064,
+      "end": 31.542902494331067
+    },
+    {
+      "text": "gets",
+      "start": 31.542902494331067,
+      "end": 31.782902494331065
+    },
+    {
+      "text": "up",
+      "start": 31.782902494331065,
+      "end": 32.02290249433106
+    },
+    {
+      "text": "and",
+      "start": 32.02290249433106,
+      "end": 32.10290249433107
+    },
+    {
+      "text": "switches",
+      "start": 32.10290249433107,
+      "end": 32.50290249433107
+    },
+    {
+      "text": "on",
+      "start": 32.50290249433107,
+      "end": 32.74290249433107
+    },
+    {
+      "text": "at",
+      "start": 32.74290249433107,
+      "end": 32.82290249433107
+    },
+    {
+      "text": "once",
+      "start": 32.82290249433107,
+      "end": 33.222902494331066
+    },
+    {
+      "text": "Operators",
+      "start": 33.54290249433107,
+      "end": 34.02290249433106
+    },
+    {
+      "text": "spin",
+      "start": 34.02290249433106,
+      "end": 34.342902494331064
+    },
+    {
+      "text": "up",
+      "start": 34.342902494331064,
+      "end": 34.42290249433107
+    },
+    {
+      "text": "reserve",
+      "start": 34.42290249433107,
+      "end": 34.82290249433107
+    },
+    {
+      "text": "minutes",
+      "start": 34.82290249433107,
+      "end": 35.14290249433107
+    },
+    {
+      "text": "before",
+      "start": 35.14290249433107,
+      "end": 35.622902494331065
+    },
+    {
+      "text": "because",
+      "start": 35.86290249433107,
+      "end": 36.10290249433107
+    },
+    {
+      "text": "there",
+      "start": 36.10290249433107,
+      "end": 36.262902494331065
+    },
+    {
+      "text": "is",
+      "start": 36.262902494331065,
+      "end": 36.342902494331064
+    },
+    {
+      "text": "nothing",
+      "start": 36.342902494331064,
+      "end": 36.74290249433106
+    },
+    {
+      "text": "in",
+      "start": 36.74290249433106,
+      "end": 36.82290249433107
+    },
+    {
+      "text": "reserve",
+      "start": 36.82290249433107,
+      "end": 37.222902494331066
+    },
+    {
+      "text": "otherwise",
+      "start": 37.222902494331066,
+      "end": 37.86290249433107
+    },
+    {
+      "text": "And",
+      "start": 38.10290249433107,
+      "end": 38.262902494331065
+    },
+    {
+      "text": "when",
+      "start": 38.262902494331065,
+      "end": 38.42290249433107
+    },
+    {
+      "text": "the",
+      "start": 38.42290249433107,
+      "end": 38.42290249433107
+    },
+    {
+      "text": "balance",
+      "start": 38.42290249433107,
+      "end": 38.82290249433107
+    },
+    {
+      "text": "breaks",
+      "start": 38.82290249433107,
+      "end": 39.302902494331065
+    },
+    {
+      "text": "equipment",
+      "start": 39.46290249433107,
+      "end": 40.02290249433106
+    },
+    {
+      "text": "disconnects",
+      "start": 40.02290249433106,
+      "end": 40.662902494331064
+    },
+    {
+      "text": "to",
+      "start": 40.662902494331064,
+      "end": 40.662902494331064
+    },
+    {
+      "text": "protect",
+      "start": 40.662902494331064,
+      "end": 41.06290249433107
+    },
+    {
+      "text": "itself",
+      "start": 41.06290249433107,
+      "end": 41.54290249433107
+    },
+    {
+      "text": "which",
+      "start": 41.78290249433107,
+      "end": 41.942902494331065
+    },
+    {
+      "text": "unbalances",
+      "start": 41.942902494331065,
+      "end": 42.662902494331064
+    },
+    {
+      "text": "the",
+      "start": 42.662902494331064,
+      "end": 42.74290249433106
+    },
+    {
+      "text": "rest",
+      "start": 42.74290249433106,
+      "end": 43.14290249433107
+    },
+    {
+      "text": "That",
+      "start": 43.38290249433106,
+      "end": 43.622902494331065
+    },
+    {
+      "text": "is",
+      "start": 43.622902494331065,
+      "end": 43.70290249433107
+    },
+    {
+      "text": "a",
+      "start": 43.70290249433107,
+      "end": 43.78290249433107
+    },
+    {
+      "text": "blackout",
+      "start": 43.78290249433107,
+      "end": 44.342902494331064
+    },
+    {
+      "text": "Not",
+      "start": 44.50290249433107,
+      "end": 44.74290249433106
+    },
+    {
+      "text": "a",
+      "start": 44.74290249433106,
+      "end": 44.82290249433107
+    },
+    {
+      "text": "shortage",
+      "start": 44.82290249433107,
+      "end": 45.222902494331066
+    },
+    {
+      "text": "of",
+      "start": 45.222902494331066,
+      "end": 45.302902494331065
+    },
+    {
+      "text": "power",
+      "start": 45.302902494331065,
+      "end": 45.70290249433107
+    },
+    {
+      "text": "A",
+      "start": 46.120725623582764,
+      "end": 46.20072562358276
+    },
+    {
+      "text": "failure",
+      "start": 46.20072562358276,
+      "end": 46.68072562358276
+    },
+    {
+      "text": "to",
+      "start": 46.760725623582765,
+      "end": 46.760725623582765
+    },
+    {
+      "text": "match",
+      "start": 46.760725623582765,
+      "end": 47.16072562358276
+    },
+    {
+      "text": "it",
+      "start": 47.16072562358276,
+      "end": 47.32072562358276
+    },
+    {
+      "text": "second",
+      "start": 47.32072562358276,
+      "end": 47.800725623582764
+    },
+    {
+      "text": "by",
+      "start": 47.800725623582764,
+      "end": 47.96072562358276
+    },
+    {
+      "text": "second",
+      "start": 47.96072562358276,
+      "end": 48.440725623582765
+    },
+    {
+      "text": "One",
+      "start": 48.60072562358276,
+      "end": 48.84072562358276
+    },
+    {
+      "text": "of",
+      "start": 48.84072562358276,
+      "end": 48.92072562358276
+    },
+    {
+      "text": "these",
+      "start": 48.92072562358276,
+      "end": 49.24072562358276
+    },
+    {
+      "text": "every",
+      "start": 49.24072562358276,
+      "end": 49.56072562358276
+    },
+    {
+      "text": "day",
+      "start": 49.56072562358276,
+      "end": 49.88072562358276
+    },
+    {
+      "text": "Follow",
+      "start": 50.20072562358276,
+      "end": 50.52072562358276
+    },
+    {
+      "text": "so",
+      "start": 50.52072562358276,
+      "end": 50.68072562358276
+    },
+    {
+      "text": "you",
+      "start": 50.68072562358276,
+      "end": 50.84072562358276
+    },
+    {
+      "text": "do",
+      "start": 50.84072562358276,
+      "end": 51.00072562358276
+    },
+    {
+      "text": "not",
+      "start": 51.00072562358276,
+      "end": 51.24072562358276
+    },
+    {
+      "text": "miss",
+      "start": 51.24072562358276,
+      "end": 51.480725623582764
+    },
+    {
+      "text": "tomorrow",
+      "start": 51.480725623582764,
+      "end": 52.04072562358276
+    }
+  ],
+  "text": "There is almost no electricity stored in the grid. Generation matches demand in real time, always. You picture a reservoir somewhere with power sitting in it. There is not one. Switch a kettle on and something, somewhere, burns a little more fuel within seconds. And there is one dial that tells you whether the match is holding. Frequency. Too much demand and the generators are dragged slower. Too little and they run fast. Which is why operators forecast things you would never think were their problem. The end of a popular broadcast is a real event. Everyone gets up and switches on at once. Operators spin up reserve minutes before, because there is nothing in reserve otherwise. And when the balance breaks, equipment disconnects to protect itself, which unbalances the rest. That is a blackout. Not a shortage of power. A failure to match it, second by second. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

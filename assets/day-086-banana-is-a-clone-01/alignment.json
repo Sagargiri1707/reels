@@ -1,0 +1,783 @@
+{
+  "audio_duration": 48.953375,
+  "segments": [
+    {
+      "text": "Commercial",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "bananas",
+      "start": 0.4,
+      "end": 0.8
+    },
+    {
+      "text": "cannot",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "reproduce",
+      "start": 1.2,
+      "end": 1.84
+    },
+    {
+      "text": "Every",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "text": "single",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "text": "one",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "is",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "text": "a",
+      "start": 3.2,
+      "end": 3.28
+    },
+    {
+      "text": "cutting",
+      "start": 3.28,
+      "end": 3.6
+    },
+    {
+      "text": "from",
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "text": "the",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "text": "same",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "text": "plant",
+      "start": 4.16,
+      "end": 4.56
+    },
+    {
+      "text": "Look",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "text": "at",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "a",
+      "start": 5.2,
+      "end": 5.28
+    },
+    {
+      "text": "slice",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "There",
+      "start": 6.0,
+      "end": 6.16
+    },
+    {
+      "text": "are",
+      "start": 6.16,
+      "end": 6.24
+    },
+    {
+      "text": "no",
+      "start": 6.24,
+      "end": 6.48
+    },
+    {
+      "text": "seeds",
+      "start": 6.48,
+      "end": 6.8
+    },
+    {
+      "text": "in",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "there",
+      "start": 6.96,
+      "end": 7.2
+    },
+    {
+      "text": "only",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "text": "tiny",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "black",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "specks",
+      "start": 8.4,
+      "end": 8.96
+    },
+    {
+      "text": "A",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "text": "plant",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "with",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "no",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "text": "seeds",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "cannot",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "text": "breed",
+      "start": 10.72,
+      "end": 11.12
+    },
+    {
+      "text": "The",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "only",
+      "start": 11.52,
+      "end": 11.76
+    },
+    {
+      "text": "way",
+      "start": 11.76,
+      "end": 11.92
+    },
+    {
+      "text": "to",
+      "start": 11.92,
+      "end": 12.0
+    },
+    {
+      "text": "make",
+      "start": 12.0,
+      "end": 12.24
+    },
+    {
+      "text": "more",
+      "start": 12.24,
+      "end": 12.56
+    },
+    {
+      "text": "is",
+      "start": 12.64,
+      "end": 12.88
+    },
+    {
+      "text": "to",
+      "start": 12.88,
+      "end": 12.88
+    },
+    {
+      "text": "cut",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "text": "a",
+      "start": 13.12,
+      "end": 13.12
+    },
+    {
+      "text": "piece",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "off",
+      "start": 13.44,
+      "end": 13.68
+    },
+    {
+      "text": "Which",
+      "start": 14.205532879818595,
+      "end": 14.365532879818595
+    },
+    {
+      "text": "means",
+      "start": 14.365532879818595,
+      "end": 14.605532879818595
+    },
+    {
+      "text": "every",
+      "start": 14.685532879818595,
+      "end": 14.925532879818594
+    },
+    {
+      "text": "Cavendish",
+      "start": 14.925532879818594,
+      "end": 15.405532879818594
+    },
+    {
+      "text": "banana",
+      "start": 15.405532879818594,
+      "end": 15.805532879818594
+    },
+    {
+      "text": "on",
+      "start": 15.805532879818594,
+      "end": 16.045532879818595
+    },
+    {
+      "text": "Earth",
+      "start": 16.045532879818595,
+      "end": 16.365532879818595
+    },
+    {
+      "text": "is",
+      "start": 16.445532879818593,
+      "end": 16.605532879818593
+    },
+    {
+      "text": "genetically",
+      "start": 16.605532879818593,
+      "end": 17.165532879818596
+    },
+    {
+      "text": "the",
+      "start": 17.165532879818596,
+      "end": 17.245532879818594
+    },
+    {
+      "text": "same",
+      "start": 17.245532879818594,
+      "end": 17.565532879818594
+    },
+    {
+      "text": "individual",
+      "start": 17.565532879818594,
+      "end": 18.205532879818595
+    },
+    {
+      "text": "And",
+      "start": 18.605532879818593,
+      "end": 18.685532879818595
+    },
+    {
+      "text": "a",
+      "start": 18.685532879818595,
+      "end": 18.765532879818593
+    },
+    {
+      "text": "population",
+      "start": 18.765532879818593,
+      "end": 19.405532879818594
+    },
+    {
+      "text": "with",
+      "start": 19.405532879818594,
+      "end": 19.565532879818594
+    },
+    {
+      "text": "no",
+      "start": 19.565532879818594,
+      "end": 19.805532879818593
+    },
+    {
+      "text": "variation",
+      "start": 19.805532879818593,
+      "end": 20.445532879818593
+    },
+    {
+      "text": "has",
+      "start": 20.525532879818595,
+      "end": 20.685532879818595
+    },
+    {
+      "text": "no",
+      "start": 20.685532879818595,
+      "end": 20.925532879818594
+    },
+    {
+      "text": "survivors",
+      "start": 20.925532879818594,
+      "end": 21.565532879818594
+    },
+    {
+      "text": "The",
+      "start": 22.045532879818595,
+      "end": 22.125532879818593
+    },
+    {
+      "text": "banana",
+      "start": 22.125532879818593,
+      "end": 22.445532879818593
+    },
+    {
+      "text": "before",
+      "start": 22.445532879818593,
+      "end": 22.765532879818593
+    },
+    {
+      "text": "this",
+      "start": 22.765532879818593,
+      "end": 23.005532879818595
+    },
+    {
+      "text": "one",
+      "start": 23.005532879818595,
+      "end": 23.245532879818594
+    },
+    {
+      "text": "was",
+      "start": 23.325532879818596,
+      "end": 23.485532879818592
+    },
+    {
+      "text": "called",
+      "start": 23.485532879818592,
+      "end": 23.805532879818593
+    },
+    {
+      "text": "Gros",
+      "start": 23.805532879818593,
+      "end": 23.965532879818596
+    },
+    {
+      "text": "Michel",
+      "start": 23.965532879818596,
+      "end": 24.605532879818597
+    },
+    {
+      "text": "People",
+      "start": 25.005532879818595,
+      "end": 25.325532879818596
+    },
+    {
+      "text": "who",
+      "start": 25.325532879818596,
+      "end": 25.405532879818594
+    },
+    {
+      "text": "ate",
+      "start": 25.405532879818594,
+      "end": 25.565532879818594
+    },
+    {
+      "text": "it",
+      "start": 25.565532879818594,
+      "end": 25.725532879818594
+    },
+    {
+      "text": "say",
+      "start": 25.725532879818594,
+      "end": 25.885532879818594
+    },
+    {
+      "text": "it",
+      "start": 25.885532879818594,
+      "end": 25.965532879818596
+    },
+    {
+      "text": "was",
+      "start": 25.965532879818596,
+      "end": 26.125532879818593
+    },
+    {
+      "text": "better",
+      "start": 26.125532879818593,
+      "end": 26.445532879818593
+    },
+    {
+      "text": "A",
+      "start": 26.881360544217685,
+      "end": 26.961360544217683
+    },
+    {
+      "text": "soil",
+      "start": 26.961360544217683,
+      "end": 27.361360544217685
+    },
+    {
+      "text": "fungus",
+      "start": 27.361360544217685,
+      "end": 27.761360544217684
+    },
+    {
+      "text": "called",
+      "start": 27.761360544217684,
+      "end": 28.001360544217686
+    },
+    {
+      "text": "Panama",
+      "start": 28.001360544217686,
+      "end": 28.401360544217685
+    },
+    {
+      "text": "disease",
+      "start": 28.401360544217685,
+      "end": 28.881360544217685
+    },
+    {
+      "text": "found",
+      "start": 28.961360544217683,
+      "end": 29.201360544217685
+    },
+    {
+      "text": "a",
+      "start": 29.201360544217685,
+      "end": 29.281360544217684
+    },
+    {
+      "text": "way",
+      "start": 29.281360544217684,
+      "end": 29.441360544217684
+    },
+    {
+      "text": "through",
+      "start": 29.441360544217684,
+      "end": 29.681360544217686
+    },
+    {
+      "text": "it",
+      "start": 29.681360544217686,
+      "end": 29.761360544217684
+    },
+    {
+      "text": "in",
+      "start": 29.761360544217684,
+      "end": 29.841360544217686
+    },
+    {
+      "text": "the",
+      "start": 29.841360544217686,
+      "end": 29.921360544217684
+    },
+    {
+      "text": "nineteen",
+      "start": 29.921360544217684,
+      "end": 30.321360544217683
+    },
+    {
+      "text": "fifties",
+      "start": 30.321360544217683,
+      "end": 30.881360544217685
+    },
+    {
+      "text": "Because",
+      "start": 31.201360544217685,
+      "end": 31.441360544217684
+    },
+    {
+      "text": "they",
+      "start": 31.441360544217684,
+      "end": 31.521360544217686
+    },
+    {
+      "text": "were",
+      "start": 31.521360544217686,
+      "end": 31.681360544217686
+    },
+    {
+      "text": "identical",
+      "start": 31.681360544217686,
+      "end": 32.32136054421768
+    },
+    {
+      "text": "it",
+      "start": 32.561360544217685,
+      "end": 32.72136054421769
+    },
+    {
+      "text": "never",
+      "start": 32.72136054421769,
+      "end": 32.96136054421768
+    },
+    {
+      "text": "needed",
+      "start": 32.96136054421768,
+      "end": 33.281360544217684
+    },
+    {
+      "text": "a",
+      "start": 33.281360544217684,
+      "end": 33.281360544217684
+    },
+    {
+      "text": "second",
+      "start": 33.281360544217684,
+      "end": 33.68136054421768
+    },
+    {
+      "text": "way",
+      "start": 33.68136054421768,
+      "end": 33.921360544217684
+    },
+    {
+      "text": "in",
+      "start": 33.921360544217684,
+      "end": 34.161360544217686
+    },
+    {
+      "text": "It",
+      "start": 34.40136054421768,
+      "end": 34.561360544217685
+    },
+    {
+      "text": "took",
+      "start": 34.561360544217685,
+      "end": 34.72136054421769
+    },
+    {
+      "text": "the",
+      "start": 34.72136054421769,
+      "end": 34.80136054421769
+    },
+    {
+      "text": "whole",
+      "start": 34.80136054421769,
+      "end": 35.04136054421768
+    },
+    {
+      "text": "crop",
+      "start": 35.04136054421768,
+      "end": 35.44136054421769
+    },
+    {
+      "text": "Cavendish",
+      "start": 35.841360544217686,
+      "end": 36.32136054421768
+    },
+    {
+      "text": "replaced",
+      "start": 36.32136054421768,
+      "end": 36.80136054421769
+    },
+    {
+      "text": "it",
+      "start": 36.80136054421769,
+      "end": 36.96136054421768
+    },
+    {
+      "text": "because",
+      "start": 36.96136054421768,
+      "end": 37.281360544217684
+    },
+    {
+      "text": "it",
+      "start": 37.281360544217684,
+      "end": 37.281360544217684
+    },
+    {
+      "text": "resisted",
+      "start": 37.281360544217684,
+      "end": 37.841360544217686
+    },
+    {
+      "text": "that",
+      "start": 37.841360544217686,
+      "end": 38.00136054421768
+    },
+    {
+      "text": "strain",
+      "start": 38.00136054421768,
+      "end": 38.40136054421768
+    },
+    {
+      "text": "A",
+      "start": 38.80136054421769,
+      "end": 38.881360544217685
+    },
+    {
+      "text": "new",
+      "start": 38.881360544217685,
+      "end": 39.12136054421769
+    },
+    {
+      "text": "strain",
+      "start": 39.12136054421769,
+      "end": 39.521360544217686
+    },
+    {
+      "text": "is",
+      "start": 39.521360544217686,
+      "end": 39.601360544217684
+    },
+    {
+      "text": "moving",
+      "start": 39.601360544217684,
+      "end": 39.921360544217684
+    },
+    {
+      "text": "through",
+      "start": 39.921360544217684,
+      "end": 40.161360544217686
+    },
+    {
+      "text": "it",
+      "start": 40.161360544217686,
+      "end": 40.241360544217684
+    },
+    {
+      "text": "now",
+      "start": 40.241360544217684,
+      "end": 40.64136054421768
+    },
+    {
+      "text": "Same",
+      "start": 41.09616780045351,
+      "end": 41.33616780045351
+    },
+    {
+      "text": "plant",
+      "start": 41.33616780045351,
+      "end": 41.73616780045351
+    },
+    {
+      "text": "same",
+      "start": 41.89616780045351,
+      "end": 42.21616780045351
+    },
+    {
+      "text": "trick",
+      "start": 42.21616780045351,
+      "end": 42.61616780045351
+    },
+    {
+      "text": "same",
+      "start": 42.77616780045351,
+      "end": 43.01616780045351
+    },
+    {
+      "text": "problem",
+      "start": 43.01616780045351,
+      "end": 43.496167800453506
+    },
+    {
+      "text": "We",
+      "start": 43.73616780045351,
+      "end": 43.89616780045351
+    },
+    {
+      "text": "only",
+      "start": 43.89616780045351,
+      "end": 44.21616780045351
+    },
+    {
+      "text": "changed",
+      "start": 44.21616780045351,
+      "end": 44.61616780045351
+    },
+    {
+      "text": "which",
+      "start": 44.61616780045351,
+      "end": 44.77616780045351
+    },
+    {
+      "text": "clone",
+      "start": 44.77616780045351,
+      "end": 45.25616780045351
+    },
+    {
+      "text": "One",
+      "start": 45.496167800453506,
+      "end": 45.65616780045351
+    },
+    {
+      "text": "of",
+      "start": 45.65616780045351,
+      "end": 45.816167800453506
+    },
+    {
+      "text": "these",
+      "start": 45.816167800453506,
+      "end": 46.05616780045351
+    },
+    {
+      "text": "every",
+      "start": 46.05616780045351,
+      "end": 46.37616780045351
+    },
+    {
+      "text": "day",
+      "start": 46.37616780045351,
+      "end": 46.69616780045351
+    },
+    {
+      "text": "Follow",
+      "start": 47.01616780045351,
+      "end": 47.33616780045351
+    },
+    {
+      "text": "so",
+      "start": 47.33616780045351,
+      "end": 47.41616780045351
+    },
+    {
+      "text": "you",
+      "start": 47.41616780045351,
+      "end": 47.57616780045351
+    },
+    {
+      "text": "do",
+      "start": 47.57616780045351,
+      "end": 47.73616780045351
+    },
+    {
+      "text": "not",
+      "start": 47.73616780045351,
+      "end": 47.97616780045351
+    },
+    {
+      "text": "miss",
+      "start": 47.97616780045351,
+      "end": 48.216167800453505
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.216167800453505,
+      "end": 48.77616780045351
+    }
+  ],
+  "text": "Commercial bananas cannot reproduce. Every single one is a cutting from the same plant. Look at a slice. There are no seeds in there, only tiny black specks. A plant with no seeds cannot breed. The only way to make more is to cut a piece off. Which means every Cavendish banana on Earth is genetically the same individual. And a population with no variation has no survivors. The banana before this one was called Gros Michel. People who ate it say it was better. A soil fungus called Panama disease found a way through it in the nineteen fifties. Because they were identical, it never needed a second way in. It took the whole crop. Cavendish replaced it because it resisted that strain. A new strain is moving through it now. Same plant, same trick, same problem. We only changed which clone. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

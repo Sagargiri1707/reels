@@ -1,0 +1,109 @@
+{
+  "topic": "Farming built cities, and made people shorter",
+  "lesson": "Agriculture fed far more people per acre while making the average individual shorter and sicker, so it was a great deal for the species and a bad one for almost everyone in it.",
+  "slug": "day-087-farming-made-us-shorter-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Skeletons from the first farming villages are shorter and sicker than the hunter gatherers before them.",
+      "scene": "two measuring sticks of different heights, a small black cartoon figure standing against the shorter one",
+      "image_text": "SHORTER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two measuring sticks of different heights, a small black cartoon figure standing against the shorter one. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SHORTER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Farming is supposed to be the upgrade. More food, easier life.",
+      "scene": "a wooden plough handle, a small black cartoon figure hauling it forward with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden plough handle, a small black cartoon figure hauling it forward with their whole body. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It did deliver more food. That part is not in question.",
+      "scene": "a heaped basket of grain, a small black cartoon figure clambering up the heap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heaped basket of grain, a small black cartoon figure clambering up the heap. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "But more food out of fewer plants. Three crops instead of a hundred wild foods.",
+      "scene": "three identical bowls beside a scatter of many small ones, a small black cartoon figure shoving the three forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three identical bowls beside a scatter of many small ones, a small black cartoon figure shoving the three forward. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "A narrower diet means missing nutrients, and it shows up in the bones and the teeth.",
+      "scene": "a comb with several teeth broken out, a small black cartoon figure pulling another tooth free",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a comb with several teeth broken out, a small black cartoon figure pulling another tooth free. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And living packed together with livestock invented the infectious diseases we still live with.",
+      "scene": "a crowded pen of animals against a narrow doorway, a small black cartoon figure squeezing between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crowded pen of animals against a narrow doorway, a small black cartoon figure squeezing between them. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "So why did anybody keep doing it?",
+      "scene": "a heavy ledger propped open, a small black cartoon figure turning the page with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy ledger propped open, a small black cartoon figure turning the page with both arms. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Because a field feeds more people per acre than a forest does, even done badly.",
+      "scene": "a dense tray of seedlings beside a wide bare board, a small black cartoon figure carrying the tray",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a dense tray of seedlings beside a wide bare board, a small black cartoon figure carrying the tray. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Populations grew. Villages became cities. Specialists appeared. Writing followed.",
+      "scene": "a rising stack of clay bricks, a small black cartoon figure setting the top one in place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rising stack of clay bricks, a small black cartoon figure setting the top one in place. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Farming was a great deal for the species and a bad deal for almost everyone in it.",
+      "scene": "a balance with many small pebbles against one large pebble, a small black cartoon figure standing on the single one",
+      "image_text": "BAD DEAL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance with many small pebbles against one large pebble, a small black cartoon figure standing on the single one. the scene belongs to a trade where the total goes up and each share gets worse, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BAD DEAL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Skeletons from the first farming societies are shorter and show more disease than the hunter-gatherers before them. Narrower diets, denser living alongside livestock, harder labour and much worse teeth. Surplus also enabled permanent settlement, specialisation, hierarchy and writing. Agriculture was a great deal for the species and a bad deal for the average individual, for thousands of years. That tension is the whole story.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #agriculture #history #archaeology #civilisation #science",
+    "thumbnail_beat": "01"
+  }
+}

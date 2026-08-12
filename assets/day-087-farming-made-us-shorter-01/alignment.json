@@ -1,0 +1,723 @@
+{
+  "audio_duration": 46.36725,
+  "segments": [
+    {
+      "text": "Skeletons",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "from",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "the",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "text": "first",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "farming",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "text": "villages",
+      "start": 1.52,
+      "end": 1.92
+    },
+    {
+      "text": "are",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "shorter",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "text": "and",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "sicker",
+      "start": 2.72,
+      "end": 3.12
+    },
+    {
+      "text": "than",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "text": "the",
+      "start": 3.28,
+      "end": 3.36
+    },
+    {
+      "text": "hunter",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "text": "gatherers",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "text": "before",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "text": "them",
+      "start": 4.48,
+      "end": 4.72
+    },
+    {
+      "text": "Farming",
+      "start": 5.28,
+      "end": 5.6
+    },
+    {
+      "text": "is",
+      "start": 5.6,
+      "end": 5.68
+    },
+    {
+      "text": "supposed",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "text": "to",
+      "start": 6.0,
+      "end": 6.08
+    },
+    {
+      "text": "be",
+      "start": 6.08,
+      "end": 6.16
+    },
+    {
+      "text": "the",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "upgrade",
+      "start": 6.32,
+      "end": 6.8
+    },
+    {
+      "text": "More",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "food",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "text": "easier",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "text": "life",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "text": "It",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "did",
+      "start": 9.12,
+      "end": 9.36
+    },
+    {
+      "text": "deliver",
+      "start": 9.36,
+      "end": 9.68
+    },
+    {
+      "text": "more",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "text": "food",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "That",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "text": "part",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "is",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "not",
+      "start": 11.2,
+      "end": 11.36
+    },
+    {
+      "text": "in",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "question",
+      "start": 11.44,
+      "end": 12.0
+    },
+    {
+      "text": "But",
+      "start": 12.24,
+      "end": 12.32
+    },
+    {
+      "text": "more",
+      "start": 12.32,
+      "end": 12.64
+    },
+    {
+      "text": "food",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "text": "out",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "of",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "fewer",
+      "start": 13.28,
+      "end": 13.52
+    },
+    {
+      "text": "plants",
+      "start": 13.52,
+      "end": 14.08
+    },
+    {
+      "text": "Three",
+      "start": 14.45061224489796,
+      "end": 14.69061224489796
+    },
+    {
+      "text": "crops",
+      "start": 14.69061224489796,
+      "end": 15.09061224489796
+    },
+    {
+      "text": "instead",
+      "start": 15.09061224489796,
+      "end": 15.490612244897958
+    },
+    {
+      "text": "of",
+      "start": 15.490612244897958,
+      "end": 15.490612244897958
+    },
+    {
+      "text": "a",
+      "start": 15.490612244897958,
+      "end": 15.570612244897958
+    },
+    {
+      "text": "hundred",
+      "start": 15.570612244897958,
+      "end": 15.970612244897959
+    },
+    {
+      "text": "wild",
+      "start": 15.970612244897959,
+      "end": 16.290612244897957
+    },
+    {
+      "text": "foods",
+      "start": 16.290612244897957,
+      "end": 16.770612244897958
+    },
+    {
+      "text": "A",
+      "start": 17.090612244897958,
+      "end": 17.17061224489796
+    },
+    {
+      "text": "narrower",
+      "start": 17.17061224489796,
+      "end": 17.65061224489796
+    },
+    {
+      "text": "diet",
+      "start": 17.65061224489796,
+      "end": 18.05061224489796
+    },
+    {
+      "text": "means",
+      "start": 18.05061224489796,
+      "end": 18.37061224489796
+    },
+    {
+      "text": "missing",
+      "start": 18.37061224489796,
+      "end": 18.69061224489796
+    },
+    {
+      "text": "nutrients",
+      "start": 18.69061224489796,
+      "end": 19.33061224489796
+    },
+    {
+      "text": "and",
+      "start": 19.57061224489796,
+      "end": 19.65061224489796
+    },
+    {
+      "text": "it",
+      "start": 19.65061224489796,
+      "end": 19.73061224489796
+    },
+    {
+      "text": "shows",
+      "start": 19.73061224489796,
+      "end": 20.05061224489796
+    },
+    {
+      "text": "up",
+      "start": 20.05061224489796,
+      "end": 20.21061224489796
+    },
+    {
+      "text": "in",
+      "start": 20.21061224489796,
+      "end": 20.290612244897957
+    },
+    {
+      "text": "the",
+      "start": 20.290612244897957,
+      "end": 20.37061224489796
+    },
+    {
+      "text": "bones",
+      "start": 20.37061224489796,
+      "end": 20.770612244897958
+    },
+    {
+      "text": "and",
+      "start": 20.770612244897958,
+      "end": 20.930612244897958
+    },
+    {
+      "text": "the",
+      "start": 20.930612244897958,
+      "end": 21.01061224489796
+    },
+    {
+      "text": "teeth",
+      "start": 21.01061224489796,
+      "end": 21.41061224489796
+    },
+    {
+      "text": "And",
+      "start": 21.73061224489796,
+      "end": 21.970612244897957
+    },
+    {
+      "text": "living",
+      "start": 21.970612244897957,
+      "end": 22.21061224489796
+    },
+    {
+      "text": "packed",
+      "start": 22.21061224489796,
+      "end": 22.53061224489796
+    },
+    {
+      "text": "together",
+      "start": 22.53061224489796,
+      "end": 22.85061224489796
+    },
+    {
+      "text": "with",
+      "start": 22.85061224489796,
+      "end": 23.01061224489796
+    },
+    {
+      "text": "livestock",
+      "start": 23.01061224489796,
+      "end": 23.650612244897957
+    },
+    {
+      "text": "invented",
+      "start": 23.650612244897957,
+      "end": 24.13061224489796
+    },
+    {
+      "text": "the",
+      "start": 24.13061224489796,
+      "end": 24.21061224489796
+    },
+    {
+      "text": "infectious",
+      "start": 24.21061224489796,
+      "end": 24.69061224489796
+    },
+    {
+      "text": "diseases",
+      "start": 24.69061224489796,
+      "end": 25.250612244897958
+    },
+    {
+      "text": "we",
+      "start": 25.250612244897958,
+      "end": 25.41061224489796
+    },
+    {
+      "text": "still",
+      "start": 25.41061224489796,
+      "end": 25.73061224489796
+    },
+    {
+      "text": "live",
+      "start": 25.73061224489796,
+      "end": 25.970612244897957
+    },
+    {
+      "text": "with",
+      "start": 25.970612244897957,
+      "end": 26.13061224489796
+    },
+    {
+      "text": "So",
+      "start": 26.53061224489796,
+      "end": 26.69061224489796
+    },
+    {
+      "text": "why",
+      "start": 26.69061224489796,
+      "end": 27.01061224489796
+    },
+    {
+      "text": "did",
+      "start": 27.01061224489796,
+      "end": 27.09061224489796
+    },
+    {
+      "text": "anybody",
+      "start": 27.09061224489796,
+      "end": 27.49061224489796
+    },
+    {
+      "text": "keep",
+      "start": 27.49061224489796,
+      "end": 27.73061224489796
+    },
+    {
+      "text": "doing",
+      "start": 27.73061224489796,
+      "end": 28.05061224489796
+    },
+    {
+      "text": "it",
+      "start": 28.05061224489796,
+      "end": 28.13061224489796
+    },
+    {
+      "text": "Because",
+      "start": 28.51301587301587,
+      "end": 28.83301587301587
+    },
+    {
+      "text": "a",
+      "start": 28.83301587301587,
+      "end": 28.83301587301587
+    },
+    {
+      "text": "field",
+      "start": 28.83301587301587,
+      "end": 29.233015873015873
+    },
+    {
+      "text": "feeds",
+      "start": 29.233015873015873,
+      "end": 29.553015873015873
+    },
+    {
+      "text": "more",
+      "start": 29.553015873015873,
+      "end": 29.79301587301587
+    },
+    {
+      "text": "people",
+      "start": 29.79301587301587,
+      "end": 30.113015873015872
+    },
+    {
+      "text": "per",
+      "start": 30.113015873015872,
+      "end": 30.273015873015872
+    },
+    {
+      "text": "acre",
+      "start": 30.273015873015872,
+      "end": 30.593015873015872
+    },
+    {
+      "text": "than",
+      "start": 30.593015873015872,
+      "end": 30.753015873015872
+    },
+    {
+      "text": "a",
+      "start": 30.753015873015872,
+      "end": 30.753015873015872
+    },
+    {
+      "text": "forest",
+      "start": 30.753015873015872,
+      "end": 31.233015873015873
+    },
+    {
+      "text": "does",
+      "start": 31.233015873015873,
+      "end": 31.553015873015873
+    },
+    {
+      "text": "even",
+      "start": 31.713015873015873,
+      "end": 31.95301587301587
+    },
+    {
+      "text": "done",
+      "start": 31.95301587301587,
+      "end": 32.27301587301587
+    },
+    {
+      "text": "badly",
+      "start": 32.27301587301587,
+      "end": 32.75301587301587
+    },
+    {
+      "text": "Populations",
+      "start": 32.99301587301587,
+      "end": 33.71301587301587
+    },
+    {
+      "text": "grew",
+      "start": 33.71301587301587,
+      "end": 34.11301587301587
+    },
+    {
+      "text": "Villages",
+      "start": 34.35301587301587,
+      "end": 34.833015873015874
+    },
+    {
+      "text": "became",
+      "start": 34.833015873015874,
+      "end": 35.153015873015875
+    },
+    {
+      "text": "cities",
+      "start": 35.153015873015875,
+      "end": 35.71301587301587
+    },
+    {
+      "text": "Specialists",
+      "start": 35.87301587301587,
+      "end": 36.513015873015874
+    },
+    {
+      "text": "appeared",
+      "start": 36.513015873015874,
+      "end": 36.99301587301587
+    },
+    {
+      "text": "Writing",
+      "start": 37.23301587301587,
+      "end": 37.55301587301587
+    },
+    {
+      "text": "followed",
+      "start": 37.55301587301587,
+      "end": 38.11301587301587
+    },
+    {
+      "text": "Farming",
+      "start": 38.35301587301587,
+      "end": 38.67301587301587
+    },
+    {
+      "text": "was",
+      "start": 38.67301587301587,
+      "end": 38.833015873015874
+    },
+    {
+      "text": "a",
+      "start": 38.833015873015874,
+      "end": 38.833015873015874
+    },
+    {
+      "text": "great",
+      "start": 38.833015873015874,
+      "end": 39.23301587301587
+    },
+    {
+      "text": "deal",
+      "start": 39.23301587301587,
+      "end": 39.39301587301587
+    },
+    {
+      "text": "for",
+      "start": 39.39301587301587,
+      "end": 39.55301587301587
+    },
+    {
+      "text": "the",
+      "start": 39.55301587301587,
+      "end": 39.63301587301587
+    },
+    {
+      "text": "species",
+      "start": 39.63301587301587,
+      "end": 40.193015873015874
+    },
+    {
+      "text": "and",
+      "start": 40.433015873015876,
+      "end": 40.513015873015874
+    },
+    {
+      "text": "a",
+      "start": 40.513015873015874,
+      "end": 40.59301587301587
+    },
+    {
+      "text": "bad",
+      "start": 40.59301587301587,
+      "end": 40.91301587301587
+    },
+    {
+      "text": "deal",
+      "start": 40.91301587301587,
+      "end": 41.153015873015875
+    },
+    {
+      "text": "for",
+      "start": 41.153015873015875,
+      "end": 41.31301587301587
+    },
+    {
+      "text": "almost",
+      "start": 41.31301587301587,
+      "end": 41.71301587301587
+    },
+    {
+      "text": "everyone",
+      "start": 41.71301587301587,
+      "end": 42.11301587301587
+    },
+    {
+      "text": "in",
+      "start": 42.11301587301587,
+      "end": 42.27301587301587
+    },
+    {
+      "text": "it",
+      "start": 42.27301587301587,
+      "end": 42.35301587301587
+    },
+    {
+      "text": "One",
+      "start": 42.67301587301587,
+      "end": 42.91301587301587
+    },
+    {
+      "text": "of",
+      "start": 42.91301587301587,
+      "end": 42.99301587301587
+    },
+    {
+      "text": "these",
+      "start": 42.99301587301587,
+      "end": 43.23301587301587
+    },
+    {
+      "text": "every",
+      "start": 43.23301587301587,
+      "end": 43.47301587301587
+    },
+    {
+      "text": "day",
+      "start": 43.47301587301587,
+      "end": 43.793015873015875
+    },
+    {
+      "text": "Follow",
+      "start": 44.26231292517007,
+      "end": 44.58231292517007
+    },
+    {
+      "text": "so",
+      "start": 44.58231292517007,
+      "end": 44.74231292517007
+    },
+    {
+      "text": "you",
+      "start": 44.74231292517007,
+      "end": 44.90231292517007
+    },
+    {
+      "text": "do",
+      "start": 44.90231292517007,
+      "end": 44.98231292517007
+    },
+    {
+      "text": "not",
+      "start": 44.98231292517007,
+      "end": 45.30231292517007
+    },
+    {
+      "text": "miss",
+      "start": 45.30231292517007,
+      "end": 45.62231292517007
+    },
+    {
+      "text": "tomorrow",
+      "start": 45.62231292517007,
+      "end": 46.182312925170066
+    }
+  ],
+  "text": "Skeletons from the first farming villages are shorter and sicker than the hunter gatherers before them. Farming is supposed to be the upgrade. More food, easier life. It did deliver more food. That part is not in question. But more food out of fewer plants. Three crops instead of a hundred wild foods. A narrower diet means missing nutrients, and it shows up in the bones and the teeth. And living packed together with livestock invented the infectious diseases we still live with. So why did anybody keep doing it? Because a field feeds more people per acre than a forest does, even done badly. Populations grew. Villages became cities. Specialists appeared. Writing followed. Farming was a great deal for the species and a bad deal for almost everyone in it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

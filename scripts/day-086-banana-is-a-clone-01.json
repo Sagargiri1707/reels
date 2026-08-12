@@ -1,0 +1,109 @@
+{
+  "topic": "Every banana you've eaten is a clone",
+  "lesson": "Commercial bananas are cuttings of a single plant with no genetic variation, so one pathogen that beats one plant beats every banana on Earth.",
+  "slug": "day-086-banana-is-a-clone-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Commercial bananas cannot reproduce. Every single one is a cutting from the same plant.",
+      "scene": "a bunch of bananas with one cut away, a small black cartoon figure hauling the cut one off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bunch of bananas with one cut away, a small black cartoon figure hauling the cut one off. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Look at a slice. There are no seeds in there, only tiny black specks.",
+      "scene": "a banana sliced across to show tiny specks, a small black cartoon figure poking at one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a banana sliced across to show tiny specks, a small black cartoon figure poking at one. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A plant with no seeds cannot breed. The only way to make more is to cut a piece off.",
+      "scene": "a cutting pushed into soil in a pot, a small black cartoon figure pressing it down firmly",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cutting pushed into soil in a pot, a small black cartoon figure pressing it down firmly. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Which means every Cavendish banana on Earth is genetically the same individual.",
+      "scene": "a grid tray of identical bananas, a small black cartoon figure straightening the last row",
+      "image_text": "SAME PLANT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a grid tray of identical bananas, a small black cartoon figure straightening the last row. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SAME PLANT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And a population with no variation has no survivors.",
+      "scene": "a row of identical padlocks, a small black cartoon figure opening every one with the same key",
+      "image_text": "ONE KEY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of identical padlocks, a small black cartoon figure opening every one with the same key. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE KEY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The banana before this one was called Gros Michel. People who ate it say it was better.",
+      "scene": "a faded old fruit crate, a small black cartoon figure prising its lid off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a faded old fruit crate, a small black cartoon figure prising its lid off. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "A soil fungus called Panama disease found a way through it in the nineteen fifties.",
+      "scene": "a handful of dark soil, a small black cartoon figure sifting it through both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a handful of dark soil, a small black cartoon figure sifting it through both arms. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Because they were identical, it never needed a second way in. It took the whole crop.",
+      "scene": "a row of identical cups all tipped over at once, a small black cartoon figure standing among them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of identical cups all tipped over at once, a small black cartoon figure standing among them. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Cavendish replaced it because it resisted that strain. A new strain is moving through it now.",
+      "scene": "a new crate sliding into the place of an old one, a small black cartoon figure shoving the old one aside",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a new crate sliding into the place of an old one, a small black cartoon figure shoving the old one aside. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Same plant, same trick, same problem. We only changed which clone.",
+      "scene": "two identical keys on the surface, a small black cartoon figure holding one up in each arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical keys on the surface, a small black cartoon figure holding one up in each arm. the scene belongs to many identical copies of one thing, and what happens when something defeats the original, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Commercial bananas are seedless, so they cannot breed. Every Cavendish on Earth is a cutting from the same plant, genetically one individual. Monoculture like that means zero variation, so a pathogen that beats one plant beats all of them. It has already happened once: Gros Michel was wiped out by Panama disease in the 1950s. Cavendish replaced it because it resisted that strain, and a new strain is now moving through it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bananas #monoculture #agriculture #food #science",
+    "thumbnail_beat": "04"
+  }
+}

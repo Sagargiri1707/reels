@@ -1,0 +1,713 @@
+{
+  "audio_duration": 44.904375,
+  "segments": [
+    {
+      "text": "One",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "vegetable",
+      "start": 0.32,
+      "end": 0.8
+    },
+    {
+      "text": "from",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "text": "the",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "Andes",
+      "start": 1.04,
+      "end": 1.6
+    },
+    {
+      "text": "did",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "text": "more",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "text": "to",
+      "start": 2.08,
+      "end": 2.08
+    },
+    {
+      "text": "Europe's",
+      "start": 2.08,
+      "end": 2.48
+    },
+    {
+      "text": "population",
+      "start": 2.48,
+      "end": 3.12
+    },
+    {
+      "text": "than",
+      "start": 3.12,
+      "end": 3.28
+    },
+    {
+      "text": "any",
+      "start": 3.36,
+      "end": 3.6
+    },
+    {
+      "text": "grain",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "ever",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "text": "managed",
+      "start": 4.24,
+      "end": 4.8
+    },
+    {
+      "text": "Grain",
+      "start": 5.04,
+      "end": 5.44
+    },
+    {
+      "text": "grows",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "above",
+      "start": 5.76,
+      "end": 6.08
+    },
+    {
+      "text": "ground",
+      "start": 6.08,
+      "end": 6.48
+    },
+    {
+      "text": "which",
+      "start": 6.64,
+      "end": 6.88
+    },
+    {
+      "text": "means",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "an",
+      "start": 7.12,
+      "end": 7.2
+    },
+    {
+      "text": "army",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "can",
+      "start": 7.52,
+      "end": 7.76
+    },
+    {
+      "text": "burn",
+      "start": 7.76,
+      "end": 8.0
+    },
+    {
+      "text": "it",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "on",
+      "start": 8.08,
+      "end": 8.24
+    },
+    {
+      "text": "its",
+      "start": 8.24,
+      "end": 8.32
+    },
+    {
+      "text": "way",
+      "start": 8.32,
+      "end": 8.56
+    },
+    {
+      "text": "past",
+      "start": 8.56,
+      "end": 9.12
+    },
+    {
+      "text": "A",
+      "start": 9.52,
+      "end": 9.6
+    },
+    {
+      "text": "potato",
+      "start": 9.6,
+      "end": 10.24
+    },
+    {
+      "text": "is",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "underground",
+      "start": 10.4,
+      "end": 11.04
+    },
+    {
+      "text": "Burn",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "text": "the",
+      "start": 11.6,
+      "end": 11.68
+    },
+    {
+      "text": "field",
+      "start": 11.68,
+      "end": 12.08
+    },
+    {
+      "text": "and",
+      "start": 12.16,
+      "end": 12.24
+    },
+    {
+      "text": "the",
+      "start": 12.24,
+      "end": 12.32
+    },
+    {
+      "text": "crop",
+      "start": 12.32,
+      "end": 12.72
+    },
+    {
+      "text": "is",
+      "start": 12.72,
+      "end": 12.8
+    },
+    {
+      "text": "still",
+      "start": 12.8,
+      "end": 13.04
+    },
+    {
+      "text": "fine",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "And",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "it",
+      "start": 13.92,
+      "end": 14.0
+    },
+    {
+      "text": "produces",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "more",
+      "start": 14.4,
+      "end": 14.64
+    },
+    {
+      "text": "calories",
+      "start": 14.64,
+      "end": 15.2
+    },
+    {
+      "text": "per",
+      "start": 15.2,
+      "end": 15.36
+    },
+    {
+      "text": "acre",
+      "start": 15.36,
+      "end": 15.68
+    },
+    {
+      "text": "than",
+      "start": 15.68,
+      "end": 15.92
+    },
+    {
+      "text": "wheat",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "on",
+      "start": 16.4,
+      "end": 16.64
+    },
+    {
+      "text": "worse",
+      "start": 16.64,
+      "end": 16.88
+    },
+    {
+      "text": "soil",
+      "start": 16.88,
+      "end": 17.36
+    },
+    {
+      "text": "Europe's",
+      "start": 17.701405895691607,
+      "end": 18.021405895691608
+    },
+    {
+      "text": "population",
+      "start": 18.021405895691608,
+      "end": 18.66140589569161
+    },
+    {
+      "text": "climbed",
+      "start": 18.66140589569161,
+      "end": 18.98140589569161
+    },
+    {
+      "text": "steeply",
+      "start": 18.98140589569161,
+      "end": 19.54140589569161
+    },
+    {
+      "text": "within",
+      "start": 19.54140589569161,
+      "end": 19.78140589569161
+    },
+    {
+      "text": "a",
+      "start": 19.78140589569161,
+      "end": 19.78140589569161
+    },
+    {
+      "text": "century",
+      "start": 19.78140589569161,
+      "end": 20.341405895691608
+    },
+    {
+      "text": "of",
+      "start": 20.341405895691608,
+      "end": 20.341405895691608
+    },
+    {
+      "text": "taking",
+      "start": 20.341405895691608,
+      "end": 20.74140589569161
+    },
+    {
+      "text": "it",
+      "start": 20.74140589569161,
+      "end": 20.82140589569161
+    },
+    {
+      "text": "up",
+      "start": 20.82140589569161,
+      "end": 21.06140589569161
+    },
+    {
+      "text": "Ireland",
+      "start": 21.54140589569161,
+      "end": 21.94140589569161
+    },
+    {
+      "text": "took",
+      "start": 21.94140589569161,
+      "end": 22.181405895691608
+    },
+    {
+      "text": "it",
+      "start": 22.181405895691608,
+      "end": 22.26140589569161
+    },
+    {
+      "text": "further",
+      "start": 22.26140589569161,
+      "end": 22.58140589569161
+    },
+    {
+      "text": "than",
+      "start": 22.58140589569161,
+      "end": 22.74140589569161
+    },
+    {
+      "text": "anyone",
+      "start": 22.82140589569161,
+      "end": 23.381405895691607
+    },
+    {
+      "text": "Much",
+      "start": 23.54140589569161,
+      "end": 23.86140589569161
+    },
+    {
+      "text": "of",
+      "start": 23.86140589569161,
+      "end": 23.94140589569161
+    },
+    {
+      "text": "the",
+      "start": 23.94140589569161,
+      "end": 24.021405895691608
+    },
+    {
+      "text": "country",
+      "start": 24.021405895691608,
+      "end": 24.42140589569161
+    },
+    {
+      "text": "lived",
+      "start": 24.42140589569161,
+      "end": 24.74140589569161
+    },
+    {
+      "text": "on",
+      "start": 24.74140589569161,
+      "end": 24.90140589569161
+    },
+    {
+      "text": "it",
+      "start": 24.90140589569161,
+      "end": 25.061405895691607
+    },
+    {
+      "text": "Not",
+      "start": 25.22140589569161,
+      "end": 25.46140589569161
+    },
+    {
+      "text": "just",
+      "start": 25.46140589569161,
+      "end": 25.701405895691607
+    },
+    {
+      "text": "on",
+      "start": 25.701405895691607,
+      "end": 25.86140589569161
+    },
+    {
+      "text": "potatoes",
+      "start": 25.86140589569161,
+      "end": 26.501405895691608
+    },
+    {
+      "text": "Largely",
+      "start": 26.741405895691607,
+      "end": 27.22140589569161
+    },
+    {
+      "text": "on",
+      "start": 27.22140589569161,
+      "end": 27.46140589569161
+    },
+    {
+      "text": "one",
+      "start": 27.46140589569161,
+      "end": 27.62140589569161
+    },
+    {
+      "text": "variety",
+      "start": 27.62140589569161,
+      "end": 28.10140589569161
+    },
+    {
+      "text": "of",
+      "start": 28.10140589569161,
+      "end": 28.18140589569161
+    },
+    {
+      "text": "potato",
+      "start": 28.18140589569161,
+      "end": 28.66140589569161
+    },
+    {
+      "text": "So",
+      "start": 28.90140589569161,
+      "end": 29.061405895691607
+    },
+    {
+      "text": "when",
+      "start": 29.061405895691607,
+      "end": 29.22140589569161
+    },
+    {
+      "text": "a",
+      "start": 29.22140589569161,
+      "end": 29.30140589569161
+    },
+    {
+      "text": "blight",
+      "start": 29.30140589569161,
+      "end": 29.62140589569161
+    },
+    {
+      "text": "arrived",
+      "start": 29.62140589569161,
+      "end": 30.021405895691608
+    },
+    {
+      "text": "that",
+      "start": 30.021405895691608,
+      "end": 30.18140589569161
+    },
+    {
+      "text": "beat",
+      "start": 30.18140589569161,
+      "end": 30.42140589569161
+    },
+    {
+      "text": "that",
+      "start": 30.42140589569161,
+      "end": 30.58140589569161
+    },
+    {
+      "text": "variety",
+      "start": 30.58140589569161,
+      "end": 31.14140589569161
+    },
+    {
+      "text": "it",
+      "start": 31.381405895691607,
+      "end": 31.54140589569161
+    },
+    {
+      "text": "beat",
+      "start": 31.54140589569161,
+      "end": 31.701405895691607
+    },
+    {
+      "text": "the",
+      "start": 31.701405895691607,
+      "end": 31.86140589569161
+    },
+    {
+      "text": "entire",
+      "start": 31.86140589569161,
+      "end": 32.26140589569161
+    },
+    {
+      "text": "food",
+      "start": 32.26140589569161,
+      "end": 32.501405895691605
+    },
+    {
+      "text": "supply",
+      "start": 32.501405895691605,
+      "end": 32.98140589569161
+    },
+    {
+      "text": "A",
+      "start": 33.30140589569161,
+      "end": 33.38140589569161
+    },
+    {
+      "text": "million",
+      "start": 33.38140589569161,
+      "end": 33.861405895691604
+    },
+    {
+      "text": "people",
+      "start": 33.861405895691604,
+      "end": 34.18140589569161
+    },
+    {
+      "text": "died",
+      "start": 34.18140589569161,
+      "end": 34.58140589569161
+    },
+    {
+      "text": "A",
+      "start": 34.98013605442176,
+      "end": 35.06013605442177
+    },
+    {
+      "text": "million",
+      "start": 35.06013605442177,
+      "end": 35.46013605442177
+    },
+    {
+      "text": "more",
+      "start": 35.46013605442177,
+      "end": 35.620136054421764
+    },
+    {
+      "text": "left",
+      "start": 35.620136054421764,
+      "end": 36.02013605442177
+    },
+    {
+      "text": "and",
+      "start": 36.02013605442177,
+      "end": 36.180136054421766
+    },
+    {
+      "text": "never",
+      "start": 36.180136054421766,
+      "end": 36.42013605442177
+    },
+    {
+      "text": "came",
+      "start": 36.42013605442177,
+      "end": 36.66013605442177
+    },
+    {
+      "text": "back",
+      "start": 36.66013605442177,
+      "end": 37.06013605442177
+    },
+    {
+      "text": "The",
+      "start": 37.30013605442176,
+      "end": 37.38013605442177
+    },
+    {
+      "text": "same",
+      "start": 37.38013605442177,
+      "end": 37.78013605442177
+    },
+    {
+      "text": "mistake",
+      "start": 37.78013605442177,
+      "end": 38.180136054421766
+    },
+    {
+      "text": "as",
+      "start": 38.180136054421766,
+      "end": 38.260136054421764
+    },
+    {
+      "text": "the",
+      "start": 38.260136054421764,
+      "end": 38.34013605442177
+    },
+    {
+      "text": "banana",
+      "start": 38.34013605442177,
+      "end": 38.900136054421765
+    },
+    {
+      "text": "a",
+      "start": 39.06013605442177,
+      "end": 39.14013605442177
+    },
+    {
+      "text": "century",
+      "start": 39.14013605442177,
+      "end": 39.620136054421764
+    },
+    {
+      "text": "earlier",
+      "start": 39.620136054421764,
+      "end": 40.02013605442177
+    },
+    {
+      "text": "and",
+      "start": 40.02013605442177,
+      "end": 40.180136054421766
+    },
+    {
+      "text": "far",
+      "start": 40.180136054421766,
+      "end": 40.500136054421766
+    },
+    {
+      "text": "more",
+      "start": 40.500136054421766,
+      "end": 40.66013605442177
+    },
+    {
+      "text": "expensive",
+      "start": 40.66013605442177,
+      "end": 41.220136054421765
+    },
+    {
+      "text": "One",
+      "start": 41.540136054421765,
+      "end": 41.78013605442177
+    },
+    {
+      "text": "of",
+      "start": 41.78013605442177,
+      "end": 41.860136054421766
+    },
+    {
+      "text": "these",
+      "start": 41.860136054421766,
+      "end": 42.10013605442177
+    },
+    {
+      "text": "every",
+      "start": 42.10013605442177,
+      "end": 42.42013605442177
+    },
+    {
+      "text": "day",
+      "start": 42.42013605442177,
+      "end": 42.74013605442177
+    },
+    {
+      "text": "Follow",
+      "start": 42.98013605442176,
+      "end": 43.30013605442177
+    },
+    {
+      "text": "so",
+      "start": 43.30013605442177,
+      "end": 43.46013605442177
+    },
+    {
+      "text": "you",
+      "start": 43.46013605442177,
+      "end": 43.540136054421765
+    },
+    {
+      "text": "do",
+      "start": 43.540136054421765,
+      "end": 43.70013605442177
+    },
+    {
+      "text": "not",
+      "start": 43.70013605442177,
+      "end": 43.940136054421764
+    },
+    {
+      "text": "miss",
+      "start": 43.940136054421764,
+      "end": 44.180136054421766
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.180136054421766,
+      "end": 44.66013605442177
+    }
+  ],
+  "text": "One vegetable from the Andes did more to Europe's population than any grain ever managed. Grain grows above ground, which means an army can burn it on its way past. A potato is underground. Burn the field and the crop is still fine. And it produces more calories per acre than wheat, on worse soil. Europe's population climbed steeply within a century of taking it up. Ireland took it further than anyone. Much of the country lived on it. Not just on potatoes. Largely on one variety of potato. So when a blight arrived that beat that variety, it beat the entire food supply. A million people died. A million more left and never came back. The same mistake as the banana, a century earlier and far more expensive. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

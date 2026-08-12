@@ -1,0 +1,718 @@
+{
+  "audio_duration": 45.29625,
+  "segments": [
+    {
+      "text": "Black",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "pepper",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "text": "was",
+      "start": 0.72,
+      "end": 0.96
+    },
+    {
+      "text": "once",
+      "start": 0.96,
+      "end": 1.2
+    },
+    {
+      "text": "used",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "text": "to",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "pay",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "text": "rent",
+      "start": 1.76,
+      "end": 2.16
+    },
+    {
+      "text": "Before",
+      "start": 2.56,
+      "end": 2.96
+    },
+    {
+      "text": "refrigeration",
+      "start": 2.96,
+      "end": 3.76
+    },
+    {
+      "text": "anything",
+      "start": 4.0,
+      "end": 4.48
+    },
+    {
+      "text": "that",
+      "start": 4.48,
+      "end": 4.56
+    },
+    {
+      "text": "preserved",
+      "start": 4.56,
+      "end": 5.04
+    },
+    {
+      "text": "food",
+      "start": 5.04,
+      "end": 5.44
+    },
+    {
+      "text": "or",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "text": "covered",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "text": "the",
+      "start": 5.92,
+      "end": 6.0
+    },
+    {
+      "text": "taste",
+      "start": 6.0,
+      "end": 6.32
+    },
+    {
+      "text": "of",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "old",
+      "start": 6.4,
+      "end": 6.64
+    },
+    {
+      "text": "food",
+      "start": 6.64,
+      "end": 7.04
+    },
+    {
+      "text": "was",
+      "start": 7.2,
+      "end": 7.36
+    },
+    {
+      "text": "real",
+      "start": 7.36,
+      "end": 7.68
+    },
+    {
+      "text": "money",
+      "start": 7.68,
+      "end": 8.08
+    },
+    {
+      "text": "Nutmeg",
+      "start": 8.4,
+      "end": 9.04
+    },
+    {
+      "text": "grew",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "text": "on",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "a",
+      "start": 9.52,
+      "end": 9.6
+    },
+    {
+      "text": "handful",
+      "start": 9.6,
+      "end": 10.08
+    },
+    {
+      "text": "of",
+      "start": 10.08,
+      "end": 10.16
+    },
+    {
+      "text": "tiny",
+      "start": 10.16,
+      "end": 10.56
+    },
+    {
+      "text": "islands",
+      "start": 10.56,
+      "end": 11.04
+    },
+    {
+      "text": "and",
+      "start": 11.2,
+      "end": 11.36
+    },
+    {
+      "text": "nowhere",
+      "start": 11.36,
+      "end": 11.68
+    },
+    {
+      "text": "else",
+      "start": 11.68,
+      "end": 11.92
+    },
+    {
+      "text": "on",
+      "start": 11.92,
+      "end": 12.08
+    },
+    {
+      "text": "Earth",
+      "start": 12.08,
+      "end": 12.32
+    },
+    {
+      "text": "The",
+      "start": 12.8,
+      "end": 12.88
+    },
+    {
+      "text": "Dutch",
+      "start": 12.88,
+      "end": 13.28
+    },
+    {
+      "text": "traded",
+      "start": 13.28,
+      "end": 13.6
+    },
+    {
+      "text": "away",
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "text": "Manhattan",
+      "start": 13.76,
+      "end": 14.4
+    },
+    {
+      "text": "to",
+      "start": 14.48,
+      "end": 14.56
+    },
+    {
+      "text": "hold",
+      "start": 14.56,
+      "end": 14.8
+    },
+    {
+      "text": "on",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "text": "to",
+      "start": 15.04,
+      "end": 15.04
+    },
+    {
+      "text": "one",
+      "start": 15.04,
+      "end": 15.28
+    },
+    {
+      "text": "of",
+      "start": 15.28,
+      "end": 15.36
+    },
+    {
+      "text": "them",
+      "start": 15.36,
+      "end": 15.6
+    },
+    {
+      "text": "But",
+      "start": 15.98312925170068,
+      "end": 16.143129251700678
+    },
+    {
+      "text": "what",
+      "start": 16.143129251700678,
+      "end": 16.30312925170068
+    },
+    {
+      "text": "reshaped",
+      "start": 16.30312925170068,
+      "end": 16.86312925170068
+    },
+    {
+      "text": "the",
+      "start": 16.86312925170068,
+      "end": 16.94312925170068
+    },
+    {
+      "text": "world",
+      "start": 16.94312925170068,
+      "end": 17.34312925170068
+    },
+    {
+      "text": "was",
+      "start": 17.34312925170068,
+      "end": 17.50312925170068
+    },
+    {
+      "text": "not",
+      "start": 17.50312925170068,
+      "end": 17.74312925170068
+    },
+    {
+      "text": "the",
+      "start": 17.74312925170068,
+      "end": 17.823129251700678
+    },
+    {
+      "text": "spice",
+      "start": 17.823129251700678,
+      "end": 18.38312925170068
+    },
+    {
+      "text": "It",
+      "start": 18.78312925170068,
+      "end": 18.86312925170068
+    },
+    {
+      "text": "was",
+      "start": 18.86312925170068,
+      "end": 19.02312925170068
+    },
+    {
+      "text": "everyone",
+      "start": 19.02312925170068,
+      "end": 19.503129251700678
+    },
+    {
+      "text": "standing",
+      "start": 19.503129251700678,
+      "end": 19.98312925170068
+    },
+    {
+      "text": "between",
+      "start": 19.98312925170068,
+      "end": 20.46312925170068
+    },
+    {
+      "text": "Every",
+      "start": 20.94312925170068,
+      "end": 21.26312925170068
+    },
+    {
+      "text": "shipment",
+      "start": 21.26312925170068,
+      "end": 21.74312925170068
+    },
+    {
+      "text": "crossed",
+      "start": 21.74312925170068,
+      "end": 22.06312925170068
+    },
+    {
+      "text": "a",
+      "start": 22.06312925170068,
+      "end": 22.143129251700678
+    },
+    {
+      "text": "dozen",
+      "start": 22.143129251700678,
+      "end": 22.54312925170068
+    },
+    {
+      "text": "middlemen",
+      "start": 22.54312925170068,
+      "end": 23.10312925170068
+    },
+    {
+      "text": "and",
+      "start": 23.26312925170068,
+      "end": 23.42312925170068
+    },
+    {
+      "text": "each",
+      "start": 23.503129251700678,
+      "end": 23.74312925170068
+    },
+    {
+      "text": "one",
+      "start": 23.74312925170068,
+      "end": 23.90312925170068
+    },
+    {
+      "text": "took",
+      "start": 23.90312925170068,
+      "end": 24.143129251700678
+    },
+    {
+      "text": "a",
+      "start": 24.143129251700678,
+      "end": 24.22312925170068
+    },
+    {
+      "text": "cut",
+      "start": 24.22312925170068,
+      "end": 24.54312925170068
+    },
+    {
+      "text": "So",
+      "start": 24.94312925170068,
+      "end": 25.10312925170068
+    },
+    {
+      "text": "the",
+      "start": 25.10312925170068,
+      "end": 25.183129251700677
+    },
+    {
+      "text": "same",
+      "start": 25.183129251700677,
+      "end": 25.503129251700678
+    },
+    {
+      "text": "pepper",
+      "start": 25.503129251700678,
+      "end": 25.823129251700678
+    },
+    {
+      "text": "cost",
+      "start": 25.823129251700678,
+      "end": 26.143129251700678
+    },
+    {
+      "text": "a",
+      "start": 26.143129251700678,
+      "end": 26.22312925170068
+    },
+    {
+      "text": "fortune",
+      "start": 26.22312925170068,
+      "end": 26.70312925170068
+    },
+    {
+      "text": "by",
+      "start": 26.70312925170068,
+      "end": 26.863129251700677
+    },
+    {
+      "text": "the",
+      "start": 26.863129251700677,
+      "end": 26.94312925170068
+    },
+    {
+      "text": "time",
+      "start": 26.94312925170068,
+      "end": 27.183129251700677
+    },
+    {
+      "text": "it",
+      "start": 27.183129251700677,
+      "end": 27.26312925170068
+    },
+    {
+      "text": "reached",
+      "start": 27.26312925170068,
+      "end": 27.58312925170068
+    },
+    {
+      "text": "Europe",
+      "start": 27.58312925170068,
+      "end": 27.90312925170068
+    },
+    {
+      "text": "Which",
+      "start": 28.06312925170068,
+      "end": 28.22312925170068
+    },
+    {
+      "text": "makes",
+      "start": 28.22312925170068,
+      "end": 28.46312925170068
+    },
+    {
+      "text": "the",
+      "start": 28.46312925170068,
+      "end": 28.623129251700682
+    },
+    {
+      "text": "entire",
+      "start": 28.623129251700682,
+      "end": 29.02312925170068
+    },
+    {
+      "text": "age",
+      "start": 29.02312925170068,
+      "end": 29.26312925170068
+    },
+    {
+      "text": "of",
+      "start": 29.26312925170068,
+      "end": 29.34312925170068
+    },
+    {
+      "text": "exploration",
+      "start": 29.34312925170068,
+      "end": 30.143129251700678
+    },
+    {
+      "text": "underneath",
+      "start": 30.22312925170068,
+      "end": 30.70312925170068
+    },
+    {
+      "text": "a",
+      "start": 31.02312925170068,
+      "end": 31.10312925170068
+    },
+    {
+      "text": "supply",
+      "start": 31.10312925170068,
+      "end": 31.503129251700678
+    },
+    {
+      "text": "chain",
+      "start": 31.503129251700678,
+      "end": 31.74312925170068
+    },
+    {
+      "text": "problem",
+      "start": 31.74312925170068,
+      "end": 32.22312925170068
+    },
+    {
+      "text": "Columbus",
+      "start": 32.54809523809523,
+      "end": 33.02809523809523
+    },
+    {
+      "text": "sailed",
+      "start": 33.02809523809523,
+      "end": 33.34809523809523
+    },
+    {
+      "text": "west",
+      "start": 33.34809523809523,
+      "end": 33.82809523809523
+    },
+    {
+      "text": "looking",
+      "start": 33.908095238095235,
+      "end": 34.228095238095236
+    },
+    {
+      "text": "for",
+      "start": 34.228095238095236,
+      "end": 34.38809523809523
+    },
+    {
+      "text": "a",
+      "start": 34.38809523809523,
+      "end": 34.38809523809523
+    },
+    {
+      "text": "shortcut",
+      "start": 34.38809523809523,
+      "end": 34.948095238095235
+    },
+    {
+      "text": "to",
+      "start": 34.948095238095235,
+      "end": 35.02809523809523
+    },
+    {
+      "text": "India",
+      "start": 35.02809523809523,
+      "end": 35.50809523809523
+    },
+    {
+      "text": "and",
+      "start": 35.74809523809523,
+      "end": 35.82809523809523
+    },
+    {
+      "text": "hit",
+      "start": 35.82809523809523,
+      "end": 35.988095238095234
+    },
+    {
+      "text": "something",
+      "start": 35.988095238095234,
+      "end": 36.38809523809523
+    },
+    {
+      "text": "else",
+      "start": 36.38809523809523,
+      "end": 36.628095238095234
+    },
+    {
+      "text": "entirely",
+      "start": 36.628095238095234,
+      "end": 37.268095238095235
+    },
+    {
+      "text": "The",
+      "start": 37.66809523809523,
+      "end": 37.74809523809523
+    },
+    {
+      "text": "map",
+      "start": 37.74809523809523,
+      "end": 38.06809523809523
+    },
+    {
+      "text": "of",
+      "start": 38.06809523809523,
+      "end": 38.14809523809523
+    },
+    {
+      "text": "the",
+      "start": 38.14809523809523,
+      "end": 38.228095238095236
+    },
+    {
+      "text": "modern",
+      "start": 38.228095238095236,
+      "end": 38.628095238095234
+    },
+    {
+      "text": "world",
+      "start": 38.628095238095234,
+      "end": 38.948095238095235
+    },
+    {
+      "text": "was",
+      "start": 39.10809523809523,
+      "end": 39.34809523809523
+    },
+    {
+      "text": "drawn",
+      "start": 39.34809523809523,
+      "end": 39.66809523809523
+    },
+    {
+      "text": "by",
+      "start": 39.66809523809523,
+      "end": 39.74809523809523
+    },
+    {
+      "text": "people",
+      "start": 39.74809523809523,
+      "end": 40.14809523809523
+    },
+    {
+      "text": "trying",
+      "start": 40.14809523809523,
+      "end": 40.46809523809523
+    },
+    {
+      "text": "to",
+      "start": 40.46809523809523,
+      "end": 40.54809523809523
+    },
+    {
+      "text": "cut",
+      "start": 40.54809523809523,
+      "end": 40.70809523809523
+    },
+    {
+      "text": "out",
+      "start": 40.70809523809523,
+      "end": 40.948095238095235
+    },
+    {
+      "text": "the",
+      "start": 40.948095238095235,
+      "end": 41.02809523809523
+    },
+    {
+      "text": "middleman",
+      "start": 41.02809523809523,
+      "end": 41.588095238095235
+    },
+    {
+      "text": "One",
+      "start": 41.82809523809523,
+      "end": 42.06809523809523
+    },
+    {
+      "text": "of",
+      "start": 42.06809523809523,
+      "end": 42.14809523809523
+    },
+    {
+      "text": "these",
+      "start": 42.14809523809523,
+      "end": 42.38809523809523
+    },
+    {
+      "text": "every",
+      "start": 42.38809523809523,
+      "end": 42.70809523809523
+    },
+    {
+      "text": "day",
+      "start": 42.70809523809523,
+      "end": 43.02809523809523
+    },
+    {
+      "text": "Follow",
+      "start": 43.42809523809523,
+      "end": 43.74809523809523
+    },
+    {
+      "text": "so",
+      "start": 43.74809523809523,
+      "end": 43.82809523809523
+    },
+    {
+      "text": "you",
+      "start": 43.82809523809523,
+      "end": 43.988095238095234
+    },
+    {
+      "text": "do",
+      "start": 43.988095238095234,
+      "end": 44.14809523809523
+    },
+    {
+      "text": "not",
+      "start": 44.14809523809523,
+      "end": 44.38809523809523
+    },
+    {
+      "text": "miss",
+      "start": 44.38809523809523,
+      "end": 44.628095238095234
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.628095238095234,
+      "end": 45.10809523809523
+    }
+  ],
+  "text": "Black pepper was once used to pay rent. Before refrigeration, anything that preserved food or covered the taste of old food was real money. Nutmeg grew on a handful of tiny islands and nowhere else on Earth. The Dutch traded away Manhattan to hold on to one of them. But what reshaped the world was not the spice. It was everyone standing between. Every shipment crossed a dozen middlemen, and each one took a cut. So the same pepper cost a fortune by the time it reached Europe. Which makes the entire age of exploration, underneath, a supply chain problem. Columbus sailed west looking for a shortcut to India, and hit something else entirely. The map of the modern world was drawn by people trying to cut out the middleman. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

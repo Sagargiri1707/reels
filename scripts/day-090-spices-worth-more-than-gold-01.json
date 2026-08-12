@@ -1,0 +1,109 @@
+{
+  "topic": "Spices were once worth more than gold",
+  "lesson": "The spice trade's real cost was the chain of middlemen between the islands and Europe, so the age of exploration was at root an attempt to solve a supply-chain problem.",
+  "slug": "day-090-spices-worth-more-than-gold-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Black pepper was once used to pay rent.",
+      "scene": "a heap of peppercorns on a balance pan against a coin, a small black cartoon figure adding one more peppercorn",
+      "image_text": "RENT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heap of peppercorns on a balance pan against a coin, a small black cartoon figure adding one more peppercorn. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"RENT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Before refrigeration, anything that preserved food or covered the taste of old food was real money.",
+      "scene": "a cured joint hanging from a hook, a small black cartoon figure rubbing spice into it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cured joint hanging from a hook, a small black cartoon figure rubbing spice into it with both arms. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Nutmeg grew on a handful of tiny islands and nowhere else on Earth.",
+      "scene": "a single nutmeg on a small mound of sand, a small black cartoon figure planting a flag beside it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single nutmeg on a small mound of sand, a small black cartoon figure planting a flag beside it. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The Dutch traded away Manhattan to hold on to one of them.",
+      "scene": "a folded paper map with one corner torn off, a small black cartoon figure dragging the corner away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a folded paper map with one corner torn off, a small black cartoon figure dragging the corner away. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "But what reshaped the world was not the spice. It was everyone standing between.",
+      "scene": "a row of open card palms, a small black cartoon figure hauling a sack past them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of open card palms, a small black cartoon figure hauling a sack past them. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Every shipment crossed a dozen middlemen, and each one took a cut.",
+      "scene": "a sack being pushed through the first of a row of slots, a small black cartoon figure shoving it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sack being pushed through the first of a row of slots, a small black cartoon figure shoving it in. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So the same pepper cost a fortune by the time it reached Europe.",
+      "scene": "a heavy price tag on a tiny jar, a small black cartoon figure swinging off the tag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy price tag on a tiny jar, a small black cartoon figure swinging off the tag. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which makes the entire age of exploration, underneath, a supply chain problem.",
+      "scene": "a long knotted string being cut short, a small black cartoon figure snipping through it",
+      "image_text": "SHORTCUT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long knotted string being cut short, a small black cartoon figure snipping through it. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SHORTCUT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Columbus sailed west looking for a shortcut to India, and hit something else entirely.",
+      "scene": "a brass compass, a small black cartoon figure hauling the needle round to point west",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass compass, a small black cartoon figure hauling the needle round to point west. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The map of the modern world was drawn by people trying to cut out the middleman.",
+      "scene": "a small globe with a fresh line drawn across it, a small black cartoon figure dragging the pen",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small globe with a fresh line drawn across it, a small black cartoon figure dragging the pen. the scene belongs to goods passing through many hands and getting more expensive at each one, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Black pepper was used to pay rent, and nutmeg came from a handful of islands worth trading Manhattan for. Before refrigeration, preservation and flavour were genuinely valuable. But the real cost was the chain: a dozen middlemen between the islands and Europe, each taking a cut. Which makes the age of exploration a supply-chain problem in disguise. Columbus sailed west looking for a shortcut to India and hit something else entirely.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #spices #history #trade #exploration #science",
+    "thumbnail_beat": "01"
+  }
+}

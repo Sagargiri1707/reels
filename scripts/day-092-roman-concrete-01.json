@@ -1,0 +1,109 @@
+{
+  "topic": "Roman concrete gets stronger in seawater",
+  "lesson": "Roman concrete grows interlocking crystals when seawater reaches its volcanic ash, and we did not lose the recipe so much as trade durability for speed, cost and steel reinforcement.",
+  "slug": "day-092-roman-concrete-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Modern concrete lasts about a century. Roman harbour concrete has stood two thousand years underwater.",
+      "scene": "a cracked pale block beside an intact one, a small black cartoon figure pressing into the crack",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cracked pale block beside an intact one, a small black cartoon figure pressing into the crack. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Seawater is what destroys concrete. It is the worst place you could possibly put it.",
+      "scene": "a lump of stone lowered into a jar of water, a small black cartoon figure holding it under",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lump of stone lowered into a jar of water, a small black cartoon figure holding it under. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The Romans put volcanic ash into the mix.",
+      "scene": "a scoop of dark ash, a small black cartoon figure tipping it into a mixing bowl",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a scoop of dark ash, a small black cartoon figure tipping it into a mixing bowl. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "When seawater gets in, it reacts with that ash and grows new crystals inside the material.",
+      "scene": "crystals grown on a string in a jar, a small black cartoon figure lifting the string out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. crystals grown on a string in a jar, a small black cartoon figure lifting the string out. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So the sea does not wear it away. The sea builds it.",
+      "scene": "a stone thick with fresh growth, a small black cartoon figure scraping at the growth",
+      "image_text": "SEAWATER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stone thick with fresh growth, a small black cartoon figure scraping at the growth. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SEAWATER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "There is more. The mix carries lumps of quicklime that were never properly blended in.",
+      "scene": "a mixing bowl with visible white lumps, a small black cartoon figure stirring around one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mixing bowl with visible white lumps, a small black cartoon figure stirring around one. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "A crack lets water reach a lump, it reacts, and the crack fills itself back in.",
+      "scene": "a slab with a crack closing over, a small black cartoon figure pressing along the closing line",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slab with a crack closing over, a small black cartoon figure pressing along the closing line. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "We did not lose this recipe to some mystery. We chose differently.",
+      "scene": "two mixing bowls side by side, a small black cartoon figure dragging one of them forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two mixing bowls side by side, a small black cartoon figure dragging one of them forward. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Modern concrete sets in hours, costs less, and takes steel. Roman concrete does none of that.",
+      "scene": "a steel rod being pushed into wet concrete, a small black cartoon figure shoving it down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a steel rod being pushed into wet concrete, a small black cartoon figure shoving it down. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We traded two thousand years of life for being able to build it by Friday.",
+      "scene": "a balance with a heavy stone against a clock, a small black cartoon figure pressing the clock side",
+      "image_text": "SPEED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance with a heavy stone against a clock, a small black cartoon figure pressing the clock side. the scene belongs to a material that repairs itself instead of wearing away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SPEED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Roman harbour concrete has survived 2,000 years in seawater, while modern concrete lasts around a century. Volcanic ash in the mix reacts with seawater to grow interlocking crystals inside the material, so the sea strengthens it rather than eroding it. Recent work also suggests unblended lumps of quicklime let cracks self-heal when water reaches them. We did not lose the recipe to mystery. We optimised for speed, cost and steel reinforcement instead.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #concrete #rome #engineering #materials #science",
+    "thumbnail_beat": "01"
+  }
+}

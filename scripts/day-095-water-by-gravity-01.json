@@ -1,0 +1,109 @@
+{
+  "topic": "Water delivered by gravity, over 100 km",
+  "lesson": "The achievement of a Roman aqueduct is the surveying, holding a slope of a few centimetres per kilometre across a whole landscape with no pumps anywhere in the system.",
+  "slug": "day-095-water-by-gravity-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Some Roman aqueducts drop a few centimetres per kilometre. Surveyed without a single laser.",
+      "scene": "a spirit level on a very long plank, a small black cartoon figure adjusting the far end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spirit level on a very long plank, a small black cartoon figure adjusting the far end. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Water only runs downhill. Get the slope wrong and it stops, or it tears the channel apart.",
+      "scene": "a shallow channel of water on a tilting board, a small black cartoon figure tipping the board",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow channel of water on a tilting board, a small black cartoon figure tipping the board. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Too flat and it silts up. Too steep and it scours the stone out from under itself.",
+      "scene": "a channel clogged solid with sand, a small black cartoon figure digging it out with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a channel clogged solid with sand, a small black cartoon figure digging it out with both arms. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So the channel has to fall by about a hand's width every kilometre, for fifty kilometres.",
+      "scene": "a long plank with a tiny shim under one end, a small black cartoon figure sliding the shim in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long plank with a tiny shim under one end, a small black cartoon figure sliding the shim in. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "The arches everybody photographs are not the achievement.",
+      "scene": "a small stone arch, a small black cartoon figure standing underneath it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small stone arch, a small black cartoon figure standing underneath it. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "They are just what you build when the ground is briefly in the wrong place.",
+      "scene": "a plank bridging a gap in the surface, a small black cartoon figure laying it across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plank bridging a gap in the surface, a small black cartoon figure laying it across. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The achievement is holding that slope across a landscape with a water level and a stick.",
+      "scene": "a water level tube beside a marked stick, a small black cartoon figure holding the stick upright",
+      "image_text": "SURVEYING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a water level tube beside a marked stick, a small black cartoon figure holding the stick upright. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SURVEYING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And when a valley was too deep to bridge, they ran the water down one side and back up the other.",
+      "scene": "a U shaped pipe with water standing in it, a small black cartoon figure pouring into one arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a U shaped pipe with water standing in it, a small black cartoon figure pouring into one arm. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Under pressure, in sealed pipe, with no pump anywhere in the entire system.",
+      "scene": "a sealed pipe run across the surface, a small black cartoon figure tapping along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed pipe run across the surface, a small black cartoon figure tapping along it. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "A whole city drinking continuously, and nothing in the chain was ever switched on.",
+      "scene": "a tap running steadily into a basin, a small black cartoon figure sitting under the stream",
+      "image_text": "NO PUMP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tap running steadily into a basin, a small black cartoon figure sitting under the stream. the scene belongs to holding an almost invisible slope across an enormous distance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO PUMP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Roman aqueducts held consistent gradients of a few centimetres per kilometre across enormous distances. Too flat and the channel silts up, too steep and the water scours the stone out. Where a valley was too deep to bridge, inverted siphons carried the water down one side and back up the other under pressure. No pumps anywhere in the system. The arches are the photogenic part. The surveying is the actual achievement.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #aqueduct #rome #engineering #history #science",
+    "thumbnail_beat": "05"
+  }
+}

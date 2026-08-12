@@ -1,0 +1,109 @@
+{
+  "topic": "4,500-year-old cities with covered drainage",
+  "lesson": "Indus Valley cities were planned on a grid with standardised bricks and covered sewers, yet left no palaces or kings, and their script is still undeciphered.",
+  "slug": "day-093-covered-drains-4500-years-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Four and a half thousand years ago, Indus cities had grid streets and covered sewers.",
+      "scene": "a slotted drain cover set in the surface, a small black cartoon figure heaving the cover up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slotted drain cover set in the surface, a small black cartoon figure heaving the cover up. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Plenty of cities today still do not have covered drainage.",
+      "scene": "an open ditch cut across the surface, a small black cartoon figure leaping over it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open ditch cut across the surface, a small black cartoon figure leaping over it. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Mohenjo-daro was laid out on a grid, deliberately, before a single house went up.",
+      "scene": "a chalk grid drawn on the surface, a small black cartoon figure dragging the chalk along a line",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk grid drawn on the surface, a small black cartoon figure dragging the chalk along a line. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Houses had private bathrooms, and those drained into channels running under the street.",
+      "scene": "a clay pipe joining a small basin, a small black cartoon figure pushing the pipe into place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay pipe joining a small basin, a small black cartoon figure pushing the pipe into place. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "The bricks are standardised. The same proportions, across hundreds of kilometres.",
+      "scene": "three identical bricks stacked, a small black cartoon figure holding one against another",
+      "image_text": "SAME BRICK",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three identical bricks stacked, a small black cartoon figure holding one against another. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SAME BRICK\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which means a standard existed, and somebody enforced it over that distance.",
+      "scene": "a long wooden measuring rule, a small black cartoon figure carrying it across the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long wooden measuring rule, a small black cartoon figure carrying it across the surface. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And here is the strange absence. No palaces. No grand tombs. Nothing that looks like a king.",
+      "scene": "an empty stone pedestal, a small black cartoon figure clambering onto the bare top",
+      "image_text": "NO KINGS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty stone pedestal, a small black cartoon figure clambering onto the bare top. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO KINGS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Enormous public baths and granaries instead, and not a throne anywhere.",
+      "scene": "a large stone bath, a small black cartoon figure climbing over its rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a large stone bath, a small black cartoon figure climbing over its rim. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Their writing is still undeciphered, so there is nobody left to ask.",
+      "scene": "a sealed clay tablet, a small black cartoon figure brushing dust off its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed clay tablet, a small black cartoon figure brushing dust off its face. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We know their plumbing intimately, and their language not at all.",
+      "scene": "a pipe joint on the surface, a small black cartoon figure tightening it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pipe joint on the surface, a small black cartoon figure tightening it with both arms. the scene belongs to a city planned before it was built, and what its remains do and do not contain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Mohenjo-daro and Harappa had grid streets, standardised bricks with consistent ratios across hundreds of kilometres, private bathrooms draining into covered street sewers, a great public bath and granaries. All around 2500 BCE. The stranger detail is what is missing: no palaces, no grand tombs, nothing that reads as a king. And the script is still undeciphered, so we know their engineering intimately and their language not at all.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #indusvalley #archaeology #cities #history #science",
+    "thumbnail_beat": "01"
+  }
+}

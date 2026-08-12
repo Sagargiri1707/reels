@@ -1,0 +1,823 @@
+{
+  "audio_duration": 49.423563,
+  "segments": [
+    {
+      "text": "Some",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "Roman",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "text": "aqueducts",
+      "start": 0.64,
+      "end": 1.28
+    },
+    {
+      "text": "drop",
+      "start": 1.28,
+      "end": 1.52
+    },
+    {
+      "text": "a",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "few",
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "text": "centimetres",
+      "start": 1.84,
+      "end": 2.48
+    },
+    {
+      "text": "per",
+      "start": 2.48,
+      "end": 2.56
+    },
+    {
+      "text": "kilometre",
+      "start": 2.56,
+      "end": 3.2
+    },
+    {
+      "text": "Surveyed",
+      "start": 3.44,
+      "end": 3.92
+    },
+    {
+      "text": "without",
+      "start": 3.92,
+      "end": 4.24
+    },
+    {
+      "text": "a",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "text": "single",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "text": "laser",
+      "start": 4.72,
+      "end": 5.2
+    },
+    {
+      "text": "Water",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "only",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "text": "runs",
+      "start": 6.16,
+      "end": 6.48
+    },
+    {
+      "text": "downhill",
+      "start": 6.48,
+      "end": 7.12
+    },
+    {
+      "text": "Get",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "text": "the",
+      "start": 7.52,
+      "end": 7.52
+    },
+    {
+      "text": "slope",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "text": "wrong",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "text": "and",
+      "start": 8.24,
+      "end": 8.4
+    },
+    {
+      "text": "it",
+      "start": 8.4,
+      "end": 8.48
+    },
+    {
+      "text": "stops",
+      "start": 8.48,
+      "end": 9.04
+    },
+    {
+      "text": "or",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "text": "it",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "tears",
+      "start": 9.52,
+      "end": 9.92
+    },
+    {
+      "text": "the",
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "text": "channel",
+      "start": 10.0,
+      "end": 10.32
+    },
+    {
+      "text": "apart",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "text": "Too",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "flat",
+      "start": 11.2,
+      "end": 11.6
+    },
+    {
+      "text": "and",
+      "start": 11.68,
+      "end": 11.76
+    },
+    {
+      "text": "it",
+      "start": 11.76,
+      "end": 11.84
+    },
+    {
+      "text": "silts",
+      "start": 11.84,
+      "end": 12.24
+    },
+    {
+      "text": "up",
+      "start": 12.24,
+      "end": 12.48
+    },
+    {
+      "text": "Too",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "text": "steep",
+      "start": 12.96,
+      "end": 13.36
+    },
+    {
+      "text": "and",
+      "start": 13.44,
+      "end": 13.52
+    },
+    {
+      "text": "it",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "scours",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "text": "the",
+      "start": 14.08,
+      "end": 14.16
+    },
+    {
+      "text": "stone",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "out",
+      "start": 14.56,
+      "end": 14.72
+    },
+    {
+      "text": "from",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "text": "under",
+      "start": 14.88,
+      "end": 15.12
+    },
+    {
+      "text": "itself",
+      "start": 15.12,
+      "end": 15.6
+    },
+    {
+      "text": "So",
+      "start": 15.98312925170068,
+      "end": 16.143129251700678
+    },
+    {
+      "text": "the",
+      "start": 16.143129251700678,
+      "end": 16.22312925170068
+    },
+    {
+      "text": "channel",
+      "start": 16.22312925170068,
+      "end": 16.62312925170068
+    },
+    {
+      "text": "has",
+      "start": 16.62312925170068,
+      "end": 16.86312925170068
+    },
+    {
+      "text": "to",
+      "start": 16.86312925170068,
+      "end": 16.86312925170068
+    },
+    {
+      "text": "fall",
+      "start": 16.86312925170068,
+      "end": 17.18312925170068
+    },
+    {
+      "text": "by",
+      "start": 17.18312925170068,
+      "end": 17.34312925170068
+    },
+    {
+      "text": "about",
+      "start": 17.34312925170068,
+      "end": 17.58312925170068
+    },
+    {
+      "text": "a",
+      "start": 17.58312925170068,
+      "end": 17.58312925170068
+    },
+    {
+      "text": "hand's",
+      "start": 17.58312925170068,
+      "end": 17.98312925170068
+    },
+    {
+      "text": "width",
+      "start": 17.98312925170068,
+      "end": 18.30312925170068
+    },
+    {
+      "text": "every",
+      "start": 18.30312925170068,
+      "end": 18.54312925170068
+    },
+    {
+      "text": "kilometre",
+      "start": 18.54312925170068,
+      "end": 19.18312925170068
+    },
+    {
+      "text": "for",
+      "start": 19.34312925170068,
+      "end": 19.42312925170068
+    },
+    {
+      "text": "fifty",
+      "start": 19.42312925170068,
+      "end": 19.823129251700678
+    },
+    {
+      "text": "kilometres",
+      "start": 19.823129251700678,
+      "end": 20.46312925170068
+    },
+    {
+      "text": "The",
+      "start": 20.86312925170068,
+      "end": 21.02312925170068
+    },
+    {
+      "text": "arches",
+      "start": 21.02312925170068,
+      "end": 21.42312925170068
+    },
+    {
+      "text": "everybody",
+      "start": 21.42312925170068,
+      "end": 21.90312925170068
+    },
+    {
+      "text": "photographs",
+      "start": 21.90312925170068,
+      "end": 22.46312925170068
+    },
+    {
+      "text": "are",
+      "start": 22.46312925170068,
+      "end": 22.62312925170068
+    },
+    {
+      "text": "not",
+      "start": 22.62312925170068,
+      "end": 22.86312925170068
+    },
+    {
+      "text": "the",
+      "start": 22.86312925170068,
+      "end": 23.02312925170068
+    },
+    {
+      "text": "achievement",
+      "start": 23.02312925170068,
+      "end": 23.58312925170068
+    },
+    {
+      "text": "They",
+      "start": 23.90312925170068,
+      "end": 23.98312925170068
+    },
+    {
+      "text": "are",
+      "start": 23.98312925170068,
+      "end": 24.06312925170068
+    },
+    {
+      "text": "just",
+      "start": 24.06312925170068,
+      "end": 24.38312925170068
+    },
+    {
+      "text": "what",
+      "start": 24.38312925170068,
+      "end": 24.54312925170068
+    },
+    {
+      "text": "you",
+      "start": 24.54312925170068,
+      "end": 24.70312925170068
+    },
+    {
+      "text": "build",
+      "start": 24.70312925170068,
+      "end": 25.02312925170068
+    },
+    {
+      "text": "when",
+      "start": 25.02312925170068,
+      "end": 25.183129251700677
+    },
+    {
+      "text": "the",
+      "start": 25.183129251700677,
+      "end": 25.26312925170068
+    },
+    {
+      "text": "ground",
+      "start": 25.26312925170068,
+      "end": 25.58312925170068
+    },
+    {
+      "text": "is",
+      "start": 25.58312925170068,
+      "end": 25.66312925170068
+    },
+    {
+      "text": "briefly",
+      "start": 25.66312925170068,
+      "end": 26.143129251700678
+    },
+    {
+      "text": "in",
+      "start": 26.143129251700678,
+      "end": 26.22312925170068
+    },
+    {
+      "text": "the",
+      "start": 26.22312925170068,
+      "end": 26.303129251700682
+    },
+    {
+      "text": "wrong",
+      "start": 26.303129251700682,
+      "end": 26.54312925170068
+    },
+    {
+      "text": "place",
+      "start": 26.54312925170068,
+      "end": 27.02312925170068
+    },
+    {
+      "text": "The",
+      "start": 27.446167800453512,
+      "end": 27.606167800453512
+    },
+    {
+      "text": "achievement",
+      "start": 27.606167800453512,
+      "end": 28.086167800453513
+    },
+    {
+      "text": "is",
+      "start": 28.086167800453513,
+      "end": 28.166167800453515
+    },
+    {
+      "text": "holding",
+      "start": 28.166167800453515,
+      "end": 28.566167800453513
+    },
+    {
+      "text": "that",
+      "start": 28.566167800453513,
+      "end": 28.726167800453513
+    },
+    {
+      "text": "slope",
+      "start": 28.726167800453513,
+      "end": 29.126167800453516
+    },
+    {
+      "text": "across",
+      "start": 29.126167800453516,
+      "end": 29.446167800453516
+    },
+    {
+      "text": "a",
+      "start": 29.446167800453516,
+      "end": 29.446167800453516
+    },
+    {
+      "text": "landscape",
+      "start": 29.446167800453516,
+      "end": 30.086167800453513
+    },
+    {
+      "text": "with",
+      "start": 30.086167800453513,
+      "end": 30.246167800453513
+    },
+    {
+      "text": "a",
+      "start": 30.246167800453513,
+      "end": 30.326167800453515
+    },
+    {
+      "text": "water",
+      "start": 30.326167800453515,
+      "end": 30.646167800453515
+    },
+    {
+      "text": "level",
+      "start": 30.646167800453515,
+      "end": 30.966167800453512
+    },
+    {
+      "text": "and",
+      "start": 30.966167800453512,
+      "end": 31.126167800453516
+    },
+    {
+      "text": "a",
+      "start": 31.126167800453516,
+      "end": 31.206167800453514
+    },
+    {
+      "text": "stick",
+      "start": 31.206167800453514,
+      "end": 31.686167800453514
+    },
+    {
+      "text": "And",
+      "start": 32.08616780045352,
+      "end": 32.24616780045351
+    },
+    {
+      "text": "when",
+      "start": 32.24616780045351,
+      "end": 32.32616780045351
+    },
+    {
+      "text": "a",
+      "start": 32.32616780045351,
+      "end": 32.40616780045352
+    },
+    {
+      "text": "valley",
+      "start": 32.40616780045352,
+      "end": 32.72616780045351
+    },
+    {
+      "text": "was",
+      "start": 32.72616780045351,
+      "end": 32.886167800453514
+    },
+    {
+      "text": "too",
+      "start": 32.886167800453514,
+      "end": 33.126167800453516
+    },
+    {
+      "text": "deep",
+      "start": 33.126167800453516,
+      "end": 33.36616780045351
+    },
+    {
+      "text": "to",
+      "start": 33.36616780045351,
+      "end": 33.446167800453516
+    },
+    {
+      "text": "bridge",
+      "start": 33.446167800453516,
+      "end": 33.846167800453514
+    },
+    {
+      "text": "they",
+      "start": 34.00616780045351,
+      "end": 34.166167800453515
+    },
+    {
+      "text": "ran",
+      "start": 34.166167800453515,
+      "end": 34.40616780045352
+    },
+    {
+      "text": "the",
+      "start": 34.40616780045352,
+      "end": 34.486167800453515
+    },
+    {
+      "text": "water",
+      "start": 34.486167800453515,
+      "end": 34.72616780045351
+    },
+    {
+      "text": "down",
+      "start": 34.806167800453515,
+      "end": 35.04616780045352
+    },
+    {
+      "text": "one",
+      "start": 35.04616780045352,
+      "end": 35.28616780045351
+    },
+    {
+      "text": "side",
+      "start": 35.28616780045351,
+      "end": 35.68616780045352
+    },
+    {
+      "text": "and",
+      "start": 35.846167800453514,
+      "end": 36.00616780045351
+    },
+    {
+      "text": "back",
+      "start": 36.00616780045351,
+      "end": 36.24616780045351
+    },
+    {
+      "text": "up",
+      "start": 36.24616780045351,
+      "end": 36.40616780045352
+    },
+    {
+      "text": "the",
+      "start": 36.40616780045352,
+      "end": 36.56616780045351
+    },
+    {
+      "text": "other",
+      "start": 36.64616780045351,
+      "end": 36.886167800453514
+    },
+    {
+      "text": "Under",
+      "start": 37.126167800453516,
+      "end": 37.36616780045351
+    },
+    {
+      "text": "pressure",
+      "start": 37.36616780045351,
+      "end": 37.846167800453514
+    },
+    {
+      "text": "in",
+      "start": 37.92616780045351,
+      "end": 38.08616780045352
+    },
+    {
+      "text": "sealed",
+      "start": 38.08616780045352,
+      "end": 38.40616780045352
+    },
+    {
+      "text": "pipe",
+      "start": 38.40616780045352,
+      "end": 38.72616780045351
+    },
+    {
+      "text": "with",
+      "start": 38.96616780045351,
+      "end": 39.126167800453516
+    },
+    {
+      "text": "no",
+      "start": 39.126167800453516,
+      "end": 39.36616780045351
+    },
+    {
+      "text": "pump",
+      "start": 39.36616780045351,
+      "end": 39.68616780045352
+    },
+    {
+      "text": "anywhere",
+      "start": 39.68616780045352,
+      "end": 40.08616780045352
+    },
+    {
+      "text": "in",
+      "start": 40.08616780045352,
+      "end": 40.166167800453515
+    },
+    {
+      "text": "the",
+      "start": 40.166167800453515,
+      "end": 40.32616780045351
+    },
+    {
+      "text": "entire",
+      "start": 40.32616780045351,
+      "end": 40.72616780045351
+    },
+    {
+      "text": "system",
+      "start": 40.72616780045351,
+      "end": 41.206167800453514
+    },
+    {
+      "text": "A",
+      "start": 41.59501133786848,
+      "end": 41.675011337868476
+    },
+    {
+      "text": "whole",
+      "start": 41.675011337868476,
+      "end": 41.995011337868476
+    },
+    {
+      "text": "city",
+      "start": 41.995011337868476,
+      "end": 42.31501133786848
+    },
+    {
+      "text": "drinking",
+      "start": 42.31501133786848,
+      "end": 42.715011337868475
+    },
+    {
+      "text": "continuously",
+      "start": 42.715011337868475,
+      "end": 43.51501133786847
+    },
+    {
+      "text": "and",
+      "start": 43.675011337868476,
+      "end": 43.91501133786848
+    },
+    {
+      "text": "nothing",
+      "start": 43.91501133786848,
+      "end": 44.15501133786847
+    },
+    {
+      "text": "in",
+      "start": 44.15501133786847,
+      "end": 44.23501133786848
+    },
+    {
+      "text": "the",
+      "start": 44.23501133786848,
+      "end": 44.31501133786848
+    },
+    {
+      "text": "chain",
+      "start": 44.31501133786848,
+      "end": 44.715011337868475
+    },
+    {
+      "text": "was",
+      "start": 44.715011337868475,
+      "end": 44.79501133786847
+    },
+    {
+      "text": "ever",
+      "start": 44.79501133786847,
+      "end": 45.035011337868475
+    },
+    {
+      "text": "switched",
+      "start": 45.035011337868475,
+      "end": 45.435011337868474
+    },
+    {
+      "text": "on",
+      "start": 45.435011337868474,
+      "end": 45.675011337868476
+    },
+    {
+      "text": "One",
+      "start": 45.91501133786848,
+      "end": 46.15501133786847
+    },
+    {
+      "text": "of",
+      "start": 46.15501133786847,
+      "end": 46.23501133786848
+    },
+    {
+      "text": "these",
+      "start": 46.23501133786848,
+      "end": 46.55501133786848
+    },
+    {
+      "text": "every",
+      "start": 46.55501133786848,
+      "end": 46.87501133786847
+    },
+    {
+      "text": "day",
+      "start": 46.87501133786847,
+      "end": 47.19501133786848
+    },
+    {
+      "text": "Follow",
+      "start": 47.51501133786847,
+      "end": 47.83501133786848
+    },
+    {
+      "text": "so",
+      "start": 47.83501133786848,
+      "end": 47.91501133786848
+    },
+    {
+      "text": "you",
+      "start": 47.91501133786848,
+      "end": 48.075011337868474
+    },
+    {
+      "text": "do",
+      "start": 48.075011337868474,
+      "end": 48.23501133786848
+    },
+    {
+      "text": "not",
+      "start": 48.23501133786848,
+      "end": 48.47501133786847
+    },
+    {
+      "text": "miss",
+      "start": 48.47501133786847,
+      "end": 48.715011337868475
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.715011337868475,
+      "end": 49.19501133786848
+    }
+  ],
+  "text": "Some Roman aqueducts drop a few centimetres per kilometre. Surveyed without a single laser. Water only runs downhill. Get the slope wrong and it stops, or it tears the channel apart. Too flat and it silts up. Too steep and it scours the stone out from under itself. So the channel has to fall by about a hand's width every kilometre, for fifty kilometres. The arches everybody photographs are not the achievement. They are just what you build when the ground is briefly in the wrong place. The achievement is holding that slope across a landscape with a water level and a stick. And when a valley was too deep to bridge, they ran the water down one side and back up the other. Under pressure, in sealed pipe, with no pump anywhere in the entire system. A whole city drinking continuously, and nothing in the chain was ever switched on. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

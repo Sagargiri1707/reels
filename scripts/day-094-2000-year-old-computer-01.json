@@ -1,0 +1,109 @@
+{
+  "topic": "The 2,000-year-old computer",
+  "lesson": "The Antikythera mechanism was an analogue astronomical calculator with gearing nobody matched again for over a thousand years, which shows technological progress is not a line.",
+  "slug": "day-094-2000-year-old-computer-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Divers pulled a corroded lump off a shipwreck. Inside it were thirty bronze gears.",
+      "scene": "a corroded lump split open showing a gear edge, a small black cartoon figure prising it apart",
+      "image_text": "THIRTY GEARS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a corroded lump split open showing a gear edge, a small black cartoon figure prising it apart. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THIRTY GEARS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Nobody was building gearing like that again for well over a thousand years.",
+      "scene": "a single bronze gear, a small black cartoon figure rolling it along the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single bronze gear, a small black cartoon figure rolling it along the surface. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It is a calculator, and what it calculates is the sky.",
+      "scene": "a hand crank on a small gear box, a small black cartoon figure turning it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand crank on a small gear box, a small black cartoon figure turning it with both arms. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Turn the handle and it shows you where the sun and moon are going to be.",
+      "scene": "a small orb on a curved brass track, a small black cartoon figure pushing the orb along",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small orb on a curved brass track, a small black cartoon figure pushing the orb along. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "It predicts eclipses. It tracks the four year cycle of the games.",
+      "scene": "a disc casting a shadow across another, a small black cartoon figure holding the top disc up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a disc casting a shadow across another, a small black cartoon figure holding the top disc up. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "It even models the moon speeding up and slowing down across its orbit.",
+      "scene": "a wheel with unevenly spaced marks, a small black cartoon figure turning it slowly",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wheel with unevenly spaced marks, a small black cartoon figure turning it slowly. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Which raises the obvious question. What happened next?",
+      "scene": "a bare workbench with tools laid out, a small black cartoon figure standing on the empty bench",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bare workbench with tools laid out, a small black cartoon figure standing on the empty bench. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Nothing. Nobody built on it. The knowledge went into the sea and stayed there.",
+      "scene": "a wooden crate sinking in water, a small black cartoon figure clinging to the lid",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden crate sinking in water, a small black cartoon figure clinging to the lid. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Progress is not a line. Things get invented, then lost, and stay lost for centuries.",
+      "scene": "a staircase with the whole middle missing, a small black cartoon figure standing at the gap",
+      "image_text": "NOT A LINE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a staircase with the whole middle missing, a small black cartoon figure standing at the gap. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT A LINE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Whoever made this had no idea they were the end of it.",
+      "scene": "one gear alone on the bare surface with nothing to mesh with, a small black cartoon figure turning it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one gear alone on the bare surface with nothing to mesh with, a small black cartoon figure turning it. the scene belongs to a machine far ahead of everything around it, and knowledge that simply stops, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The Antikythera mechanism came out of a shipwreck as a corroded lump and turned out to hold around 30 bronze gears. It is an analogue astronomical calculator: solar and lunar positions, eclipse prediction, the Olympiad cycle, and even a model of the moon's varying speed across its orbit. Gearing that sophisticated does not appear again for well over a thousand years. Progress is not a line. Knowledge gets lost, and it can stay lost.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #antikythera #archaeology #engineering #history #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,783 @@
+{
+  "audio_duration": 48.92725,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "first",
+      "start": 0.08,
+      "end": 0.4
+    },
+    {
+      "text": "things",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "text": "humans",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "text": "ever",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "text": "wrote",
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "text": "down",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "text": "are",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "not",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "poems",
+      "start": 2.56,
+      "end": 3.12
+    },
+    {
+      "text": "They",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "are",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "text": "lists",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "of",
+      "start": 4.0,
+      "end": 4.16
+    },
+    {
+      "text": "grain",
+      "start": 4.16,
+      "end": 4.64
+    },
+    {
+      "text": "You",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "imagine",
+      "start": 5.04,
+      "end": 5.44
+    },
+    {
+      "text": "writing",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "text": "starting",
+      "start": 5.84,
+      "end": 6.16
+    },
+    {
+      "text": "with",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "a",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "story",
+      "start": 6.4,
+      "end": 6.8
+    },
+    {
+      "text": "somebody",
+      "start": 6.8,
+      "end": 7.2
+    },
+    {
+      "text": "wanted",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "to",
+      "start": 7.52,
+      "end": 7.6
+    },
+    {
+      "text": "keep",
+      "start": 7.6,
+      "end": 8.0
+    },
+    {
+      "text": "It",
+      "start": 8.4,
+      "end": 8.48
+    },
+    {
+      "text": "starts",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "with",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "somebody",
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "text": "who",
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "text": "wanted",
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "text": "to",
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "text": "remember",
+      "start": 9.92,
+      "end": 10.32
+    },
+    {
+      "text": "who",
+      "start": 10.32,
+      "end": 10.56
+    },
+    {
+      "text": "owed",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "text": "them",
+      "start": 10.8,
+      "end": 11.12
+    },
+    {
+      "text": "barley",
+      "start": 11.12,
+      "end": 11.52
+    },
+    {
+      "text": "Before",
+      "start": 11.92,
+      "end": 12.24
+    },
+    {
+      "text": "any",
+      "start": 12.24,
+      "end": 12.48
+    },
+    {
+      "text": "symbols",
+      "start": 12.48,
+      "end": 12.96
+    },
+    {
+      "text": "there",
+      "start": 12.96,
+      "end": 13.12
+    },
+    {
+      "text": "were",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "clay",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "tokens",
+      "start": 13.52,
+      "end": 14.08
+    },
+    {
+      "text": "One",
+      "start": 14.417052154195012,
+      "end": 14.657052154195013
+    },
+    {
+      "text": "shape",
+      "start": 14.657052154195013,
+      "end": 14.977052154195013
+    },
+    {
+      "text": "for",
+      "start": 14.977052154195013,
+      "end": 15.137052154195013
+    },
+    {
+      "text": "a",
+      "start": 15.137052154195013,
+      "end": 15.137052154195013
+    },
+    {
+      "text": "sheep",
+      "start": 15.137052154195013,
+      "end": 15.537052154195012
+    },
+    {
+      "text": "another",
+      "start": 15.857052154195012,
+      "end": 16.257052154195012
+    },
+    {
+      "text": "for",
+      "start": 16.257052154195012,
+      "end": 16.417052154195012
+    },
+    {
+      "text": "a",
+      "start": 16.417052154195012,
+      "end": 16.49705215419501
+    },
+    {
+      "text": "jar",
+      "start": 16.49705215419501,
+      "end": 16.81705215419501
+    },
+    {
+      "text": "of",
+      "start": 16.81705215419501,
+      "end": 16.897052154195013
+    },
+    {
+      "text": "oil",
+      "start": 16.897052154195013,
+      "end": 17.377052154195013
+    },
+    {
+      "text": "You",
+      "start": 17.697052154195013,
+      "end": 17.77705215419501
+    },
+    {
+      "text": "sealed",
+      "start": 17.77705215419501,
+      "end": 18.17705215419501
+    },
+    {
+      "text": "the",
+      "start": 18.17705215419501,
+      "end": 18.257052154195012
+    },
+    {
+      "text": "tokens",
+      "start": 18.257052154195012,
+      "end": 18.737052154195013
+    },
+    {
+      "text": "inside",
+      "start": 18.737052154195013,
+      "end": 19.13705215419501
+    },
+    {
+      "text": "a",
+      "start": 19.13705215419501,
+      "end": 19.13705215419501
+    },
+    {
+      "text": "clay",
+      "start": 19.13705215419501,
+      "end": 19.45705215419501
+    },
+    {
+      "text": "ball",
+      "start": 19.45705215419501,
+      "end": 19.85705215419501
+    },
+    {
+      "text": "so",
+      "start": 20.017052154195014,
+      "end": 20.17705215419501
+    },
+    {
+      "text": "nobody",
+      "start": 20.17705215419501,
+      "end": 20.577052154195012
+    },
+    {
+      "text": "could",
+      "start": 20.577052154195012,
+      "end": 20.737052154195013
+    },
+    {
+      "text": "quietly",
+      "start": 20.737052154195013,
+      "end": 21.13705215419501
+    },
+    {
+      "text": "swap",
+      "start": 21.13705215419501,
+      "end": 21.537052154195013
+    },
+    {
+      "text": "them",
+      "start": 21.537052154195013,
+      "end": 21.77705215419501
+    },
+    {
+      "text": "But",
+      "start": 22.097052154195012,
+      "end": 22.257052154195012
+    },
+    {
+      "text": "then",
+      "start": 22.257052154195012,
+      "end": 22.49705215419501
+    },
+    {
+      "text": "you",
+      "start": 22.49705215419501,
+      "end": 22.577052154195012
+    },
+    {
+      "text": "could",
+      "start": 22.577052154195012,
+      "end": 22.657052154195014
+    },
+    {
+      "text": "not",
+      "start": 22.657052154195014,
+      "end": 22.897052154195013
+    },
+    {
+      "text": "see",
+      "start": 22.897052154195013,
+      "end": 23.13705215419501
+    },
+    {
+      "text": "inside",
+      "start": 23.13705215419501,
+      "end": 23.697052154195013
+    },
+    {
+      "text": "so",
+      "start": 23.85705215419501,
+      "end": 24.017052154195014
+    },
+    {
+      "text": "you",
+      "start": 24.017052154195014,
+      "end": 24.17705215419501
+    },
+    {
+      "text": "pressed",
+      "start": 24.17705215419501,
+      "end": 24.49705215419501
+    },
+    {
+      "text": "each",
+      "start": 24.49705215419501,
+      "end": 24.737052154195013
+    },
+    {
+      "text": "token",
+      "start": 24.737052154195013,
+      "end": 25.13705215419501
+    },
+    {
+      "text": "into",
+      "start": 25.13705215419501,
+      "end": 25.29705215419501
+    },
+    {
+      "text": "the",
+      "start": 25.29705215419501,
+      "end": 25.45705215419501
+    },
+    {
+      "text": "outside",
+      "start": 25.45705215419501,
+      "end": 25.937052154195012
+    },
+    {
+      "text": "first",
+      "start": 25.937052154195012,
+      "end": 26.417052154195012
+    },
+    {
+      "text": "And",
+      "start": 26.737052154195013,
+      "end": 26.897052154195013
+    },
+    {
+      "text": "once",
+      "start": 26.897052154195013,
+      "end": 27.217052154195013
+    },
+    {
+      "text": "the",
+      "start": 27.217052154195013,
+      "end": 27.217052154195013
+    },
+    {
+      "text": "marks",
+      "start": 27.217052154195013,
+      "end": 27.53705215419501
+    },
+    {
+      "text": "on",
+      "start": 27.53705215419501,
+      "end": 27.697052154195013
+    },
+    {
+      "text": "the",
+      "start": 27.697052154195013,
+      "end": 27.77705215419501
+    },
+    {
+      "text": "outside",
+      "start": 27.77705215419501,
+      "end": 28.17705215419501
+    },
+    {
+      "text": "were",
+      "start": 28.17705215419501,
+      "end": 28.337052154195014
+    },
+    {
+      "text": "enough",
+      "start": 28.337052154195014,
+      "end": 28.657052154195014
+    },
+    {
+      "text": "the",
+      "start": 28.897052154195013,
+      "end": 28.977052154195015
+    },
+    {
+      "text": "tokens",
+      "start": 28.977052154195015,
+      "end": 29.377052154195013
+    },
+    {
+      "text": "inside",
+      "start": 29.377052154195013,
+      "end": 29.85705215419501
+    },
+    {
+      "text": "were",
+      "start": 29.85705215419501,
+      "end": 30.017052154195014
+    },
+    {
+      "text": "pointless",
+      "start": 30.017052154195014,
+      "end": 30.577052154195012
+    },
+    {
+      "text": "So",
+      "start": 31.078231292517007,
+      "end": 31.238231292517007
+    },
+    {
+      "text": "the",
+      "start": 31.238231292517007,
+      "end": 31.31823129251701
+    },
+    {
+      "text": "ball",
+      "start": 31.31823129251701,
+      "end": 31.63823129251701
+    },
+    {
+      "text": "flattened",
+      "start": 31.63823129251701,
+      "end": 32.11823129251701
+    },
+    {
+      "text": "into",
+      "start": 32.11823129251701,
+      "end": 32.35823129251701
+    },
+    {
+      "text": "a",
+      "start": 32.35823129251701,
+      "end": 32.35823129251701
+    },
+    {
+      "text": "tablet",
+      "start": 32.35823129251701,
+      "end": 32.91823129251701
+    },
+    {
+      "text": "and",
+      "start": 33.15823129251701,
+      "end": 33.318231292517005
+    },
+    {
+      "text": "the",
+      "start": 33.318231292517005,
+      "end": 33.39823129251701
+    },
+    {
+      "text": "impressions",
+      "start": 33.39823129251701,
+      "end": 33.958231292517006
+    },
+    {
+      "text": "became",
+      "start": 33.958231292517006,
+      "end": 34.278231292517006
+    },
+    {
+      "text": "a",
+      "start": 34.278231292517006,
+      "end": 34.278231292517006
+    },
+    {
+      "text": "script",
+      "start": 34.278231292517006,
+      "end": 34.83823129251701
+    },
+    {
+      "text": "Writing",
+      "start": 35.15823129251701,
+      "end": 35.47823129251701
+    },
+    {
+      "text": "was",
+      "start": 35.47823129251701,
+      "end": 35.638231292517005
+    },
+    {
+      "text": "not",
+      "start": 35.638231292517005,
+      "end": 35.79823129251701
+    },
+    {
+      "text": "invented",
+      "start": 35.79823129251701,
+      "end": 36.358231292517004
+    },
+    {
+      "text": "to",
+      "start": 36.358231292517004,
+      "end": 36.43823129251701
+    },
+    {
+      "text": "express",
+      "start": 36.43823129251701,
+      "end": 36.83823129251701
+    },
+    {
+      "text": "anything",
+      "start": 36.83823129251701,
+      "end": 37.39823129251701
+    },
+    {
+      "text": "It",
+      "start": 37.71823129251701,
+      "end": 37.79823129251701
+    },
+    {
+      "text": "was",
+      "start": 37.79823129251701,
+      "end": 37.958231292517006
+    },
+    {
+      "text": "invented",
+      "start": 37.958231292517006,
+      "end": 38.43823129251701
+    },
+    {
+      "text": "to",
+      "start": 38.43823129251701,
+      "end": 38.43823129251701
+    },
+    {
+      "text": "settle",
+      "start": 38.43823129251701,
+      "end": 38.83823129251701
+    },
+    {
+      "text": "an",
+      "start": 38.83823129251701,
+      "end": 38.91823129251701
+    },
+    {
+      "text": "argument",
+      "start": 38.91823129251701,
+      "end": 39.31823129251701
+    },
+    {
+      "text": "about",
+      "start": 39.31823129251701,
+      "end": 39.638231292517005
+    },
+    {
+      "text": "a",
+      "start": 39.638231292517005,
+      "end": 39.638231292517005
+    },
+    {
+      "text": "debt",
+      "start": 39.638231292517005,
+      "end": 40.03823129251701
+    },
+    {
+      "text": "Literature",
+      "start": 40.358231292517004,
+      "end": 40.83823129251701
+    },
+    {
+      "text": "came",
+      "start": 40.83823129251701,
+      "end": 41.07823129251701
+    },
+    {
+      "text": "thousands",
+      "start": 41.07823129251701,
+      "end": 41.638231292517005
+    },
+    {
+      "text": "of",
+      "start": 41.638231292517005,
+      "end": 41.71823129251701
+    },
+    {
+      "text": "years",
+      "start": 41.71823129251701,
+      "end": 41.958231292517006
+    },
+    {
+      "text": "later",
+      "start": 41.958231292517006,
+      "end": 42.43823129251701
+    },
+    {
+      "text": "riding",
+      "start": 42.598231292517006,
+      "end": 42.998231292517005
+    },
+    {
+      "text": "on",
+      "start": 42.998231292517005,
+      "end": 43.07823129251701
+    },
+    {
+      "text": "a",
+      "start": 43.07823129251701,
+      "end": 43.15823129251701
+    },
+    {
+      "text": "technology",
+      "start": 43.15823129251701,
+      "end": 43.79823129251701
+    },
+    {
+      "text": "built",
+      "start": 43.79823129251701,
+      "end": 44.03823129251701
+    },
+    {
+      "text": "for",
+      "start": 44.03823129251701,
+      "end": 44.19823129251701
+    },
+    {
+      "text": "bookkeeping",
+      "start": 44.19823129251701,
+      "end": 44.83823129251701
+    },
+    {
+      "text": "One",
+      "start": 45.07823129251701,
+      "end": 45.31823129251701
+    },
+    {
+      "text": "of",
+      "start": 45.31823129251701,
+      "end": 45.47823129251701
+    },
+    {
+      "text": "these",
+      "start": 45.47823129251701,
+      "end": 45.71823129251701
+    },
+    {
+      "text": "every",
+      "start": 45.71823129251701,
+      "end": 46.03823129251701
+    },
+    {
+      "text": "day",
+      "start": 46.03823129251701,
+      "end": 46.358231292517004
+    },
+    {
+      "text": "Follow",
+      "start": 46.82283446712018,
+      "end": 47.14283446712018
+    },
+    {
+      "text": "so",
+      "start": 47.14283446712018,
+      "end": 47.30283446712018
+    },
+    {
+      "text": "you",
+      "start": 47.30283446712018,
+      "end": 47.46283446712018
+    },
+    {
+      "text": "do",
+      "start": 47.46283446712018,
+      "end": 47.62283446712018
+    },
+    {
+      "text": "not",
+      "start": 47.62283446712018,
+      "end": 47.86283446712018
+    },
+    {
+      "text": "miss",
+      "start": 47.86283446712018,
+      "end": 48.10283446712018
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.10283446712018,
+      "end": 48.66283446712018
+    }
+  ],
+  "text": "The first things humans ever wrote down are not poems. They are lists of grain. You imagine writing starting with a story somebody wanted to keep. It starts with somebody who wanted to remember who owed them barley. Before any symbols there were clay tokens. One shape for a sheep, another for a jar of oil. You sealed the tokens inside a clay ball so nobody could quietly swap them. But then you could not see inside, so you pressed each token into the outside first. And once the marks on the outside were enough, the tokens inside were pointless. So the ball flattened into a tablet, and the impressions became a script. Writing was not invented to express anything. It was invented to settle an argument about a debt. Literature came thousands of years later, riding on a technology built for bookkeeping. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

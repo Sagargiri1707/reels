@@ -1,0 +1,109 @@
+{
+  "topic": "The first writing was a receipt",
+  "lesson": "Writing was invented to settle arguments about debt, evolving from clay tokens sealed in a ball to marks pressed on its outside, with literature arriving thousands of years later.",
+  "slug": "day-096-first-writing-was-a-receipt-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The first things humans ever wrote down are not poems. They are lists of grain.",
+      "scene": "a clay tablet covered in tally marks, a small black cartoon figure pressing another mark in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay tablet covered in tally marks, a small black cartoon figure pressing another mark in. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You imagine writing starting with a story somebody wanted to keep.",
+      "scene": "a rolled scroll tied with ribbon, a small black cartoon figure hauling the knot loose",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rolled scroll tied with ribbon, a small black cartoon figure hauling the knot loose. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "It starts with somebody who wanted to remember who owed them barley.",
+      "scene": "a bowl heaped with barley, a small black cartoon figure scooping some out with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl heaped with barley, a small black cartoon figure scooping some out with both arms. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Before any symbols there were clay tokens. One shape for a sheep, another for a jar of oil.",
+      "scene": "small clay shapes spread out, a small black cartoon figure sorting them into groups",
+      "image_text": "TOKENS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. small clay shapes spread out, a small black cartoon figure sorting them into groups. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TOKENS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "You sealed the tokens inside a clay ball so nobody could quietly swap them.",
+      "scene": "a hollow clay ball, a small black cartoon figure dropping a token in through the hole",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hollow clay ball, a small black cartoon figure dropping a token in through the hole. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "But then you could not see inside, so you pressed each token into the outside first.",
+      "scene": "a clay ball covered in pressed impressions, a small black cartoon figure pushing a token into its surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clay ball covered in pressed impressions, a small black cartoon figure pushing a token into its surface. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And once the marks on the outside were enough, the tokens inside were pointless.",
+      "scene": "a cracked open ball spilling tokens, a small black cartoon figure sweeping them aside",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cracked open ball spilling tokens, a small black cartoon figure sweeping them aside. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So the ball flattened into a tablet, and the impressions became a script.",
+      "scene": "a flat clay tablet under a stylus, a small black cartoon figure pressing the stylus down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat clay tablet under a stylus, a small black cartoon figure pressing the stylus down. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Writing was not invented to express anything. It was invented to settle an argument about a debt.",
+      "scene": "a ledger held open by a stone, a small black cartoon figure shoving the stone across the page",
+      "image_text": "WHO OWED WHAT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ledger held open by a stone, a small black cartoon figure shoving the stone across the page. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WHO OWED WHAT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Literature came thousands of years later, riding on a technology built for bookkeeping.",
+      "scene": "a stack of books balanced on one clay tablet, a small black cartoon figure steadying the stack",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of books balanced on one clay tablet, a small black cartoon figure steadying the stack. the scene belongs to a counting tool turning by accident into a way of recording anything, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Humanity's earliest written texts are inventories of grain and livestock, not poetry or prayer. It began with clay tokens for counting goods, sealed inside a clay ball so nobody could swap them, with each token pressed into the outside so you could check without breaking it. Once the outside marks were enough, the tokens became redundant, the ball flattened into a tablet, and the impressions became cuneiform. Writing was invented to solve an accounting problem.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #writing #cuneiform #history #archaeology #science",
+    "thumbnail_beat": "01"
+  }
+}

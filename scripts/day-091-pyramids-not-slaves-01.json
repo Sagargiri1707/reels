@@ -1,0 +1,109 @@
+{
+  "topic": "The pyramids weren't built by slaves",
+  "lesson": "The workers who built the pyramids were fed, housed, medically treated and buried on site, and the hard problem was never the stone but organising tens of thousands of people for decades.",
+  "slug": "day-091-pyramids-not-slaves-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The pyramids were not built by slaves. We found the workers' village.",
+      "scene": "a stone block up on wooden rollers, a small black cartoon figure heaving it forward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stone block up on wooden rollers, a small black cartoon figure heaving it forward. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The slave story comes from writers thousands of years later, not from anyone who was there.",
+      "scene": "a very old book, a small black cartoon figure slamming it shut with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very old book, a small black cartoon figure slamming it shut with both arms. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "At Giza there are bakeries, breweries, and cattle bone for thousands of meals a day.",
+      "scene": "a bread oven with loaves inside, a small black cartoon figure sliding one out on a long peel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bread oven with loaves inside, a small black cartoon figure sliding one out on a long peel. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "There are worker tombs, built right beside the thing they were building.",
+      "scene": "a small stone grave marker, a small black cartoon figure heaving it upright",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small stone grave marker, a small black cartoon figure heaving it upright. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Nobody buries a slave in sight of the king's monument.",
+      "scene": "a rope barrier between two posts, a small black cartoon figure lifting the rope to pass under",
+      "image_text": "PAID",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope barrier between two posts, a small black cartoon figure lifting the rope to pass under. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"PAID\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And the skeletons show healed fractures. Set properly, and left to mend.",
+      "scene": "a splinted length of bone, a small black cartoon figure binding the splint tight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a splinted length of bone, a small black cartoon figure binding the splint tight. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Somebody was treating injured workers and feeding them while they could not work.",
+      "scene": "a full bowl carried to a rolled sleeping mat, a small black cartoon figure carrying the bowl",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full bowl carried to a rolled sleeping mat, a small black cartoon figure carrying the bowl. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "They left graffiti too. Work gangs with names, scrawled where nobody was meant to look.",
+      "scene": "a chalk mark on the hidden face of a block, a small black cartoon figure dragging the chalk",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk mark on the hidden face of a block, a small black cartoon figure dragging the chalk. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The hard problem was never the stone. It was feeding and organising thousands of people for decades.",
+      "scene": "an enormous stack of bread baskets, a small black cartoon figure hauling one down from the top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous stack of bread baskets, a small black cartoon figure hauling one down from the top. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "How the blocks got up there is still genuinely argued about. Who carried them is not.",
+      "scene": "two model ramps of different shapes, a small black cartoon figure shoving a block up one",
+      "image_text": "STILL OPEN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two model ramps of different shapes, a small black cartoon figure shoving a block up one. the scene belongs to the evidence a workforce leaves behind, and the logistics of feeding it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STILL OPEN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The evidence at Giza is a workers' village: bakeries, breweries, cattle bone for thousands of meals a day, and worker tombs built in sight of the monument itself. Skeletons show fractures that were set properly and healed, meaning injured workers were treated and fed while unable to work. The gangs even left graffiti with team names. The ramp question is genuinely unresolved. The workforce question is not.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #pyramids #egypt #archaeology #history #science",
+    "thumbnail_beat": "01"
+  }
+}

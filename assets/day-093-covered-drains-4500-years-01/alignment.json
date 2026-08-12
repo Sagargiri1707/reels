@@ -1,0 +1,698 @@
+{
+  "audio_duration": 47.54275,
+  "segments": [
+    {
+      "text": "Four",
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "text": "and",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "text": "a",
+      "start": 0.4,
+      "end": 0.48
+    },
+    {
+      "text": "half",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "thousand",
+      "start": 0.8,
+      "end": 1.2
+    },
+    {
+      "text": "years",
+      "start": 1.2,
+      "end": 1.44
+    },
+    {
+      "text": "ago",
+      "start": 1.44,
+      "end": 1.76
+    },
+    {
+      "text": "Indus",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "text": "cities",
+      "start": 2.32,
+      "end": 2.72
+    },
+    {
+      "text": "had",
+      "start": 2.72,
+      "end": 2.88
+    },
+    {
+      "text": "grid",
+      "start": 2.88,
+      "end": 3.2
+    },
+    {
+      "text": "streets",
+      "start": 3.2,
+      "end": 3.6
+    },
+    {
+      "text": "and",
+      "start": 3.6,
+      "end": 3.68
+    },
+    {
+      "text": "covered",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "text": "sewers",
+      "start": 4.08,
+      "end": 4.64
+    },
+    {
+      "text": "Plenty",
+      "start": 4.96,
+      "end": 5.36
+    },
+    {
+      "text": "of",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "text": "cities",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "today",
+      "start": 5.76,
+      "end": 6.08
+    },
+    {
+      "text": "still",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "do",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "not",
+      "start": 6.56,
+      "end": 6.8
+    },
+    {
+      "text": "have",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "covered",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "text": "drainage",
+      "start": 7.28,
+      "end": 7.84
+    },
+    {
+      "text": "Mohenjodaro",
+      "start": 8.24,
+      "end": 9.12
+    },
+    {
+      "text": "was",
+      "start": 9.12,
+      "end": 9.28
+    },
+    {
+      "text": "laid",
+      "start": 9.28,
+      "end": 9.52
+    },
+    {
+      "text": "out",
+      "start": 9.52,
+      "end": 9.68
+    },
+    {
+      "text": "on",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "a",
+      "start": 9.84,
+      "end": 9.84
+    },
+    {
+      "text": "grid",
+      "start": 9.84,
+      "end": 10.32
+    },
+    {
+      "text": "deliberately",
+      "start": 10.48,
+      "end": 11.12
+    },
+    {
+      "text": "before",
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "text": "a",
+      "start": 11.6,
+      "end": 11.6
+    },
+    {
+      "text": "single",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "text": "house",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "text": "went",
+      "start": 12.32,
+      "end": 12.56
+    },
+    {
+      "text": "up",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "Houses",
+      "start": 13.230294784580499,
+      "end": 13.6302947845805
+    },
+    {
+      "text": "had",
+      "start": 13.6302947845805,
+      "end": 13.7902947845805
+    },
+    {
+      "text": "private",
+      "start": 13.7902947845805,
+      "end": 14.190294784580498
+    },
+    {
+      "text": "bathrooms",
+      "start": 14.190294784580498,
+      "end": 14.750294784580499
+    },
+    {
+      "text": "and",
+      "start": 14.990294784580499,
+      "end": 15.150294784580499
+    },
+    {
+      "text": "those",
+      "start": 15.150294784580499,
+      "end": 15.3902947845805
+    },
+    {
+      "text": "drained",
+      "start": 15.3902947845805,
+      "end": 15.710294784580498
+    },
+    {
+      "text": "into",
+      "start": 15.710294784580498,
+      "end": 15.870294784580498
+    },
+    {
+      "text": "channels",
+      "start": 15.870294784580498,
+      "end": 16.3502947845805
+    },
+    {
+      "text": "running",
+      "start": 16.3502947845805,
+      "end": 16.6702947845805
+    },
+    {
+      "text": "under",
+      "start": 16.6702947845805,
+      "end": 16.9102947845805
+    },
+    {
+      "text": "the",
+      "start": 16.9102947845805,
+      "end": 16.9902947845805
+    },
+    {
+      "text": "street",
+      "start": 16.9902947845805,
+      "end": 17.4702947845805
+    },
+    {
+      "text": "The",
+      "start": 17.9502947845805,
+      "end": 18.030294784580498
+    },
+    {
+      "text": "bricks",
+      "start": 18.030294784580498,
+      "end": 18.3502947845805
+    },
+    {
+      "text": "are",
+      "start": 18.3502947845805,
+      "end": 18.430294784580497
+    },
+    {
+      "text": "standardised",
+      "start": 18.430294784580497,
+      "end": 19.3102947845805
+    },
+    {
+      "text": "The",
+      "start": 19.550294784580498,
+      "end": 19.6302947845805
+    },
+    {
+      "text": "same",
+      "start": 19.6302947845805,
+      "end": 19.870294784580498
+    },
+    {
+      "text": "proportions",
+      "start": 19.870294784580498,
+      "end": 20.5102947845805
+    },
+    {
+      "text": "across",
+      "start": 20.750294784580497,
+      "end": 21.070294784580497
+    },
+    {
+      "text": "hundreds",
+      "start": 21.070294784580497,
+      "end": 21.4702947845805
+    },
+    {
+      "text": "of",
+      "start": 21.4702947845805,
+      "end": 21.5502947845805
+    },
+    {
+      "text": "kilometres",
+      "start": 21.5502947845805,
+      "end": 22.190294784580498
+    },
+    {
+      "text": "Which",
+      "start": 22.3502947845805,
+      "end": 22.5102947845805
+    },
+    {
+      "text": "means",
+      "start": 22.5102947845805,
+      "end": 22.750294784580497
+    },
+    {
+      "text": "a",
+      "start": 22.8302947845805,
+      "end": 22.8302947845805
+    },
+    {
+      "text": "standard",
+      "start": 22.8302947845805,
+      "end": 23.3102947845805
+    },
+    {
+      "text": "existed",
+      "start": 23.3102947845805,
+      "end": 23.8702947845805
+    },
+    {
+      "text": "and",
+      "start": 24.030294784580498,
+      "end": 24.190294784580498
+    },
+    {
+      "text": "somebody",
+      "start": 24.190294784580498,
+      "end": 24.5902947845805
+    },
+    {
+      "text": "enforced",
+      "start": 24.5902947845805,
+      "end": 25.070294784580497
+    },
+    {
+      "text": "it",
+      "start": 25.070294784580497,
+      "end": 25.1502947845805
+    },
+    {
+      "text": "over",
+      "start": 25.1502947845805,
+      "end": 25.390294784580497
+    },
+    {
+      "text": "that",
+      "start": 25.390294784580497,
+      "end": 25.5502947845805
+    },
+    {
+      "text": "distance",
+      "start": 25.5502947845805,
+      "end": 26.110294784580496
+    },
+    {
+      "text": "And",
+      "start": 26.3502947845805,
+      "end": 26.5102947845805
+    },
+    {
+      "text": "here",
+      "start": 26.5102947845805,
+      "end": 26.8302947845805
+    },
+    {
+      "text": "is",
+      "start": 26.8302947845805,
+      "end": 26.9102947845805
+    },
+    {
+      "text": "the",
+      "start": 26.9102947845805,
+      "end": 26.9902947845805
+    },
+    {
+      "text": "strange",
+      "start": 26.9902947845805,
+      "end": 27.4702947845805
+    },
+    {
+      "text": "absence",
+      "start": 27.4702947845805,
+      "end": 28.030294784580498
+    },
+    {
+      "text": "No",
+      "start": 28.2702947845805,
+      "end": 28.430294784580497
+    },
+    {
+      "text": "palaces",
+      "start": 28.430294784580497,
+      "end": 29.150294784580495
+    },
+    {
+      "text": "No",
+      "start": 29.511519274376415,
+      "end": 29.751519274376413
+    },
+    {
+      "text": "grand",
+      "start": 29.751519274376413,
+      "end": 30.151519274376415
+    },
+    {
+      "text": "tombs",
+      "start": 30.151519274376415,
+      "end": 30.631519274376416
+    },
+    {
+      "text": "Nothing",
+      "start": 30.791519274376416,
+      "end": 31.191519274376414
+    },
+    {
+      "text": "that",
+      "start": 31.191519274376414,
+      "end": 31.271519274376416
+    },
+    {
+      "text": "looks",
+      "start": 31.271519274376416,
+      "end": 31.511519274376415
+    },
+    {
+      "text": "like",
+      "start": 31.511519274376415,
+      "end": 31.671519274376415
+    },
+    {
+      "text": "a",
+      "start": 31.671519274376415,
+      "end": 31.751519274376413
+    },
+    {
+      "text": "king",
+      "start": 31.751519274376413,
+      "end": 32.15151927437641
+    },
+    {
+      "text": "Enormous",
+      "start": 32.47151927437641,
+      "end": 32.951519274376416
+    },
+    {
+      "text": "public",
+      "start": 32.951519274376416,
+      "end": 33.351519274376415
+    },
+    {
+      "text": "baths",
+      "start": 33.351519274376415,
+      "end": 33.75151927437641
+    },
+    {
+      "text": "and",
+      "start": 33.75151927437641,
+      "end": 33.91151927437642
+    },
+    {
+      "text": "granaries",
+      "start": 33.91151927437642,
+      "end": 34.47151927437641
+    },
+    {
+      "text": "instead",
+      "start": 34.47151927437641,
+      "end": 34.951519274376416
+    },
+    {
+      "text": "and",
+      "start": 35.19151927437642,
+      "end": 35.351519274376415
+    },
+    {
+      "text": "not",
+      "start": 35.351519274376415,
+      "end": 35.51151927437641
+    },
+    {
+      "text": "a",
+      "start": 35.51151927437641,
+      "end": 35.59151927437642
+    },
+    {
+      "text": "throne",
+      "start": 35.59151927437642,
+      "end": 35.91151927437642
+    },
+    {
+      "text": "anywhere",
+      "start": 35.991519274376415,
+      "end": 36.55151927437642
+    },
+    {
+      "text": "Their",
+      "start": 36.87151927437641,
+      "end": 36.951519274376416
+    },
+    {
+      "text": "writing",
+      "start": 36.951519274376416,
+      "end": 37.351519274376415
+    },
+    {
+      "text": "is",
+      "start": 37.351519274376415,
+      "end": 37.43151927437641
+    },
+    {
+      "text": "still",
+      "start": 37.43151927437641,
+      "end": 37.671519274376415
+    },
+    {
+      "text": "undeciphered",
+      "start": 37.671519274376415,
+      "end": 38.47151927437641
+    },
+    {
+      "text": "so",
+      "start": 38.631519274376416,
+      "end": 38.79151927437641
+    },
+    {
+      "text": "there",
+      "start": 38.79151927437641,
+      "end": 38.87151927437641
+    },
+    {
+      "text": "is",
+      "start": 38.87151927437641,
+      "end": 39.031519274376414
+    },
+    {
+      "text": "nobody",
+      "start": 39.031519274376414,
+      "end": 39.43151927437641
+    },
+    {
+      "text": "left",
+      "start": 39.43151927437641,
+      "end": 39.75151927437641
+    },
+    {
+      "text": "to",
+      "start": 39.75151927437641,
+      "end": 39.75151927437641
+    },
+    {
+      "text": "ask",
+      "start": 39.75151927437641,
+      "end": 40.23151927437642
+    },
+    {
+      "text": "We",
+      "start": 40.47151927437641,
+      "end": 40.631519274376416
+    },
+    {
+      "text": "know",
+      "start": 40.631519274376416,
+      "end": 40.79151927437641
+    },
+    {
+      "text": "their",
+      "start": 40.79151927437641,
+      "end": 40.951519274376416
+    },
+    {
+      "text": "plumbing",
+      "start": 40.951519274376416,
+      "end": 41.351519274376415
+    },
+    {
+      "text": "intimately",
+      "start": 41.351519274376415,
+      "end": 41.991519274376415
+    },
+    {
+      "text": "and",
+      "start": 42.15151927437641,
+      "end": 42.311519274376415
+    },
+    {
+      "text": "their",
+      "start": 42.311519274376415,
+      "end": 42.391519274376414
+    },
+    {
+      "text": "language",
+      "start": 42.391519274376414,
+      "end": 42.87151927437641
+    },
+    {
+      "text": "not",
+      "start": 42.87151927437641,
+      "end": 43.11151927437641
+    },
+    {
+      "text": "at",
+      "start": 43.11151927437641,
+      "end": 43.19151927437642
+    },
+    {
+      "text": "all",
+      "start": 43.19151927437642,
+      "end": 43.51151927437641
+    },
+    {
+      "text": "One",
+      "start": 43.75151927437641,
+      "end": 43.91151927437642
+    },
+    {
+      "text": "of",
+      "start": 43.91151927437642,
+      "end": 44.07151927437641
+    },
+    {
+      "text": "these",
+      "start": 44.07151927437641,
+      "end": 44.311519274376415
+    },
+    {
+      "text": "every",
+      "start": 44.311519274376415,
+      "end": 44.631519274376416
+    },
+    {
+      "text": "day",
+      "start": 44.631519274376416,
+      "end": 44.951519274376416
+    },
+    {
+      "text": "Follow",
+      "start": 45.480612244897955,
+      "end": 45.800612244897955
+    },
+    {
+      "text": "so",
+      "start": 45.800612244897955,
+      "end": 45.96061224489795
+    },
+    {
+      "text": "you",
+      "start": 45.96061224489795,
+      "end": 46.04061224489796
+    },
+    {
+      "text": "do",
+      "start": 46.04061224489796,
+      "end": 46.200612244897954
+    },
+    {
+      "text": "not",
+      "start": 46.200612244897954,
+      "end": 46.440612244897956
+    },
+    {
+      "text": "miss",
+      "start": 46.440612244897956,
+      "end": 46.760612244897956
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.760612244897956,
+      "end": 47.32061224489796
+    }
+  ],
+  "text": "Four and a half thousand years ago, Indus cities had grid streets and covered sewers. Plenty of cities today still do not have covered drainage. Mohenjo-daro was laid out on a grid, deliberately, before a single house went up. Houses had private bathrooms, and those drained into channels running under the street. The bricks are standardised. The same proportions, across hundreds of kilometres. Which means a standard existed, and somebody enforced it over that distance. And here is the strange absence. No palaces. No grand tombs. Nothing that looks like a king. Enormous public baths and granaries instead, and not a throne anywhere. Their writing is still undeciphered, so there is nobody left to ask. We know their plumbing intimately, and their language not at all. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

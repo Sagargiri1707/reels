@@ -1,0 +1,708 @@
+{
+  "audio_duration": 43.206438,
+  "segments": [
+    {
+      "text": "Divers",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "pulled",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "a",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "text": "corroded",
+      "start": 0.88,
+      "end": 1.36
+    },
+    {
+      "text": "lump",
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "text": "off",
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "text": "a",
+      "start": 1.84,
+      "end": 1.84
+    },
+    {
+      "text": "shipwreck",
+      "start": 1.84,
+      "end": 2.56
+    },
+    {
+      "text": "Inside",
+      "start": 2.96,
+      "end": 3.44
+    },
+    {
+      "text": "it",
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "text": "were",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "text": "thirty",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "text": "bronze",
+      "start": 4.08,
+      "end": 4.56
+    },
+    {
+      "text": "gears",
+      "start": 4.56,
+      "end": 5.12
+    },
+    {
+      "text": "Nobody",
+      "start": 5.36,
+      "end": 5.84
+    },
+    {
+      "text": "was",
+      "start": 5.84,
+      "end": 6.0
+    },
+    {
+      "text": "building",
+      "start": 6.0,
+      "end": 6.4
+    },
+    {
+      "text": "gearing",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "like",
+      "start": 6.72,
+      "end": 6.96
+    },
+    {
+      "text": "that",
+      "start": 6.96,
+      "end": 7.12
+    },
+    {
+      "text": "again",
+      "start": 7.12,
+      "end": 7.44
+    },
+    {
+      "text": "for",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "text": "well",
+      "start": 7.6,
+      "end": 7.84
+    },
+    {
+      "text": "over",
+      "start": 7.84,
+      "end": 8.08
+    },
+    {
+      "text": "a",
+      "start": 8.08,
+      "end": 8.16
+    },
+    {
+      "text": "thousand",
+      "start": 8.16,
+      "end": 8.64
+    },
+    {
+      "text": "years",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "text": "It",
+      "start": 9.36,
+      "end": 9.44
+    },
+    {
+      "text": "is",
+      "start": 9.44,
+      "end": 9.52
+    },
+    {
+      "text": "a",
+      "start": 9.52,
+      "end": 9.6
+    },
+    {
+      "text": "calculator",
+      "start": 9.6,
+      "end": 10.4
+    },
+    {
+      "text": "and",
+      "start": 10.56,
+      "end": 10.72
+    },
+    {
+      "text": "what",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "it",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "calculates",
+      "start": 10.96,
+      "end": 11.52
+    },
+    {
+      "text": "is",
+      "start": 11.6,
+      "end": 11.76
+    },
+    {
+      "text": "the",
+      "start": 11.76,
+      "end": 11.84
+    },
+    {
+      "text": "sky",
+      "start": 11.84,
+      "end": 12.4
+    },
+    {
+      "text": "Turn",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "text": "the",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "handle",
+      "start": 13.04,
+      "end": 13.52
+    },
+    {
+      "text": "and",
+      "start": 13.68,
+      "end": 13.76
+    },
+    {
+      "text": "it",
+      "start": 13.76,
+      "end": 13.92
+    },
+    {
+      "text": "shows",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "text": "you",
+      "start": 14.24,
+      "end": 14.32
+    },
+    {
+      "text": "where",
+      "start": 14.32,
+      "end": 14.48
+    },
+    {
+      "text": "the",
+      "start": 14.48,
+      "end": 14.56
+    },
+    {
+      "text": "sun",
+      "start": 14.56,
+      "end": 14.96
+    },
+    {
+      "text": "and",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "text": "moon",
+      "start": 15.12,
+      "end": 15.36
+    },
+    {
+      "text": "are",
+      "start": 15.36,
+      "end": 15.44
+    },
+    {
+      "text": "going",
+      "start": 15.44,
+      "end": 15.68
+    },
+    {
+      "text": "to",
+      "start": 15.68,
+      "end": 15.76
+    },
+    {
+      "text": "be",
+      "start": 15.76,
+      "end": 16.16
+    },
+    {
+      "text": "It",
+      "start": 16.527528344671204,
+      "end": 16.607528344671202
+    },
+    {
+      "text": "predicts",
+      "start": 16.607528344671202,
+      "end": 16.927528344671202
+    },
+    {
+      "text": "eclipses",
+      "start": 16.927528344671202,
+      "end": 17.567528344671203
+    },
+    {
+      "text": "It",
+      "start": 17.807528344671205,
+      "end": 17.967528344671205
+    },
+    {
+      "text": "tracks",
+      "start": 17.967528344671205,
+      "end": 18.287528344671202
+    },
+    {
+      "text": "the",
+      "start": 18.287528344671202,
+      "end": 18.367528344671204
+    },
+    {
+      "text": "four",
+      "start": 18.367528344671204,
+      "end": 18.687528344671204
+    },
+    {
+      "text": "year",
+      "start": 18.687528344671204,
+      "end": 18.847528344671204
+    },
+    {
+      "text": "cycle",
+      "start": 18.847528344671204,
+      "end": 19.247528344671203
+    },
+    {
+      "text": "of",
+      "start": 19.247528344671203,
+      "end": 19.407528344671203
+    },
+    {
+      "text": "the",
+      "start": 19.407528344671203,
+      "end": 19.407528344671203
+    },
+    {
+      "text": "games",
+      "start": 19.407528344671203,
+      "end": 19.9675283446712
+    },
+    {
+      "text": "It",
+      "start": 20.207528344671204,
+      "end": 20.367528344671204
+    },
+    {
+      "text": "even",
+      "start": 20.367528344671204,
+      "end": 20.687528344671204
+    },
+    {
+      "text": "models",
+      "start": 20.687528344671204,
+      "end": 21.007528344671204
+    },
+    {
+      "text": "the",
+      "start": 21.007528344671204,
+      "end": 21.087528344671203
+    },
+    {
+      "text": "moon",
+      "start": 21.087528344671203,
+      "end": 21.407528344671203
+    },
+    {
+      "text": "speeding",
+      "start": 21.407528344671203,
+      "end": 21.887528344671203
+    },
+    {
+      "text": "up",
+      "start": 21.887528344671203,
+      "end": 22.047528344671203
+    },
+    {
+      "text": "and",
+      "start": 22.047528344671203,
+      "end": 22.127528344671205
+    },
+    {
+      "text": "slowing",
+      "start": 22.127528344671205,
+      "end": 22.607528344671202
+    },
+    {
+      "text": "down",
+      "start": 22.607528344671202,
+      "end": 22.847528344671204
+    },
+    {
+      "text": "across",
+      "start": 22.847528344671204,
+      "end": 23.167528344671204
+    },
+    {
+      "text": "its",
+      "start": 23.167528344671204,
+      "end": 23.327528344671205
+    },
+    {
+      "text": "orbit",
+      "start": 23.327528344671205,
+      "end": 23.727528344671203
+    },
+    {
+      "text": "Which",
+      "start": 24.287528344671202,
+      "end": 24.447528344671206
+    },
+    {
+      "text": "raises",
+      "start": 24.447528344671206,
+      "end": 24.847528344671204
+    },
+    {
+      "text": "the",
+      "start": 24.847528344671204,
+      "end": 25.007528344671204
+    },
+    {
+      "text": "obvious",
+      "start": 25.007528344671204,
+      "end": 25.407528344671203
+    },
+    {
+      "text": "question",
+      "start": 25.407528344671203,
+      "end": 25.9675283446712
+    },
+    {
+      "text": "What",
+      "start": 26.207528344671204,
+      "end": 26.367528344671204
+    },
+    {
+      "text": "happened",
+      "start": 26.367528344671204,
+      "end": 26.687528344671204
+    },
+    {
+      "text": "next",
+      "start": 26.687528344671204,
+      "end": 27.087528344671206
+    },
+    {
+      "text": "Nothing",
+      "start": 27.3275283446712,
+      "end": 27.807528344671205
+    },
+    {
+      "text": "Nobody",
+      "start": 28.047528344671203,
+      "end": 28.367528344671204
+    },
+    {
+      "text": "built",
+      "start": 28.367528344671204,
+      "end": 28.687528344671204
+    },
+    {
+      "text": "on",
+      "start": 28.687528344671204,
+      "end": 28.847528344671204
+    },
+    {
+      "text": "it",
+      "start": 28.847528344671204,
+      "end": 29.007528344671204
+    },
+    {
+      "text": "The",
+      "start": 29.247528344671203,
+      "end": 29.3275283446712
+    },
+    {
+      "text": "knowledge",
+      "start": 29.3275283446712,
+      "end": 29.727528344671203
+    },
+    {
+      "text": "went",
+      "start": 29.727528344671203,
+      "end": 29.9675283446712
+    },
+    {
+      "text": "into",
+      "start": 29.9675283446712,
+      "end": 30.127528344671205
+    },
+    {
+      "text": "the",
+      "start": 30.127528344671205,
+      "end": 30.207528344671204
+    },
+    {
+      "text": "sea",
+      "start": 30.207528344671204,
+      "end": 30.607528344671202
+    },
+    {
+      "text": "and",
+      "start": 30.607528344671202,
+      "end": 30.767528344671206
+    },
+    {
+      "text": "stayed",
+      "start": 30.767528344671206,
+      "end": 31.087528344671206
+    },
+    {
+      "text": "there",
+      "start": 31.087528344671206,
+      "end": 31.407528344671203
+    },
+    {
+      "text": "Progress",
+      "start": 31.6475283446712,
+      "end": 32.2075283446712
+    },
+    {
+      "text": "is",
+      "start": 32.2075283446712,
+      "end": 32.3675283446712
+    },
+    {
+      "text": "not",
+      "start": 32.3675283446712,
+      "end": 32.527528344671204
+    },
+    {
+      "text": "a",
+      "start": 32.527528344671204,
+      "end": 32.6075283446712
+    },
+    {
+      "text": "line",
+      "start": 32.6075283446712,
+      "end": 33.0075283446712
+    },
+    {
+      "text": "Things",
+      "start": 33.51229024943311,
+      "end": 33.75229024943311
+    },
+    {
+      "text": "get",
+      "start": 33.75229024943311,
+      "end": 33.912290249433106
+    },
+    {
+      "text": "invented",
+      "start": 33.912290249433106,
+      "end": 34.47229024943311
+    },
+    {
+      "text": "then",
+      "start": 34.632290249433105,
+      "end": 34.79229024943311
+    },
+    {
+      "text": "lost",
+      "start": 34.79229024943311,
+      "end": 35.272290249433105
+    },
+    {
+      "text": "and",
+      "start": 35.43229024943311,
+      "end": 35.592290249433105
+    },
+    {
+      "text": "stay",
+      "start": 35.592290249433105,
+      "end": 35.83229024943311
+    },
+    {
+      "text": "lost",
+      "start": 35.83229024943311,
+      "end": 36.232290249433106
+    },
+    {
+      "text": "for",
+      "start": 36.232290249433106,
+      "end": 36.312290249433104
+    },
+    {
+      "text": "centuries",
+      "start": 36.312290249433104,
+      "end": 36.952290249433105
+    },
+    {
+      "text": "Whoever",
+      "start": 37.19229024943311,
+      "end": 37.51229024943311
+    },
+    {
+      "text": "made",
+      "start": 37.51229024943311,
+      "end": 37.75229024943311
+    },
+    {
+      "text": "this",
+      "start": 37.75229024943311,
+      "end": 37.912290249433106
+    },
+    {
+      "text": "had",
+      "start": 37.912290249433106,
+      "end": 38.15229024943311
+    },
+    {
+      "text": "no",
+      "start": 38.15229024943311,
+      "end": 38.312290249433104
+    },
+    {
+      "text": "idea",
+      "start": 38.312290249433104,
+      "end": 38.632290249433105
+    },
+    {
+      "text": "they",
+      "start": 38.632290249433105,
+      "end": 38.79229024943311
+    },
+    {
+      "text": "were",
+      "start": 38.79229024943311,
+      "end": 38.952290249433105
+    },
+    {
+      "text": "the",
+      "start": 38.952290249433105,
+      "end": 39.0322902494331
+    },
+    {
+      "text": "end",
+      "start": 39.0322902494331,
+      "end": 39.272290249433105
+    },
+    {
+      "text": "of",
+      "start": 39.272290249433105,
+      "end": 39.35229024943311
+    },
+    {
+      "text": "it",
+      "start": 39.35229024943311,
+      "end": 39.592290249433105
+    },
+    {
+      "text": "One",
+      "start": 39.75229024943311,
+      "end": 39.992290249433104
+    },
+    {
+      "text": "of",
+      "start": 39.992290249433104,
+      "end": 40.07229024943311
+    },
+    {
+      "text": "these",
+      "start": 40.07229024943311,
+      "end": 40.312290249433104
+    },
+    {
+      "text": "every",
+      "start": 40.312290249433104,
+      "end": 40.632290249433105
+    },
+    {
+      "text": "day",
+      "start": 40.632290249433105,
+      "end": 41.0322902494331
+    },
+    {
+      "text": "Follow",
+      "start": 41.35229024943311,
+      "end": 41.672290249433104
+    },
+    {
+      "text": "so",
+      "start": 41.672290249433104,
+      "end": 41.83229024943311
+    },
+    {
+      "text": "you",
+      "start": 41.83229024943311,
+      "end": 41.99229024943311
+    },
+    {
+      "text": "do",
+      "start": 41.99229024943311,
+      "end": 42.15229024943311
+    },
+    {
+      "text": "not",
+      "start": 42.15229024943311,
+      "end": 42.312290249433104
+    },
+    {
+      "text": "miss",
+      "start": 42.312290249433104,
+      "end": 42.552290249433106
+    },
+    {
+      "text": "tomorrow",
+      "start": 42.552290249433106,
+      "end": 43.0322902494331
+    }
+  ],
+  "text": "Divers pulled a corroded lump off a shipwreck. Inside it were thirty bronze gears. Nobody was building gearing like that again for well over a thousand years. It is a calculator, and what it calculates is the sky. Turn the handle and it shows you where the sun and moon are going to be. It predicts eclipses. It tracks the four year cycle of the games. It even models the moon speeding up and slowing down across its orbit. Which raises the obvious question. What happened next? Nothing. Nobody built on it. The knowledge went into the sea and stayed there. Progress is not a line. Things get invented, then lost, and stay lost for centuries. Whoever made this had no idea they were the end of it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,788 @@
+{
+  "audio_duration": 48.666063,
+  "segments": [
+    {
+      "text": "Sound",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "is",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "not",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "text": "a",
+      "start": 1.04,
+      "end": 1.12
+    },
+    {
+      "text": "thing",
+      "start": 1.12,
+      "end": 1.44
+    },
+    {
+      "text": "that",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "travels",
+      "start": 1.52,
+      "end": 2.08
+    },
+    {
+      "text": "It",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "text": "is",
+      "start": 2.48,
+      "end": 2.64
+    },
+    {
+      "text": "a",
+      "start": 2.64,
+      "end": 2.64
+    },
+    {
+      "text": "squeeze",
+      "start": 2.72,
+      "end": 3.28
+    },
+    {
+      "text": "moving",
+      "start": 3.28,
+      "end": 3.68
+    },
+    {
+      "text": "through",
+      "start": 3.68,
+      "end": 3.92
+    },
+    {
+      "text": "stuff",
+      "start": 3.92,
+      "end": 4.24
+    },
+    {
+      "text": "Nothing",
+      "start": 4.64,
+      "end": 5.04
+    },
+    {
+      "text": "actually",
+      "start": 5.04,
+      "end": 5.44
+    },
+    {
+      "text": "goes",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "from",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "the",
+      "start": 5.92,
+      "end": 5.92
+    },
+    {
+      "text": "speaker",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "to",
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "text": "your",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "ear",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "text": "Each",
+      "start": 7.44,
+      "end": 7.68
+    },
+    {
+      "text": "bit",
+      "start": 7.68,
+      "end": 7.84
+    },
+    {
+      "text": "of",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "air",
+      "start": 8.0,
+      "end": 8.24
+    },
+    {
+      "text": "just",
+      "start": 8.24,
+      "end": 8.48
+    },
+    {
+      "text": "shoves",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "its",
+      "start": 8.8,
+      "end": 9.04
+    },
+    {
+      "text": "neighbour",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "text": "That",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "shove",
+      "start": 9.84,
+      "end": 10.24
+    },
+    {
+      "text": "passes",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "text": "along",
+      "start": 10.64,
+      "end": 11.12
+    },
+    {
+      "text": "and",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "what",
+      "start": 11.44,
+      "end": 11.6
+    },
+    {
+      "text": "arrives",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "text": "at",
+      "start": 12.0,
+      "end": 12.08
+    },
+    {
+      "text": "your",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "eardrum",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "text": "is",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "a",
+      "start": 12.96,
+      "end": 12.96
+    },
+    {
+      "text": "pattern",
+      "start": 12.96,
+      "end": 13.44
+    },
+    {
+      "text": "of",
+      "start": 13.44,
+      "end": 13.52
+    },
+    {
+      "text": "pressure",
+      "start": 13.52,
+      "end": 14.0
+    },
+    {
+      "text": "Which",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "means",
+      "start": 14.48,
+      "end": 14.72
+    },
+    {
+      "text": "sound",
+      "start": 14.72,
+      "end": 15.12
+    },
+    {
+      "text": "needs",
+      "start": 15.12,
+      "end": 15.36
+    },
+    {
+      "text": "something",
+      "start": 15.36,
+      "end": 15.76
+    },
+    {
+      "text": "to",
+      "start": 15.76,
+      "end": 15.84
+    },
+    {
+      "text": "shove",
+      "start": 15.84,
+      "end": 16.24
+    },
+    {
+      "text": "Take",
+      "start": 16.83972789115646,
+      "end": 17.079727891156463
+    },
+    {
+      "text": "the",
+      "start": 17.079727891156463,
+      "end": 17.15972789115646
+    },
+    {
+      "text": "stuff",
+      "start": 17.15972789115646,
+      "end": 17.47972789115646
+    },
+    {
+      "text": "away",
+      "start": 17.47972789115646,
+      "end": 17.879727891156463
+    },
+    {
+      "text": "and",
+      "start": 17.879727891156463,
+      "end": 18.039727891156463
+    },
+    {
+      "text": "there",
+      "start": 18.039727891156463,
+      "end": 18.199727891156463
+    },
+    {
+      "text": "is",
+      "start": 18.199727891156463,
+      "end": 18.279727891156462
+    },
+    {
+      "text": "nothing",
+      "start": 18.279727891156462,
+      "end": 18.67972789115646
+    },
+    {
+      "text": "to",
+      "start": 18.759727891156462,
+      "end": 18.759727891156462
+    },
+    {
+      "text": "pass",
+      "start": 18.759727891156462,
+      "end": 19.079727891156463
+    },
+    {
+      "text": "on",
+      "start": 19.079727891156463,
+      "end": 19.47972789115646
+    },
+    {
+      "text": "So",
+      "start": 19.63972789115646,
+      "end": 19.79972789115646
+    },
+    {
+      "text": "space",
+      "start": 19.79972789115646,
+      "end": 20.279727891156462
+    },
+    {
+      "text": "is",
+      "start": 20.279727891156462,
+      "end": 20.439727891156462
+    },
+    {
+      "text": "silent",
+      "start": 20.439727891156462,
+      "end": 20.99972789115646
+    },
+    {
+      "text": "Completely",
+      "start": 21.239727891156463,
+      "end": 21.879727891156463
+    },
+    {
+      "text": "permanently",
+      "start": 21.879727891156463,
+      "end": 22.439727891156462
+    },
+    {
+      "text": "silent",
+      "start": 22.439727891156462,
+      "end": 22.99972789115646
+    },
+    {
+      "text": "Every",
+      "start": 23.31972789115646,
+      "end": 23.559727891156463
+    },
+    {
+      "text": "explosion",
+      "start": 23.559727891156463,
+      "end": 24.199727891156463
+    },
+    {
+      "text": "you",
+      "start": 24.199727891156463,
+      "end": 24.279727891156462
+    },
+    {
+      "text": "have",
+      "start": 24.279727891156462,
+      "end": 24.439727891156462
+    },
+    {
+      "text": "ever",
+      "start": 24.439727891156462,
+      "end": 24.67972789115646
+    },
+    {
+      "text": "heard",
+      "start": 24.67972789115646,
+      "end": 24.919727891156462
+    },
+    {
+      "text": "in",
+      "start": 24.919727891156462,
+      "end": 24.99972789115646
+    },
+    {
+      "text": "a",
+      "start": 24.99972789115646,
+      "end": 25.079727891156463
+    },
+    {
+      "text": "film",
+      "start": 25.079727891156463,
+      "end": 25.47972789115646
+    },
+    {
+      "text": "was",
+      "start": 25.63972789115646,
+      "end": 25.79972789115646
+    },
+    {
+      "text": "invented",
+      "start": 25.79972789115646,
+      "end": 26.279727891156462
+    },
+    {
+      "text": "in",
+      "start": 26.279727891156462,
+      "end": 26.35972789115646
+    },
+    {
+      "text": "a",
+      "start": 26.35972789115646,
+      "end": 26.439727891156462
+    },
+    {
+      "text": "studio",
+      "start": 26.439727891156462,
+      "end": 26.99972789115646
+    },
+    {
+      "text": "And",
+      "start": 27.239727891156463,
+      "end": 27.399727891156463
+    },
+    {
+      "text": "the",
+      "start": 27.399727891156463,
+      "end": 27.47972789115646
+    },
+    {
+      "text": "denser",
+      "start": 27.47972789115646,
+      "end": 27.879727891156463
+    },
+    {
+      "text": "the",
+      "start": 27.879727891156463,
+      "end": 27.95972789115646
+    },
+    {
+      "text": "stuff",
+      "start": 27.95972789115646,
+      "end": 28.279727891156462
+    },
+    {
+      "text": "the",
+      "start": 28.599727891156462,
+      "end": 28.599727891156462
+    },
+    {
+      "text": "faster",
+      "start": 28.599727891156462,
+      "end": 29.079727891156463
+    },
+    {
+      "text": "the",
+      "start": 29.079727891156463,
+      "end": 29.159727891156464
+    },
+    {
+      "text": "shove",
+      "start": 29.159727891156464,
+      "end": 29.47972789115646
+    },
+    {
+      "text": "gets",
+      "start": 29.47972789115646,
+      "end": 29.71972789115646
+    },
+    {
+      "text": "handed",
+      "start": 29.71972789115646,
+      "end": 30.03972789115646
+    },
+    {
+      "text": "on",
+      "start": 30.03972789115646,
+      "end": 30.35972789115646
+    },
+    {
+      "text": "In",
+      "start": 30.599727891156462,
+      "end": 30.839727891156464
+    },
+    {
+      "text": "air",
+      "start": 30.839727891156464,
+      "end": 31.159727891156464
+    },
+    {
+      "text": "about",
+      "start": 31.239727891156463,
+      "end": 31.559727891156463
+    },
+    {
+      "text": "three",
+      "start": 31.559727891156463,
+      "end": 31.79972789115646
+    },
+    {
+      "text": "hundred",
+      "start": 31.79972789115646,
+      "end": 32.03972789115646
+    },
+    {
+      "text": "and",
+      "start": 32.03972789115646,
+      "end": 32.11972789115646
+    },
+    {
+      "text": "forty",
+      "start": 32.11972789115646,
+      "end": 32.439727891156465
+    },
+    {
+      "text": "metres",
+      "start": 32.439727891156465,
+      "end": 32.75972789115646
+    },
+    {
+      "text": "a",
+      "start": 32.75972789115646,
+      "end": 32.83972789115646
+    },
+    {
+      "text": "second",
+      "start": 32.83972789115646,
+      "end": 33.23972789115646
+    },
+    {
+      "text": "In",
+      "start": 33.777188208616785,
+      "end": 34.01718820861679
+    },
+    {
+      "text": "water",
+      "start": 34.01718820861679,
+      "end": 34.417188208616786
+    },
+    {
+      "text": "roughly",
+      "start": 34.497188208616784,
+      "end": 34.817188208616784
+    },
+    {
+      "text": "four",
+      "start": 34.817188208616784,
+      "end": 35.057188208616786
+    },
+    {
+      "text": "times",
+      "start": 35.057188208616786,
+      "end": 35.457188208616785
+    },
+    {
+      "text": "that",
+      "start": 35.457188208616785,
+      "end": 35.69718820861679
+    },
+    {
+      "text": "In",
+      "start": 36.01718820861679,
+      "end": 36.17718820861678
+    },
+    {
+      "text": "steel",
+      "start": 36.17718820861678,
+      "end": 36.65718820861679
+    },
+    {
+      "text": "about",
+      "start": 36.65718820861679,
+      "end": 36.97718820861679
+    },
+    {
+      "text": "fifteen",
+      "start": 36.97718820861679,
+      "end": 37.457188208616785
+    },
+    {
+      "text": "times",
+      "start": 37.457188208616785,
+      "end": 37.93718820861679
+    },
+    {
+      "text": "Put",
+      "start": 38.33718820861679,
+      "end": 38.497188208616784
+    },
+    {
+      "text": "your",
+      "start": 38.497188208616784,
+      "end": 38.65718820861679
+    },
+    {
+      "text": "ear",
+      "start": 38.65718820861679,
+      "end": 38.89718820861678
+    },
+    {
+      "text": "to",
+      "start": 38.89718820861678,
+      "end": 39.057188208616786
+    },
+    {
+      "text": "a",
+      "start": 39.057188208616786,
+      "end": 39.057188208616786
+    },
+    {
+      "text": "rail",
+      "start": 39.057188208616786,
+      "end": 39.53718820861678
+    },
+    {
+      "text": "and",
+      "start": 39.69718820861679,
+      "end": 39.777188208616785
+    },
+    {
+      "text": "you",
+      "start": 39.777188208616785,
+      "end": 39.93718820861679
+    },
+    {
+      "text": "hear",
+      "start": 39.93718820861679,
+      "end": 40.097188208616785
+    },
+    {
+      "text": "the",
+      "start": 40.097188208616785,
+      "end": 40.17718820861678
+    },
+    {
+      "text": "train",
+      "start": 40.17718820861678,
+      "end": 40.57718820861678
+    },
+    {
+      "text": "early",
+      "start": 40.57718820861678,
+      "end": 40.97718820861678
+    },
+    {
+      "text": "Sound",
+      "start": 41.137188208616784,
+      "end": 41.53718820861678
+    },
+    {
+      "text": "is",
+      "start": 41.53718820861678,
+      "end": 41.777188208616785
+    },
+    {
+      "text": "not",
+      "start": 41.777188208616785,
+      "end": 42.01718820861679
+    },
+    {
+      "text": "a",
+      "start": 42.01718820861679,
+      "end": 42.097188208616785
+    },
+    {
+      "text": "message",
+      "start": 42.097188208616785,
+      "end": 42.497188208616784
+    },
+    {
+      "text": "being",
+      "start": 42.497188208616784,
+      "end": 42.737188208616786
+    },
+    {
+      "text": "carried",
+      "start": 42.737188208616786,
+      "end": 43.21718820861678
+    },
+    {
+      "text": "It",
+      "start": 43.457188208616785,
+      "end": 43.53718820861678
+    },
+    {
+      "text": "is",
+      "start": 43.53718820861678,
+      "end": 43.69718820861679
+    },
+    {
+      "text": "a",
+      "start": 43.69718820861679,
+      "end": 43.777188208616785
+    },
+    {
+      "text": "shove",
+      "start": 43.777188208616785,
+      "end": 44.097188208616785
+    },
+    {
+      "text": "being",
+      "start": 44.097188208616785,
+      "end": 44.417188208616786
+    },
+    {
+      "text": "passed",
+      "start": 44.417188208616786,
+      "end": 44.737188208616786
+    },
+    {
+      "text": "along",
+      "start": 44.737188208616786,
+      "end": 45.137188208616784
+    },
+    {
+      "text": "One",
+      "start": 45.29718820861679,
+      "end": 45.53718820861678
+    },
+    {
+      "text": "of",
+      "start": 45.53718820861678,
+      "end": 45.61718820861678
+    },
+    {
+      "text": "these",
+      "start": 45.61718820861678,
+      "end": 45.93718820861679
+    },
+    {
+      "text": "every",
+      "start": 45.93718820861679,
+      "end": 46.17718820861678
+    },
+    {
+      "text": "day",
+      "start": 46.17718820861678,
+      "end": 46.497188208616784
+    },
+    {
+      "text": "Follow",
+      "start": 46.737188208616786,
+      "end": 47.057188208616786
+    },
+    {
+      "text": "so",
+      "start": 47.057188208616786,
+      "end": 47.21718820861678
+    },
+    {
+      "text": "you",
+      "start": 47.21718820861678,
+      "end": 47.377188208616786
+    },
+    {
+      "text": "do",
+      "start": 47.377188208616786,
+      "end": 47.457188208616785
+    },
+    {
+      "text": "not",
+      "start": 47.457188208616785,
+      "end": 47.69718820861679
+    },
+    {
+      "text": "miss",
+      "start": 47.69718820861679,
+      "end": 47.93718820861679
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.93718820861679,
+      "end": 48.497188208616784
+    }
+  ],
+  "text": "Sound is not a thing that travels. It is a squeeze moving through stuff. Nothing actually goes from the speaker to your ear. Each bit of air just shoves its neighbour. That shove passes along, and what arrives at your eardrum is a pattern of pressure. Which means sound needs something to shove. Take the stuff away and there is nothing to pass on. So space is silent. Completely, permanently silent. Every explosion you have ever heard in a film was invented in a studio. And the denser the stuff, the faster the shove gets handed on. In air, about three hundred and forty metres a second. In water, roughly four times that. In steel, about fifteen times. Put your ear to a rail and you hear the train early. Sound is not a message being carried. It is a shove being passed along. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

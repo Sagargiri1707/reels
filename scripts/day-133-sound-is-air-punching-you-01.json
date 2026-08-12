@@ -1,0 +1,109 @@
+{
+  "topic": "Sound is air punching your eardrum",
+  "lesson": "Sound is a squeeze passed from one bit of matter to the next rather than a thing that travels, which is why it needs a medium and why space is silent.",
+  "slug": "day-133-sound-is-air-punching-you-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Sound is not a thing that travels. It is a squeeze moving through stuff.",
+      "scene": "a row of hanging balls with the end one swinging, a small black cartoon figure pulling it back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of hanging balls with the end one swinging, a small black cartoon figure pulling it back. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Nothing actually goes from the speaker to your ear. Each bit of air just shoves its neighbour.",
+      "scene": "a line of beads in a groove, a small black cartoon figure shoving the first one hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a line of beads in a groove, a small black cartoon figure shoving the first one hard. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "That shove passes along, and what arrives at your eardrum is a pattern of pressure.",
+      "scene": "a taut drum skin, a small black cartoon figure standing on it as it flexes",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a taut drum skin, a small black cartoon figure standing on it as it flexes. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Which means sound needs something to shove. Take the stuff away and there is nothing to pass on.",
+      "scene": "a sealed glass jar with a bell inside, a small black cartoon figure rapping on the jar",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed glass jar with a bell inside, a small black cartoon figure rapping on the jar. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So space is silent. Completely, permanently silent.",
+      "scene": "a bell under a sealed jar, a small black cartoon figure hauling on its rope with no result",
+      "image_text": "SILENT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bell under a sealed jar, a small black cartoon figure hauling on its rope with no result. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SILENT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Every explosion you have ever heard in a film was invented in a studio.",
+      "scene": "a film clapperboard, a small black cartoon figure snapping it shut with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a film clapperboard, a small black cartoon figure snapping it shut with both arms. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And the denser the stuff, the faster the shove gets handed on.",
+      "scene": "a tray of loose beads beside a tightly packed tray, a small black cartoon figure pressing them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of loose beads beside a tightly packed tray, a small black cartoon figure pressing them together. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "In air, about three hundred and forty metres a second. In water, roughly four times that.",
+      "scene": "a bowl of water with a spoon struck against it, a small black cartoon figure striking it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of water with a spoon struck against it, a small black cartoon figure striking it. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "In steel, about fifteen times. Put your ear to a rail and you hear the train early.",
+      "scene": "a length of rail, a small black cartoon figure lying with their head pressed against it",
+      "image_text": "STEEL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of rail, a small black cartoon figure lying with their head pressed against it. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STEEL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Sound is not a message being carried. It is a shove being passed along.",
+      "scene": "a standing chain of dominoes, a small black cartoon figure pushing the first one over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a standing chain of dominoes, a small black cartoon figure pushing the first one over. the scene belongs to a shove being handed along a line rather than anything actually crossing it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Sound is a compression wave: each bit of matter shoves its neighbour and the shove passes along, so nothing actually travels from the speaker to your ear except a pattern of pressure. Which means it needs a medium, and space is genuinely silent. Denser material passes the shove faster: around 340 m/s in air, roughly four times that in water, about fifteen times in steel. That is why whale calls cross oceans and why a rail tells you about the train early.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #sound #physics #waves #acoustics #science",
+    "thumbnail_beat": "05"
+  }
+}

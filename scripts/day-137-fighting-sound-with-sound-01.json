@@ -1,0 +1,109 @@
+{
+  "topic": "Fighting sound with sound",
+  "lesson": "Noise cancelling plays an inverted copy of incoming sound in real time, which only works on noise predictable enough to guess a fraction of a second ahead.",
+  "slug": "day-137-fighting-sound-with-sound-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Noise cancelling works by playing the exact opposite of the noise, in real time.",
+      "scene": "two card wave shapes, one flipped over, a small black cartoon figure laying one on the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two card wave shapes, one flipped over, a small black cartoon figure laying one on the other. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It is not blocking anything. No extra padding is doing the work.",
+      "scene": "an ear defender lying unused, a small black cartoon figure shoving it aside",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an ear defender lying unused, a small black cartoon figure shoving it aside. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A microphone on the outside hears the noise arriving.",
+      "scene": "a small microphone on a stand, a small black cartoon figure adjusting its angle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small microphone on a stand, a small black cartoon figure adjusting its angle. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The electronics flip it upside down. Every peak becomes a trough.",
+      "scene": "a card wave shape turned upside down, a small black cartoon figure flipping it over",
+      "image_text": "FLIPPED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card wave shape turned upside down, a small black cartoon figure flipping it over. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FLIPPED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Then it plays that back into your ear, and the two add up to almost nothing.",
+      "scene": "two shapes overlaid into one flat strip, a small black cartoon figure pressing them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two shapes overlaid into one flat strip, a small black cartoon figure pressing them together. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which only works if it can predict what comes next, and it has microseconds to do it.",
+      "scene": "a stopwatch with a very fine dial, a small black cartoon figure peering hard at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stopwatch with a very fine dial, a small black cartoon figure peering hard at it. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "A steady engine drone is completely predictable. It repeats, low and forever.",
+      "scene": "a repeating printed pattern strip, a small black cartoon figure unrolling it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a repeating printed pattern strip, a small black cartoon figure unrolling it. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So it disappears. That is the part that feels like magic on a plane.",
+      "scene": "an engine cowling with a cloth drawn over it, a small black cartoon figure pulling the cloth on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an engine cowling with a cloth drawn over it, a small black cartoon figure pulling the cloth on. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "A voice does not repeat, it is high frequency, and it changes constantly.",
+      "scene": "a tangled irregular scribble, a small black cartoon figure trying to trace along it",
+      "image_text": "UNPREDICTABLE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tangled irregular scribble, a small black cartoon figure trying to trace along it. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"UNPREDICTABLE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is why the engine vanishes and the person two rows back does not.",
+      "scene": "two card waves that refuse to match, a small black cartoon figure pressing them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two card waves that refuse to match, a small black cartoon figure pressing them together. the scene belongs to two opposite shapes laid on each other until nothing is left, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Active noise cancelling does not block anything. A microphone samples the incoming sound, the electronics generate an inverted waveform, and the two sum to near silence in your ear. The catch is that it has microseconds to predict what comes next. A steady engine drone is low frequency and endlessly repetitive, so it vanishes. Speech is high frequency and unpredictable, so it does not. That is the whole reason the plane goes quiet and the conversation does not.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #noisecancelling #sound #audio #technology #science",
+    "thumbnail_beat": "01"
+  }
+}

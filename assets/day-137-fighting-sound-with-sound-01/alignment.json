@@ -1,0 +1,728 @@
+{
+  "audio_duration": 45.818688,
+  "segments": [
+    {
+      "text": "Noise",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "cancelling",
+      "start": 0.32,
+      "end": 0.88
+    },
+    {
+      "text": "works",
+      "start": 0.88,
+      "end": 1.12
+    },
+    {
+      "text": "by",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "text": "playing",
+      "start": 1.28,
+      "end": 1.6
+    },
+    {
+      "text": "the",
+      "start": 1.6,
+      "end": 1.68
+    },
+    {
+      "text": "exact",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "text": "opposite",
+      "start": 2.16,
+      "end": 2.64
+    },
+    {
+      "text": "of",
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "text": "the",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "noise",
+      "start": 2.88,
+      "end": 3.36
+    },
+    {
+      "text": "in",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "text": "real",
+      "start": 3.68,
+      "end": 4.08
+    },
+    {
+      "text": "time",
+      "start": 4.08,
+      "end": 4.48
+    },
+    {
+      "text": "It",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "text": "is",
+      "start": 4.8,
+      "end": 4.96
+    },
+    {
+      "text": "not",
+      "start": 4.96,
+      "end": 5.28
+    },
+    {
+      "text": "blocking",
+      "start": 5.28,
+      "end": 5.76
+    },
+    {
+      "text": "anything",
+      "start": 5.76,
+      "end": 6.32
+    },
+    {
+      "text": "No",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "extra",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "padding",
+      "start": 7.2,
+      "end": 7.6
+    },
+    {
+      "text": "is",
+      "start": 7.6,
+      "end": 7.76
+    },
+    {
+      "text": "doing",
+      "start": 7.76,
+      "end": 8.0
+    },
+    {
+      "text": "the",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "work",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "A",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "text": "microphone",
+      "start": 8.72,
+      "end": 9.28
+    },
+    {
+      "text": "on",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "text": "the",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "outside",
+      "start": 9.52,
+      "end": 10.08
+    },
+    {
+      "text": "hears",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "text": "the",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "noise",
+      "start": 10.48,
+      "end": 10.8
+    },
+    {
+      "text": "arriving",
+      "start": 10.8,
+      "end": 11.36
+    },
+    {
+      "text": "The",
+      "start": 11.6,
+      "end": 11.68
+    },
+    {
+      "text": "electronics",
+      "start": 11.68,
+      "end": 12.32
+    },
+    {
+      "text": "flip",
+      "start": 12.32,
+      "end": 12.64
+    },
+    {
+      "text": "it",
+      "start": 12.64,
+      "end": 12.64
+    },
+    {
+      "text": "upside",
+      "start": 12.64,
+      "end": 13.12
+    },
+    {
+      "text": "down",
+      "start": 13.12,
+      "end": 13.44
+    },
+    {
+      "text": "Every",
+      "start": 13.76,
+      "end": 14.08
+    },
+    {
+      "text": "peak",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "becomes",
+      "start": 14.4,
+      "end": 14.8
+    },
+    {
+      "text": "a",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "trough",
+      "start": 14.88,
+      "end": 15.28
+    },
+    {
+      "text": "Then",
+      "start": 15.818049886621315,
+      "end": 15.978049886621315
+    },
+    {
+      "text": "it",
+      "start": 15.978049886621315,
+      "end": 16.058049886621315
+    },
+    {
+      "text": "plays",
+      "start": 16.058049886621315,
+      "end": 16.378049886621316
+    },
+    {
+      "text": "that",
+      "start": 16.378049886621316,
+      "end": 16.618049886621314
+    },
+    {
+      "text": "back",
+      "start": 16.618049886621314,
+      "end": 16.858049886621316
+    },
+    {
+      "text": "into",
+      "start": 16.858049886621316,
+      "end": 17.098049886621315
+    },
+    {
+      "text": "your",
+      "start": 17.098049886621315,
+      "end": 17.258049886621315
+    },
+    {
+      "text": "ear",
+      "start": 17.258049886621315,
+      "end": 17.658049886621313
+    },
+    {
+      "text": "and",
+      "start": 17.818049886621314,
+      "end": 17.978049886621314
+    },
+    {
+      "text": "the",
+      "start": 17.978049886621314,
+      "end": 18.058049886621315
+    },
+    {
+      "text": "two",
+      "start": 18.058049886621315,
+      "end": 18.298049886621314
+    },
+    {
+      "text": "add",
+      "start": 18.298049886621314,
+      "end": 18.538049886621316
+    },
+    {
+      "text": "up",
+      "start": 18.538049886621316,
+      "end": 18.778049886621314
+    },
+    {
+      "text": "to",
+      "start": 18.778049886621314,
+      "end": 18.858049886621316
+    },
+    {
+      "text": "almost",
+      "start": 18.858049886621316,
+      "end": 19.418049886621315
+    },
+    {
+      "text": "nothing",
+      "start": 19.418049886621315,
+      "end": 19.898049886621315
+    },
+    {
+      "text": "Which",
+      "start": 20.378049886621316,
+      "end": 20.538049886621316
+    },
+    {
+      "text": "only",
+      "start": 20.538049886621316,
+      "end": 20.858049886621316
+    },
+    {
+      "text": "works",
+      "start": 20.858049886621316,
+      "end": 21.178049886621316
+    },
+    {
+      "text": "if",
+      "start": 21.178049886621316,
+      "end": 21.258049886621315
+    },
+    {
+      "text": "it",
+      "start": 21.258049886621315,
+      "end": 21.338049886621313
+    },
+    {
+      "text": "can",
+      "start": 21.338049886621313,
+      "end": 21.498049886621317
+    },
+    {
+      "text": "predict",
+      "start": 21.498049886621317,
+      "end": 21.818049886621317
+    },
+    {
+      "text": "what",
+      "start": 21.818049886621317,
+      "end": 21.978049886621314
+    },
+    {
+      "text": "comes",
+      "start": 21.978049886621314,
+      "end": 22.298049886621314
+    },
+    {
+      "text": "next",
+      "start": 22.298049886621314,
+      "end": 22.778049886621314
+    },
+    {
+      "text": "and",
+      "start": 22.938049886621314,
+      "end": 23.018049886621313
+    },
+    {
+      "text": "it",
+      "start": 23.018049886621313,
+      "end": 23.098049886621315
+    },
+    {
+      "text": "has",
+      "start": 23.098049886621315,
+      "end": 23.338049886621313
+    },
+    {
+      "text": "microseconds",
+      "start": 23.338049886621313,
+      "end": 24.218049886621316
+    },
+    {
+      "text": "to",
+      "start": 24.218049886621316,
+      "end": 24.218049886621316
+    },
+    {
+      "text": "do",
+      "start": 24.218049886621316,
+      "end": 24.458049886621314
+    },
+    {
+      "text": "it",
+      "start": 24.458049886621314,
+      "end": 24.618049886621314
+    },
+    {
+      "text": "A",
+      "start": 25.018049886621313,
+      "end": 25.098049886621315
+    },
+    {
+      "text": "steady",
+      "start": 25.098049886621315,
+      "end": 25.498049886621317
+    },
+    {
+      "text": "engine",
+      "start": 25.498049886621317,
+      "end": 25.978049886621314
+    },
+    {
+      "text": "drone",
+      "start": 25.978049886621314,
+      "end": 26.298049886621314
+    },
+    {
+      "text": "is",
+      "start": 26.298049886621314,
+      "end": 26.458049886621314
+    },
+    {
+      "text": "completely",
+      "start": 26.458049886621314,
+      "end": 26.938049886621314
+    },
+    {
+      "text": "predictable",
+      "start": 26.938049886621314,
+      "end": 27.578049886621315
+    },
+    {
+      "text": "It",
+      "start": 27.818049886621317,
+      "end": 27.978049886621314
+    },
+    {
+      "text": "repeats",
+      "start": 27.978049886621314,
+      "end": 28.538049886621316
+    },
+    {
+      "text": "low",
+      "start": 28.698049886621313,
+      "end": 29.018049886621313
+    },
+    {
+      "text": "and",
+      "start": 29.018049886621313,
+      "end": 29.178049886621316
+    },
+    {
+      "text": "forever",
+      "start": 29.178049886621316,
+      "end": 29.658049886621313
+    },
+    {
+      "text": "So",
+      "start": 29.818049886621317,
+      "end": 30.058049886621315
+    },
+    {
+      "text": "it",
+      "start": 30.058049886621315,
+      "end": 30.138049886621317
+    },
+    {
+      "text": "disappears",
+      "start": 30.138049886621317,
+      "end": 30.858049886621316
+    },
+    {
+      "text": "That",
+      "start": 31.22659863945578,
+      "end": 31.38659863945578
+    },
+    {
+      "text": "is",
+      "start": 31.38659863945578,
+      "end": 31.54659863945578
+    },
+    {
+      "text": "the",
+      "start": 31.54659863945578,
+      "end": 31.626598639455782
+    },
+    {
+      "text": "part",
+      "start": 31.626598639455782,
+      "end": 31.946598639455782
+    },
+    {
+      "text": "that",
+      "start": 31.946598639455782,
+      "end": 32.026598639455784
+    },
+    {
+      "text": "feels",
+      "start": 32.026598639455784,
+      "end": 32.26659863945578
+    },
+    {
+      "text": "like",
+      "start": 32.26659863945578,
+      "end": 32.50659863945578
+    },
+    {
+      "text": "magic",
+      "start": 32.50659863945578,
+      "end": 32.90659863945578
+    },
+    {
+      "text": "on",
+      "start": 32.90659863945578,
+      "end": 33.06659863945578
+    },
+    {
+      "text": "a",
+      "start": 33.06659863945578,
+      "end": 33.14659863945578
+    },
+    {
+      "text": "plane",
+      "start": 33.14659863945578,
+      "end": 33.62659863945578
+    },
+    {
+      "text": "A",
+      "start": 33.94659863945578,
+      "end": 34.026598639455784
+    },
+    {
+      "text": "voice",
+      "start": 34.026598639455784,
+      "end": 34.346598639455785
+    },
+    {
+      "text": "does",
+      "start": 34.346598639455785,
+      "end": 34.58659863945578
+    },
+    {
+      "text": "not",
+      "start": 34.58659863945578,
+      "end": 34.82659863945578
+    },
+    {
+      "text": "repeat",
+      "start": 34.82659863945578,
+      "end": 35.306598639455785
+    },
+    {
+      "text": "it",
+      "start": 35.46659863945578,
+      "end": 35.62659863945578
+    },
+    {
+      "text": "is",
+      "start": 35.62659863945578,
+      "end": 35.706598639455784
+    },
+    {
+      "text": "high",
+      "start": 35.706598639455784,
+      "end": 35.94659863945578
+    },
+    {
+      "text": "frequency",
+      "start": 35.94659863945578,
+      "end": 36.58659863945578
+    },
+    {
+      "text": "and",
+      "start": 36.82659863945578,
+      "end": 36.90659863945578
+    },
+    {
+      "text": "it",
+      "start": 36.90659863945578,
+      "end": 36.98659863945578
+    },
+    {
+      "text": "changes",
+      "start": 36.98659863945578,
+      "end": 37.46659863945578
+    },
+    {
+      "text": "constantly",
+      "start": 37.46659863945578,
+      "end": 38.18659863945578
+    },
+    {
+      "text": "Which",
+      "start": 38.346598639455785,
+      "end": 38.50659863945578
+    },
+    {
+      "text": "is",
+      "start": 38.50659863945578,
+      "end": 38.58659863945578
+    },
+    {
+      "text": "why",
+      "start": 38.58659863945578,
+      "end": 38.82659863945578
+    },
+    {
+      "text": "the",
+      "start": 38.82659863945578,
+      "end": 38.90659863945578
+    },
+    {
+      "text": "engine",
+      "start": 38.90659863945578,
+      "end": 39.306598639455785
+    },
+    {
+      "text": "vanishes",
+      "start": 39.306598639455785,
+      "end": 39.946598639455786
+    },
+    {
+      "text": "and",
+      "start": 40.10659863945578,
+      "end": 40.18659863945578
+    },
+    {
+      "text": "the",
+      "start": 40.18659863945578,
+      "end": 40.26659863945578
+    },
+    {
+      "text": "person",
+      "start": 40.26659863945578,
+      "end": 40.666598639455785
+    },
+    {
+      "text": "two",
+      "start": 40.666598639455785,
+      "end": 40.98659863945578
+    },
+    {
+      "text": "rows",
+      "start": 40.98659863945578,
+      "end": 41.22659863945578
+    },
+    {
+      "text": "back",
+      "start": 41.22659863945578,
+      "end": 41.54659863945578
+    },
+    {
+      "text": "does",
+      "start": 41.54659863945578,
+      "end": 41.706598639455784
+    },
+    {
+      "text": "not",
+      "start": 41.706598639455784,
+      "end": 42.10659863945578
+    },
+    {
+      "text": "One",
+      "start": 42.34659863945578,
+      "end": 42.58659863945578
+    },
+    {
+      "text": "of",
+      "start": 42.58659863945578,
+      "end": 42.666598639455785
+    },
+    {
+      "text": "these",
+      "start": 42.666598639455785,
+      "end": 42.98659863945578
+    },
+    {
+      "text": "every",
+      "start": 42.98659863945578,
+      "end": 43.306598639455785
+    },
+    {
+      "text": "day",
+      "start": 43.306598639455785,
+      "end": 43.62659863945578
+    },
+    {
+      "text": "Follow",
+      "start": 43.946598639455786,
+      "end": 44.18659863945578
+    },
+    {
+      "text": "so",
+      "start": 44.18659863945578,
+      "end": 44.34659863945578
+    },
+    {
+      "text": "you",
+      "start": 44.34659863945578,
+      "end": 44.50659863945578
+    },
+    {
+      "text": "do",
+      "start": 44.50659863945578,
+      "end": 44.58659863945578
+    },
+    {
+      "text": "not",
+      "start": 44.58659863945578,
+      "end": 44.90659863945578
+    },
+    {
+      "text": "miss",
+      "start": 44.90659863945578,
+      "end": 45.06659863945578
+    },
+    {
+      "text": "tomorrow",
+      "start": 45.06659863945578,
+      "end": 45.62659863945578
+    }
+  ],
+  "text": "Noise cancelling works by playing the exact opposite of the noise, in real time. It is not blocking anything. No extra padding is doing the work. A microphone on the outside hears the noise arriving. The electronics flip it upside down. Every peak becomes a trough. Then it plays that back into your ear, and the two add up to almost nothing. Which only works if it can predict what comes next, and it has microseconds to do it. A steady engine drone is completely predictable. It repeats, low and forever. So it disappears. That is the part that feels like magic on a plane. A voice does not repeat, it is high frequency, and it changes constantly. Which is why the engine vanishes and the person two rows back does not. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

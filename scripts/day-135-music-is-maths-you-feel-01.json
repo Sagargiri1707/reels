@@ -1,0 +1,109 @@
+{
+  "topic": "Music is math you can feel",
+  "lesson": "Notes sound good together when their frequencies form simple ratios, and because stacking perfect fifths never closes the circle, every piano is deliberately slightly out of tune everywhere.",
+  "slug": "day-135-music-is-maths-you-feel-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Two notes sound good together when their frequencies form a simple ratio. That is the whole foundation.",
+      "scene": "two tuning forks, a small black cartoon figure striking both against the surface",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two tuning forks, a small black cartoon figure striking both against the surface. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It feels like taste. It is arithmetic.",
+      "scene": "a set of graded brass weights, a small black cartoon figure lining them up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a set of graded brass weights, a small black cartoon figure lining them up. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Double a frequency and you get the same note, higher. That is an octave. Two to one.",
+      "scene": "a string with a bridge at its exact midpoint, a small black cartoon figure pressing the bridge down",
+      "image_text": "TWO TO ONE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a string with a bridge at its exact midpoint, a small black cartoon figure pressing the bridge down. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TWO TO ONE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Three to two gives you a fifth, which is the next most settled sound in music.",
+      "scene": "a string marked at two thirds, a small black cartoon figure sliding the marker along",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a string marked at two thirds, a small black cartoon figure sliding the marker along. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "The simpler the ratio, the more the waves line up, and the more resolved it sounds.",
+      "scene": "two ripple patterns overlapping neatly in a tray, a small black cartoon figure tapping the water",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two ripple patterns overlapping neatly in a tray, a small black cartoon figure tapping the water. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But there is a problem, and every piano in the world is built around it.",
+      "scene": "one piano key, a small black cartoon figure standing on it with both feet",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one piano key, a small black cartoon figure standing on it with both feet. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Stack perfect fifths and you never land back on your starting note. The maths does not close.",
+      "scene": "a ring of links that will not quite meet, a small black cartoon figure forcing the ends together",
+      "image_text": "DOES NOT CLOSE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ring of links that will not quite meet, a small black cartoon figure forcing the ends together. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"DOES NOT CLOSE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So we detune everything slightly, by an equal amount, so every key is equally slightly wrong.",
+      "scene": "a row of tuning pegs, a small black cartoon figure turning one a fraction",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of tuning pegs, a small black cartoon figure turning one a fraction. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "That is equal temperament, and it is why a piano is deliberately, subtly out of tune everywhere.",
+      "scene": "an open piano lid over the frame, a small black cartoon figure climbing down inside",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open piano lid over the frame, a small black cartoon figure climbing down inside. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "All of Western music runs on an error we agreed to accept.",
+      "scene": "a slightly bent ruler being used anyway, a small black cartoon figure drawing along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slightly bent ruler being used anyway, a small black cartoon figure drawing along it. the scene belongs to simple ratios lining up, and an error everyone agreed to share out evenly, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Consonance is arithmetic. An octave is a 2:1 frequency ratio, a fifth is 3:2, and the simpler the ratio the more the waves line up. The problem is that stacking perfect fifths never lands you back on the starting note, so the circle does not close. Equal temperament shares that error out evenly, detuning every interval slightly so that every key is playable. Which means a piano is deliberately, subtly wrong everywhere.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #music #maths #tuning #sound #science",
+    "thumbnail_beat": "07"
+  }
+}

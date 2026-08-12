@@ -1,0 +1,109 @@
+{
+  "topic": "Why a passing siren changes pitch",
+  "lesson": "A siren's pitch never changes; its motion bunches the waves ahead of it and stretches them behind, and the same effect on light is how we measure the universe.",
+  "slug": "day-136-why-a-siren-changes-pitch-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A passing siren does not change its pitch. Not once.",
+      "scene": "a hand bell, a small black cartoon figure ringing it steadily with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand bell, a small black cartoon figure ringing it steadily with both arms. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It sounds higher coming towards you and lower going away, and the siren is doing nothing different.",
+      "scene": "a wheeled cart with a bell fixed to it, a small black cartoon figure shoving it past",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wheeled cart with a bell fixed to it, a small black cartoon figure shoving it past. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The sound leaves as a steady series of pressure waves, evenly spaced.",
+      "scene": "a tray of water with rings spreading, a small black cartoon figure tapping the centre",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of water with rings spreading, a small black cartoon figure tapping the centre. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "But the source is moving, so each new wave starts from slightly closer than the last one.",
+      "scene": "a tray where the tapping point has shifted, a small black cartoon figure dragging their arm across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray where the tapping point has shifted, a small black cartoon figure dragging their arm across. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "That bunches them up ahead of it and stretches them out behind.",
+      "scene": "rings crowded to one side of a tray, a small black cartoon figure pressing at the crowded side",
+      "image_text": "BUNCHED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. rings crowded to one side of a tray, a small black cartoon figure pressing at the crowded side. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BUNCHED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And more waves arriving per second is exactly what a higher pitch is.",
+      "scene": "beads packed tight at one end of a groove, a small black cartoon figure sliding them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. beads packed tight at one end of a groove, a small black cartoon figure sliding them together. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So the pitch you hear is a property of the motion, not of the siren.",
+      "scene": "a cart with the bell taken off it, a small black cartoon figure pushing the empty cart",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cart with the bell taken off it, a small black cartoon figure pushing the empty cart. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "The same trick reads a car's speed off a radar gun, and finds the rain inside a storm.",
+      "scene": "a small dish aerial aimed along the surface, a small black cartoon figure swivelling it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small dish aerial aimed along the surface, a small black cartoon figure swivelling it. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And it works on light just as well as it works on sound.",
+      "scene": "a glass prism with a shifted band across it, a small black cartoon figure turning the prism",
+      "image_text": "LIGHT TOO",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass prism with a shifted band across it, a small black cartoon figure turning the prism. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"LIGHT TOO\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is how we know the whole universe is moving away from us. But that is for later.",
+      "scene": "a chalk arrow running off the edge of the surface, a small black cartoon figure walking along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk arrow running off the edge of the surface, a small black cartoon figure walking along it. the scene belongs to waves crowding in front of something moving and spreading out behind it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The siren's pitch never changes. Because the source is moving, each new pressure wave starts from slightly closer than the last, which bunches the waves ahead of it and stretches them behind. More waves per second arriving is exactly what a higher pitch is, so the pitch you hear belongs to the motion, not the siren. The same effect drives radar speed guns and weather radar, and applied to light it is how we measure the expanding universe.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #doppler #sound #physics #waves #science",
+    "thumbnail_beat": "05"
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "audio_duration": 53.368063,
+  "segments": [
+    {
+      "text": "The",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "word",
+      "start": 0.08,
+      "end": 0.32
+    },
+    {
+      "text": "robot",
+      "start": 0.32,
+      "end": 0.88
+    },
+    {
+      "text": "comes",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "text": "from",
+      "start": 1.2,
+      "end": 1.28
+    },
+    {
+      "text": "a",
+      "start": 1.28,
+      "end": 1.36
+    },
+    {
+      "text": "play",
+      "start": 1.36,
+      "end": 1.76
+    },
+    {
+      "text": "written",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "text": "in",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "text": "nineteen",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "twenty",
+      "start": 2.56,
+      "end": 3.04
+    },
+    {
+      "text": "and",
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "text": "it",
+      "start": 3.44,
+      "end": 3.52
+    },
+    {
+      "text": "means",
+      "start": 3.52,
+      "end": 3.84
+    },
+    {
+      "text": "forced",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "text": "labour",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "But",
+      "start": 5.2,
+      "end": 5.44
+    },
+    {
+      "text": "things",
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "text": "that",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "moved",
+      "start": 5.76,
+      "end": 6.0
+    },
+    {
+      "text": "by",
+      "start": 6.0,
+      "end": 6.24
+    },
+    {
+      "text": "themselves",
+      "start": 6.24,
+      "end": 6.88
+    },
+    {
+      "text": "existed",
+      "start": 6.88,
+      "end": 7.36
+    },
+    {
+      "text": "for",
+      "start": 7.36,
+      "end": 7.44
+    },
+    {
+      "text": "thousands",
+      "start": 7.44,
+      "end": 8.0
+    },
+    {
+      "text": "of",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "years",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "before",
+      "start": 8.4,
+      "end": 8.72
+    },
+    {
+      "text": "the",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "word",
+      "start": 8.8,
+      "end": 9.12
+    },
+    {
+      "text": "did",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "text": "Greek",
+      "start": 9.76,
+      "end": 10.16
+    },
+    {
+      "text": "and",
+      "start": 10.16,
+      "end": 10.24
+    },
+    {
+      "text": "Chinese",
+      "start": 10.24,
+      "end": 10.72
+    },
+    {
+      "text": "engineers",
+      "start": 10.72,
+      "end": 11.2
+    },
+    {
+      "text": "built",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "text": "clocks",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "text": "with",
+      "start": 12.0,
+      "end": 12.16
+    },
+    {
+      "text": "figures",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "text": "that",
+      "start": 12.56,
+      "end": 12.64
+    },
+    {
+      "text": "struck",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "text": "a",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "bell",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "on",
+      "start": 13.44,
+      "end": 13.52
+    },
+    {
+      "text": "the",
+      "start": 13.52,
+      "end": 13.68
+    },
+    {
+      "text": "hour",
+      "start": 13.68,
+      "end": 14.08
+    },
+    {
+      "text": "AlJazari",
+      "start": 14.37061224489796,
+      "end": 15.01061224489796
+    },
+    {
+      "text": "built",
+      "start": 15.01061224489796,
+      "end": 15.17061224489796
+    },
+    {
+      "text": "machines",
+      "start": 15.17061224489796,
+      "end": 15.650612244897959
+    },
+    {
+      "text": "in",
+      "start": 15.650612244897959,
+      "end": 15.810612244897959
+    },
+    {
+      "text": "the",
+      "start": 15.810612244897959,
+      "end": 15.810612244897959
+    },
+    {
+      "text": "twelve",
+      "start": 15.810612244897959,
+      "end": 16.21061224489796
+    },
+    {
+      "text": "hundreds",
+      "start": 16.21061224489796,
+      "end": 16.770612244897958
+    },
+    {
+      "text": "that",
+      "start": 16.930612244897958,
+      "end": 17.090612244897958
+    },
+    {
+      "text": "could",
+      "start": 17.090612244897958,
+      "end": 17.17061224489796
+    },
+    {
+      "text": "be",
+      "start": 17.17061224489796,
+      "end": 17.33061224489796
+    },
+    {
+      "text": "reset",
+      "start": 17.33061224489796,
+      "end": 17.89061224489796
+    },
+    {
+      "text": "to",
+      "start": 17.89061224489796,
+      "end": 17.89061224489796
+    },
+    {
+      "text": "play",
+      "start": 17.89061224489796,
+      "end": 18.13061224489796
+    },
+    {
+      "text": "different",
+      "start": 18.13061224489796,
+      "end": 18.53061224489796
+    },
+    {
+      "text": "rhythms",
+      "start": 18.53061224489796,
+      "end": 19.01061224489796
+    },
+    {
+      "text": "That",
+      "start": 19.33061224489796,
+      "end": 19.57061224489796
+    },
+    {
+      "text": "is",
+      "start": 19.57061224489796,
+      "end": 19.65061224489796
+    },
+    {
+      "text": "a",
+      "start": 19.65061224489796,
+      "end": 19.65061224489796
+    },
+    {
+      "text": "programmable",
+      "start": 19.65061224489796,
+      "end": 20.290612244897957
+    },
+    {
+      "text": "device",
+      "start": 20.290612244897957,
+      "end": 20.85061224489796
+    },
+    {
+      "text": "six",
+      "start": 21.01061224489796,
+      "end": 21.33061224489796
+    },
+    {
+      "text": "hundred",
+      "start": 21.33061224489796,
+      "end": 21.65061224489796
+    },
+    {
+      "text": "years",
+      "start": 21.65061224489796,
+      "end": 21.970612244897957
+    },
+    {
+      "text": "before",
+      "start": 21.970612244897957,
+      "end": 22.21061224489796
+    },
+    {
+      "text": "anyone",
+      "start": 22.290612244897957,
+      "end": 22.69061224489796
+    },
+    {
+      "text": "used",
+      "start": 22.69061224489796,
+      "end": 22.930612244897958
+    },
+    {
+      "text": "the",
+      "start": 22.930612244897958,
+      "end": 23.01061224489796
+    },
+    {
+      "text": "word",
+      "start": 23.01061224489796,
+      "end": 23.250612244897958
+    },
+    {
+      "text": "program",
+      "start": 23.250612244897958,
+      "end": 23.81061224489796
+    },
+    {
+      "text": "In",
+      "start": 24.21061224489796,
+      "end": 24.37061224489796
+    },
+    {
+      "text": "seventeen",
+      "start": 24.37061224489796,
+      "end": 24.930612244897958
+    },
+    {
+      "text": "thirty",
+      "start": 24.930612244897958,
+      "end": 25.250612244897958
+    },
+    {
+      "text": "nine",
+      "start": 25.250612244897958,
+      "end": 25.57061224489796
+    },
+    {
+      "text": "Vaucanson",
+      "start": 25.57061224489796,
+      "end": 26.290612244897957
+    },
+    {
+      "text": "built",
+      "start": 26.290612244897957,
+      "end": 26.53061224489796
+    },
+    {
+      "text": "a",
+      "start": 26.53061224489796,
+      "end": 26.53061224489796
+    },
+    {
+      "text": "mechanical",
+      "start": 26.53061224489796,
+      "end": 27.09061224489796
+    },
+    {
+      "text": "duck",
+      "start": 27.09061224489796,
+      "end": 27.41061224489796
+    },
+    {
+      "text": "that",
+      "start": 27.650612244897957,
+      "end": 27.73061224489796
+    },
+    {
+      "text": "appeared",
+      "start": 27.73061224489796,
+      "end": 28.13061224489796
+    },
+    {
+      "text": "to",
+      "start": 28.13061224489796,
+      "end": 28.21061224489796
+    },
+    {
+      "text": "eat",
+      "start": 28.21061224489796,
+      "end": 28.45061224489796
+    },
+    {
+      "text": "and",
+      "start": 28.45061224489796,
+      "end": 28.610612244897958
+    },
+    {
+      "text": "digest",
+      "start": 28.610612244897958,
+      "end": 29.250612244897958
+    },
+    {
+      "text": "It",
+      "start": 29.60020408163265,
+      "end": 29.680204081632652
+    },
+    {
+      "text": "was",
+      "start": 29.680204081632652,
+      "end": 29.840204081632653
+    },
+    {
+      "text": "a",
+      "start": 29.840204081632653,
+      "end": 29.92020408163265
+    },
+    {
+      "text": "trick",
+      "start": 29.92020408163265,
+      "end": 30.320204081632653
+    },
+    {
+      "text": "and",
+      "start": 30.640204081632653,
+      "end": 30.72020408163265
+    },
+    {
+      "text": "crowds",
+      "start": 30.72020408163265,
+      "end": 31.200204081632652
+    },
+    {
+      "text": "paid",
+      "start": 31.200204081632652,
+      "end": 31.520204081632652
+    },
+    {
+      "text": "to",
+      "start": 31.520204081632652,
+      "end": 31.600204081632654
+    },
+    {
+      "text": "watch",
+      "start": 31.600204081632654,
+      "end": 31.92020408163265
+    },
+    {
+      "text": "it",
+      "start": 31.92020408163265,
+      "end": 32.08020408163265
+    },
+    {
+      "text": "which",
+      "start": 32.240204081632655,
+      "end": 32.40020408163265
+    },
+    {
+      "text": "is",
+      "start": 32.48020408163265,
+      "end": 32.560204081632655
+    },
+    {
+      "text": "the",
+      "start": 32.560204081632655,
+      "end": 32.64020408163265
+    },
+    {
+      "text": "point",
+      "start": 32.64020408163265,
+      "end": 33.04020408163265
+    },
+    {
+      "text": "Motion",
+      "start": 33.36020408163265,
+      "end": 33.76020408163265
+    },
+    {
+      "text": "was",
+      "start": 33.76020408163265,
+      "end": 33.920204081632654
+    },
+    {
+      "text": "never",
+      "start": 33.920204081632654,
+      "end": 34.16020408163265
+    },
+    {
+      "text": "the",
+      "start": 34.16020408163265,
+      "end": 34.240204081632655
+    },
+    {
+      "text": "hard",
+      "start": 34.240204081632655,
+      "end": 34.560204081632655
+    },
+    {
+      "text": "part",
+      "start": 34.560204081632655,
+      "end": 34.880204081632655
+    },
+    {
+      "text": "The",
+      "start": 35.12020408163265,
+      "end": 35.20020408163265
+    },
+    {
+      "text": "first",
+      "start": 35.20020408163265,
+      "end": 35.520204081632656
+    },
+    {
+      "text": "industrial",
+      "start": 35.520204081632656,
+      "end": 36.08020408163265
+    },
+    {
+      "text": "arm",
+      "start": 36.08020408163265,
+      "end": 36.40020408163265
+    },
+    {
+      "text": "went",
+      "start": 36.40020408163265,
+      "end": 36.560204081632655
+    },
+    {
+      "text": "into",
+      "start": 36.560204081632655,
+      "end": 36.80020408163265
+    },
+    {
+      "text": "a",
+      "start": 36.80020408163265,
+      "end": 36.80020408163265
+    },
+    {
+      "text": "factory",
+      "start": 36.80020408163265,
+      "end": 37.36020408163265
+    },
+    {
+      "text": "in",
+      "start": 37.36020408163265,
+      "end": 37.520204081632656
+    },
+    {
+      "text": "nineteen",
+      "start": 37.520204081632656,
+      "end": 37.84020408163265
+    },
+    {
+      "text": "sixty",
+      "start": 37.84020408163265,
+      "end": 38.240204081632655
+    },
+    {
+      "text": "one",
+      "start": 38.240204081632655,
+      "end": 38.56020408163265
+    },
+    {
+      "text": "lifting",
+      "start": 38.80020408163265,
+      "end": 39.20020408163265
+    },
+    {
+      "text": "hot",
+      "start": 39.20020408163265,
+      "end": 39.44020408163265
+    },
+    {
+      "text": "metal",
+      "start": 39.44020408163265,
+      "end": 39.84020408163265
+    },
+    {
+      "text": "It",
+      "start": 40.08020408163265,
+      "end": 40.160204081632656
+    },
+    {
+      "text": "could",
+      "start": 40.160204081632656,
+      "end": 40.32020408163265
+    },
+    {
+      "text": "not",
+      "start": 40.32020408163265,
+      "end": 40.56020408163265
+    },
+    {
+      "text": "see",
+      "start": 40.56020408163265,
+      "end": 40.80020408163265
+    },
+    {
+      "text": "anything",
+      "start": 40.80020408163265,
+      "end": 41.20020408163265
+    },
+    {
+      "text": "at",
+      "start": 41.20020408163265,
+      "end": 41.280204081632654
+    },
+    {
+      "text": "all",
+      "start": 41.280204081632654,
+      "end": 41.68020408163265
+    },
+    {
+      "text": "It",
+      "start": 41.84020408163265,
+      "end": 42.00020408163265
+    },
+    {
+      "text": "repeated",
+      "start": 42.00020408163265,
+      "end": 42.40020408163265
+    },
+    {
+      "text": "one",
+      "start": 42.40020408163265,
+      "end": 42.72020408163265
+    },
+    {
+      "text": "movement",
+      "start": 42.72020408163265,
+      "end": 43.12020408163265
+    },
+    {
+      "text": "exactly",
+      "start": 43.280204081632654,
+      "end": 43.920204081632654
+    },
+    {
+      "text": "forever",
+      "start": 43.920204081632654,
+      "end": 44.48020408163265
+    },
+    {
+      "text": "What",
+      "start": 44.79426303854875,
+      "end": 45.03426303854875
+    },
+    {
+      "text": "changed",
+      "start": 45.03426303854875,
+      "end": 45.43426303854875
+    },
+    {
+      "text": "recently",
+      "start": 45.43426303854875,
+      "end": 45.914263038548754
+    },
+    {
+      "text": "was",
+      "start": 45.914263038548754,
+      "end": 46.07426303854875
+    },
+    {
+      "text": "never",
+      "start": 46.07426303854875,
+      "end": 46.39426303854875
+    },
+    {
+      "text": "movement",
+      "start": 46.39426303854875,
+      "end": 46.95426303854875
+    },
+    {
+      "text": "It",
+      "start": 47.35426303854875,
+      "end": 47.43426303854875
+    },
+    {
+      "text": "was",
+      "start": 47.43426303854875,
+      "end": 47.59426303854875
+    },
+    {
+      "text": "the",
+      "start": 47.59426303854875,
+      "end": 47.67426303854875
+    },
+    {
+      "text": "ability",
+      "start": 47.67426303854875,
+      "end": 48.234263038548754
+    },
+    {
+      "text": "to",
+      "start": 48.234263038548754,
+      "end": 48.234263038548754
+    },
+    {
+      "text": "notice",
+      "start": 48.234263038548754,
+      "end": 48.71426303854875
+    },
+    {
+      "text": "and",
+      "start": 48.71426303854875,
+      "end": 48.79426303854875
+    },
+    {
+      "text": "adapt",
+      "start": 48.79426303854875,
+      "end": 49.35426303854875
+    },
+    {
+      "text": "One",
+      "start": 49.75426303854875,
+      "end": 49.99426303854875
+    },
+    {
+      "text": "of",
+      "start": 49.99426303854875,
+      "end": 50.07426303854875
+    },
+    {
+      "text": "these",
+      "start": 50.07426303854875,
+      "end": 50.31426303854875
+    },
+    {
+      "text": "every",
+      "start": 50.31426303854875,
+      "end": 50.71426303854875
+    },
+    {
+      "text": "day",
+      "start": 50.71426303854875,
+      "end": 51.03426303854875
+    },
+    {
+      "text": "Follow",
+      "start": 51.43426303854875,
+      "end": 51.67426303854875
+    },
+    {
+      "text": "so",
+      "start": 51.67426303854875,
+      "end": 51.834263038548755
+    },
+    {
+      "text": "you",
+      "start": 51.834263038548755,
+      "end": 51.99426303854875
+    },
+    {
+      "text": "do",
+      "start": 51.99426303854875,
+      "end": 52.15426303854875
+    },
+    {
+      "text": "not",
+      "start": 52.15426303854875,
+      "end": 52.39426303854875
+    },
+    {
+      "text": "miss",
+      "start": 52.39426303854875,
+      "end": 52.63426303854875
+    },
+    {
+      "text": "tomorrow",
+      "start": 52.63426303854875,
+      "end": 53.194263038548755
+    }
+  ],
+  "text": "The word robot comes from a play written in nineteen twenty, and it means forced labour. But things that moved by themselves existed for thousands of years before the word did. Greek and Chinese engineers built clocks with figures that struck a bell on the hour. Al-Jazari built machines in the twelve hundreds that could be reset to play different rhythms. That is a programmable device, six hundred years before anyone used the word program. In seventeen thirty nine Vaucanson built a mechanical duck that appeared to eat and digest. It was a trick, and crowds paid to watch it, which is the point. Motion was never the hard part. The first industrial arm went into a factory in nineteen sixty one, lifting hot metal. It could not see anything at all. It repeated one movement, exactly, forever. What changed recently was never movement. It was the ability to notice and adapt. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

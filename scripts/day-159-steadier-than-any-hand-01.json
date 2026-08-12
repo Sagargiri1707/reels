@@ -1,0 +1,109 @@
+{
+  "topic": "Steadier than any human hand",
+  "lesson": "Surgical and industrial robots are precision amplifiers with a person still holding the controls, not replacements for the person.",
+  "slug": "day-159-steadier-than-any-hand-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A surgical robot removes the natural tremor in a surgeon's hand entirely.",
+      "scene": "a fine needle held in a clamp, a small black cartoon figure steadying the clamp",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fine needle held in a clamp, a small black cartoon figure steadying the clamp. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every human hand shakes a little. It is normal, it is involuntary, and it never stops.",
+      "scene": "a glass of water with a trembling surface, a small black cartoon figure gripping the glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass of water with a trembling surface, a small black cartoon figure gripping the glass. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "At the scale of stitching a blood vessel, that tremor is enormous.",
+      "scene": "a very fine thread beside a thick rope, a small black cartoon figure lifting the fine one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very fine thread beside a thick rope, a small black cartoon figure lifting the fine one. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So the machine reads the movement, strips the shake out, and scales the rest down.",
+      "scene": "a sieve catching coarse grains, a small black cartoon figure shaking it hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sieve catching coarse grains, a small black cartoon figure shaking it hard. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Move your hand a centimetre and the instrument moves a millimetre. Perfectly smoothly.",
+      "scene": "a long lever with a tiny tip movement, a small black cartoon figure shoving the long end",
+      "image_text": "SCALED DOWN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long lever with a tiny tip movement, a small black cartoon figure shoving the long end. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SCALED DOWN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The surgeon is still driving every part of it. Nothing here is autonomous.",
+      "scene": "a control handle, a small black cartoon figure gripping it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a control handle, a small black cartoon figure gripping it with both arms. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Industrial arms do the other version. The same movement, to fractions of a millimetre, for years.",
+      "scene": "a jointed arm poised over one chalk mark, a small black cartoon figure standing on the mark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jointed arm poised over one chalk mark, a small black cartoon figure standing on the mark. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "No fatigue, no drift, no bad morning. That is a kind of precision no person has.",
+      "scene": "a stack of identical parts, a small black cartoon figure setting the top one square",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of identical parts, a small black cartoon figure setting the top one square. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And some of them work in places where a person simply could not survive.",
+      "scene": "a sealed chamber with a glove port, a small black cartoon figure shoving an arm through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed chamber with a glove port, a small black cartoon figure shoving an arm through. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "These are not replacements. They are amplifiers, with a human still holding the controls.",
+      "scene": "a long handled tool gripped at the far end, a small black cartoon figure holding the handle",
+      "image_text": "STILL DRIVING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long handled tool gripped at the far end, a small black cartoon figure holding the handle. the scene belongs to a movement being scaled down and smoothed out before it reaches the work, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STILL DRIVING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Every human hand has an involuntary tremor that never stops, and at the scale of stitching a blood vessel it is enormous. A surgical robot reads the surgeon's movement, filters the tremor out and scales the rest down, so a centimetre of hand becomes a millimetre of instrument. The surgeon is still driving all of it. Industrial arms do the other version: the same movement to fractions of a millimetre, for years, with no fatigue or drift. Amplifiers, not replacements.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #robots #surgery #precision #engineering #science",
+    "thumbnail_beat": "05"
+  }
+}

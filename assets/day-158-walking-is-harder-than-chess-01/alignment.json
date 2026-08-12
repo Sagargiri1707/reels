@@ -1,0 +1,828 @@
+{
+  "audio_duration": 50.990938,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "computer",
+      "start": 0.08,
+      "end": 0.48
+    },
+    {
+      "text": "beat",
+      "start": 0.48,
+      "end": 0.8
+    },
+    {
+      "text": "the",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "text": "world",
+      "start": 0.88,
+      "end": 1.2
+    },
+    {
+      "text": "chess",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "text": "champion",
+      "start": 1.52,
+      "end": 2.0
+    },
+    {
+      "text": "in",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "text": "nineteen",
+      "start": 2.16,
+      "end": 2.56
+    },
+    {
+      "text": "ninety",
+      "start": 2.56,
+      "end": 2.8
+    },
+    {
+      "text": "seven",
+      "start": 2.8,
+      "end": 3.36
+    },
+    {
+      "text": "A",
+      "start": 3.84,
+      "end": 3.84
+    },
+    {
+      "text": "robot",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "text": "walking",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "reliably",
+      "start": 4.64,
+      "end": 5.28
+    },
+    {
+      "text": "over",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "text": "rubble",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "text": "took",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "text": "another",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "twenty",
+      "start": 6.4,
+      "end": 6.72
+    },
+    {
+      "text": "years",
+      "start": 6.72,
+      "end": 7.2
+    },
+    {
+      "text": "Chess",
+      "start": 7.6,
+      "end": 7.92
+    },
+    {
+      "text": "has",
+      "start": 7.92,
+      "end": 8.0
+    },
+    {
+      "text": "a",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "fixed",
+      "start": 8.08,
+      "end": 8.48
+    },
+    {
+      "text": "board",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "text": "a",
+      "start": 9.12,
+      "end": 9.12
+    },
+    {
+      "text": "full",
+      "start": 9.12,
+      "end": 9.44
+    },
+    {
+      "text": "view",
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "text": "of",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "it",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "text": "and",
+      "start": 10.08,
+      "end": 10.24
+    },
+    {
+      "text": "a",
+      "start": 10.24,
+      "end": 10.24
+    },
+    {
+      "text": "turn",
+      "start": 10.24,
+      "end": 10.64
+    },
+    {
+      "text": "in",
+      "start": 10.64,
+      "end": 10.72
+    },
+    {
+      "text": "which",
+      "start": 10.72,
+      "end": 10.96
+    },
+    {
+      "text": "to",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "think",
+      "start": 11.04,
+      "end": 11.44
+    },
+    {
+      "text": "Walking",
+      "start": 11.84,
+      "end": 12.24
+    },
+    {
+      "text": "has",
+      "start": 12.24,
+      "end": 12.4
+    },
+    {
+      "text": "none",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "of",
+      "start": 12.64,
+      "end": 12.72
+    },
+    {
+      "text": "those",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "text": "three",
+      "start": 12.96,
+      "end": 13.2
+    },
+    {
+      "text": "things",
+      "start": 13.2,
+      "end": 13.68
+    },
+    {
+      "text": "Standing",
+      "start": 13.84,
+      "end": 14.32
+    },
+    {
+      "text": "still",
+      "start": 14.32,
+      "end": 14.72
+    },
+    {
+      "text": "is",
+      "start": 14.72,
+      "end": 14.8
+    },
+    {
+      "text": "not",
+      "start": 14.8,
+      "end": 15.04
+    },
+    {
+      "text": "stable",
+      "start": 15.04,
+      "end": 15.6
+    },
+    {
+      "text": "You",
+      "start": 15.936689342403628,
+      "end": 16.09668934240363
+    },
+    {
+      "text": "are",
+      "start": 16.09668934240363,
+      "end": 16.176689342403627
+    },
+    {
+      "text": "a",
+      "start": 16.176689342403627,
+      "end": 16.25668934240363
+    },
+    {
+      "text": "tall",
+      "start": 16.25668934240363,
+      "end": 16.57668934240363
+    },
+    {
+      "text": "thing",
+      "start": 16.57668934240363,
+      "end": 16.89668934240363
+    },
+    {
+      "text": "on",
+      "start": 16.89668934240363,
+      "end": 17.05668934240363
+    },
+    {
+      "text": "two",
+      "start": 17.05668934240363,
+      "end": 17.296689342403628
+    },
+    {
+      "text": "small",
+      "start": 17.296689342403628,
+      "end": 17.616689342403628
+    },
+    {
+      "text": "feet",
+      "start": 17.616689342403628,
+      "end": 18.016689342403627
+    },
+    {
+      "text": "permanently",
+      "start": 18.09668934240363,
+      "end": 18.57668934240363
+    },
+    {
+      "text": "falling",
+      "start": 18.57668934240363,
+      "end": 19.05668934240363
+    },
+    {
+      "text": "Your",
+      "start": 19.456689342403628,
+      "end": 19.616689342403628
+    },
+    {
+      "text": "body",
+      "start": 19.616689342403628,
+      "end": 19.93668934240363
+    },
+    {
+      "text": "corrects",
+      "start": 19.93668934240363,
+      "end": 20.336689342403627
+    },
+    {
+      "text": "that",
+      "start": 20.336689342403627,
+      "end": 20.496689342403627
+    },
+    {
+      "text": "hundreds",
+      "start": 20.496689342403627,
+      "end": 20.89668934240363
+    },
+    {
+      "text": "of",
+      "start": 20.89668934240363,
+      "end": 20.976689342403628
+    },
+    {
+      "text": "times",
+      "start": 20.976689342403628,
+      "end": 21.296689342403628
+    },
+    {
+      "text": "a",
+      "start": 21.296689342403628,
+      "end": 21.37668934240363
+    },
+    {
+      "text": "second",
+      "start": 21.37668934240363,
+      "end": 21.77668934240363
+    },
+    {
+      "text": "using",
+      "start": 22.01668934240363,
+      "end": 22.336689342403627
+    },
+    {
+      "text": "signals",
+      "start": 22.336689342403627,
+      "end": 22.816689342403627
+    },
+    {
+      "text": "you",
+      "start": 22.816689342403627,
+      "end": 22.89668934240363
+    },
+    {
+      "text": "never",
+      "start": 22.89668934240363,
+      "end": 23.216689342403626
+    },
+    {
+      "text": "notice",
+      "start": 23.216689342403626,
+      "end": 23.69668934240363
+    },
+    {
+      "text": "Ankle",
+      "start": 24.01668934240363,
+      "end": 24.496689342403627
+    },
+    {
+      "text": "hip",
+      "start": 24.65668934240363,
+      "end": 24.896689342403626
+    },
+    {
+      "text": "inner",
+      "start": 25.136689342403628,
+      "end": 25.296689342403628
+    },
+    {
+      "text": "ear",
+      "start": 25.296689342403628,
+      "end": 25.69668934240363
+    },
+    {
+      "text": "the",
+      "start": 25.856689342403627,
+      "end": 25.93668934240363
+    },
+    {
+      "text": "sole",
+      "start": 25.93668934240363,
+      "end": 26.25668934240363
+    },
+    {
+      "text": "of",
+      "start": 26.25668934240363,
+      "end": 26.33668934240363
+    },
+    {
+      "text": "your",
+      "start": 26.33668934240363,
+      "end": 26.496689342403627
+    },
+    {
+      "text": "foot",
+      "start": 26.496689342403627,
+      "end": 26.816689342403627
+    },
+    {
+      "text": "All",
+      "start": 27.136689342403628,
+      "end": 27.37668934240363
+    },
+    {
+      "text": "feeding",
+      "start": 27.37668934240363,
+      "end": 27.69668934240363
+    },
+    {
+      "text": "a",
+      "start": 27.69668934240363,
+      "end": 27.77668934240363
+    },
+    {
+      "text": "correction",
+      "start": 27.77668934240363,
+      "end": 28.33668934240363
+    },
+    {
+      "text": "you",
+      "start": 28.33668934240363,
+      "end": 28.41668934240363
+    },
+    {
+      "text": "did",
+      "start": 28.41668934240363,
+      "end": 28.57668934240363
+    },
+    {
+      "text": "not",
+      "start": 28.57668934240363,
+      "end": 28.816689342403627
+    },
+    {
+      "text": "decide",
+      "start": 28.816689342403627,
+      "end": 29.216689342403626
+    },
+    {
+      "text": "on",
+      "start": 29.216689342403626,
+      "end": 29.456689342403628
+    },
+    {
+      "text": "And",
+      "start": 29.856689342403627,
+      "end": 30.01668934240363
+    },
+    {
+      "text": "walking",
+      "start": 30.01668934240363,
+      "end": 30.41668934240363
+    },
+    {
+      "text": "is",
+      "start": 30.41668934240363,
+      "end": 30.496689342403627
+    },
+    {
+      "text": "worse",
+      "start": 30.496689342403627,
+      "end": 30.976689342403628
+    },
+    {
+      "text": "Walking",
+      "start": 31.34185941043084,
+      "end": 31.74185941043084
+    },
+    {
+      "text": "is",
+      "start": 31.74185941043084,
+      "end": 31.82185941043084
+    },
+    {
+      "text": "falling",
+      "start": 31.82185941043084,
+      "end": 32.22185941043084
+    },
+    {
+      "text": "forward",
+      "start": 32.22185941043084,
+      "end": 32.70185941043084
+    },
+    {
+      "text": "and",
+      "start": 32.70185941043084,
+      "end": 32.86185941043084
+    },
+    {
+      "text": "getting",
+      "start": 32.86185941043084,
+      "end": 33.10185941043084
+    },
+    {
+      "text": "a",
+      "start": 33.10185941043084,
+      "end": 33.18185941043084
+    },
+    {
+      "text": "leg",
+      "start": 33.18185941043084,
+      "end": 33.42185941043084
+    },
+    {
+      "text": "out",
+      "start": 33.42185941043084,
+      "end": 33.66185941043084
+    },
+    {
+      "text": "in",
+      "start": 33.66185941043084,
+      "end": 33.74185941043084
+    },
+    {
+      "text": "time",
+      "start": 33.74185941043084,
+      "end": 34.14185941043084
+    },
+    {
+      "text": "Every",
+      "start": 34.54185941043084,
+      "end": 34.86185941043084
+    },
+    {
+      "text": "step",
+      "start": 34.86185941043084,
+      "end": 35.18185941043084
+    },
+    {
+      "text": "is",
+      "start": 35.18185941043084,
+      "end": 35.34185941043084
+    },
+    {
+      "text": "a",
+      "start": 35.34185941043084,
+      "end": 35.34185941043084
+    },
+    {
+      "text": "controlled",
+      "start": 35.34185941043084,
+      "end": 35.82185941043084
+    },
+    {
+      "text": "fall",
+      "start": 35.90185941043084,
+      "end": 36.22185941043084
+    },
+    {
+      "text": "you",
+      "start": 36.22185941043084,
+      "end": 36.38185941043084
+    },
+    {
+      "text": "recover",
+      "start": 36.38185941043084,
+      "end": 36.78185941043084
+    },
+    {
+      "text": "from",
+      "start": 36.78185941043084,
+      "end": 36.94185941043084
+    },
+    {
+      "text": "before",
+      "start": 36.94185941043084,
+      "end": 37.261859410430844
+    },
+    {
+      "text": "it",
+      "start": 37.261859410430844,
+      "end": 37.34185941043084
+    },
+    {
+      "text": "finishes",
+      "start": 37.34185941043084,
+      "end": 37.90185941043084
+    },
+    {
+      "text": "So",
+      "start": 38.22185941043084,
+      "end": 38.38185941043084
+    },
+    {
+      "text": "the",
+      "start": 38.38185941043084,
+      "end": 38.46185941043084
+    },
+    {
+      "text": "robot",
+      "start": 38.46185941043084,
+      "end": 38.86185941043084
+    },
+    {
+      "text": "has",
+      "start": 38.86185941043084,
+      "end": 39.10185941043084
+    },
+    {
+      "text": "to",
+      "start": 39.10185941043084,
+      "end": 39.10185941043084
+    },
+    {
+      "text": "sense",
+      "start": 39.10185941043084,
+      "end": 39.50185941043084
+    },
+    {
+      "text": "the",
+      "start": 39.50185941043084,
+      "end": 39.58185941043084
+    },
+    {
+      "text": "tilt",
+      "start": 39.58185941043084,
+      "end": 39.98185941043084
+    },
+    {
+      "text": "predict",
+      "start": 40.14185941043084,
+      "end": 40.46185941043084
+    },
+    {
+      "text": "the",
+      "start": 40.46185941043084,
+      "end": 40.54185941043084
+    },
+    {
+      "text": "fall",
+      "start": 40.54185941043084,
+      "end": 41.02185941043084
+    },
+    {
+      "text": "and",
+      "start": 41.10185941043084,
+      "end": 41.261859410430844
+    },
+    {
+      "text": "act",
+      "start": 41.261859410430844,
+      "end": 41.58185941043084
+    },
+    {
+      "text": "before",
+      "start": 41.58185941043084,
+      "end": 41.901859410430845
+    },
+    {
+      "text": "it",
+      "start": 41.901859410430845,
+      "end": 41.98185941043084
+    },
+    {
+      "text": "arrives",
+      "start": 41.98185941043084,
+      "end": 42.46185941043084
+    },
+    {
+      "text": "Continuously",
+      "start": 42.621859410430844,
+      "end": 43.50185941043084
+    },
+    {
+      "text": "You",
+      "start": 43.901859410430845,
+      "end": 43.98185941043084
+    },
+    {
+      "text": "find",
+      "start": 43.98185941043084,
+      "end": 44.301859410430836
+    },
+    {
+      "text": "this",
+      "start": 44.301859410430836,
+      "end": 44.46185941043084
+    },
+    {
+      "text": "easy",
+      "start": 44.54185941043084,
+      "end": 44.86185941043084
+    },
+    {
+      "text": "only",
+      "start": 44.86185941043084,
+      "end": 45.10185941043084
+    },
+    {
+      "text": "because",
+      "start": 45.10185941043084,
+      "end": 45.42185941043084
+    },
+    {
+      "text": "you",
+      "start": 45.42185941043084,
+      "end": 45.50185941043084
+    },
+    {
+      "text": "never",
+      "start": 45.50185941043084,
+      "end": 45.82185941043084
+    },
+    {
+      "text": "had",
+      "start": 45.82185941043084,
+      "end": 45.98185941043084
+    },
+    {
+      "text": "to",
+      "start": 45.98185941043084,
+      "end": 46.06185941043084
+    },
+    {
+      "text": "know",
+      "start": 46.06185941043084,
+      "end": 46.22185941043084
+    },
+    {
+      "text": "you",
+      "start": 46.22185941043084,
+      "end": 46.38185941043084
+    },
+    {
+      "text": "were",
+      "start": 46.38185941043084,
+      "end": 46.46185941043084
+    },
+    {
+      "text": "doing",
+      "start": 46.46185941043084,
+      "end": 46.78185941043084
+    },
+    {
+      "text": "it",
+      "start": 46.78185941043084,
+      "end": 46.94185941043084
+    },
+    {
+      "text": "One",
+      "start": 47.375623582766444,
+      "end": 47.615623582766446
+    },
+    {
+      "text": "of",
+      "start": 47.615623582766446,
+      "end": 47.695623582766444
+    },
+    {
+      "text": "these",
+      "start": 47.695623582766444,
+      "end": 48.015623582766445
+    },
+    {
+      "text": "every",
+      "start": 48.015623582766445,
+      "end": 48.335623582766445
+    },
+    {
+      "text": "day",
+      "start": 48.335623582766445,
+      "end": 48.73562358276644
+    },
+    {
+      "text": "Follow",
+      "start": 49.055623582766444,
+      "end": 49.295623582766446
+    },
+    {
+      "text": "so",
+      "start": 49.295623582766446,
+      "end": 49.45562358276644
+    },
+    {
+      "text": "you",
+      "start": 49.45562358276644,
+      "end": 49.615623582766446
+    },
+    {
+      "text": "do",
+      "start": 49.615623582766446,
+      "end": 49.77562358276644
+    },
+    {
+      "text": "not",
+      "start": 49.77562358276644,
+      "end": 50.015623582766445
+    },
+    {
+      "text": "miss",
+      "start": 50.015623582766445,
+      "end": 50.25562358276645
+    },
+    {
+      "text": "tomorrow",
+      "start": 50.25562358276645,
+      "end": 50.81562358276644
+    }
+  ],
+  "text": "A computer beat the world chess champion in nineteen ninety seven. A robot walking reliably over rubble took another twenty years. Chess has a fixed board, a full view of it, and a turn in which to think. Walking has none of those three things. Standing still is not stable. You are a tall thing on two small feet, permanently falling. Your body corrects that hundreds of times a second, using signals you never notice. Ankle, hip, inner ear, the sole of your foot. All feeding a correction you did not decide on. And walking is worse. Walking is falling forward and getting a leg out in time. Every step is a controlled fall you recover from before it finishes. So the robot has to sense the tilt, predict the fall, and act before it arrives. Continuously. You find this easy only because you never had to know you were doing it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

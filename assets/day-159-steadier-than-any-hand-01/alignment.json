@@ -1,0 +1,773 @@
+{
+  "audio_duration": 50.337875,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "surgical",
+      "start": 0.08,
+      "end": 0.64
+    },
+    {
+      "text": "robot",
+      "start": 0.64,
+      "end": 1.04
+    },
+    {
+      "text": "removes",
+      "start": 1.12,
+      "end": 1.52
+    },
+    {
+      "text": "the",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "natural",
+      "start": 1.6,
+      "end": 2.08
+    },
+    {
+      "text": "tremor",
+      "start": 2.08,
+      "end": 2.4
+    },
+    {
+      "text": "in",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "a",
+      "start": 2.56,
+      "end": 2.56
+    },
+    {
+      "text": "surgeon's",
+      "start": 2.56,
+      "end": 3.12
+    },
+    {
+      "text": "hand",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "entirely",
+      "start": 3.44,
+      "end": 4.16
+    },
+    {
+      "text": "Every",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "human",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "text": "hand",
+      "start": 4.96,
+      "end": 5.28
+    },
+    {
+      "text": "shakes",
+      "start": 5.28,
+      "end": 5.68
+    },
+    {
+      "text": "a",
+      "start": 5.68,
+      "end": 5.68
+    },
+    {
+      "text": "little",
+      "start": 5.68,
+      "end": 6.08
+    },
+    {
+      "text": "It",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "text": "is",
+      "start": 6.32,
+      "end": 6.48
+    },
+    {
+      "text": "normal",
+      "start": 6.48,
+      "end": 7.04
+    },
+    {
+      "text": "it",
+      "start": 7.2,
+      "end": 7.28
+    },
+    {
+      "text": "is",
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "text": "involuntary",
+      "start": 7.44,
+      "end": 8.24
+    },
+    {
+      "text": "and",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "it",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "never",
+      "start": 8.64,
+      "end": 8.96
+    },
+    {
+      "text": "stops",
+      "start": 8.96,
+      "end": 9.52
+    },
+    {
+      "text": "At",
+      "start": 9.84,
+      "end": 9.92
+    },
+    {
+      "text": "the",
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "text": "scale",
+      "start": 10.0,
+      "end": 10.4
+    },
+    {
+      "text": "of",
+      "start": 10.4,
+      "end": 10.48
+    },
+    {
+      "text": "stitching",
+      "start": 10.48,
+      "end": 10.96
+    },
+    {
+      "text": "a",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "blood",
+      "start": 11.04,
+      "end": 11.28
+    },
+    {
+      "text": "vessel",
+      "start": 11.28,
+      "end": 11.76
+    },
+    {
+      "text": "that",
+      "start": 11.92,
+      "end": 12.08
+    },
+    {
+      "text": "tremor",
+      "start": 12.08,
+      "end": 12.4
+    },
+    {
+      "text": "is",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "enormous",
+      "start": 12.64,
+      "end": 13.2
+    },
+    {
+      "text": "So",
+      "start": 13.568253968253968,
+      "end": 13.728253968253968
+    },
+    {
+      "text": "the",
+      "start": 13.728253968253968,
+      "end": 13.808253968253968
+    },
+    {
+      "text": "machine",
+      "start": 13.808253968253968,
+      "end": 14.288253968253969
+    },
+    {
+      "text": "reads",
+      "start": 14.288253968253969,
+      "end": 14.528253968253967
+    },
+    {
+      "text": "the",
+      "start": 14.528253968253967,
+      "end": 14.608253968253967
+    },
+    {
+      "text": "movement",
+      "start": 14.608253968253967,
+      "end": 15.168253968253968
+    },
+    {
+      "text": "strips",
+      "start": 15.328253968253968,
+      "end": 15.728253968253968
+    },
+    {
+      "text": "the",
+      "start": 15.728253968253968,
+      "end": 15.808253968253968
+    },
+    {
+      "text": "shake",
+      "start": 15.808253968253968,
+      "end": 16.12825396825397
+    },
+    {
+      "text": "out",
+      "start": 16.12825396825397,
+      "end": 16.368253968253967
+    },
+    {
+      "text": "and",
+      "start": 16.60825396825397,
+      "end": 16.688253968253967
+    },
+    {
+      "text": "scales",
+      "start": 16.688253968253967,
+      "end": 17.168253968253968
+    },
+    {
+      "text": "the",
+      "start": 17.168253968253968,
+      "end": 17.24825396825397
+    },
+    {
+      "text": "rest",
+      "start": 17.24825396825397,
+      "end": 17.488253968253968
+    },
+    {
+      "text": "down",
+      "start": 17.488253968253968,
+      "end": 17.96825396825397
+    },
+    {
+      "text": "Move",
+      "start": 18.208253968253967,
+      "end": 18.44825396825397
+    },
+    {
+      "text": "your",
+      "start": 18.44825396825397,
+      "end": 18.60825396825397
+    },
+    {
+      "text": "hand",
+      "start": 18.60825396825397,
+      "end": 18.76825396825397
+    },
+    {
+      "text": "a",
+      "start": 18.76825396825397,
+      "end": 18.848253968253967
+    },
+    {
+      "text": "centimetre",
+      "start": 18.848253968253967,
+      "end": 19.56825396825397
+    },
+    {
+      "text": "and",
+      "start": 19.728253968253966,
+      "end": 19.728253968253966
+    },
+    {
+      "text": "the",
+      "start": 19.888253968253967,
+      "end": 19.96825396825397
+    },
+    {
+      "text": "instrument",
+      "start": 19.96825396825397,
+      "end": 20.368253968253967
+    },
+    {
+      "text": "moves",
+      "start": 20.368253968253967,
+      "end": 20.688253968253967
+    },
+    {
+      "text": "a",
+      "start": 20.688253968253967,
+      "end": 20.688253968253967
+    },
+    {
+      "text": "millimetre",
+      "start": 20.688253968253967,
+      "end": 21.328253968253968
+    },
+    {
+      "text": "Perfectly",
+      "start": 21.56825396825397,
+      "end": 21.96825396825397
+    },
+    {
+      "text": "smoothly",
+      "start": 21.96825396825397,
+      "end": 22.60825396825397
+    },
+    {
+      "text": "The",
+      "start": 22.92825396825397,
+      "end": 22.92825396825397
+    },
+    {
+      "text": "surgeon",
+      "start": 22.92825396825397,
+      "end": 23.408253968253966
+    },
+    {
+      "text": "is",
+      "start": 23.408253968253966,
+      "end": 23.488253968253968
+    },
+    {
+      "text": "still",
+      "start": 23.488253968253968,
+      "end": 23.80825396825397
+    },
+    {
+      "text": "driving",
+      "start": 23.80825396825397,
+      "end": 24.20825396825397
+    },
+    {
+      "text": "every",
+      "start": 24.20825396825397,
+      "end": 24.448253968253965
+    },
+    {
+      "text": "part",
+      "start": 24.448253968253965,
+      "end": 24.688253968253967
+    },
+    {
+      "text": "of",
+      "start": 24.688253968253967,
+      "end": 24.848253968253967
+    },
+    {
+      "text": "it",
+      "start": 24.848253968253967,
+      "end": 25.008253968253968
+    },
+    {
+      "text": "Nothing",
+      "start": 25.168253968253968,
+      "end": 25.56825396825397
+    },
+    {
+      "text": "here",
+      "start": 25.56825396825397,
+      "end": 25.80825396825397
+    },
+    {
+      "text": "is",
+      "start": 25.80825396825397,
+      "end": 25.88825396825397
+    },
+    {
+      "text": "autonomous",
+      "start": 25.88825396825397,
+      "end": 26.60825396825397
+    },
+    {
+      "text": "Industrial",
+      "start": 26.768253968253966,
+      "end": 27.328253968253968
+    },
+    {
+      "text": "arms",
+      "start": 27.328253968253968,
+      "end": 27.728253968253966
+    },
+    {
+      "text": "do",
+      "start": 27.728253968253966,
+      "end": 27.88825396825397
+    },
+    {
+      "text": "the",
+      "start": 27.88825396825397,
+      "end": 28.048253968253967
+    },
+    {
+      "text": "other",
+      "start": 28.048253968253967,
+      "end": 28.20825396825397
+    },
+    {
+      "text": "version",
+      "start": 28.20825396825397,
+      "end": 28.688253968253967
+    },
+    {
+      "text": "The",
+      "start": 29.155510204081633,
+      "end": 29.235510204081635
+    },
+    {
+      "text": "same",
+      "start": 29.235510204081635,
+      "end": 29.635510204081633
+    },
+    {
+      "text": "movement",
+      "start": 29.635510204081633,
+      "end": 30.035510204081636
+    },
+    {
+      "text": "to",
+      "start": 30.275510204081634,
+      "end": 30.355510204081636
+    },
+    {
+      "text": "fractions",
+      "start": 30.355510204081636,
+      "end": 30.915510204081635
+    },
+    {
+      "text": "of",
+      "start": 30.915510204081635,
+      "end": 30.995510204081633
+    },
+    {
+      "text": "a",
+      "start": 30.995510204081633,
+      "end": 30.995510204081633
+    },
+    {
+      "text": "millimetre",
+      "start": 30.995510204081633,
+      "end": 31.635510204081633
+    },
+    {
+      "text": "for",
+      "start": 31.795510204081634,
+      "end": 31.875510204081635
+    },
+    {
+      "text": "years",
+      "start": 31.875510204081635,
+      "end": 32.43551020408164
+    },
+    {
+      "text": "No",
+      "start": 32.595510204081634,
+      "end": 32.835510204081636
+    },
+    {
+      "text": "fatigue",
+      "start": 32.835510204081636,
+      "end": 33.39551020408163
+    },
+    {
+      "text": "no",
+      "start": 33.555510204081635,
+      "end": 33.79551020408164
+    },
+    {
+      "text": "drift",
+      "start": 33.79551020408164,
+      "end": 34.275510204081634
+    },
+    {
+      "text": "no",
+      "start": 34.35551020408163,
+      "end": 34.595510204081634
+    },
+    {
+      "text": "bad",
+      "start": 34.595510204081634,
+      "end": 34.835510204081636
+    },
+    {
+      "text": "morning",
+      "start": 34.835510204081636,
+      "end": 35.31551020408163
+    },
+    {
+      "text": "That",
+      "start": 35.63551020408163,
+      "end": 35.79551020408164
+    },
+    {
+      "text": "is",
+      "start": 35.79551020408164,
+      "end": 35.875510204081635
+    },
+    {
+      "text": "a",
+      "start": 35.875510204081635,
+      "end": 35.955510204081634
+    },
+    {
+      "text": "kind",
+      "start": 35.955510204081634,
+      "end": 36.195510204081636
+    },
+    {
+      "text": "of",
+      "start": 36.195510204081636,
+      "end": 36.275510204081634
+    },
+    {
+      "text": "precision",
+      "start": 36.275510204081634,
+      "end": 36.835510204081636
+    },
+    {
+      "text": "no",
+      "start": 36.835510204081636,
+      "end": 36.99551020408163
+    },
+    {
+      "text": "person",
+      "start": 36.99551020408163,
+      "end": 37.39551020408163
+    },
+    {
+      "text": "has",
+      "start": 37.39551020408163,
+      "end": 37.79551020408164
+    },
+    {
+      "text": "And",
+      "start": 38.11551020408163,
+      "end": 38.195510204081636
+    },
+    {
+      "text": "some",
+      "start": 38.195510204081636,
+      "end": 38.515510204081636
+    },
+    {
+      "text": "of",
+      "start": 38.515510204081636,
+      "end": 38.595510204081634
+    },
+    {
+      "text": "them",
+      "start": 38.595510204081634,
+      "end": 38.75551020408163
+    },
+    {
+      "text": "work",
+      "start": 38.75551020408163,
+      "end": 38.99551020408163
+    },
+    {
+      "text": "in",
+      "start": 38.99551020408163,
+      "end": 39.07551020408164
+    },
+    {
+      "text": "places",
+      "start": 39.07551020408164,
+      "end": 39.47551020408164
+    },
+    {
+      "text": "where",
+      "start": 39.555510204081635,
+      "end": 39.63551020408163
+    },
+    {
+      "text": "a",
+      "start": 39.63551020408163,
+      "end": 39.71551020408164
+    },
+    {
+      "text": "person",
+      "start": 39.71551020408164,
+      "end": 40.11551020408163
+    },
+    {
+      "text": "simply",
+      "start": 40.11551020408163,
+      "end": 40.43551020408164
+    },
+    {
+      "text": "could",
+      "start": 40.43551020408164,
+      "end": 40.67551020408163
+    },
+    {
+      "text": "not",
+      "start": 40.67551020408163,
+      "end": 40.835510204081636
+    },
+    {
+      "text": "survive",
+      "start": 40.835510204081636,
+      "end": 41.39551020408163
+    },
+    {
+      "text": "These",
+      "start": 41.71551020408164,
+      "end": 41.875510204081635
+    },
+    {
+      "text": "are",
+      "start": 41.875510204081635,
+      "end": 41.955510204081634
+    },
+    {
+      "text": "not",
+      "start": 41.955510204081634,
+      "end": 42.195510204081636
+    },
+    {
+      "text": "replacements",
+      "start": 42.195510204081636,
+      "end": 42.915510204081635
+    },
+    {
+      "text": "They",
+      "start": 43.30390022675737,
+      "end": 43.46390022675737
+    },
+    {
+      "text": "are",
+      "start": 43.46390022675737,
+      "end": 43.543900226757366
+    },
+    {
+      "text": "amplifiers",
+      "start": 43.543900226757366,
+      "end": 44.34390022675737
+    },
+    {
+      "text": "with",
+      "start": 44.50390022675737,
+      "end": 44.66390022675737
+    },
+    {
+      "text": "a",
+      "start": 44.66390022675737,
+      "end": 44.74390022675737
+    },
+    {
+      "text": "human",
+      "start": 44.74390022675737,
+      "end": 45.14390022675737
+    },
+    {
+      "text": "still",
+      "start": 45.14390022675737,
+      "end": 45.46390022675737
+    },
+    {
+      "text": "holding",
+      "start": 45.46390022675737,
+      "end": 45.78390022675737
+    },
+    {
+      "text": "the",
+      "start": 45.78390022675737,
+      "end": 45.863900226757366
+    },
+    {
+      "text": "controls",
+      "start": 45.863900226757366,
+      "end": 46.50390022675737
+    },
+    {
+      "text": "One",
+      "start": 46.74390022675737,
+      "end": 46.98390022675737
+    },
+    {
+      "text": "of",
+      "start": 46.98390022675737,
+      "end": 47.06390022675737
+    },
+    {
+      "text": "these",
+      "start": 47.06390022675737,
+      "end": 47.38390022675737
+    },
+    {
+      "text": "every",
+      "start": 47.38390022675737,
+      "end": 47.70390022675737
+    },
+    {
+      "text": "day",
+      "start": 47.70390022675737,
+      "end": 48.02390022675737
+    },
+    {
+      "text": "Follow",
+      "start": 48.42390022675737,
+      "end": 48.66390022675737
+    },
+    {
+      "text": "so",
+      "start": 48.66390022675737,
+      "end": 48.82390022675737
+    },
+    {
+      "text": "you",
+      "start": 48.82390022675737,
+      "end": 48.98390022675737
+    },
+    {
+      "text": "do",
+      "start": 48.98390022675737,
+      "end": 49.14390022675737
+    },
+    {
+      "text": "not",
+      "start": 49.14390022675737,
+      "end": 49.38390022675737
+    },
+    {
+      "text": "miss",
+      "start": 49.38390022675737,
+      "end": 49.62390022675737
+    },
+    {
+      "text": "tomorrow",
+      "start": 49.62390022675737,
+      "end": 50.183900226757366
+    }
+  ],
+  "text": "A surgical robot removes the natural tremor in a surgeon's hand entirely. Every human hand shakes a little. It is normal, it is involuntary, and it never stops. At the scale of stitching a blood vessel, that tremor is enormous. So the machine reads the movement, strips the shake out, and scales the rest down. Move your hand a centimetre and the instrument moves a millimetre. Perfectly smoothly. The surgeon is still driving every part of it. Nothing here is autonomous. Industrial arms do the other version. The same movement, to fractions of a millimetre, for years. No fatigue, no drift, no bad morning. That is a kind of precision no person has. And some of them work in places where a person simply could not survive. These are not replacements. They are amplifiers, with a human still holding the controls. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

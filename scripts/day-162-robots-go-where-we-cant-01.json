@@ -1,0 +1,109 @@
+{
+  "topic": "Robots go where we can't",
+  "lesson": "The hardest constraint on a planetary rover is not pressure or radiation, it is signal delay, which makes autonomy a requirement rather than a feature.",
+  "slug": "day-162-robots-go-where-we-cant-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Inside a damaged reactor, at the bottom of a trench, or on another planet, a robot is the only worker available.",
+      "scene": "a heavy sealed hatch, a small black cartoon figure heaving it open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy sealed hatch, a small black cartoon figure heaving it open. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Not because it is better. Because nothing else can be there at all.",
+      "scene": "warning tape strung across a doorway, a small black cartoon figure ducking under it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. warning tape strung across a doorway, a small black cartoon figure ducking under it. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Deep sea vehicles work at pressures that would crush a person instantly.",
+      "scene": "a crushed metal can, a small black cartoon figure holding it up with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crushed metal can, a small black cartoon figure holding it up with both arms. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Decommissioning machines work in radiation that would kill anyone in minutes.",
+      "scene": "a lead lined box, a small black cartoon figure shoving the lid onto it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lead lined box, a small black cartoon figure shoving the lid onto it. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "But the hardest constraint is not pressure or radiation. It is delay.",
+      "scene": "an enormously long string between two tin cans, a small black cartoon figure shouting into one",
+      "image_text": "DELAY",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormously long string between two tin cans, a small black cartoon figure shouting into one. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"DELAY\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A signal to Mars takes somewhere between four and twenty four minutes, each way.",
+      "scene": "a sand timer beside a small red rock, a small black cartoon figure turning the timer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sand timer beside a small red rock, a small black cartoon figure turning the timer. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So you cannot steer a rover. By the time you see the rock, you have already hit it.",
+      "scene": "a joystick beside an already toppled model, a small black cartoon figure gripping the joystick",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a joystick beside an already toppled model, a small black cartoon figure gripping the joystick. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which makes autonomy out there not a luxury feature. It is the only option available.",
+      "scene": "a small wheeled model with a lens, a small black cartoon figure setting it down on the surface",
+      "image_text": "ON ITS OWN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small wheeled model with a lens, a small black cartoon figure setting it down on the surface. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ON ITS OWN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "You send a destination and it works out the route by itself, with nobody to ask.",
+      "scene": "a flag planted far across the surface, a small black cartoon figure shoving the model towards it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flag planted far across the surface, a small black cartoon figure shoving the model towards it. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Everywhere else, autonomy is a convenience. Out there it is the entire job.",
+      "scene": "a control desk with a dust cloth being drawn over it, a small black cartoon figure pulling the cloth",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a control desk with a dust cloth being drawn over it, a small black cartoon figure pulling the cloth. the scene belongs to working somewhere nobody can reach and nobody can answer from, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Deep-sea ROVs work at pressures that crush a person instantly, nuclear decommissioning robots work in radiation that kills in minutes, and disaster response machines go where nobody can follow. But the hardest constraint on a Mars rover is none of that. It is delay: four to twenty-four minutes each way, so by the time you see the rock you have already hit it. A rover cannot be joysticked, which makes autonomy a requirement out there rather than a convenience.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #robots #mars #space #autonomy #science",
+    "thumbnail_beat": "08"
+  }
+}

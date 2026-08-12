@@ -1,0 +1,109 @@
+{
+  "topic": "What a self-driving car actually sees",
+  "lesson": "Ordinary driving is easy and useless to solve; all the difficulty sits in a long tail of situations nobody can write down in advance.",
+  "slug": "day-161-what-a-self-driving-car-sees-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Driving a car is not hard. Handling the thing nobody anticipated is the entire problem.",
+      "scene": "a tidy chalk road with one obstacle on it, a small black cartoon figure shoving the obstacle aside",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tidy chalk road with one obstacle on it, a small black cartoon figure shoving the obstacle aside. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A car has three ways of seeing, and none of them fully agree.",
+      "scene": "three different lenses in a row, a small black cartoon figure holding one up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three different lenses in a row, a small black cartoon figure holding one up. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Cameras see detail and colour, and are ruined by low sun and heavy rain.",
+      "scene": "a lens flared by a bright lamp, a small black cartoon figure shading it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lens flared by a bright lamp, a small black cartoon figure shading it with both arms. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Radar sees straight through weather and cannot tell you what the thing actually is.",
+      "scene": "a shape hidden under a cloth, a small black cartoon figure prodding at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shape hidden under a cloth, a small black cartoon figure prodding at it. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Lidar builds an exact shape of everything nearby, and struggles in spray and fog.",
+      "scene": "a pin impression board taking a shape, a small black cartoon figure pressing into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pin impression board taking a shape, a small black cartoon figure pressing into it. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "So the system merges all three and decides which to believe. That part mostly works.",
+      "scene": "three cards being dragged onto one pile, a small black cartoon figure hauling them together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three cards being dragged onto one pile, a small black cartoon figure hauling them together. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Ninety nine percent of driving is easy. Ninety nine percent is also useless.",
+      "scene": "a nearly finished jigsaw with one hole, a small black cartoon figure standing in the hole",
+      "image_text": "THE LAST BIT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a nearly finished jigsaw with one hole, a small black cartoon figure standing in the hole. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THE LAST BIT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It is the last fraction that matters. Someone waving you through. A lane painted over twice.",
+      "scene": "a lane line painted across an older one, a small black cartoon figure scrubbing at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lane line painted across an older one, a small black cartoon figure scrubbing at it. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "A plastic bag that behaves like a rock, and a rock that behaves like a bag.",
+      "scene": "a paper bag beside a stone, a small black cartoon figure heaving at the bag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper bag beside a stone, a small black cartoon figure heaving at the bag. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "There is no list of those. Which is exactly why the timelines keep slipping.",
+      "scene": "a long list unrolling to a blank end, a small black cartoon figure holding the blank part",
+      "image_text": "NO LIST",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long list unrolling to a blank end, a small black cartoon figure holding the blank part. the scene belongs to almost everything handled and the last unlisted case ruining it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO LIST\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Cameras see detail and colour and are ruined by low sun and rain. Radar sees through weather and cannot identify what it found. Lidar builds exact shapes and struggles in spray and fog. Fusing all three mostly works, and that covers the easy 99% of driving, which is also useless on its own. Everything hard sits in the long tail: hand signals, roadworks, lanes painted over twice, a bag that moves like a rock. There is no list of those, which is why timelines keep slipping.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #selfdriving #ai #cars #technology #science",
+    "thumbnail_beat": "07"
+  }
+}

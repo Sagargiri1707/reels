@@ -1,0 +1,109 @@
+{
+  "topic": "Robots are much older than you think",
+  "lesson": "Humans have built machines that move by themselves for millennia, so what changed recently was never motion, it was the ability to perceive and adapt.",
+  "slug": "day-157-robots-are-older-than-you-think-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The word robot comes from a play written in nineteen twenty, and it means forced labour.",
+      "scene": "an old theatre programme, a small black cartoon figure hauling it open",
+      "image_text": "FORCED LABOUR",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old theatre programme, a small black cartoon figure hauling it open. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FORCED LABOUR\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "But things that moved by themselves existed for thousands of years before the word did.",
+      "scene": "a water clock with a small figure on it, a small black cartoon figure winding the mechanism",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a water clock with a small figure on it, a small black cartoon figure winding the mechanism. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Greek and Chinese engineers built clocks with figures that struck a bell on the hour.",
+      "scene": "a bell on a pivoting arm, a small black cartoon figure hanging off the arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bell on a pivoting arm, a small black cartoon figure hanging off the arm. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Al-Jazari built machines in the twelve hundreds that could be reset to play different rhythms.",
+      "scene": "a drum studded with movable pegs, a small black cartoon figure shifting one peg",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a drum studded with movable pegs, a small black cartoon figure shifting one peg. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "That is a programmable device, six hundred years before anyone used the word program.",
+      "scene": "a row of pegs being reset, a small black cartoon figure pulling one out with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of pegs being reset, a small black cartoon figure pulling one out with both arms. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "In seventeen thirty nine Vaucanson built a mechanical duck that appeared to eat and digest.",
+      "scene": "a mechanical bird figure, a small black cartoon figure feeding a pellet into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mechanical bird figure, a small black cartoon figure feeding a pellet into it. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "It was a trick, and crowds paid to watch it, which is the point. Motion was never the hard part.",
+      "scene": "a curtain drawn back on a bare mechanism, a small black cartoon figure hauling the curtain",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a curtain drawn back on a bare mechanism, a small black cartoon figure hauling the curtain. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "The first industrial arm went into a factory in nineteen sixty one, lifting hot metal.",
+      "scene": "a small jointed metal arm, a small black cartoon figure swinging from its elbow",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small jointed metal arm, a small black cartoon figure swinging from its elbow. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It could not see anything at all. It repeated one movement, exactly, forever.",
+      "scene": "the same arm poised over one chalk mark, a small black cartoon figure standing on the mark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same arm poised over one chalk mark, a small black cartoon figure standing on the mark. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "What changed recently was never movement. It was the ability to notice and adapt.",
+      "scene": "a lens being fitted onto the arm, a small black cartoon figure screwing it into place",
+      "image_text": "NOTICE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lens being fitted onto the arm, a small black cartoon figure screwing it into place. the scene belongs to machines that move on their own long before anything could see, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOTICE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The word robot comes from a 1920 play and means forced labour, but self-moving machines are far older. Greek and Chinese water clocks struck bells with mechanical figures, Al-Jazari built devices in the 1200s that could be reset to play different rhythms, which is a programmable machine six centuries before the word, and Vaucanson's 1739 duck appeared to eat and digest. The first industrial arm arrived in 1961 and could not see anything. Motion was never the hard part.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #robots #history #automation #engineering #science",
+    "thumbnail_beat": "10"
+  }
+}

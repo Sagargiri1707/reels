@@ -1,0 +1,793 @@
+{
+  "audio_duration": 48.796625,
+  "segments": [
+    {
+      "text": "Inside",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "a",
+      "start": 0.4,
+      "end": 0.4
+    },
+    {
+      "text": "damaged",
+      "start": 0.4,
+      "end": 0.96
+    },
+    {
+      "text": "reactor",
+      "start": 0.96,
+      "end": 1.52
+    },
+    {
+      "text": "at",
+      "start": 1.76,
+      "end": 1.92
+    },
+    {
+      "text": "the",
+      "start": 1.92,
+      "end": 2.0
+    },
+    {
+      "text": "bottom",
+      "start": 2.0,
+      "end": 2.32
+    },
+    {
+      "text": "of",
+      "start": 2.32,
+      "end": 2.4
+    },
+    {
+      "text": "a",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "text": "trench",
+      "start": 2.48,
+      "end": 2.96
+    },
+    {
+      "text": "or",
+      "start": 3.12,
+      "end": 3.36
+    },
+    {
+      "text": "on",
+      "start": 3.36,
+      "end": 3.44
+    },
+    {
+      "text": "another",
+      "start": 3.44,
+      "end": 3.76
+    },
+    {
+      "text": "planet",
+      "start": 3.76,
+      "end": 4.24
+    },
+    {
+      "text": "a",
+      "start": 4.4,
+      "end": 4.48
+    },
+    {
+      "text": "robot",
+      "start": 4.48,
+      "end": 5.04
+    },
+    {
+      "text": "is",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "text": "the",
+      "start": 5.2,
+      "end": 5.36
+    },
+    {
+      "text": "only",
+      "start": 5.36,
+      "end": 5.68
+    },
+    {
+      "text": "worker",
+      "start": 5.68,
+      "end": 6.0
+    },
+    {
+      "text": "available",
+      "start": 6.0,
+      "end": 6.64
+    },
+    {
+      "text": "Not",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "text": "because",
+      "start": 7.28,
+      "end": 7.6
+    },
+    {
+      "text": "it",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "text": "is",
+      "start": 7.68,
+      "end": 7.76
+    },
+    {
+      "text": "better",
+      "start": 7.76,
+      "end": 8.16
+    },
+    {
+      "text": "Because",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "text": "nothing",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "text": "else",
+      "start": 9.04,
+      "end": 9.28
+    },
+    {
+      "text": "can",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "text": "be",
+      "start": 9.44,
+      "end": 9.6
+    },
+    {
+      "text": "there",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "text": "at",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "all",
+      "start": 9.84,
+      "end": 10.16
+    },
+    {
+      "text": "Deep",
+      "start": 10.56,
+      "end": 10.88
+    },
+    {
+      "text": "sea",
+      "start": 10.88,
+      "end": 11.12
+    },
+    {
+      "text": "vehicles",
+      "start": 11.12,
+      "end": 11.6
+    },
+    {
+      "text": "work",
+      "start": 11.6,
+      "end": 11.84
+    },
+    {
+      "text": "at",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "pressures",
+      "start": 12.0,
+      "end": 12.48
+    },
+    {
+      "text": "that",
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "text": "would",
+      "start": 12.56,
+      "end": 12.72
+    },
+    {
+      "text": "crush",
+      "start": 12.72,
+      "end": 12.96
+    },
+    {
+      "text": "a",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "person",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "instantly",
+      "start": 13.44,
+      "end": 14.08
+    },
+    {
+      "text": "Decommissioning",
+      "start": 14.37061224489796,
+      "end": 15.09061224489796
+    },
+    {
+      "text": "machines",
+      "start": 15.09061224489796,
+      "end": 15.570612244897958
+    },
+    {
+      "text": "work",
+      "start": 15.570612244897958,
+      "end": 15.810612244897959
+    },
+    {
+      "text": "in",
+      "start": 15.810612244897959,
+      "end": 15.890612244897959
+    },
+    {
+      "text": "radiation",
+      "start": 15.890612244897959,
+      "end": 16.53061224489796
+    },
+    {
+      "text": "that",
+      "start": 16.53061224489796,
+      "end": 16.610612244897958
+    },
+    {
+      "text": "would",
+      "start": 16.610612244897958,
+      "end": 16.770612244897958
+    },
+    {
+      "text": "kill",
+      "start": 16.770612244897958,
+      "end": 17.01061224489796
+    },
+    {
+      "text": "anyone",
+      "start": 17.090612244897958,
+      "end": 17.49061224489796
+    },
+    {
+      "text": "in",
+      "start": 17.49061224489796,
+      "end": 17.65061224489796
+    },
+    {
+      "text": "minutes",
+      "start": 17.65061224489796,
+      "end": 18.05061224489796
+    },
+    {
+      "text": "But",
+      "start": 18.45061224489796,
+      "end": 18.610612244897958
+    },
+    {
+      "text": "the",
+      "start": 18.610612244897958,
+      "end": 18.69061224489796
+    },
+    {
+      "text": "hardest",
+      "start": 18.69061224489796,
+      "end": 19.090612244897958
+    },
+    {
+      "text": "constraint",
+      "start": 19.090612244897958,
+      "end": 19.57061224489796
+    },
+    {
+      "text": "is",
+      "start": 19.57061224489796,
+      "end": 19.73061224489796
+    },
+    {
+      "text": "not",
+      "start": 19.73061224489796,
+      "end": 19.970612244897957
+    },
+    {
+      "text": "pressure",
+      "start": 19.970612244897957,
+      "end": 20.290612244897957
+    },
+    {
+      "text": "or",
+      "start": 20.290612244897957,
+      "end": 20.53061224489796
+    },
+    {
+      "text": "radiation",
+      "start": 20.53061224489796,
+      "end": 21.250612244897958
+    },
+    {
+      "text": "It",
+      "start": 21.49061224489796,
+      "end": 21.57061224489796
+    },
+    {
+      "text": "is",
+      "start": 21.57061224489796,
+      "end": 21.73061224489796
+    },
+    {
+      "text": "delay",
+      "start": 21.73061224489796,
+      "end": 22.290612244897957
+    },
+    {
+      "text": "A",
+      "start": 22.77061224489796,
+      "end": 22.85061224489796
+    },
+    {
+      "text": "signal",
+      "start": 22.85061224489796,
+      "end": 23.250612244897958
+    },
+    {
+      "text": "to",
+      "start": 23.250612244897958,
+      "end": 23.330612244897956
+    },
+    {
+      "text": "Mars",
+      "start": 23.330612244897956,
+      "end": 23.73061224489796
+    },
+    {
+      "text": "takes",
+      "start": 23.73061224489796,
+      "end": 23.970612244897957
+    },
+    {
+      "text": "somewhere",
+      "start": 23.970612244897957,
+      "end": 24.290612244897957
+    },
+    {
+      "text": "between",
+      "start": 24.290612244897957,
+      "end": 24.610612244897958
+    },
+    {
+      "text": "four",
+      "start": 24.610612244897958,
+      "end": 25.01061224489796
+    },
+    {
+      "text": "and",
+      "start": 25.01061224489796,
+      "end": 25.09061224489796
+    },
+    {
+      "text": "twenty",
+      "start": 25.09061224489796,
+      "end": 25.41061224489796
+    },
+    {
+      "text": "four",
+      "start": 25.41061224489796,
+      "end": 25.57061224489796
+    },
+    {
+      "text": "minutes",
+      "start": 25.57061224489796,
+      "end": 26.05061224489796
+    },
+    {
+      "text": "each",
+      "start": 26.05061224489796,
+      "end": 26.290612244897957
+    },
+    {
+      "text": "way",
+      "start": 26.290612244897957,
+      "end": 26.69061224489796
+    },
+    {
+      "text": "So",
+      "start": 27.01061224489796,
+      "end": 27.17061224489796
+    },
+    {
+      "text": "you",
+      "start": 27.17061224489796,
+      "end": 27.330612244897956
+    },
+    {
+      "text": "cannot",
+      "start": 27.330612244897956,
+      "end": 27.650612244897957
+    },
+    {
+      "text": "steer",
+      "start": 27.650612244897957,
+      "end": 27.970612244897957
+    },
+    {
+      "text": "a",
+      "start": 27.970612244897957,
+      "end": 27.970612244897957
+    },
+    {
+      "text": "rover",
+      "start": 27.970612244897957,
+      "end": 28.53061224489796
+    },
+    {
+      "text": "By",
+      "start": 28.947142857142858,
+      "end": 29.027142857142856
+    },
+    {
+      "text": "the",
+      "start": 29.027142857142856,
+      "end": 29.107142857142858
+    },
+    {
+      "text": "time",
+      "start": 29.107142857142858,
+      "end": 29.427142857142858
+    },
+    {
+      "text": "you",
+      "start": 29.427142857142858,
+      "end": 29.507142857142856
+    },
+    {
+      "text": "see",
+      "start": 29.507142857142856,
+      "end": 29.667142857142856
+    },
+    {
+      "text": "the",
+      "start": 29.667142857142856,
+      "end": 29.747142857142858
+    },
+    {
+      "text": "rock",
+      "start": 29.747142857142858,
+      "end": 30.147142857142857
+    },
+    {
+      "text": "you",
+      "start": 30.38714285714286,
+      "end": 30.54714285714286
+    },
+    {
+      "text": "have",
+      "start": 30.54714285714286,
+      "end": 30.627142857142857
+    },
+    {
+      "text": "already",
+      "start": 30.627142857142857,
+      "end": 30.947142857142858
+    },
+    {
+      "text": "hit",
+      "start": 30.947142857142858,
+      "end": 31.187142857142856
+    },
+    {
+      "text": "it",
+      "start": 31.187142857142856,
+      "end": 31.347142857142856
+    },
+    {
+      "text": "Which",
+      "start": 31.667142857142856,
+      "end": 31.827142857142857
+    },
+    {
+      "text": "makes",
+      "start": 31.827142857142857,
+      "end": 32.14714285714286
+    },
+    {
+      "text": "autonomy",
+      "start": 32.14714285714286,
+      "end": 32.62714285714286
+    },
+    {
+      "text": "out",
+      "start": 32.62714285714286,
+      "end": 32.86714285714286
+    },
+    {
+      "text": "there",
+      "start": 32.86714285714286,
+      "end": 33.027142857142856
+    },
+    {
+      "text": "not",
+      "start": 33.027142857142856,
+      "end": 33.26714285714286
+    },
+    {
+      "text": "a",
+      "start": 33.26714285714286,
+      "end": 33.26714285714286
+    },
+    {
+      "text": "luxury",
+      "start": 33.26714285714286,
+      "end": 33.747142857142855
+    },
+    {
+      "text": "feature",
+      "start": 33.747142857142855,
+      "end": 34.22714285714286
+    },
+    {
+      "text": "It",
+      "start": 34.46714285714286,
+      "end": 34.54714285714286
+    },
+    {
+      "text": "is",
+      "start": 34.54714285714286,
+      "end": 34.707142857142856
+    },
+    {
+      "text": "the",
+      "start": 34.707142857142856,
+      "end": 34.86714285714286
+    },
+    {
+      "text": "only",
+      "start": 34.86714285714286,
+      "end": 35.18714285714286
+    },
+    {
+      "text": "option",
+      "start": 35.18714285714286,
+      "end": 35.50714285714286
+    },
+    {
+      "text": "available",
+      "start": 35.50714285714286,
+      "end": 36.14714285714285
+    },
+    {
+      "text": "You",
+      "start": 36.30714285714286,
+      "end": 36.46714285714286
+    },
+    {
+      "text": "send",
+      "start": 36.46714285714286,
+      "end": 36.707142857142856
+    },
+    {
+      "text": "a",
+      "start": 36.707142857142856,
+      "end": 36.787142857142854
+    },
+    {
+      "text": "destination",
+      "start": 36.787142857142854,
+      "end": 37.50714285714286
+    },
+    {
+      "text": "and",
+      "start": 37.58714285714286,
+      "end": 37.667142857142856
+    },
+    {
+      "text": "it",
+      "start": 37.667142857142856,
+      "end": 37.747142857142855
+    },
+    {
+      "text": "works",
+      "start": 37.747142857142855,
+      "end": 38.067142857142855
+    },
+    {
+      "text": "out",
+      "start": 38.067142857142855,
+      "end": 38.22714285714286
+    },
+    {
+      "text": "the",
+      "start": 38.22714285714286,
+      "end": 38.30714285714286
+    },
+    {
+      "text": "route",
+      "start": 38.30714285714286,
+      "end": 38.54714285714286
+    },
+    {
+      "text": "by",
+      "start": 38.54714285714286,
+      "end": 38.787142857142854
+    },
+    {
+      "text": "itself",
+      "start": 38.787142857142854,
+      "end": 39.18714285714286
+    },
+    {
+      "text": "with",
+      "start": 39.427142857142854,
+      "end": 39.58714285714286
+    },
+    {
+      "text": "nobody",
+      "start": 39.58714285714286,
+      "end": 39.98714285714286
+    },
+    {
+      "text": "to",
+      "start": 39.98714285714286,
+      "end": 40.067142857142855
+    },
+    {
+      "text": "ask",
+      "start": 40.067142857142855,
+      "end": 40.46714285714286
+    },
+    {
+      "text": "Everywhere",
+      "start": 40.707142857142856,
+      "end": 41.18714285714286
+    },
+    {
+      "text": "else",
+      "start": 41.18714285714286,
+      "end": 41.50714285714286
+    },
+    {
+      "text": "autonomy",
+      "start": 41.667142857142856,
+      "end": 42.14714285714285
+    },
+    {
+      "text": "is",
+      "start": 42.14714285714285,
+      "end": 42.30714285714286
+    },
+    {
+      "text": "a",
+      "start": 42.30714285714286,
+      "end": 42.387142857142855
+    },
+    {
+      "text": "convenience",
+      "start": 42.387142857142855,
+      "end": 43.027142857142856
+    },
+    {
+      "text": "Out",
+      "start": 43.347142857142856,
+      "end": 43.50714285714286
+    },
+    {
+      "text": "there",
+      "start": 43.50714285714286,
+      "end": 43.667142857142856
+    },
+    {
+      "text": "it",
+      "start": 43.667142857142856,
+      "end": 43.82714285714286
+    },
+    {
+      "text": "is",
+      "start": 43.82714285714286,
+      "end": 43.98714285714286
+    },
+    {
+      "text": "the",
+      "start": 43.98714285714286,
+      "end": 44.067142857142855
+    },
+    {
+      "text": "entire",
+      "start": 44.067142857142855,
+      "end": 44.46714285714286
+    },
+    {
+      "text": "job",
+      "start": 44.46714285714286,
+      "end": 44.94714285714286
+    },
+    {
+      "text": "One",
+      "start": 45.25814058956916,
+      "end": 45.49814058956916
+    },
+    {
+      "text": "of",
+      "start": 45.49814058956916,
+      "end": 45.658140589569165
+    },
+    {
+      "text": "these",
+      "start": 45.658140589569165,
+      "end": 45.89814058956916
+    },
+    {
+      "text": "every",
+      "start": 45.89814058956916,
+      "end": 46.21814058956916
+    },
+    {
+      "text": "day",
+      "start": 46.21814058956916,
+      "end": 46.53814058956916
+    },
+    {
+      "text": "Follow",
+      "start": 46.77814058956916,
+      "end": 47.17814058956916
+    },
+    {
+      "text": "so",
+      "start": 47.17814058956916,
+      "end": 47.338140589569164
+    },
+    {
+      "text": "you",
+      "start": 47.338140589569164,
+      "end": 47.49814058956916
+    },
+    {
+      "text": "do",
+      "start": 47.49814058956916,
+      "end": 47.57814058956916
+    },
+    {
+      "text": "not",
+      "start": 47.57814058956916,
+      "end": 47.81814058956916
+    },
+    {
+      "text": "miss",
+      "start": 47.81814058956916,
+      "end": 48.13814058956916
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.13814058956916,
+      "end": 48.618140589569165
+    }
+  ],
+  "text": "Inside a damaged reactor, at the bottom of a trench, or on another planet, a robot is the only worker available. Not because it is better. Because nothing else can be there at all. Deep sea vehicles work at pressures that would crush a person instantly. Decommissioning machines work in radiation that would kill anyone in minutes. But the hardest constraint is not pressure or radiation. It is delay. A signal to Mars takes somewhere between four and twenty four minutes, each way. So you cannot steer a rover. By the time you see the rock, you have already hit it. Which makes autonomy out there not a luxury feature. It is the only option available. You send a destination and it works out the route by itself, with nobody to ask. Everywhere else, autonomy is a convenience. Out there it is the entire job. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

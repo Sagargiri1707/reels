@@ -1,0 +1,109 @@
+{
+  "topic": "Why walking is harder than chess",
+  "lesson": "Walking is controlled falling corrected hundreds of times a second, which is why it took twenty years longer to solve than beating the world chess champion.",
+  "slug": "day-158-walking-is-harder-than-chess-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A computer beat the world chess champion in nineteen ninety seven. A robot walking reliably over rubble took another twenty years.",
+      "scene": "a chess piece beside a heap of loose rubble, a small black cartoon figure standing on the rubble",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chess piece beside a heap of loose rubble, a small black cartoon figure standing on the rubble. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Chess has a fixed board, a full view of it, and a turn in which to think.",
+      "scene": "a chess board, a small black cartoon figure sliding one piece across it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chess board, a small black cartoon figure sliding one piece across it. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Walking has none of those three things.",
+      "scene": "an uneven heap of stones, a small black cartoon figure scrambling over them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an uneven heap of stones, a small black cartoon figure scrambling over them. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Standing still is not stable. You are a tall thing on two small feet, permanently falling.",
+      "scene": "a broom balanced upright on one palm, a small black cartoon figure steadying it",
+      "image_text": "FALLING",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a broom balanced upright on one palm, a small black cartoon figure steadying it. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FALLING\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Your body corrects that hundreds of times a second, using signals you never notice.",
+      "scene": "a wobbling stack of blocks, a small black cartoon figure catching it mid lean",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wobbling stack of blocks, a small black cartoon figure catching it mid lean. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Ankle, hip, inner ear, the sole of your foot. All feeding a correction you did not decide on.",
+      "scene": "a spirit level tipped off centre, a small black cartoon figure hauling it back level",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spirit level tipped off centre, a small black cartoon figure hauling it back level. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And walking is worse. Walking is falling forward and getting a leg out in time.",
+      "scene": "a plank tipping forward, a small black cartoon figure stepping onto its far end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plank tipping forward, a small black cartoon figure stepping onto its far end. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Every step is a controlled fall you recover from before it finishes.",
+      "scene": "a ladder mid fall, a small black cartoon figure jamming a foot under it",
+      "image_text": "EVERY STEP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ladder mid fall, a small black cartoon figure jamming a foot under it. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"EVERY STEP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So the robot has to sense the tilt, predict the fall, and act before it arrives. Continuously.",
+      "scene": "a spinning gyroscope, a small black cartoon figure gripping its frame",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spinning gyroscope, a small black cartoon figure gripping its frame. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You find this easy only because you never had to know you were doing it.",
+      "scene": "a worn pair of shoes, a small black cartoon figure stepping into one of them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a worn pair of shoes, a small black cartoon figure stepping into one of them. the scene belongs to staying upright by constantly correcting a fall that has already started, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Deep Blue beat Kasparov in 1997; robots that walk reliably over uneven ground took another twenty years. Chess has a fixed board, full visibility and a turn to think. Balance has none of that. Standing still is already a controlled fall corrected hundreds of times a second by ankle, hip, inner ear and foot, and walking is falling forward and getting a leg out in time. You find it easy because you never had to know you were doing it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #robots #balance #biomechanics #ai #science",
+    "thumbnail_beat": "04"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "topic": "Goosebumps are a leftover from fur",
+  "lesson": "Goosebumps are tiny muscles yanking upright hairs that are no longer there, a reflex that worked beautifully on a furry ancestor and does nothing at all on you.",
+  "slug": "day-039-goosebumps-are-leftovers-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Goosebumps are your body trying to fluff up hair you no longer have.",
+      "scene": "a stiff bristled clothes brush on a bare surface, a small black cartoon figure scrubbing it hard across a perfectly smooth board and raising nothing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stiff bristled clothes brush on a bare surface, a small black cartoon figure scrubbing it hard across a perfectly smooth board and raising nothing. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "On a furry animal it works. The coat puffs up and traps a layer of warm air.",
+      "scene": "a thick fur hat on the surface, a small black cartoon figure ruffling it up with both arms until it stands twice as tall",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick fur hat on the surface, a small black cartoon figure ruffling it up with both arms until it stands twice as tall. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Every hair has a tiny muscle at its root whose only job is to yank it upright.",
+      "scene": "a single stiff bristle standing in a cork on the surface, a small black cartoon figure hauling on a thread tied around its base",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single stiff bristle standing in a cork on the surface, a small black cartoon figure hauling on a thread tied around its base. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Cold, or fear, and every one of those muscles fires at once.",
+      "scene": "a board of small levers on the surface, a small black cartoon figure sweeping one arm across and flipping the whole row up together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a board of small levers on the surface, a small black cartoon figure sweeping one arm across and flipping the whole row up together. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "On a cat that doubles its size. On you it makes bumps.",
+      "scene": "a part inflated rubber glove on the surface, a small black cartoon figure pressing small pimples into its skin with a fingertip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a part inflated rubber glove on the surface, a small black cartoon figure pressing small pimples into its skin with a fingertip. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And it is not the only thing you kept long after you stopped using it.",
+      "scene": "a shallow drawer of odd unused keys pulled open on the surface, a small black cartoon figure lifting one out and turning it over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow drawer of odd unused keys pulled open on the surface, a small black cartoon figure lifting one out and turning it over. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Wisdom teeth. A tailbone. Ear muscles almost nobody can still operate.",
+      "scene": "an open wooden toolbox on the surface, a small black cartoon figure holding up one tool with no obvious purpose and shrugging",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open wooden toolbox on the surface, a small black cartoon figure holding up one tool with no obvious purpose and shrugging. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Press your thumb and little finger together, then look at your wrist.",
+      "scene": "a rubber band stretched over a wooden block, a small black cartoon figure pinching two corners so a taut ridge stands up in the middle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rubber band stretched over a wooden block, a small black cartoon figure pinching two corners so a taut ridge stands up in the middle. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Your body is still running instructions written for a body you stopped having.",
+      "scene": "the same clothes brush set down on the smooth board, a small black cartoon figure stepping back from it with hands on hips",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same clothes brush set down on the smooth board, a small black cartoon figure stepping back from it with hands on hips. the scene belongs to reflexes and body parts kept long after the body that needed them, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Goosebumps are tiny muscles at each follicle trying to raise hairs for insulation or intimidation. It works on a furry animal. On us it makes bumps. Same with the tailbone, wisdom teeth, ear-wiggling muscles, and the palmaris longus tendon that about 14% of people are simply born without.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #goosebumps #evolution #humanbody #anatomy #science",
+    "thumbnail_beat": "01"
+  }
+}

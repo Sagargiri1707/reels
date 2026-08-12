@@ -1,0 +1,111 @@
+{
+  "topic": "Earth has an invisible shield",
+  "lesson": "Earth still has an atmosphere because moving liquid metal in its core generates a magnetic field that turns the solar wind aside, and Mars lost its air when its own field died.",
+  "slug": "day-015-invisible-shield-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The Sun is stripping the air off Mars right now, and it has been for billions of years.",
+      "scene": "seen from far out in space, a dry rust coloured planet with a thin ragged wisp of atmosphere trailing off its night side, fine particle streaks sweeping past it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from far out in space, a dry rust coloured planet with a thin ragged wisp of atmosphere trailing off its night side, fine particle streaks sweeping past it. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Earth sits in exactly the same wind and loses nothing.",
+      "scene": "close along the curved limb of Earth from just above the air, the thin blue shell of atmosphere intact over cloud tops, a bright stream of particles bending away at its edge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close along the curved limb of Earth from just above the air, the thin blue shell of atmosphere intact over cloud tops, a bright stream of particles bending away at its edge. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "The reason is six thousand kilometres beneath you, and it is liquid metal.",
+      "anchored": false,
+      "grounded": "contains no planet, spacecraft, field lines or other space object",
+      "scene": "close on a foundry crucible tilted in gloved hands, molten metal swirling across its surface, sparks lifting into the dark, tongs braced against the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a foundry crucible tilted in gloved hands, molten metal swirling across its surface, sparks lifting into the dark, tongs braced against the rim. this is an ordinary everyday scene and contains no planet, spacecraft, field lines or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "Moving metal makes a magnetic field. The whole planet works as one giant dynamo.",
+      "scene": "seen from the side in space, the planet opened in cutaway with the turning metal core at its heart, wide magnetic loops arcing out from both poles, stars beyond",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from the side in space, the planet opened in cutaway with the turning metal core at its heart, wide magnetic loops arcing out from both poles, stars beyond. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "That field reaches tens of thousands of kilometres out into space.",
+      "scene": "from very far out, enormous curved field lines running pole to pole far beyond the small blue world at their centre, one tiny satellite crossing inside them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from very far out, enormous curved field lines running pole to pole far beyond the small blue world at their centre, one tiny satellite crossing inside them. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "So the solar wind arrives, hits it, and slides straight around us.",
+      "scene": "from the sunward side, a bright stream of charged particles striking the field and splitting around it in a blunt bow shape, a long tail streaming away behind the planet",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from the sunward side, a bright stream of charged particles striking the field and splitting around it in a blunt bow shape, a long tail streaming away behind the planet. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "The few particles that get through are funnelled down at the poles.",
+      "scene": "from a low angle in the far north, thin ribbons of light pouring down toward the horizon, a frozen lake below, a dog sled halted on the ice",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle in the far north, thin ribbons of light pouring down toward the horizon, a frozen lake below, a dog sled halted on the ice. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "So every aurora you have seen is the shield leaking, visibly.",
+      "scene": "from the doorway of a small wooden cabin at night, hanging curtains of light above the snowy roof, one figure standing outside looking up, boots left by the step",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from the doorway of a small wooden cabin at night, hanging curtains of light above the snowy roof, one figure standing outside looking up, boots left by the step. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "role": "turn",
+      "text": "Mars had a field like ours once. Then its core cooled and stopped moving.",
+      "scene": "close down on the cracked rust coloured plain of Mars in low light, an ancient lava cone standing on the horizon, dust lifting off a ridge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close down on the cracked rust coloured plain of Mars in low light, an ancient lava cone standing on the horizon, dust lifting off a ridge. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "text": "No moving metal, no shield. Its air is out there somewhere, blown downwind.",
+      "anchored": false,
+      "grounded": "contains no planet, spacecraft, field lines or other space object",
+      "scene": "close on an empty glass bell jar lying tipped on a workbench, fine dust settling inside it, the stopper rolled away to one side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on an empty glass bell jar lying tipped on a workbench, fine dust settling inside it, the stopper rolled away to one side. this is an ordinary everyday scene and contains no planet, spacecraft, field lines or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "11",
+      "role": "payoff",
+      "text": "The air in your lungs is still here because deep down, metal is still turning.",
+      "scene": "close on a sleeping person's chest rising beneath a blanket at night, an open window with stars beyond it, a half full glass of water on the table",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a sleeping person's chest rising beneath a blanket at night, an open window with stars beyond it, a half full glass of water on the table. the scene belongs to Earth's magnetic field and the people who study it: the planet and Mars seen from space, the molten core in cutaway, field lines and the solar wind, auroras over polar landscapes, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "Earth's outer core is liquid metal in motion, and that motion makes a magnetic field that turns the solar wind aside. Auroras are where it leaks. Mars once had a field too, then its core cooled, the shield died, and the Sun took its atmosphere.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #instagramreels #viral #knowledge #motivation",
+    "thumbnail_beat": "01"
+  }
+}

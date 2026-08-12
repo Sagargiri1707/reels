@@ -1,0 +1,97 @@
+{
+  "topic": "A tree is mostly made of air",
+  "lesson": "Almost all of a tree's mass is carbon pulled out of the air rather than material taken from the soil, so a trunk is essentially air made solid.",
+  "slug": "day-043-tree-made-of-air-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A tree is mostly made of air. Almost none of it comes out of the ground.",
+      "scene": "a small potted tree standing on a bare surface, a small black cartoon figure holding up an almost empty soil bag beside it with one arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small potted tree standing on a bare surface, a small black cartoon figure holding up an almost empty soil bag beside it with one arm. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Everyone assumes it ate the soil. It is the obvious answer.",
+      "anchored": false,
+      "grounded": "contains no tree, leaf, plant, wood or growing thing",
+      "scene": "a full dinner plate on the surface, a small black cartoon figure shovelling from it with a spoon while visibly growing rounder",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full dinner plate on the surface, a small black cartoon figure shovelling from it with a spoon while visibly growing rounder. this is an ordinary everyday scene and contains no tree, leaf, plant, wood or growing thing; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So in the sixteen hundreds, a man weighed the soil, planted a willow, and waited five years.",
+      "scene": "a large balance scale with a sack of soil on one pan, a small black cartoon figure scoring one notch into a wooden tally stick",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a large balance scale with a sack of soil on one pan, a small black cartoon figure scoring one notch into a wooden tally stick. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The tree gained seventy kilos. The soil had lost about sixty grams.",
+      "scene": "a tiny pinch of soil in a saucer on the surface, a small black cartoon figure pointing at it with one arm and at a huge log with the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tiny pinch of soil in a saucer on the surface, a small black cartoon figure pointing at it with one arm and at a huge log with the other. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "So where did all the wood come from? Water, and the air around it.",
+      "scene": "an empty glass jar held up high, a small black cartoon figure clapping the lid onto it and hugging it tight to their chest",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty glass jar held up high, a small black cartoon figure clapping the lid onto it and hugging it tight to their chest. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Leaves pull carbon dioxide out of the sky and lock the carbon into wood.",
+      "scene": "a butterfly net swept through empty air, a small black cartoon figure tipping the invisible catch into a small wooden box",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a butterfly net swept through empty air, a small black cartoon figure tipping the invisible catch into a small wooden box. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "That is what a trunk is. Air, gathered up and made solid.",
+      "scene": "a sawn log end standing on the surface, a small black cartoon figure knocking on it with one knuckle and leaning in to listen",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sawn log end standing on the surface, a small black cartoon figure knocking on it with one knuckle and leaning in to listen. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "So when a tree stores carbon, that is not a metaphor. It is building itself from it.",
+      "scene": "the same potted tree, a small black cartoon figure stacking a neat pile of black blocks against its trunk with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same potted tree, a small black cartoon figure stacking a neat pile of black blocks against its trunk with both arms. the scene belongs to where the physical substance of a tree actually comes from, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Almost all of a tree's mass is carbon pulled from atmospheric CO₂, plus water. Van Helmont proved it in the 1600s: he weighed the soil, grew a willow for five years, and the tree gained 70 kg while the soil lost about 60 g. The trunk is stored air.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #trees #photosynthesis #carbon #biology #science",
+    "thumbnail_beat": "01"
+  }
+}

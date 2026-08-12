@@ -1,0 +1,97 @@
+{
+  "topic": "Your days are getting longer",
+  "lesson": "Every day is a fraction of a second longer than the last because the Moon's pull is slowly braking Earth's spin, and the Moon drifts a little farther away as that happens.",
+  "slug": "day-018-longer-days-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Every single day on Earth is a tiny bit longer than the one before it.",
+      "scene": "a wristwatch lying face up on a bare surface, a small black cartoon figure pressing one fingertip on the minute hand and nudging it back a hair, the watch face slightly resisting",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wristwatch lying face up on a bare surface, a small black cartoon figure pressing one fingertip on the minute hand and nudging it back a hair, the watch face slightly resisting. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A watch says a day is exactly twenty four hours. Always the same.",
+      "anchored": false,
+      "grounded": "contains no moon, tidal bulge, spinning planet or other space object",
+      "scene": "a plain wall clock hanging alone on its own, a small black cartoon figure standing on a stool tapping the glass face and nodding, satisfied it never changes",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plain wall clock hanging alone on its own, a small black cartoon figure standing on a stool tapping the glass face and nodding, satisfied it never changes. this is an ordinary everyday scene and contains no moon, tidal bulge, spinning planet or other space object; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "But the Moon's pull is quietly acting like a brake on that spin.",
+      "scene": "a metal spinning top whirring on the surface, a small black cartoon figure pressing one fingertip lightly against its rim, the top visibly wobbling and slowing under the touch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal spinning top whirring on the surface, a small black cartoon figure pressing one fingertip lightly against its rim, the top visibly wobbling and slowing under the touch. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Slow a spin down, and the energy has to go somewhere. The Moon drifts outward.",
+      "scene": "a yo-yo slowing at the end of its string, a small black cartoon figure letting more string feed out through loose fingers as the yo-yo drifts further from their hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a yo-yo slowing at the end of its string, a small black cartoon figure letting more string feed out through loose fingers as the yo-yo drifts further from their hand. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "We know this from ancient coral. Its growth rings work like a fossil clock.",
+      "scene": "a cross section of coral sliced open on the surface, fine growth rings visible across it, a small black cartoon figure counting the rings closely through a magnifying glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cross section of coral sliced open on the surface, fine growth rings visible across it, a small black cartoon figure counting the rings closely through a magnifying glass. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Run it forward instead, and every generation ticks just a little slower than the last.",
+      "scene": "an old wind up metronome ticking on the surface, a small black cartoon figure reaching into the mechanism and nudging the weight slightly higher, the arm swinging visibly slower",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old wind up metronome ticking on the surface, a small black cartoon figure reaching into the mechanism and nudging the weight slightly higher, the arm swinging visibly slower. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Run the clock back far enough, and a dinosaur's day was only twenty three hours.",
+      "scene": "a small toy dinosaur figure standing beside an antique pocket watch lying open, a small black cartoon figure adjusting the watch hands to a noticeably shorter arc on its face",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy dinosaur figure standing beside an antique pocket watch lying open, a small black cartoon figure adjusting the watch hands to a noticeably shorter arc on its face. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "So the watch on your wrist is quietly falling behind the sky. One blink at a time.",
+      "scene": "the same wristwatch from the very first frame, a small black cartoon figure pressing both hands flat against the glass, straining to hold the ticking hands in place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same wristwatch from the very first frame, a small black cartoon figure pressing both hands flat against the glass, straining to hold the ticking hands in place. the scene belongs to Earth's slowing spin and the Moon drifting away over deep time, shown as simple tabletop demonstrations with one ordinary timekeeping object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A day on Earth is getting longer. Not by much, but it never resets. The Moon's pull acts like a brake on Earth's spin, so the day lengthens and the Moon drifts a little farther away every year. We know it from growth rings in ancient coral. A dinosaur's day was only twenty three hours.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #moon #earth #dinosaurs #space #science",
+    "thumbnail_beat": "06"
+  }
+}

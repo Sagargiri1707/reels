@@ -1,0 +1,101 @@
+{
+  "topic": "You're related to a mushroom",
+  "lesson": "Every living thing descends from one single ancestor, and fungi sit closer to animals than to plants on that family tree.",
+  "slug": "day-037-related-to-a-mushroom-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "You are more closely related to a mushroom than a mushroom is to a tree.",
+      "scene": "a single tall mushroom standing on a bare surface, a small black cartoon figure leaning against its stalk with one arm draped over it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single tall mushroom standing on a bare surface, a small black cartoon figure leaning against its stalk with one arm draped over it. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Everything alive runs on the same instructions. Not similar ones. The same.",
+      "scene": "a row of identical small padlocks on the surface, a small black cartoon figure opening every one of them with the same single key",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of identical small padlocks on the surface, a small black cartoon figure opening every one of them with the same single key. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Same four letters of DNA. Same cell machinery. Same energy currency.",
+      "scene": "a line of different money boxes on the surface, a small black cartoon figure posting the same one coin into every slot in turn",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a line of different money boxes on the surface, a small black cartoon figure posting the same one coin into every slot in turn. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Which only makes sense if life started once, and never managed it again.",
+      "scene": "a lump of dough on the surface, a small black cartoon figure pressing one clay stamp into every small piece with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lump of dough on the surface, a small black cartoon figure pressing one clay stamp into every small piece with both arms. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Run the family tree backwards far enough and every branch meets.",
+      "scene": "a spread bundle of loose wires on the surface, a small black cartoon figure hauling all the free ends together into one thick twist",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spread bundle of loose wires on the surface, a small black cartoon figure hauling all the free ends together into one thick twist. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And the tree is not the shape you picture. Fungi are on our side of it.",
+      "scene": "a forked bare branch propped on the surface, a small black cartoon figure hanging a mushroom on the same fork as a small toy animal",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a forked bare branch propped on the surface, a small black cartoon figure hanging a mushroom on the same fork as a small toy animal. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Humans and mushrooms share roughly half of their genes.",
+      "scene": "two identical jars of buttons on the surface, a small black cartoon figure pulling matching buttons out of each and laying them in pairs",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two identical jars of buttons on the surface, a small black cartoon figure pulling matching buttons out of each and laying them in pairs. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Fungi cannot photosynthesise. They have to eat, exactly like you do.",
+      "scene": "a mushroom standing over a slice of damp bread on the surface, a small black cartoon figure tucking a napkin under its cap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mushroom standing over a slice of damp bread on the surface, a small black cartoon figure tucking a napkin under its cap. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Zoom out far enough and humans are one twig. Not the top of anything.",
+      "scene": "a large bare branching twig standing on the surface, a small black cartoon figure clinging to one tiny outermost tip with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a large bare branching twig standing on the surface, a small black cartoon figure clinging to one tiny outermost tip with both arms. the scene belongs to one shared ancestry running through every living thing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Every living thing shares one ancestor, which is why every organism on Earth uses the same DNA code, the same cell machinery and the same energy currency. Fungi are more closely related to animals than to plants, and humans share roughly half their genes with a mushroom. The tree of life is not the shape most people picture.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #evolution #fungi #dna #biology #science",
+    "thumbnail_beat": "01"
+  }
+}

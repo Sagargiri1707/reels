@@ -1,0 +1,101 @@
+{
+  "topic": "This tree was alive before the pyramids",
+  "lesson": "Which tree counts as the oldest depends entirely on where you decide one tree stops, and a colony like Pando with one root system and tens of thousands of stems breaks the definition completely.",
+  "slug": "day-045-older-than-the-pyramids-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "There is a tree in California that was already ancient when the pyramids went up.",
+      "scene": "a gnarled twisted branch lying on a bare surface, a small black cartoon figure running one hand slowly along its grain",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a gnarled twisted branch lying on a bare surface, a small black cartoon figure running one hand slowly along its grain. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Four thousand eight hundred and fifty years old, and its location is kept secret.",
+      "scene": "a small wooden box with a heavy padlock on the surface, a small black cartoon figure hauling at the lock with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small wooden box with a heavy padlock on the surface, a small black cartoon figure hauling at the lock with both arms. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "You can only date it by drilling out a core the width of a pencil and counting.",
+      "scene": "a hand drill pressed against a section of trunk, a small black cartoon figure cranking the handle while a thin core slides out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand drill pressed against a section of trunk, a small black cartoon figure cranking the handle while a thin core slides out. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "But in Utah there is something that makes even that tree look young.",
+      "scene": "a single pale aspen leaf on the surface, a small black cartoon figure straining to lift it with both arms as if it weighed a tonne",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a single pale aspen leaf on the surface, a small black cartoon figure straining to lift it with both arms as if it weighed a tonne. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Forty seven thousand separate trunks. All of them one single organism.",
+      "scene": "a tight bundle of identical pencils standing upright, a small black cartoon figure lifting the whole bundle by one shared band underneath",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tight bundle of identical pencils standing upright, a small black cartoon figure lifting the whole bundle by one shared band underneath. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "One root system under the ground, connecting every stem to every other.",
+      "scene": "a knotted mass of rope on the surface, a small black cartoon figure tugging one strand while ends right across the tangle twitch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a knotted mass of rope on the surface, a small black cartoon figure tugging one strand while ends right across the tangle twitch. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "So which is the oldest tree? It depends entirely on what you call an individual.",
+      "scene": "a balance scale on the surface, a small black cartoon figure standing between the two empty pans unable to choose which to load",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale on the surface, a small black cartoon figure standing between the two empty pans unable to choose which to load. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "By one definition it is five thousand years. By another it is tens of thousands.",
+      "scene": "two wooden rulers of wildly different lengths laid side by side, a small black cartoon figure holding one up against the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two wooden rulers of wildly different lengths laid side by side, a small black cartoon figure holding one up against the other. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "The hard question was never how old. It is where one tree actually stops.",
+      "scene": "the same bundle of pencils, a small black cartoon figure pulling at one while the entire bundle comes away with it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same bundle of pencils, a small black cartoon figure pulling at one while the entire bundle comes away with it. the scene belongs to extremely old trees and the problem of deciding where one tree ends, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Methuselah, a bristlecone pine in California, is around 4,850 years old and its location is kept secret. Then there is Pando in Utah: 47,000 genetically identical aspen stems sharing one root system, estimated at tens of thousands of years. The oldest tree depends entirely on where you decide one tree ends.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #trees #pando #methuselah #nature #science",
+    "thumbnail_beat": "05"
+  }
+}

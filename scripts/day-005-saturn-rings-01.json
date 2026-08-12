@@ -1,0 +1,93 @@
+{
+  "topic": "Saturn is losing its rings",
+  "lesson": "Saturn's rings are falling into the planet, so they are a brief phase in its life and we happen to be alive to see it.",
+  "slug": "day-005-saturn-rings-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "text": "Saturn is raining its own rings into itself, a swimming pool of ice every half hour.",
+      "scene": "from far above the ring plane, a broad ice ring shedding a faint veil of grains down toward the cloud tops, one narrow gap torn through it, a tiny moon far out past the edge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from far above the ring plane, a broad ice ring shedding a faint veil of grains down toward the cloud tops, one narrow gap torn through it, a tiny moon far out past the edge. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "text": "Every picture you have ever seen of Saturn has those rings in it.",
+      "scene": "a classroom wall chart of the ringed planet pinned crooked above a radiator, one corner curling away from its pin, a child's coat on the hook below",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a classroom wall chart of the ringed planet pinned crooked above a radiator, one corner curling away from its pin, a child's coat on the hook below. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "But the rings are not rock at all. They are almost pure water ice.",
+      "scene": "in among the ring particles at eye level, clear ice chunks from grain to boulder drifting apart, one turning slowly with a chipped face, the planet's dim curve far behind",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. in among the ring particles at eye level, clear ice chunks from grain to boulder drifting apart, one turning slowly with a chipped face, the planet's dim curve far behind. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "And Saturn's magnetic field grabs the smallest charged grains and pulls them in.",
+      "scene": "seen edge on from just below the ring plane, faint curved field lines arcing down to the planet, the finest grains lifting off the ring edge to follow them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen edge on from just below the ring plane, faint curved field lines arcing down to the planet, the finest grains lifting off the ring edge to follow them. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "So that ice slides down the field lines and falls as rain into the clouds.",
+      "scene": "close above Saturn's banded cloud tops, thin bright streaks of falling ice entering the haze and vanishing, one streak breaking apart halfway down, the ring shadow lying across the bands",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close above Saturn's banded cloud tops, thin bright streaks of falling ice entering the haze and vanishing, one streak breaking apart halfway down, the ring shadow lying across the bands. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "At that rate the whole ring system drains in under a hundred million years.",
+      "scene": "the planet small in frame from a great distance, its rings thinned to one faint pale band, a single arc still bright, dark emptiness where the inner ring used to sit",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the planet small in frame from a great distance, its rings thinned to one faint pale band, a single arc still bright, dark emptiness where the inner ring used to sit. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "The stranger part is that the rings are newer than the last dinosaurs.",
+      "scene": "close on a fossil vertebra half out of its rock in an open museum drawer, the drawer's felt lining worn through at one corner, a blank index card beside it",
+      "anchored": false,
+      "grounded": "contains no planet, ring, telescope or other space object",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a fossil vertebra half out of its rock in an open museum drawer, the drawer's felt lining worn through at one corner, a blank index card beside it. this is an ordinary everyday scene and contains no planet, ring, telescope or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "Saturn spent almost all of its four and a half billion years with nothing around it.",
+      "scene": "looking up from the cratered ground of a small moon, the planet hanging bare and ringless above the horizon, one foreground boulder throwing a long shadow toward the viewer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. looking up from the cratered ground of a small moon, the planet hanging bare and ringless above the horizon, one foreground boulder throwing a long shadow toward the viewer. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "text": "You are alive in the thin slice of time when Saturn has rings.",
+      "scene": "from behind a person bent to a garden telescope at night, the ringed planet small and sharp beyond it, a folding chair left empty beside them, dew beading on the grass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from behind a person bent to a garden telescope at night, the ringed planet small and sharp beyond it, a folding chair left empty beside them, dew beading on the grass. the scene belongs to Saturn, its rings and the people who watch them: the ringed planet, ice, orbits, telescopes, star charts, observatories and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "Saturn's rings are falling into the planet, about a swimming pool of ice every half hour. They are probably younger than the last dinosaurs, and they will be gone long before the Sun is. We happen to be alive in the narrow window when Saturn has rings at all.\n\nOne science fact a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #saturn #saturnrings #space #astronomy #science",
+    "thumbnail_beat": "01"
+  }
+}

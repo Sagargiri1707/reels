@@ -1,0 +1,95 @@
+{
+  "topic": "Everest would drown in the deepest trench",
+  "lesson": "The Mariana Trench is deeper than Everest is tall, the pressure at the bottom is over a thousand atmospheres, and things live there anyway because they equalise with it instead of resisting it.",
+  "slug": "day-028-everest-in-the-trench-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Drop Everest into the Mariana Trench and its peak would still be two kilometres underwater.",
+      "scene": "a very deep glass cylinder of water with a pointed grey stone standing inside it, a small black cartoon figure leaning over the rim pointing down at the gap above its tip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very deep glass cylinder of water with a pointed grey stone standing inside it, a small black cartoon figure leaning over the rim pointing down at the gap above its tip. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Eleven kilometres down. It takes four hours just to fall that far.",
+      "scene": "a plumb line on a wooden reel, a small black cartoon figure winding the handle with both arms while the weighted cord keeps unspooling",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plumb line on a wooden reel, a small black cartoon figure winding the handle with both arms while the weighted cord keeps unspooling. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "At the bottom, a full tonne presses on every square centimetre.",
+      "scene": "a stack of iron weights piled onto a small square tile, a small black cartoon figure crouched beneath it holding the tile up on shaking arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of iron weights piled onto a small square tile, a small black cartoon figure crouched beneath it holding the tile up on shaking arms. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Send a foam cup down and it comes back the size of a thimble.",
+      "scene": "a full sized foam cup standing beside a shrunken one, a small black cartoon figure holding the tiny one up on a single fingertip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full sized foam cup standing beside a shrunken one, a small black cartoon figure holding the tiny one up on a single fingertip. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "More people have walked on the Moon than have been down there.",
+      "scene": "a small brass diving helmet on the surface, a small black cartoon figure straining with both arms and barely lifting it off the desk",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small brass diving helmet on the surface, a small black cartoon figure straining with both arms and barely lifting it off the desk. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Anything rigid gets crushed. Anything with a pocket of air is worse.",
+      "scene": "a tin can on the surface, a small black cartoon figure stamping down on it with both feet while the sides fold flat",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tin can on the surface, a small black cartoon figure stamping down on it with both feet while the sides fold flat. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And yet there is life down there. Not enduring it. Built for it.",
+      "scene": "a glass petri dish on the surface, a small black cartoon figure leaning right over it with a magnifying glass at something small and pale",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a glass petri dish on the surface, a small black cartoon figure leaning right over it with a magnifying glass at something small and pale. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "The deepest place on Earth is not a dead end. It is just harder to reach than orbit.",
+      "scene": "the same deep glass cylinder, a small black cartoon figure letting a weighted line drop into it while the reel spins free under one hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same deep glass cylinder, a small black cartoon figure letting a weighted line drop into it while the reel spins free under one hand. the scene belongs to extreme depth and the pressure that comes with it, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "The Mariana Trench is nearly 11 km deep. Drop Everest in and the summit is still 2 km underwater. Pressure at the bottom is over 1,000 atmospheres, about a tonne on every square centimetre, and more people have been to the Moon than to the bottom. There is still life down there.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #marianatrench #ocean #everest #deepsea #science",
+    "thumbnail_beat": "01"
+  }
+}

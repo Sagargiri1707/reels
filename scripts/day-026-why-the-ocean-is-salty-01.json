@@ -1,0 +1,103 @@
+{
+  "topic": "Why the ocean is salty but rivers aren't",
+  "lesson": "Rivers carry dissolved rock salt to the sea and never take any back, and evaporation removes only the water, so the ocean is an accumulator that has been filling for billions of years.",
+  "slug": "day-026-why-the-ocean-is-salty-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Rivers carry salt to the sea, and never carry a single grain back.",
+      "scene": "a small tin bucket on a bare surface, a small black cartoon figure tipping a scoop of coarse salt into it and setting the empty scoop down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small tin bucket on a bare surface, a small black cartoon figure tipping a scoop of coarse salt into it and setting the empty scoop down. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "River water tastes like nothing. So where is the sea getting it from?",
+      "anchored": false,
+      "grounded": "contains no sea, ocean, wave, beach, boat or salt",
+      "scene": "a heavy water jug on the surface, a small black cartoon figure tipping it to fill a glass with both arms and giving one satisfied nod",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy water jug on the surface, a small black cartoon figure tipping it to fill a glass with both arms and giving one satisfied nod. this is an ordinary everyday scene and contains no sea, ocean, wave, beach, boat or salt; it is the ordinary case the rest of the reel is measured against. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Rain is very slightly acidic, and it slowly eats rock.",
+      "scene": "a rough grey stone on the surface, a small black cartoon figure holding a dropper over it and letting one drop land in a small fizzing pit",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rough grey stone on the surface, a small black cartoon figure holding a dropper over it and letting one drop land in a small fizzing pit. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So every river is quietly carrying dissolved rock downhill, all day, forever.",
+      "scene": "a length of metal guttering sloped across the surface, a small black cartoon figure sweeping fine grit along it with a stiff brush",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of metal guttering sloped across the surface, a small black cartoon figure sweeping fine grit along it with a stiff brush. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "It all arrives in the sea. And then the water leaves without it.",
+      "scene": "a shallow dish drying out on the surface with a white ring left in it, a small black cartoon figure scraping at the ring with a spatula",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow dish drying out on the surface with a white ring left in it, a small black cartoon figure scraping at the ring with a spatula. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Evaporation only ever takes the water. Salt is not light enough to follow.",
+      "scene": "a washing line strung across the surface, a small black cartoon figure hauling down a stiff dried cloth and shaking white powder off it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a washing line strung across the surface, a small black cartoon figure hauling down a stiff dried cloth and shaking white powder off it. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And volcanic vents on the seafloor keep quietly adding more from below.",
+      "scene": "a short copper pipe standing upright in a tray, a small black cartoon figure crouched beside it catching grit puffing out of the top in a cup",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a short copper pipe standing upright in a tray, a small black cartoon figure crouched beside it catching grit puffing out of the top in a cup. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "turn",
+      "text": "So the sea is not salty. It is an accumulator nobody has ever emptied.",
+      "scene": "a tall glass jar packed to the brim with salt, a small black cartoon figure straining to lift the lid clear while a funnel above pours in more",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass jar packed to the brim with salt, a small black cartoon figure straining to lift the lid clear while a funnel above pours in more. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Rivers are salty too. Just diluted enough that you have never once noticed.",
+      "scene": "the same water jug and glass, a small black cartoon figure holding one single grain up on a fingertip beside the full glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same water jug and glass, a small black cartoon figure holding one single grain up on a fingertip beside the full glass. the scene belongs to salt arriving and never leaving, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Slightly acidic rain erodes rock, and rivers carry the dissolved minerals downhill to the sea. When seawater evaporates the water leaves and the salt stays, and undersea vents add more. The ocean is not salty by nature. It is an accumulator that has been filling for billions of years with no drain.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ocean #rivers #geology #salt #science",
+    "thumbnail_beat": "08"
+  }
+}

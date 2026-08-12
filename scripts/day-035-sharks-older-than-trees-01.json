@@ -1,0 +1,101 @@
+{
+  "topic": "Sharks are older than trees",
+  "lesson": "Sharks arrived at a body plan 400 million years ago that barely needed changing, which is why they predate trees, Saturn's rings and the North Star.",
+  "slug": "day-035-sharks-older-than-trees-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Sharks are older than trees. By about fifty million years.",
+      "scene": "a thick slice of tree trunk lying on a bare surface, a small black cartoon figure walking its growth rings and counting them with a pointer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick slice of tree trunk lying on a bare surface, a small black cartoon figure walking its growth rings and counting them with a pointer. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A forest feels like the oldest thing you can stand inside. It is not.",
+      "scene": "a mossy fallen log on the surface, a small black cartoon figure sitting on it with both arms folded looking thoroughly pleased",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mossy fallen log on the surface, a small black cartoon figure sitting on it with both arms folded looking thoroughly pleased. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Sharks had already been going four hundred million years when the first tree grew.",
+      "scene": "a long chain laid across the surface, a small black cartoon figure clipping a small tag onto a link near one end then walking far down the chain",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long chain laid across the surface, a small black cartoon figure clipping a small tag onto a link near one end then walking far down the chain. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "They are older than the rings around Saturn.",
+      "scene": "a flat plastic hoop on the surface, a small black cartoon figure spinning it around a ball balanced on a stand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat plastic hoop on the surface, a small black cartoon figure spinning it around a ball balanced on a stand. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Older than the North Star. Older than Mount Everest.",
+      "scene": "a rough grey rock on the surface, a small black cartoon figure driving a tiny flag into its summit with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rough grey rock on the surface, a small black cartoon figure driving a tiny flag into its summit with both arms. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "They are not primitive. They just solved the problem extremely early.",
+      "scene": "an old wooden mallet on the surface worn smooth with use, a small black cartoon figure swinging it down onto a peg with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old wooden mallet on the surface worn smooth with use, a small black cartoon figure swinging it down onto a peg with both arms. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Teeth on a conveyor belt. Lose one and the next rolls forward into place.",
+      "scene": "a heavy office stapler on the surface, a small black cartoon figure pressing it down while a fresh staple advances into position",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy office stapler on the surface, a small black cartoon figure pressing it down while a fresh staple advances into position. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Skin that is not scales at all but thousands of tiny teeth, which is why it rasps.",
+      "scene": "a sheet of sandpaper on the surface, a small black cartoon figure sliding one hand smoothly along it then snatching it back the other way",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sheet of sandpaper on the surface, a small black cartoon figure sliding one hand smoothly along it then snatching it back the other way. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Four hundred million years with no redesign. Nothing else alive has that record.",
+      "scene": "the same slice of tree trunk, a small black cartoon figure laying one single shark tooth down on top of the rings",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same slice of tree trunk, a small black cartoon figure laying one single shark tooth down on top of the rings. the scene belongs to deep time and a design that never needed replacing, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Sharks have been around for about 400 million years. Trees appeared roughly 350 million years ago. Sharks also predate Saturn's rings, the North Star and Mount Everest. That is not because they are primitive. It is because they solved the problem early and never needed a redesign.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #sharks #deeptime #evolution #animals #science",
+    "thumbnail_beat": "01"
+  }
+}

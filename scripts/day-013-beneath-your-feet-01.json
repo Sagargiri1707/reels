@@ -1,0 +1,111 @@
+{
+  "topic": "What's actually beneath your feet",
+  "lesson": "Everything humans have ever built sits on a crust proportionally thinner than the skin of an apple, and we have never once drilled through it.",
+  "slug": "day-013-beneath-your-feet-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The deepest hole humans ever dug went twelve kilometres down, and then stopped.",
+      "scene": "from a low angle beside a rusted steel well cap bolted shut on cracked concrete in a snowy field, weeds pushing through the seams, a bent handrail leaning away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle beside a rusted steel well cap bolted shut on cracked concrete in a snowy field, weeds pushing through the seams, a bent handrail leaning away. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Twelve kilometres sounds enormous. You could drive it in ten minutes.",
+      "anchored": false,
+      "grounded": "contains no planet, cutaway, drill rig or space object",
+      "scene": "from inside a car looking forward, a straight empty road running flat to the horizon, telegraph poles counting away, a folded map slipping off the passenger seat",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from inside a car looking forward, a straight empty road running flat to the horizon, telegraph poles counting away, a folded map slipping off the passenger seat. this is an ordinary everyday scene and contains no planet, cutaway, drill rig or space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "Below that drill bit, the crust simply keeps going.",
+      "scene": "a tall cutaway of banded rock seen from the side, a thin drill string ending high in the upper layers, the strata continuing far down past it, one bright seam of quartz",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall cutaway of banded rock seen from the side, a thin drill string ending high in the upper layers, the strata continuing far down past it, one bright seam of quartz. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "Then the mantle. Nearly three thousand kilometres of it.",
+      "scene": "from inside a vast dark cutaway, an immense body of hot rock filling the space beneath the crust, slow swirls turning through it, the drilled pinprick tiny at the very top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from inside a vast dark cutaway, an immense body of hot rock filling the space beneath the crust, slow swirls turning through it, the drilled pinprick tiny at the very top. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "And the mantle is not lava. It is solid rock that flows.",
+      "anchored": false,
+      "grounded": "contains no planet, cutaway, drill rig or space object",
+      "scene": "close on an ancient window pane sagging in its wooden frame, the glass thicker and rippled at the bottom, the wood warped around it, a hand resting on the sill",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on an ancient window pane sagging in its wooden frame, the glass thicker and rippled at the bottom, the wood warped around it, a hand resting on the sill. this is an ordinary everyday scene and contains no planet, cutaway, drill rig or space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "About as fast as your fingernails grow. Given millions of years, that is enough.",
+      "scene": "close overhead on a stone bench worn into a deep hollow by generations of use, the grain of the stone showing, a walking stick propped at one end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close overhead on a stone bench worn into a deep hollow by generations of use, the grain of the stone showing, a walking stick propped at one end. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "Deeper still, the metal turns liquid and starts moving.",
+      "scene": "close inside the cutaway, a churning shell of liquid metal circling an inner ball, fine ink currents looping through it, one plume rising toward the rock above",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close inside the cutaway, a churning shell of liquid metal circling an inner ball, fine ink currents looping through it, one plume rising toward the rock above. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "And at the very centre, iron so squeezed it stays solid at five thousand degrees.",
+      "scene": "close on a pitted solid iron ball at the heart of the cutaway, immense pressed rock closing in from every side, dense hatching crowding the boundary",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a pitted solid iron ball at the heart of the cutaway, immense pressed rock closing in from every side, dense hatching crowding the boundary. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "role": "turn",
+      "text": "Shrink all of it to the size of an apple, and the crust is thinner than the peel.",
+      "scene": "close overhead on an apple on a wooden board, a single curl of peel lifted away by a knife blade, the pale flesh showing beneath, a few drops of juice on the wood",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close overhead on an apple on a wooden board, a single curl of peel lifted away by a knife blade, the pale flesh showing beneath, a few drops of juice on the wood. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Every city, every road, every person who ever lived, on that peel.",
+      "scene": "from very high above at night, a city's lit streets spread across a thin drawn shell of crust, the huge dark interior implied beneath it, one road running off into black",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from very high above at night, a city's lit streets spread across a thin drawn shell of crust, the huge dark interior implied beneath it, one road running off into black. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "11",
+      "text": "And that peel is cracked into pieces that are moving right now.",
+      "scene": "close down onto sun cracked dry ground, hard plates of mud fitted tight against each other, one crack freshly opened and wide, a beetle crossing the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close down onto sun cracked dry ground, hard plates of mud fitted tight against each other, one crack freshly opened and wide, a beetle crossing the gap. the scene belongs to the inside of the Earth and the people who study it: crust, mantle and core seen in cutaway, deep boreholes and drill rigs, banded rock strata, and the planet seen from space, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "The deepest hole we have ever drilled reached 12 km. The centre of the Earth is 6,371 km down. Below the drill sits the mantle, which is not lava but solid rock that flows at about the speed your fingernails grow. Shrink the planet to an apple and the crust is thinner than the peel.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #instagramreels #viral #knowledge #motivation",
+    "thumbnail_beat": "01"
+  }
+}

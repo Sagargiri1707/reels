@@ -1,0 +1,115 @@
+{
+  "topic": "Every continent was once one",
+  "lesson": "The continents fit together because they were once a single landmass, and the slow circulation of hot rock that split them is still moving them apart today.",
+  "slug": "day-014-one-continent-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "South America and Africa fit together because they used to be the same coastline.",
+      "scene": "close overhead on two torn halves of a paper map being pushed together on a desk, the ragged coastlines matching along the tear, a magnifier lying to one side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close overhead on two torn halves of a paper map being pushed together on a desk, the ragged coastlines matching along the tear, a magnifier lying to one side. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every child notices it. For fifty years no scientist was allowed to say it.",
+      "scene": "from the very back of a stiff lecture room, one man standing alone beside a pinned map on an easel while rows of seated backs face away, a hat left on an empty chair",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from the very back of a stiff lecture room, one man standing alone beside a pinned map on an easel while rows of seated backs face away, a hat left on an empty chair. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "Then came fossils of the same animal on both sides of an ocean it could never cross.",
+      "scene": "close on a split slab of rock opened like a book on a workbench, the same small reptile pressed into both faces, a brush and a chisel resting beside it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a split slab of rock opened like a book on a workbench, the same small reptile pressed into both faces, a brush and a chisel resting beside it. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "Because there was no ocean. There was one enormous continent.",
+      "scene": "seen from far above, a single vast landmass surrounded by open sea, one long mountain chain running through its middle, cloud shadow lying across the dry interior",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from far above, a single vast landmass surrounded by open sea, one long mountain chain running through its middle, cloud shadow lying across the dry interior. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "Then it tore, and the pieces have been drifting apart ever since.",
+      "scene": "close along a wide crack splitting dry ground, shallow water already flooding into the gap, a lone tree tipping in at the edge, roots torn free",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close along a wide crack splitting dry ground, shallow water already flooding into the gap, a lone tree tipping in at the edge, roots torn free. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "But nobody could explain what was doing the pushing.",
+      "scene": "close on a wooden puzzle globe on a desk with two continent pieces lifted out and held in a hand, the empty sockets showing bare wood, a lamp turned low over it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a wooden puzzle globe on a desk with two continent pieces lifted out and held in a hand, the empty sockets showing bare wood, a lamp turned low over it. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "Heat from the core makes the rock below circle, like water in a pan.",
+      "anchored": false,
+      "grounded": "contains no globe, map, continent or planet",
+      "scene": "close overhead into a pan of simmering water on a stove, slow currents rising in the centre and rolling outward, a wooden spoon left across the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close overhead into a pan of simmering water on a stove, slow currents rising in the centre and rolling outward, a wooden spoon left across the rim. this is an ordinary everyday scene and contains no globe, map, continent or planet; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "The plates just ride on top of it.",
+      "scene": "a cutaway seen from the side, thick slabs of crust carried on slowly turning rock beneath, one slab sliding under its neighbour, a volcano smoking at the seam",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cutaway seen from the side, thick slabs of crust carried on slowly turning rock beneath, one slab sliding under its neighbour, a volcano smoking at the seam. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "text": "A few centimetres a year, which sounds like nothing at all.",
+      "scene": "close on a wooden fence post split by a slow crack in the ground, the two halves offset by a finger's width, grass growing up through the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a wooden fence post split by a slow crack in the ground, the two halves offset by a finger's width, grass growing up through the gap. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "text": "But India has been driving into Asia for fifty million years.",
+      "scene": "from a low angle across a wide dusty plain, an enormous wall of mountains standing along the horizon, a river of scree in the foreground, two yaks small at the base",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle across a wide dusty plain, an enormous wall of mountains standing along the horizon, a river of scree in the foreground, two yaks small at the base. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "11",
+      "role": "turn",
+      "text": "That collision is Everest, and it is still climbing a few millimetres a year.",
+      "scene": "close on a brass survey tripod planted in summit snow, a plumb chain hanging still beneath it, the ridge dropping away into cloud far below",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a brass survey tripod planted in summit snow, a plumb chain hanging still beneath it, the ridge dropping away into cloud far below. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "12",
+      "role": "payoff",
+      "text": "The map on your wall is a photograph, not a fact.",
+      "scene": "close on a school wall map curling away from its pin at one corner, the paper faded in a band where sunlight falls, an empty chair beneath it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a school wall map curling away from its pin at one corner, the paper faded in a band where sunlight falls, an empty chair beneath it. the scene belongs to drifting continents and the people who study them: world maps and globes, matching coastlines, fossils split out of rock, mountain ranges and the layered Earth in cutaway, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "The continents fit together because they were one landmass, and the same fossils sit on both sides of an ocean the animals could never have crossed. Slow circulation of hot rock split them, and it has not stopped. India is still driving into Asia, which is why Everest gets taller every year.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #instagramreels #viral #knowledge #motivation",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "topic": "The biggest animal that has ever existed",
+  "lesson": "A blue whale is larger than any dinosaur that ever lived, and it only works because water carries its weight, since on land its own body would crush it.",
+  "slug": "day-031-biggest-animal-ever-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A blue whale's heart is about the size of a small car.",
+      "scene": "a car tyre lying flat on a bare surface, a small black cartoon figure standing inside the hole with both arms spread, unable to reach either side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a car tyre lying flat on a bare surface, a small black cartoon figure standing inside the hole with both arms spread, unable to reach either side. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Its tongue alone weighs roughly as much as an elephant.",
+      "scene": "a set of bathroom scales on the surface, a small black cartoon figure hauling one huge soft slab onto the platform with a rope over their shoulder",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a set of bathroom scales on the surface, a small black cartoon figure hauling one huge soft slab onto the platform with a rope over their shoulder. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Thirty metres long. A hundred and fifty tonnes.",
+      "scene": "a tape measure unspooled in a long line across the surface, a small black cartoon figure running along it dragging the end with most of it still to go",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tape measure unspooled in a long line across the surface, a small black cartoon figure running along it dragging the end with most of it still to go. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A calf drinks enough milk to put on ninety kilos a day.",
+      "scene": "a huge milk churn tipped on the surface, a small black cartoon figure steadying it with both arms while a bucket below already overflows",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a huge milk churn tipped on the surface, a small black cartoon figure steadying it with both arms while a bucket below already overflows. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Nothing on land ever came close. Not one dinosaur.",
+      "scene": "an enormous curved rib bone standing on the surface, a small black cartoon figure setting a small toy dinosaur beside it and stepping back to compare",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous curved rib bone standing on the surface, a small black cartoon figure setting a small toy dinosaur beside it and stepping back to compare. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Because on land it would not work at all. Its own weight would crush it.",
+      "scene": "a heavy sack resting on a thin folding stool, a small black cartoon figure shoving a buckling leg back underneath with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy sack resting on a thin folding stool, a small black cartoon figure shoving a buckling leg back underneath with both arms. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "In water none of that weight sits on the bones. The sea carries all of it.",
+      "scene": "a full bucket of water on the surface, a small black cartoon figure lifting a large stone with one arm easily while it stays under the water",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full bucket of water on the surface, a small black cartoon figure lifting a large stone with one arm easily while it stays under the water. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "payoff",
+      "text": "The largest animal in history only exists because it never has to stand up.",
+      "scene": "the same car tyre now floating in a wide tray of water, a small black cartoon figure sitting on top of it with both arms folded",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same car tyre now floating in a wide tray of water, a small black cartoon figure sitting on top of it with both arms folded. the scene belongs to the scale of the largest animal that has ever lived and the water that holds it up, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A blue whale is 30 metres long and 150 tonnes, with a heart the size of a small car and a tongue that weighs as much as an elephant. It is bigger than any dinosaur, and the reason is simple: water carries the weight. On land, that body would collapse under itself.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bluewhale #ocean #animals #biology #science",
+    "thumbnail_beat": "01"
+  }
+}

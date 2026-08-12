@@ -1,0 +1,101 @@
+{
+  "topic": "Birds can see Earth's magnetic field",
+  "lesson": "Proteins in a bird's retina appear to respond to magnetic fields through electron spin, which would put direction into what the bird actually sees.",
+  "slug": "day-057-birds-see-magnetic-field-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "There may be a quantum compass inside a robin's eye.",
+      "scene": "a small brass compass on a bare surface, a small black cartoon figure holding it up to one eye like a monocle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small brass compass on a bare surface, a small black cartoon figure holding it up to one eye like a monocle. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Every compass you have ever used needed a needle. This one does not.",
+      "scene": "a magnetised needle resting on a cork in a bowl of water, a small black cartoon figure nudging it and watching it swing back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a magnetised needle resting on a cork in a bowl of water, a small black cartoon figure nudging it and watching it swing back. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "A protein in the retina reacts when a magnetic field passes through it.",
+      "scene": "a thin glass slide on the surface, a small black cartoon figure sliding a magnet underneath while something on top visibly shifts",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thin glass slide on the surface, a small black cartoon figure sliding a magnet underneath while something on top visibly shifts. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "And the reaction depends on which direction the bird is facing.",
+      "scene": "a swivel stool on the surface, a small black cartoon figure turning slowly on it with both arms held straight out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a swivel stool on the surface, a small black cartoon figure turning slowly on it with both arms held straight out. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Which means direction may arrive as part of what the bird sees.",
+      "scene": "a pane of glass propped on the surface, a small black cartoon figure pressing a faint pattern onto it and peering through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pane of glass propped on the surface, a small black cartoon figure pressing a faint pattern onto it and peering through. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Sea turtles do it too. So do salmon, and they use it as a map.",
+      "scene": "a small turtle model on the surface, a small black cartoon figure laying a line of iron filings out ahead of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small turtle model on the surface, a small black cartoon figure laying a line of iron filings out ahead of it. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "So the shield that stops the solar wind is also a navigation system.",
+      "scene": "a bar magnet under a sheet of paper with filings arcing over it, a small black cartoon figure sprinkling more filings from a jar",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bar magnet under a sheet of paper with filings arcing over it, a small black cartoon figure sprinkling more filings from a jar. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Life found it and learned to read it long before we knew it was there.",
+      "scene": "a blank sheet of paper on the surface, a small black cartoon figure rubbing a crayon across it until a hidden pattern appears",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blank sheet of paper on the surface, a small black cartoon figure rubbing a crayon across it until a hidden pattern appears. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "There is a sense you do not have, running right over your head all day.",
+      "scene": "the same brass compass set down on the surface, a small black cartoon figure pressing both hands flat against their own head",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same brass compass set down on the surface, a small black cartoon figure pressing both hands flat against their own head. the scene belongs to reading the Earth's magnetic field as a sense rather than with an instrument, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Cryptochrome proteins in a bird's retina appear to react to magnetic fields via electron spin, which would overlay direction onto vision. Sea turtles and salmon use magnetic maps too. The same field that shields the planet from the solar wind is also a global navigation system that life learned to read.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #birds #magnetoreception #migration #quantum #science",
+    "thumbnail_beat": "07"
+  }
+}

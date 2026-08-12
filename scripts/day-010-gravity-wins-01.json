@@ -1,0 +1,111 @@
+{
+  "topic": "Where gravity wins completely",
+  "lesson": "A black hole is not a cosmic vacuum cleaner; it is ordinary mass packed so small that getting away from it would take more than the speed of light.",
+  "slug": "day-010-gravity-wins-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Squeeze the Earth down to the size of a marble and it becomes a black hole.",
+      "scene": "close on a single glass marble held between finger and thumb above an open weathered palm, a small worn desk globe standing quietly out of focus behind",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a single glass marble held between finger and thumb above an open weathered palm, a small worn desk globe standing quietly out of focus behind. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Throw a ball hard enough and it leaves your hand. Harder still and it leaves the planet.",
+      "scene": "from a low angle on a grassy hillside, a scuffed ball thrown high and already arcing back toward an outstretched hand, the grass bent flat where someone stood",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle on a grassy hillside, a scuffed ball thrown high and already arcing back toward an outstretched hand, the grass bent flat where someone stood. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "That speed has a number. For Earth it is eleven kilometres every second.",
+      "scene": "seen from far above, a rocket high over a curved coastline dragging a thin trail behind it, the ocean glinting below, one cloud layer torn open where it passed",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from far above, a rocket high over a curved coastline dragging a thin trail behind it, the ocean glinting below, one cloud layer torn open where it passed. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "But squeeze the same mass into a smaller ball, and that number climbs.",
+      "scene": "close on a heavy iron workshop press crushing a rough grey sphere into a smaller denser one, fine shavings scattered on the plate, the handle worn smooth",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a heavy iron workshop press crushing a rough grey sphere into a smaller denser one, fine shavings scattered on the plate, the handle worn smooth. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "Squeeze it far enough and the number passes the speed of light.",
+      "scene": "close on an old brass dial, its needle forced hard past the final mark on the engraved scale, the cover glass cracked in one corner, a thumbprint on the rim",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on an old brass dial, its needle forced hard past the final mark on the engraved scale, the cover glass cracked in one corner, a thumbprint on the rim. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "And nothing goes faster than light. So nothing ever gets back out.",
+      "scene": "from a low angle at night, a lighthouse beam curving over and falling back toward a small dark sphere below it, the far water left entirely unlit",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle at night, a lighthouse beam curving over and falling back toward a small dark sphere below it, the far water left entirely unlit. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "That edge is called the event horizon, and it only works one way.",
+      "scene": "far out in space, a perfectly round black disc against dense stars, a thin bright ring of hot gas circling its rim, one long streak of matter arcing inward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. far out in space, a perfectly round black disc against dense stars, a thin bright ring of hot gas circling its rim, one long streak of matter arcing inward. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "text": "Fall in feet first, and your feet are pulled harder than your head.",
+      "scene": "seen from behind, a single suited figure falling feet first toward a small black disc far below, the boots already stretched ahead of the body, a snapped tether trailing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from behind, a single suited figure falling feet first toward a small black disc far below, the boots already stretched ahead of the body, a snapped tether trailing. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "text": "You would be drawn out into a thread. Astronomers really do call it spaghettification.",
+      "anchored": false,
+      "grounded": "contains no planet, black hole, spacecraft or other space object",
+      "scene": "close on a piece of soft toffee pulled apart between two hands, the middle drawn out into a long thin thread, sugar crumbs on the wax paper below",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a piece of soft toffee pulled apart between two hands, the middle drawn out into a long thin thread, sugar crumbs on the wax paper below. this is an ordinary everyday scene and contains no planet, black hole, spacecraft or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "role": "turn",
+      "text": "But a black hole does not suck. Swap the Sun for one of the same mass.",
+      "scene": "seen from far above the solar system, a small hard black disc where the Sun should be, the planets still holding their same wide circular paths around it, stars beyond",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from far above the solar system, a small hard black disc where the Sun should be, the planets still holding their same wide circular paths around it, stars beyond. the scene belongs to gravity at its most extreme and the people who study it: black holes and event horizons, escaping rockets and light beams, planets and orbits, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "11",
+      "role": "payoff",
+      "text": "Earth's orbit would not change at all. We would simply freeze in the dark.",
+      "anchored": false,
+      "grounded": "contains no planet, black hole, telescope or other space object",
+      "scene": "from inside a kitchen looking out at midday, frost creeping across the window glass, a dark garden beyond it, one cold half full cup left on the sill",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from inside a kitchen looking out at midday, frost creeping across the window glass, a dark garden beyond it, one cold half full cup left on the sill. this is an ordinary everyday scene and contains no planet, black hole, telescope or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "A black hole is not a cosmic vacuum cleaner. It is ordinary mass squeezed so small that escaping it would need more than the speed of light. Replace the Sun with one of equal mass and Earth's orbit would not move at all. We would just go dark and cold.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #instagramreels #viral #knowledge #motivation",
+    "thumbnail_beat": "01"
+  }
+}

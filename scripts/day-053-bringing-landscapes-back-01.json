@@ -1,0 +1,101 @@
+{
+  "topic": "Bringing extinct landscapes back",
+  "lesson": "Rewilding works when it restores a function rather than simply adding an animal back, and it goes badly often enough that saying so honestly matters.",
+  "slug": "day-053-bringing-landscapes-back-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Beavers came back to Britain after four hundred years, and downstream flooding dropped.",
+      "scene": "a stick dam built across a sloped tray of water, a small black cartoon figure pressing the last stick in while the flow slows behind it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stick dam built across a sloped tray of water, a small black cartoon figure pressing the last stick in while the flow slows behind it. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Nobody engineered that. Nobody built them anything. They did it themselves.",
+      "scene": "an open toolbox on the surface, a small black cartoon figure shutting the lid and sitting down on top of it with both arms folded",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open toolbox on the surface, a small black cartoon figure shutting the lid and sitting down on top of it with both arms folded. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Which is the whole idea. Put back the thing that was doing the work.",
+      "scene": "a small machine with one cog missing, a small black cartoon figure lowering a single cog into the empty gap with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small machine with one cog missing, a small black cartoon figure lowering a single cog into the empty gap with both arms. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Wolves back into Europe. Cheetahs back into India.",
+      "scene": "a wooden puzzle board with two empty slots, a small black cartoon figure pressing one piece firmly into place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden puzzle board with two empty slots, a small black cartoon figure pressing one piece firmly into place. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Coral grown on frames in a nursery and planted back onto the reef.",
+      "scene": "a metal frame lying on the surface, a small black cartoon figure tying small coral fragments onto it with lengths of thread",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal frame lying on the surface, a small black cartoon figure tying small coral fragments onto it with lengths of thread. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But it goes wrong as well, and pretending otherwise helps nobody.",
+      "scene": "a low fence across the surface with one section fallen flat, a small black cartoon figure leaning against the collapsed part",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a low fence across the surface with one section fallen flat, a small black cartoon figure leaning against the collapsed part. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "One Dutch reserve ended in mass starvation, and it is still argued about today.",
+      "scene": "an empty feed trough on the surface, a small black cartoon figure scraping along the bare bottom of it with a shovel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty feed trough on the surface, a small black cartoon figure scraping along the bare bottom of it with a shovel. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It works when you restore a function. Not when you just add an animal.",
+      "scene": "a hand pump on the surface, a small black cartoon figure fitting the handle back on and working it until water finally runs",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand pump on the surface, a small black cartoon figure fitting the handle back on and working it until water finally runs. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "The landscape was never really the point. The job it was doing was.",
+      "scene": "the same stick dam, a small black cartoon figure standing on top of it looking out over the calm water held behind",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same stick dam, a small black cartoon figure standing on top of it looking out over the calm water held behind. the scene belongs to putting a missing animal back and watching the job it used to do start again, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Beavers returned to Britain after 400 years and downstream flooding dropped measurably. Wolves are back in Europe, cheetahs in India, coral is being seeded onto the Great Barrier Reef. It works when you restore a function rather than just an animal, and Oostvaardersplassen is the reminder that it can go badly.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #rewilding #beavers #conservation #ecology #science",
+    "thumbnail_beat": "01"
+  }
+}

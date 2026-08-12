@@ -1,0 +1,101 @@
+{
+  "topic": "Most of the ocean glows",
+  "lesson": "In the deep sea, making your own light is the normal way to live rather than a rarity, and it evolved independently dozens of separate times because sunlight never gets down there at all.",
+  "slug": "day-030-most-of-the-ocean-glows-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "In the deep sea, glowing is not rare. It is the normal way to live.",
+      "scene": "a dark glass jar on a bare surface with a soft green glow inside, a small black cartoon figure lifting the lid a crack and peering in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a dark glass jar on a bare surface with a soft green glow inside, a small black cartoon figure lifting the lid a crack and peering in. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Sunlight gives up about two hundred metres down. Below that there is nothing.",
+      "scene": "a tall glass column of water on the surface, a small black cartoon figure climbing down a rope inside it well past the last of the light",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall glass column of water on the surface, a small black cartoon figure climbing down a rope inside it well past the last of the light. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So most animals down there stopped waiting for light and started making it.",
+      "scene": "a hand crank torch on the surface, a small black cartoon figure winding the handle furiously with both arms until the bulb catches",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand crank torch on the surface, a small black cartoon figure winding the handle furiously with both arms until the bulb catches. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Two chemicals, mixed together. That is the entire trick.",
+      "scene": "two small glass vials on the surface, a small black cartoon figure tipping one into the other while the mixture flares pale blue",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two small glass vials on the surface, a small black cartoon figure tipping one into the other while the mixture flares pale blue. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Some use it as bait. A lamp on a stick, in permanent darkness.",
+      "scene": "a fishing rod laid across the surface with one glowing bead on the line, a small black cartoon figure jigging the tip up and down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fishing rod laid across the surface with one glowing bead on the line, a small black cartoon figure jigging the tip up and down. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Some use it to disappear. They light their own belly to match the water above.",
+      "scene": "a flat pebble with a small torch taped underneath, a small black cartoon figure sliding it across a brightly lit sheet where its outline vanishes",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat pebble with a small torch taped underneath, a small black cartoon figure sliding it across a brightly lit sheet where its outline vanishes. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "And it did not evolve once. It evolved separately, dozens of times over.",
+      "scene": "a long row of small unlit bulbs on the surface, a small black cartoon figure running down the line flicking each one on with a fingertip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long row of small unlit bulbs on the surface, a small black cartoon figure running down the line flicking each one on with a fingertip. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "role": "turn",
+      "text": "Which tells you how useful light becomes when there is none at all.",
+      "scene": "a bare hanging bulb over the surface, a small black cartoon figure hauling the pull cord down with their whole body weight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bare hanging bulb over the surface, a small black cartoon figure hauling the pull cord down with their whole body weight. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "So most living things on this planet are ones you will never see. And they are glowing.",
+      "scene": "the same dark glass jar, a small black cartoon figure pressing the lid back on while green light still leaks between their fingers",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same dark glass jar, a small black cartoon figure pressing the lid back on while green light still leaks between their fingers. the scene belongs to living things making their own light where no sunlight arrives, shown as simple tabletop demonstrations with one ordinary household object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Bioluminescence is not a curiosity. In the deep sea it is the norm, with around 80% of species producing their own light. Two chemicals mixed together is the whole reaction, and it evolved independently dozens of separate times, which tells you how useful light is when there is none.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bioluminescence #deepsea #ocean #marinebiology #science",
+    "thumbnail_beat": "04"
+  }
+}

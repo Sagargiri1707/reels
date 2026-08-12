@@ -1,0 +1,101 @@
+{
+  "topic": "Wolves changed the shape of rivers",
+  "lesson": "Putting wolves back into Yellowstone set off a chain that ended with riverbanks stabilising and the river meandering differently, although researchers still argue over how much was the wolves.",
+  "slug": "day-050-wolves-changed-rivers-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Put fourteen wolves back into a valley and the rivers physically change course.",
+      "scene": "a shallow tray of sand with a water channel cut through it, a small black cartoon figure setting one small wolf figure down at the top end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shallow tray of sand with a water channel cut through it, a small black cartoon figure setting one small wolf figure down at the top end. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It starts with something very ordinary. Wolves eat elk.",
+      "scene": "a small toy elk on the surface, a small black cartoon figure dragging it away by a rope slung over one shoulder",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small toy elk on the surface, a small black cartoon figure dragging it away by a rope slung over one shoulder. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So elk stop grazing the riverbanks, because standing still there gets you killed.",
+      "scene": "a square of grass turf on the surface, a small black cartoon figure pressing a hazard cone down into the middle of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a square of grass turf on the surface, a small black cartoon figure pressing a hazard cone down into the middle of it. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Willows and aspens start growing back along the water again.",
+      "scene": "a row of thin saplings in a trough, a small black cartoon figure straightening one of them upright with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of thin saplings in a trough, a small black cartoon figure straightening one of them upright with both arms. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Beavers return, because suddenly there is something worth building with.",
+      "scene": "a pile of small sticks on the surface, a small black cartoon figure stacking them into a dam across a narrow channel of water",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pile of small sticks on the surface, a small black cartoon figure stacking them into a dam across a narrow channel of water. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "The dams slow the water down, and the banks stop washing away.",
+      "scene": "a sloped tray of sand with water running down it, a small black cartoon figure pressing a flat board in to hold the sand back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sloped tray of sand with water running down it, a small black cartoon figure pressing a flat board in to hold the sand back. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "And the river changes shape. Fewer straight runs, more bends.",
+      "scene": "a length of soft wire on the surface, a small black cartoon figure bending it from a straight line into deep curves with both hands",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of soft wire on the surface, a small black cartoon figure bending it from a straight line into deep curves with both hands. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "But researchers still argue about how much of this the wolves actually did.",
+      "scene": "a see saw plank balanced on a block, a small black cartoon figure standing at the centre while both ends tip in turn",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a see saw plank balanced on a block, a small black cartoon figure standing at the centre while both ends tip in turn. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "role": "payoff",
+      "text": "Drought was in there too. The honest version is still the remarkable one.",
+      "scene": "the same tray of sand, a small black cartoon figure crouched right down sighting along the new curved channel with one eye",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same tray of sand, a small black cartoon figure crouched right down sighting along the new curved channel with one eye. the scene belongs to one animal returning and the chain of consequences that follows it downstream, shown as simple tabletop demonstrations with one ordinary object on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Wolves returned to Yellowstone in 1995. Elk stopped overgrazing riverbanks, willows and aspens recovered, beavers returned and built, banks stabilised, and the river began to meander differently. Scientists still debate how much was wolves versus drought and other factors, and the honest version is stronger than the viral one.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #wolves #yellowstone #ecology #rewilding #science",
+    "thumbnail_beat": "07"
+  }
+}

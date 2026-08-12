@@ -1,0 +1,109 @@
+{
+  "topic": "Astronauts are falling, not floating",
+  "lesson": "Astronauts feel weightless not because gravity is missing but because they are moving sideways fast enough to keep missing the Earth as they fall.",
+  "slug": "day-008-falling-not-floating-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low"
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky",
+  "style_lock": "detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "The space station is sitting in almost full Earth gravity.",
+      "scene": "from directly below at night, a bright cross of solar panels sliding over a rooftop washing line, one peg left empty on the wire, faint stars above the chimneys",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from directly below at night, a bright cross of solar panels sliding over a rooftop washing line, one peg left empty on the wire, faint stars above the chimneys. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Yet everything inside it drifts as if gravity had been switched off.",
+      "scene": "close inside a cramped station module, a pencil, a spoon and a sealed water bulb hanging still in mid air beside a wall of switches, one strap dangling loose",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close inside a cramped station module, a pencil, a spoon and a sealed water bulb hanging still in mid air beside a wall of switches, one strap dangling loose. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "03",
+      "text": "Because those astronauts are not floating. They are falling.",
+      "scene": "from a low angle, one suited astronaut caught mid-fall against the bright curved edge of Earth, arms slightly out, a slack tether trailing behind the boots",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from a low angle, one suited astronaut caught mid-fall against the bright curved edge of Earth, arms slightly out, a slack tether trailing behind the boots. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "04",
+      "text": "So is the station. It has been falling since the day it launched.",
+      "scene": "seen from far above, the whole station small against a wide cloud-covered ocean, tilted gently nose down, one solar panel catching hard light",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. seen from far above, the whole station small against a wide cloud-covered ocean, tilted gently nose down, one solar panel catching hard light. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "05",
+      "text": "Newton worked out why with a cannon on a mountain.",
+      "scene": "from the side on a snowy mountaintop, an old iron cannon firing, the ball already dropping in a short arc toward the valley, powder smoke tearing off the ridge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from the side on a snowy mountaintop, an old iron cannon firing, the ball already dropping in a short arc toward the valley, powder smoke tearing off the ridge. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "06",
+      "text": "Fire it harder and the ball simply lands further out.",
+      "scene": "close on a weathered hand chalking a second, longer arc onto a slate beside a small brass cannon model, the first shorter arc already smudged away, chalk dust along the sill",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a weathered hand chalking a second, longer arc onto a slate beside a small brass cannon model, the first shorter arc already smudged away, chalk dust along the sill. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on cool pale grey paper, flat background colour #E5E7E6. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "07",
+      "text": "But fire it hard enough and the ground curves away as fast as the ball drops.",
+      "scene": "from very high above a curved horizon, a single long arc leaving a tiny mountain and bending outward, the land falling away beneath it at the same rate, thin cloud between",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from very high above a curved horizon, a single long arc leaving a tiny mountain and bending outward, the land falling away beneath it at the same rate, thin cloud between. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on warm off-white paper, flat background colour #F2EDE4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "08",
+      "role": "turn",
+      "text": "So it never lands. It just keeps missing the planet.",
+      "scene": "from far out in space looking back, one thin traced path closing all the way around the whole round Earth and returning to the mountain it left, a small gap in the line",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. from far out in space looking back, one thin traced path closing all the way around the whole round Earth and returning to the mountain it left, a small gap in the line. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale slate blue paper, flat background colour #DFE4E9. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "09",
+      "text": "That is orbit. Twenty eight thousand kilometres an hour, one lap every ninety minutes.",
+      "scene": "close on a cabin window ledge inside the station, the surface below streaking past in long blurred bands, a scratched wristwatch strapped to the handrail",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close on a cabin window ledge inside the station, the surface below streaking past in long blurred bands, a scratched wristwatch strapped to the handrail. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on soft sand paper, flat background colour #EFE3D8. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "10",
+      "text": "You feel nothing, because you and the walls and your coffee all fall together.",
+      "anchored": false,
+      "grounded": "contains no spacecraft, astronaut, planet or other space object",
+      "scene": "inside a plain office lift with the floor dropping away, a person and their dropped keys hanging at the same height in mid air, the ceiling panel light flickering",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. inside a plain office lift with the floor dropping away, a person and their dropped keys hanging at the same height in mid air, the ceiling panel light flickering. this is an ordinary everyday scene and contains no spacecraft, astronaut, planet or other space object; it is the ordinary case the rest of the reel is measured against. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on pale sage paper, flat background colour #E4E9DF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    },
+    {
+      "id": "11",
+      "role": "payoff",
+      "text": "So nothing up there is floating. It is a room falling forever, with people inside.",
+      "scene": "close from behind a crew member at the station window, both hands braced on the frame, the planet's curved edge sliding past below, a loose pen drifting by their elbow",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. close from behind a crew member at the station window, both hands braced on the frame, the planet's curved edge sliding past below, a loose pen drifting by their elbow. the scene belongs to orbital spaceflight and the people who study it: the space station, astronauts and spacesuits, curved Earth seen from above, cannons and trajectories, telescopes and the night sky, and must visibly read as part of it. detailed hand-drawn ink and pencil illustration, fine varied line weight, careful cross-hatching and stippling for shading, realistic proportions and believable material texture, sparing muted colour washes over mostly monochrome ink, visible paper grain, generous negative space, one clear focal subject. drawn on faint rose grey paper, flat background colour #EDE1E4. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, label, watermark, gibberish or invented text, gradients, drop shadows, neon or saturated colour, crowded composition, flat vector icon look, childish doodles, cute mascots, several people, corporate template look."
+    }
+  ],
+  "post": {
+    "caption": "The space station sits in about ninety percent of Earth's gravity. Astronauts are not floating in it, they are falling, and moving sideways fast enough to keep missing the planet. Weightlessness is just continuous free fall.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #instagramreels #viral #knowledge #motivation",
+    "thumbnail_beat": "01"
+  }
+}

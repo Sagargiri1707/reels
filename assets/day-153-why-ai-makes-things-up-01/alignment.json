@@ -1,0 +1,758 @@
+{
+  "audio_duration": 48.666063,
+  "segments": [
+    {
+      "text": "It",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "is",
+      "start": 0.08,
+      "end": 0.24
+    },
+    {
+      "text": "not",
+      "start": 0.24,
+      "end": 0.56
+    },
+    {
+      "text": "lying",
+      "start": 0.56,
+      "end": 0.96
+    },
+    {
+      "text": "to",
+      "start": 0.96,
+      "end": 1.04
+    },
+    {
+      "text": "you",
+      "start": 1.04,
+      "end": 1.52
+    },
+    {
+      "text": "It",
+      "start": 1.76,
+      "end": 1.84
+    },
+    {
+      "text": "has",
+      "start": 1.84,
+      "end": 2.08
+    },
+    {
+      "text": "no",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "text": "concept",
+      "start": 2.32,
+      "end": 2.88
+    },
+    {
+      "text": "of",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "true",
+      "start": 3.04,
+      "end": 3.52
+    },
+    {
+      "text": "Only",
+      "start": 3.92,
+      "end": 4.24
+    },
+    {
+      "text": "of",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "text": "plausible",
+      "start": 4.32,
+      "end": 4.96
+    },
+    {
+      "text": "You",
+      "start": 5.2,
+      "end": 5.44
+    },
+    {
+      "text": "assume",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "it",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "is",
+      "start": 5.84,
+      "end": 5.92
+    },
+    {
+      "text": "looking",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "text": "things",
+      "start": 6.32,
+      "end": 6.56
+    },
+    {
+      "text": "up",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "Almost",
+      "start": 7.28,
+      "end": 7.68
+    },
+    {
+      "text": "none",
+      "start": 7.68,
+      "end": 7.92
+    },
+    {
+      "text": "of",
+      "start": 7.92,
+      "end": 8.0
+    },
+    {
+      "text": "it",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "works",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "that",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "way",
+      "start": 8.56,
+      "end": 8.88
+    },
+    {
+      "text": "It",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "text": "is",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "predicting",
+      "start": 9.52,
+      "end": 10.08
+    },
+    {
+      "text": "what",
+      "start": 10.08,
+      "end": 10.24
+    },
+    {
+      "text": "text",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "text": "usually",
+      "start": 10.56,
+      "end": 10.96
+    },
+    {
+      "text": "follows",
+      "start": 10.96,
+      "end": 11.44
+    },
+    {
+      "text": "the",
+      "start": 11.44,
+      "end": 11.52
+    },
+    {
+      "text": "text",
+      "start": 11.52,
+      "end": 11.92
+    },
+    {
+      "text": "you",
+      "start": 11.92,
+      "end": 12.0
+    },
+    {
+      "text": "gave",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "text": "it",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "And",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "an",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "invented",
+      "start": 13.04,
+      "end": 13.6
+    },
+    {
+      "text": "answer",
+      "start": 13.6,
+      "end": 13.92
+    },
+    {
+      "text": "that",
+      "start": 13.92,
+      "end": 14.08
+    },
+    {
+      "text": "reads",
+      "start": 14.08,
+      "end": 14.32
+    },
+    {
+      "text": "exactly",
+      "start": 14.32,
+      "end": 14.88
+    },
+    {
+      "text": "right",
+      "start": 14.88,
+      "end": 15.2
+    },
+    {
+      "text": "is",
+      "start": 15.28,
+      "end": 15.44
+    },
+    {
+      "text": "a",
+      "start": 15.44,
+      "end": 15.44
+    },
+    {
+      "text": "very",
+      "start": 15.44,
+      "end": 15.84
+    },
+    {
+      "text": "good",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "text": "prediction",
+      "start": 16.08,
+      "end": 16.64
+    },
+    {
+      "text": "Which",
+      "start": 16.97124716553288,
+      "end": 17.13124716553288
+    },
+    {
+      "text": "is",
+      "start": 17.13124716553288,
+      "end": 17.29124716553288
+    },
+    {
+      "text": "why",
+      "start": 17.29124716553288,
+      "end": 17.45124716553288
+    },
+    {
+      "text": "fabricated",
+      "start": 17.45124716553288,
+      "end": 18.17124716553288
+    },
+    {
+      "text": "citations",
+      "start": 18.17124716553288,
+      "end": 18.81124716553288
+    },
+    {
+      "text": "are",
+      "start": 18.81124716553288,
+      "end": 18.89124716553288
+    },
+    {
+      "text": "so",
+      "start": 18.89124716553288,
+      "end": 19.21124716553288
+    },
+    {
+      "text": "convincing",
+      "start": 19.21124716553288,
+      "end": 19.85124716553288
+    },
+    {
+      "text": "A",
+      "start": 20.33124716553288,
+      "end": 20.41124716553288
+    },
+    {
+      "text": "real",
+      "start": 20.41124716553288,
+      "end": 20.731247165532878
+    },
+    {
+      "text": "one",
+      "start": 20.731247165532878,
+      "end": 21.051247165532878
+    },
+    {
+      "text": "has",
+      "start": 21.211247165532882,
+      "end": 21.37124716553288
+    },
+    {
+      "text": "an",
+      "start": 21.37124716553288,
+      "end": 21.45124716553288
+    },
+    {
+      "text": "author",
+      "start": 21.53124716553288,
+      "end": 22.01124716553288
+    },
+    {
+      "text": "a",
+      "start": 22.33124716553288,
+      "end": 22.411247165532878
+    },
+    {
+      "text": "year",
+      "start": 22.411247165532878,
+      "end": 22.89124716553288
+    },
+    {
+      "text": "a",
+      "start": 23.211247165532882,
+      "end": 23.211247165532882
+    },
+    {
+      "text": "journal",
+      "start": 23.211247165532882,
+      "end": 23.77124716553288
+    },
+    {
+      "text": "and",
+      "start": 23.85124716553288,
+      "end": 23.93124716553288
+    },
+    {
+      "text": "a",
+      "start": 23.93124716553288,
+      "end": 24.01124716553288
+    },
+    {
+      "text": "plausible",
+      "start": 24.01124716553288,
+      "end": 24.49124716553288
+    },
+    {
+      "text": "title",
+      "start": 24.49124716553288,
+      "end": 24.97124716553288
+    },
+    {
+      "text": "So",
+      "start": 25.211247165532882,
+      "end": 25.531247165532882
+    },
+    {
+      "text": "does",
+      "start": 25.531247165532882,
+      "end": 25.69124716553288
+    },
+    {
+      "text": "a",
+      "start": 25.69124716553288,
+      "end": 25.69124716553288
+    },
+    {
+      "text": "fake",
+      "start": 25.69124716553288,
+      "end": 26.01124716553288
+    },
+    {
+      "text": "one",
+      "start": 26.01124716553288,
+      "end": 26.33124716553288
+    },
+    {
+      "text": "There",
+      "start": 26.65124716553288,
+      "end": 26.81124716553288
+    },
+    {
+      "text": "is",
+      "start": 26.81124716553288,
+      "end": 26.97124716553288
+    },
+    {
+      "text": "nothing",
+      "start": 26.97124716553288,
+      "end": 27.37124716553288
+    },
+    {
+      "text": "anywhere",
+      "start": 27.37124716553288,
+      "end": 27.77124716553288
+    },
+    {
+      "text": "in",
+      "start": 27.77124716553288,
+      "end": 27.85124716553288
+    },
+    {
+      "text": "the",
+      "start": 27.85124716553288,
+      "end": 27.93124716553288
+    },
+    {
+      "text": "process",
+      "start": 27.93124716553288,
+      "end": 28.49124716553288
+    },
+    {
+      "text": "that",
+      "start": 28.49124716553288,
+      "end": 28.65124716553288
+    },
+    {
+      "text": "checks",
+      "start": 28.65124716553288,
+      "end": 28.97124716553288
+    },
+    {
+      "text": "whether",
+      "start": 28.97124716553288,
+      "end": 29.211247165532882
+    },
+    {
+      "text": "the",
+      "start": 29.211247165532882,
+      "end": 29.37124716553288
+    },
+    {
+      "text": "paper",
+      "start": 29.37124716553288,
+      "end": 29.69124716553288
+    },
+    {
+      "text": "exists",
+      "start": 29.69124716553288,
+      "end": 30.33124716553288
+    },
+    {
+      "text": "Giving",
+      "start": 30.64233560090703,
+      "end": 30.96233560090703
+    },
+    {
+      "text": "it",
+      "start": 30.96233560090703,
+      "end": 31.04233560090703
+    },
+    {
+      "text": "a",
+      "start": 31.04233560090703,
+      "end": 31.04233560090703
+    },
+    {
+      "text": "search",
+      "start": 31.04233560090703,
+      "end": 31.44233560090703
+    },
+    {
+      "text": "tool",
+      "start": 31.44233560090703,
+      "end": 31.68233560090703
+    },
+    {
+      "text": "helps",
+      "start": 31.68233560090703,
+      "end": 32.16233560090703
+    },
+    {
+      "text": "because",
+      "start": 32.40233560090703,
+      "end": 32.64233560090703
+    },
+    {
+      "text": "then",
+      "start": 32.64233560090703,
+      "end": 32.88233560090703
+    },
+    {
+      "text": "there",
+      "start": 32.88233560090703,
+      "end": 33.04233560090703
+    },
+    {
+      "text": "is",
+      "start": 33.04233560090703,
+      "end": 33.12233560090703
+    },
+    {
+      "text": "something",
+      "start": 33.12233560090703,
+      "end": 33.52233560090703
+    },
+    {
+      "text": "real",
+      "start": 33.52233560090703,
+      "end": 33.84233560090703
+    },
+    {
+      "text": "to",
+      "start": 33.84233560090703,
+      "end": 33.92233560090703
+    },
+    {
+      "text": "copy",
+      "start": 33.92233560090703,
+      "end": 34.242335600907026
+    },
+    {
+      "text": "from",
+      "start": 34.242335600907026,
+      "end": 34.64233560090703
+    },
+    {
+      "text": "But",
+      "start": 35.04233560090703,
+      "end": 35.20233560090703
+    },
+    {
+      "text": "the",
+      "start": 35.20233560090703,
+      "end": 35.28233560090703
+    },
+    {
+      "text": "useful",
+      "start": 35.28233560090703,
+      "end": 35.68233560090703
+    },
+    {
+      "text": "habit",
+      "start": 35.68233560090703,
+      "end": 36.00233560090703
+    },
+    {
+      "text": "is",
+      "start": 36.00233560090703,
+      "end": 36.16233560090703
+    },
+    {
+      "text": "simpler",
+      "start": 36.16233560090703,
+      "end": 36.72233560090703
+    },
+    {
+      "text": "Be",
+      "start": 37.04233560090703,
+      "end": 37.20233560090703
+    },
+    {
+      "text": "most",
+      "start": 37.20233560090703,
+      "end": 37.60233560090703
+    },
+    {
+      "text": "suspicious",
+      "start": 37.60233560090703,
+      "end": 38.16233560090703
+    },
+    {
+      "text": "when",
+      "start": 38.16233560090703,
+      "end": 38.32233560090703
+    },
+    {
+      "text": "it",
+      "start": 38.32233560090703,
+      "end": 38.40233560090703
+    },
+    {
+      "text": "sounds",
+      "start": 38.40233560090703,
+      "end": 38.80233560090703
+    },
+    {
+      "text": "most",
+      "start": 38.80233560090703,
+      "end": 39.12233560090703
+    },
+    {
+      "text": "authoritative",
+      "start": 39.12233560090703,
+      "end": 39.84233560090703
+    },
+    {
+      "text": "Treat",
+      "start": 40.16233560090703,
+      "end": 40.40233560090703
+    },
+    {
+      "text": "it",
+      "start": 40.40233560090703,
+      "end": 40.56233560090703
+    },
+    {
+      "text": "as",
+      "start": 40.56233560090703,
+      "end": 40.72233560090703
+    },
+    {
+      "text": "a",
+      "start": 40.72233560090703,
+      "end": 40.80233560090703
+    },
+    {
+      "text": "confident",
+      "start": 40.80233560090703,
+      "end": 41.36233560090703
+    },
+    {
+      "text": "first",
+      "start": 41.36233560090703,
+      "end": 41.602335600907026
+    },
+    {
+      "text": "draft",
+      "start": 41.602335600907026,
+      "end": 42.16233560090703
+    },
+    {
+      "text": "Confidence",
+      "start": 42.40233560090703,
+      "end": 42.96233560090703
+    },
+    {
+      "text": "is",
+      "start": 42.96233560090703,
+      "end": 43.12233560090703
+    },
+    {
+      "text": "the",
+      "start": 43.12233560090703,
+      "end": 43.202335600907034
+    },
+    {
+      "text": "one",
+      "start": 43.202335600907034,
+      "end": 43.52233560090703
+    },
+    {
+      "text": "thing",
+      "start": 43.52233560090703,
+      "end": 43.76233560090703
+    },
+    {
+      "text": "it",
+      "start": 43.76233560090703,
+      "end": 43.84233560090703
+    },
+    {
+      "text": "always",
+      "start": 43.84233560090703,
+      "end": 44.16233560090703
+    },
+    {
+      "text": "has",
+      "start": 44.16233560090703,
+      "end": 44.64233560090703
+    },
+    {
+      "text": "One",
+      "start": 44.88233560090703,
+      "end": 45.12233560090703
+    },
+    {
+      "text": "of",
+      "start": 45.12233560090703,
+      "end": 45.202335600907034
+    },
+    {
+      "text": "these",
+      "start": 45.202335600907034,
+      "end": 45.44233560090703
+    },
+    {
+      "text": "every",
+      "start": 45.44233560090703,
+      "end": 45.76233560090703
+    },
+    {
+      "text": "day",
+      "start": 45.76233560090703,
+      "end": 46.08233560090703
+    },
+    {
+      "text": "Follow",
+      "start": 46.55793650793651,
+      "end": 46.87793650793651
+    },
+    {
+      "text": "so",
+      "start": 46.87793650793651,
+      "end": 47.03793650793651
+    },
+    {
+      "text": "you",
+      "start": 47.03793650793651,
+      "end": 47.19793650793651
+    },
+    {
+      "text": "do",
+      "start": 47.19793650793651,
+      "end": 47.35793650793651
+    },
+    {
+      "text": "not",
+      "start": 47.35793650793651,
+      "end": 47.59793650793651
+    },
+    {
+      "text": "miss",
+      "start": 47.59793650793651,
+      "end": 47.91793650793651
+    },
+    {
+      "text": "tomorrow",
+      "start": 47.91793650793651,
+      "end": 48.47793650793651
+    }
+  ],
+  "text": "It is not lying to you. It has no concept of true. Only of plausible. You assume it is looking things up. Almost none of it works that way. It is predicting what text usually follows the text you gave it. And an invented answer that reads exactly right is a very good prediction. Which is why fabricated citations are so convincing. A real one has an author, a year, a journal and a plausible title. So does a fake one. There is nothing anywhere in the process that checks whether the paper exists. Giving it a search tool helps, because then there is something real to copy from. But the useful habit is simpler. Be most suspicious when it sounds most authoritative. Treat it as a confident first draft. Confidence is the one thing it always has. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

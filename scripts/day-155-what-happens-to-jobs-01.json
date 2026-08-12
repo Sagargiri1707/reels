@@ -1,0 +1,109 @@
+{
+  "topic": "What actually happens to jobs",
+  "lesson": "Automation takes tasks long before it takes whole jobs, so aggregate employment can look fine while the disruption is total for the people it lands on.",
+  "slug": "day-155-what-happens-to-jobs-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Cash machines were supposed to end bank tellers. The number of tellers went up for decades afterwards.",
+      "scene": "a cash machine slot, a small black cartoon figure reaching an arm into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cash machine slot, a small black cartoon figure reaching an arm into it. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "That is not a happy ending. It is a warning against the obvious prediction.",
+      "scene": "a chalk prediction line being rubbed out, a small black cartoon figure erasing it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk prediction line being rubbed out, a small black cartoon figure erasing it. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The machine made a branch cheaper to run, so the banks opened many more branches.",
+      "scene": "a row of small model buildings, a small black cartoon figure setting another one down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of small model buildings, a small black cartoon figure setting another one down. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "And the teller's job shifted from counting cash to selling and advising.",
+      "scene": "a cash box set aside for a folder, a small black cartoon figure carrying the folder",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cash box set aside for a folder, a small black cartoon figure carrying the folder. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "The pattern is that tasks get automated long before whole jobs do.",
+      "scene": "a toolbox with one tool lifted out, a small black cartoon figure carrying that tool away",
+      "image_text": "TASKS FIRST",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a toolbox with one tool lifted out, a small black cartoon figure carrying that tool away. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TASKS FIRST\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Spreadsheets did the same. Bookkeeping clerks fell. Accountants and analysts rose.",
+      "scene": "a closed ledger beside an opened chart, a small black cartoon figure opening the chart",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a closed ledger beside an opened chart, a small black cartoon figure opening the chart. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "But be honest about what is different. The speed of adoption is unlike anything before it.",
+      "scene": "a stopwatch running hard, a small black cartoon figure swinging off its hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stopwatch running hard, a small black cartoon figure swinging off its hand. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And it lands on cognitive work, which is the part nobody had planned for.",
+      "scene": "a desk chair beside a workbench, a small black cartoon figure dragging the chair across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a desk chair beside a workbench, a small black cartoon figure dragging the chair across. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Aggregate numbers can look fine while the disruption is total for the people it lands on.",
+      "scene": "a level chalk line drawn over a very uneven pile, a small black cartoon figure standing in a dip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a level chalk line drawn over a very uneven pile, a small black cartoon figure standing in a dip. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Both the doom and the hype dodge the actual question, which is who absorbs the cost.",
+      "scene": "a bill on a plate, a small black cartoon figure shoving it across the surface",
+      "image_text": "WHO PAYS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bill on a plate, a small black cartoon figure shoving it across the surface. the scene belongs to one tool being lifted out of a job while the rest of it stays, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WHO PAYS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "ATMs were supposed to end bank tellers, and teller numbers rose for decades because cheaper branches meant more branches and the job shifted to selling and advising. Spreadsheets did the same to bookkeeping. The pattern is that tasks get automated before whole jobs do. The honest differences this time are the speed of adoption and the fact that cognitive work is affected, not just manual. Aggregate numbers can look fine while the disruption is total for whoever it lands on.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ai #jobs #automation #economics #science",
+    "thumbnail_beat": "05"
+  }
+}

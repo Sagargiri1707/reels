@@ -1,0 +1,109 @@
+{
+  "topic": "AI doesn't think. It predicts.",
+  "lesson": "A neural network is not given rules, it is nudged towards being less wrong a few million times until it holds rules nobody wrote and nobody can read.",
+  "slug": "day-151-ai-doesnt-think-it-predicts-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Nobody wrote the rules for recognising a cat. The system worked them out from examples.",
+      "scene": "a photograph on the surface, a small black cartoon figure holding a card up against it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a photograph on the surface, a small black cartoon figure holding a card up against it. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Ordinary software is rules a person wrote down. If this, then that.",
+      "scene": "a thick rule book, a small black cartoon figure hauling it open",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick rule book, a small black cartoon figure hauling it open. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Nobody can write down the rule for a cat. Every rule you try has an exception.",
+      "scene": "a page of crossed out lines, a small black cartoon figure crossing out one more",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a page of crossed out lines, a small black cartoon figure crossing out one more. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So instead you build a board of connections and set every one of them to a random strength.",
+      "scene": "a peg board strung with random threads, a small black cartoon figure tying another on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a peg board strung with random threads, a small black cartoon figure tying another on. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Show it a picture, let it guess, and measure exactly how wrong the guess was.",
+      "scene": "a dart stuck in the outer ring of a target, a small black cartoon figure throwing another",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a dart stuck in the outer ring of a target, a small black cartoon figure throwing another. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Then nudge every connection slightly in whichever direction would have made it less wrong.",
+      "scene": "a thread being moved one peg across, a small black cartoon figure shifting it",
+      "image_text": "LESS WRONG",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thread being moved one peg across, a small black cartoon figure shifting it. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"LESS WRONG\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Do that a few million times and it holds rules nobody wrote and nobody can read.",
+      "scene": "a dense unreadable thread board, a small black cartoon figure standing in the middle of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a dense unreadable thread board, a small black cartoon figure standing in the middle of it. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "A language model is the same machine, guessing the next word instead of the animal.",
+      "scene": "a row of word cards with the last one blank, a small black cartoon figure holding a card",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of word cards with the last one blank, a small black cartoon figure holding a card. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It is not retrieving a fact. It is predicting what usually comes next.",
+      "scene": "a filing drawer being pushed firmly shut, a small black cartoon figure shoving it closed",
+      "image_text": "NOT LOOKING UP",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a filing drawer being pushed firmly shut, a small black cartoon figure shoving it closed. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NOT LOOKING UP\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Prediction at enough scale looks a great deal like understanding, and that argument is not settled.",
+      "scene": "a plain mask lying face up, a small black cartoon figure lifting one edge of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plain mask lying face up, a small black cartoon figure lifting one edge of it. the scene belongs to a pattern being found by repeated correction rather than written down in advance, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Nobody wrote the rules for recognising a cat, because every rule you try has exceptions. Instead you build a network of weighted connections, set them randomly, let it guess, measure how wrong it was, and nudge every weight in the direction that would have been less wrong. A few million repetitions later it holds rules nobody wrote and nobody can read. Language models are the same machine predicting the next word. Whether prediction at that scale counts as understanding is genuinely unresolved.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ai #machinelearning #neuralnetworks #technology #science",
+    "thumbnail_beat": "07"
+  }
+}

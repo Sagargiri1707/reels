@@ -1,0 +1,773 @@
+{
+  "audio_duration": 46.733,
+  "segments": [
+    {
+      "text": "Train",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "a",
+      "start": 0.32,
+      "end": 0.32
+    },
+    {
+      "text": "hiring",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "text": "model",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "on",
+      "start": 1.04,
+      "end": 1.2
+    },
+    {
+      "text": "a",
+      "start": 1.2,
+      "end": 1.2
+    },
+    {
+      "text": "company's",
+      "start": 1.2,
+      "end": 1.68
+    },
+    {
+      "text": "past",
+      "start": 1.68,
+      "end": 2.08
+    },
+    {
+      "text": "hires",
+      "start": 2.08,
+      "end": 2.56
+    },
+    {
+      "text": "and",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "it",
+      "start": 2.88,
+      "end": 2.96
+    },
+    {
+      "text": "faithfully",
+      "start": 2.96,
+      "end": 3.52
+    },
+    {
+      "text": "reproduces",
+      "start": 3.52,
+      "end": 4.16
+    },
+    {
+      "text": "that",
+      "start": 4.16,
+      "end": 4.32
+    },
+    {
+      "text": "company's",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "text": "past",
+      "start": 4.72,
+      "end": 5.12
+    },
+    {
+      "text": "bias",
+      "start": 5.12,
+      "end": 5.68
+    },
+    {
+      "text": "People",
+      "start": 6.0,
+      "end": 6.24
+    },
+    {
+      "text": "imagine",
+      "start": 6.24,
+      "end": 6.72
+    },
+    {
+      "text": "the",
+      "start": 6.72,
+      "end": 6.72
+    },
+    {
+      "text": "model",
+      "start": 6.72,
+      "end": 7.04
+    },
+    {
+      "text": "holding",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "an",
+      "start": 7.36,
+      "end": 7.44
+    },
+    {
+      "text": "opinion",
+      "start": 7.44,
+      "end": 7.92
+    },
+    {
+      "text": "It",
+      "start": 8.16,
+      "end": 8.32
+    },
+    {
+      "text": "does",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "not",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "hold",
+      "start": 8.8,
+      "end": 9.04
+    },
+    {
+      "text": "any",
+      "start": 9.04,
+      "end": 9.36
+    },
+    {
+      "text": "Everything",
+      "start": 9.68,
+      "end": 10.08
+    },
+    {
+      "text": "it",
+      "start": 10.08,
+      "end": 10.16
+    },
+    {
+      "text": "does",
+      "start": 10.16,
+      "end": 10.48
+    },
+    {
+      "text": "came",
+      "start": 10.48,
+      "end": 10.72
+    },
+    {
+      "text": "out",
+      "start": 10.72,
+      "end": 10.88
+    },
+    {
+      "text": "of",
+      "start": 10.88,
+      "end": 10.96
+    },
+    {
+      "text": "the",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "examples",
+      "start": 11.04,
+      "end": 11.52
+    },
+    {
+      "text": "it",
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "text": "was",
+      "start": 11.6,
+      "end": 11.76
+    },
+    {
+      "text": "shown",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "text": "and",
+      "start": 12.4,
+      "end": 12.56
+    },
+    {
+      "text": "nothing",
+      "start": 12.56,
+      "end": 12.88
+    },
+    {
+      "text": "else",
+      "start": 12.88,
+      "end": 13.28
+    },
+    {
+      "text": "If",
+      "start": 13.581133786848072,
+      "end": 13.741133786848073
+    },
+    {
+      "text": "those",
+      "start": 13.741133786848073,
+      "end": 13.981133786848073
+    },
+    {
+      "text": "examples",
+      "start": 13.981133786848073,
+      "end": 14.461133786848073
+    },
+    {
+      "text": "were",
+      "start": 14.461133786848073,
+      "end": 14.621133786848072
+    },
+    {
+      "text": "skewed",
+      "start": 14.621133786848072,
+      "end": 15.181133786848072
+    },
+    {
+      "text": "then",
+      "start": 15.341133786848072,
+      "end": 15.501133786848072
+    },
+    {
+      "text": "the",
+      "start": 15.501133786848072,
+      "end": 15.581133786848072
+    },
+    {
+      "text": "pattern",
+      "start": 15.581133786848072,
+      "end": 15.981133786848073
+    },
+    {
+      "text": "it",
+      "start": 15.981133786848073,
+      "end": 16.06113378684807
+    },
+    {
+      "text": "found",
+      "start": 16.06113378684807,
+      "end": 16.461133786848073
+    },
+    {
+      "text": "is",
+      "start": 16.461133786848073,
+      "end": 16.621133786848073
+    },
+    {
+      "text": "the",
+      "start": 16.621133786848073,
+      "end": 16.70113378684807
+    },
+    {
+      "text": "skew",
+      "start": 16.70113378684807,
+      "end": 17.181133786848072
+    },
+    {
+      "text": "And",
+      "start": 17.421133786848074,
+      "end": 17.58113378684807
+    },
+    {
+      "text": "that",
+      "start": 17.58113378684807,
+      "end": 17.741133786848074
+    },
+    {
+      "text": "is",
+      "start": 17.741133786848074,
+      "end": 17.821133786848073
+    },
+    {
+      "text": "worse",
+      "start": 17.821133786848073,
+      "end": 18.141133786848073
+    },
+    {
+      "text": "than",
+      "start": 18.141133786848073,
+      "end": 18.301133786848073
+    },
+    {
+      "text": "prejudice",
+      "start": 18.301133786848073,
+      "end": 18.86113378684807
+    },
+    {
+      "text": "because",
+      "start": 19.101133786848074,
+      "end": 19.341133786848072
+    },
+    {
+      "text": "it",
+      "start": 19.341133786848072,
+      "end": 19.421133786848074
+    },
+    {
+      "text": "comes",
+      "start": 19.421133786848074,
+      "end": 19.741133786848074
+    },
+    {
+      "text": "back",
+      "start": 19.741133786848074,
+      "end": 19.981133786848073
+    },
+    {
+      "text": "looking",
+      "start": 19.981133786848073,
+      "end": 20.301133786848073
+    },
+    {
+      "text": "objective",
+      "start": 20.301133786848073,
+      "end": 20.86113378684807
+    },
+    {
+      "text": "A",
+      "start": 21.341133786848072,
+      "end": 21.421133786848074
+    },
+    {
+      "text": "person",
+      "start": 21.421133786848074,
+      "end": 21.741133786848074
+    },
+    {
+      "text": "can",
+      "start": 21.741133786848074,
+      "end": 21.90113378684807
+    },
+    {
+      "text": "be",
+      "start": 21.90113378684807,
+      "end": 22.061133786848075
+    },
+    {
+      "text": "argued",
+      "start": 22.061133786848075,
+      "end": 22.381133786848075
+    },
+    {
+      "text": "with",
+      "start": 22.381133786848075,
+      "end": 22.62113378684807
+    },
+    {
+      "text": "A",
+      "start": 23.021133786848072,
+      "end": 23.101133786848074
+    },
+    {
+      "text": "number",
+      "start": 23.101133786848074,
+      "end": 23.421133786848074
+    },
+    {
+      "text": "on",
+      "start": 23.421133786848074,
+      "end": 23.501133786848072
+    },
+    {
+      "text": "a",
+      "start": 23.58113378684807,
+      "end": 23.58113378684807
+    },
+    {
+      "text": "screen",
+      "start": 23.58113378684807,
+      "end": 23.981133786848073
+    },
+    {
+      "text": "gets",
+      "start": 23.981133786848073,
+      "end": 24.22113378684807
+    },
+    {
+      "text": "treated",
+      "start": 24.22113378684807,
+      "end": 24.54113378684807
+    },
+    {
+      "text": "as",
+      "start": 24.54113378684807,
+      "end": 24.70113378684807
+    },
+    {
+      "text": "a",
+      "start": 24.70113378684807,
+      "end": 24.70113378684807
+    },
+    {
+      "text": "measurement",
+      "start": 24.70113378684807,
+      "end": 25.26113378684807
+    },
+    {
+      "text": "The",
+      "start": 25.501133786848072,
+      "end": 25.58113378684807
+    },
+    {
+      "text": "same",
+      "start": 25.58113378684807,
+      "end": 25.90113378684807
+    },
+    {
+      "text": "thing",
+      "start": 25.90113378684807,
+      "end": 26.061133786848075
+    },
+    {
+      "text": "happens",
+      "start": 26.061133786848075,
+      "end": 26.461133786848073
+    },
+    {
+      "text": "with",
+      "start": 26.461133786848073,
+      "end": 26.54113378684807
+    },
+    {
+      "text": "gaps",
+      "start": 26.54113378684807,
+      "end": 27.101133786848074
+    },
+    {
+      "text": "Image",
+      "start": 27.46374149659864,
+      "end": 27.70374149659864
+    },
+    {
+      "text": "systems",
+      "start": 27.70374149659864,
+      "end": 28.10374149659864
+    },
+    {
+      "text": "worked",
+      "start": 28.10374149659864,
+      "end": 28.42374149659864
+    },
+    {
+      "text": "badly",
+      "start": 28.42374149659864,
+      "end": 28.82374149659864
+    },
+    {
+      "text": "on",
+      "start": 28.82374149659864,
+      "end": 28.98374149659864
+    },
+    {
+      "text": "darker",
+      "start": 28.98374149659864,
+      "end": 29.30374149659864
+    },
+    {
+      "text": "skin",
+      "start": 29.30374149659864,
+      "end": 29.78374149659864
+    },
+    {
+      "text": "for",
+      "start": 29.94374149659864,
+      "end": 30.02374149659864
+    },
+    {
+      "text": "years",
+      "start": 30.02374149659864,
+      "end": 30.58374149659864
+    },
+    {
+      "text": "Nothing",
+      "start": 30.74374149659864,
+      "end": 31.063741496598638
+    },
+    {
+      "text": "in",
+      "start": 31.063741496598638,
+      "end": 31.14374149659864
+    },
+    {
+      "text": "the",
+      "start": 31.14374149659864,
+      "end": 31.22374149659864
+    },
+    {
+      "text": "system",
+      "start": 31.22374149659864,
+      "end": 31.62374149659864
+    },
+    {
+      "text": "decided",
+      "start": 31.62374149659864,
+      "end": 32.18374149659864
+    },
+    {
+      "text": "that",
+      "start": 32.18374149659864,
+      "end": 32.34374149659864
+    },
+    {
+      "text": "The",
+      "start": 32.58374149659864,
+      "end": 32.74374149659864
+    },
+    {
+      "text": "absence",
+      "start": 32.74374149659864,
+      "end": 33.22374149659864
+    },
+    {
+      "text": "did",
+      "start": 33.22374149659864,
+      "end": 33.62374149659864
+    },
+    {
+      "text": "Which",
+      "start": 33.78374149659864,
+      "end": 33.94374149659864
+    },
+    {
+      "text": "means",
+      "start": 33.94374149659864,
+      "end": 34.18374149659864
+    },
+    {
+      "text": "you",
+      "start": 34.18374149659864,
+      "end": 34.34374149659864
+    },
+    {
+      "text": "cannot",
+      "start": 34.34374149659864,
+      "end": 34.74374149659864
+    },
+    {
+      "text": "audit",
+      "start": 34.74374149659864,
+      "end": 34.98374149659864
+    },
+    {
+      "text": "these",
+      "start": 34.98374149659864,
+      "end": 35.22374149659864
+    },
+    {
+      "text": "things",
+      "start": 35.22374149659864,
+      "end": 35.463741496598644
+    },
+    {
+      "text": "by",
+      "start": 35.463741496598644,
+      "end": 35.62374149659864
+    },
+    {
+      "text": "reading",
+      "start": 35.62374149659864,
+      "end": 35.94374149659864
+    },
+    {
+      "text": "the",
+      "start": 35.94374149659864,
+      "end": 36.02374149659864
+    },
+    {
+      "text": "code",
+      "start": 36.02374149659864,
+      "end": 36.42374149659864
+    },
+    {
+      "text": "You",
+      "start": 36.66374149659864,
+      "end": 36.74374149659864
+    },
+    {
+      "text": "have",
+      "start": 36.74374149659864,
+      "end": 36.90374149659864
+    },
+    {
+      "text": "to",
+      "start": 36.98374149659864,
+      "end": 37.06374149659864
+    },
+    {
+      "text": "audit",
+      "start": 37.06374149659864,
+      "end": 37.38374149659864
+    },
+    {
+      "text": "the",
+      "start": 37.38374149659864,
+      "end": 37.463741496598644
+    },
+    {
+      "text": "data",
+      "start": 37.463741496598644,
+      "end": 37.86374149659864
+    },
+    {
+      "text": "The",
+      "start": 38.103741496598644,
+      "end": 38.18374149659864
+    },
+    {
+      "text": "model",
+      "start": 38.18374149659864,
+      "end": 38.503741496598636
+    },
+    {
+      "text": "is",
+      "start": 38.503741496598636,
+      "end": 38.66374149659864
+    },
+    {
+      "text": "not",
+      "start": 38.66374149659864,
+      "end": 38.90374149659864
+    },
+    {
+      "text": "biased",
+      "start": 38.90374149659864,
+      "end": 39.463741496598644
+    },
+    {
+      "text": "It",
+      "start": 39.62374149659864,
+      "end": 39.70374149659864
+    },
+    {
+      "text": "is",
+      "start": 39.70374149659864,
+      "end": 39.86374149659864
+    },
+    {
+      "text": "an",
+      "start": 39.86374149659864,
+      "end": 39.94374149659864
+    },
+    {
+      "text": "extremely",
+      "start": 39.94374149659864,
+      "end": 40.58374149659864
+    },
+    {
+      "text": "accurate",
+      "start": 40.58374149659864,
+      "end": 40.98374149659864
+    },
+    {
+      "text": "mirror",
+      "start": 40.98374149659864,
+      "end": 41.38374149659864
+    },
+    {
+      "text": "and",
+      "start": 41.54374149659864,
+      "end": 41.70374149659864
+    },
+    {
+      "text": "that",
+      "start": 41.70374149659864,
+      "end": 41.86374149659864
+    },
+    {
+      "text": "is",
+      "start": 41.86374149659864,
+      "end": 42.02374149659864
+    },
+    {
+      "text": "the",
+      "start": 42.02374149659864,
+      "end": 42.02374149659864
+    },
+    {
+      "text": "problem",
+      "start": 42.02374149659864,
+      "end": 42.58374149659864
+    },
+    {
+      "text": "One",
+      "start": 43.034353741496595,
+      "end": 43.2743537414966
+    },
+    {
+      "text": "of",
+      "start": 43.2743537414966,
+      "end": 43.354353741496595
+    },
+    {
+      "text": "these",
+      "start": 43.354353741496595,
+      "end": 43.674353741496596
+    },
+    {
+      "text": "every",
+      "start": 43.674353741496596,
+      "end": 43.994353741496596
+    },
+    {
+      "text": "day",
+      "start": 43.994353741496596,
+      "end": 44.314353741496596
+    },
+    {
+      "text": "Follow",
+      "start": 44.79435374149659,
+      "end": 45.034353741496595
+    },
+    {
+      "text": "so",
+      "start": 45.034353741496595,
+      "end": 45.19435374149659
+    },
+    {
+      "text": "you",
+      "start": 45.19435374149659,
+      "end": 45.354353741496595
+    },
+    {
+      "text": "do",
+      "start": 45.354353741496595,
+      "end": 45.51435374149659
+    },
+    {
+      "text": "not",
+      "start": 45.51435374149659,
+      "end": 45.754353741496594
+    },
+    {
+      "text": "miss",
+      "start": 45.754353741496594,
+      "end": 46.074353741496594
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.074353741496594,
+      "end": 46.5543537414966
+    }
+  ],
+  "text": "Train a hiring model on a company's past hires and it faithfully reproduces that company's past bias. People imagine the model holding an opinion. It does not hold any. Everything it does came out of the examples it was shown, and nothing else. If those examples were skewed, then the pattern it found is the skew. And that is worse than prejudice, because it comes back looking objective. A person can be argued with. A number on a screen gets treated as a measurement. The same thing happens with gaps. Image systems worked badly on darker skin, for years. Nothing in the system decided that. The absence did. Which means you cannot audit these things by reading the code. You have to audit the data. The model is not biased. It is an extremely accurate mirror, and that is the problem. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

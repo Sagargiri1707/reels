@@ -1,0 +1,818 @@
+{
+  "audio_duration": 50.808063,
+  "segments": [
+    {
+      "text": "Nobody",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "wrote",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "text": "the",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "text": "rules",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "for",
+      "start": 1.12,
+      "end": 1.2
+    },
+    {
+      "text": "recognising",
+      "start": 1.2,
+      "end": 1.92
+    },
+    {
+      "text": "a",
+      "start": 1.92,
+      "end": 1.92
+    },
+    {
+      "text": "cat",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "text": "The",
+      "start": 2.72,
+      "end": 2.8
+    },
+    {
+      "text": "system",
+      "start": 2.8,
+      "end": 3.2
+    },
+    {
+      "text": "worked",
+      "start": 3.2,
+      "end": 3.44
+    },
+    {
+      "text": "them",
+      "start": 3.44,
+      "end": 3.6
+    },
+    {
+      "text": "out",
+      "start": 3.6,
+      "end": 3.76
+    },
+    {
+      "text": "from",
+      "start": 3.76,
+      "end": 3.84
+    },
+    {
+      "text": "examples",
+      "start": 3.84,
+      "end": 4.56
+    },
+    {
+      "text": "Ordinary",
+      "start": 4.8,
+      "end": 5.28
+    },
+    {
+      "text": "software",
+      "start": 5.28,
+      "end": 5.84
+    },
+    {
+      "text": "is",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "rules",
+      "start": 6.08,
+      "end": 6.4
+    },
+    {
+      "text": "a",
+      "start": 6.4,
+      "end": 6.48
+    },
+    {
+      "text": "person",
+      "start": 6.48,
+      "end": 6.88
+    },
+    {
+      "text": "wrote",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "down",
+      "start": 7.12,
+      "end": 7.52
+    },
+    {
+      "text": "If",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "this",
+      "start": 8.0,
+      "end": 8.4
+    },
+    {
+      "text": "then",
+      "start": 8.48,
+      "end": 8.88
+    },
+    {
+      "text": "that",
+      "start": 8.88,
+      "end": 9.2
+    },
+    {
+      "text": "Nobody",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "text": "can",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "text": "write",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "text": "down",
+      "start": 10.24,
+      "end": 10.48
+    },
+    {
+      "text": "the",
+      "start": 10.48,
+      "end": 10.56
+    },
+    {
+      "text": "rule",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "text": "for",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "a",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "cat",
+      "start": 11.04,
+      "end": 11.44
+    },
+    {
+      "text": "Every",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "text": "rule",
+      "start": 12.08,
+      "end": 12.4
+    },
+    {
+      "text": "you",
+      "start": 12.4,
+      "end": 12.48
+    },
+    {
+      "text": "try",
+      "start": 12.48,
+      "end": 12.88
+    },
+    {
+      "text": "has",
+      "start": 12.88,
+      "end": 13.12
+    },
+    {
+      "text": "an",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "exception",
+      "start": 13.2,
+      "end": 13.84
+    },
+    {
+      "text": "So",
+      "start": 14.2984126984127,
+      "end": 14.4584126984127
+    },
+    {
+      "text": "instead",
+      "start": 14.4584126984127,
+      "end": 14.8584126984127
+    },
+    {
+      "text": "you",
+      "start": 14.8584126984127,
+      "end": 15.0184126984127
+    },
+    {
+      "text": "build",
+      "start": 15.0184126984127,
+      "end": 15.258412698412698
+    },
+    {
+      "text": "a",
+      "start": 15.258412698412698,
+      "end": 15.258412698412698
+    },
+    {
+      "text": "board",
+      "start": 15.258412698412698,
+      "end": 15.578412698412698
+    },
+    {
+      "text": "of",
+      "start": 15.578412698412698,
+      "end": 15.658412698412699
+    },
+    {
+      "text": "connections",
+      "start": 15.658412698412699,
+      "end": 16.298412698412697
+    },
+    {
+      "text": "and",
+      "start": 16.458412698412697,
+      "end": 16.618412698412698
+    },
+    {
+      "text": "set",
+      "start": 16.618412698412698,
+      "end": 16.8584126984127
+    },
+    {
+      "text": "every",
+      "start": 16.8584126984127,
+      "end": 17.1784126984127
+    },
+    {
+      "text": "one",
+      "start": 17.1784126984127,
+      "end": 17.3384126984127
+    },
+    {
+      "text": "of",
+      "start": 17.3384126984127,
+      "end": 17.4184126984127
+    },
+    {
+      "text": "them",
+      "start": 17.4184126984127,
+      "end": 17.5784126984127
+    },
+    {
+      "text": "to",
+      "start": 17.6584126984127,
+      "end": 17.7384126984127
+    },
+    {
+      "text": "a",
+      "start": 17.7384126984127,
+      "end": 17.7384126984127
+    },
+    {
+      "text": "random",
+      "start": 17.7384126984127,
+      "end": 18.1384126984127
+    },
+    {
+      "text": "strength",
+      "start": 18.1384126984127,
+      "end": 18.618412698412698
+    },
+    {
+      "text": "Show",
+      "start": 18.8584126984127,
+      "end": 19.098412698412698
+    },
+    {
+      "text": "it",
+      "start": 19.098412698412698,
+      "end": 19.1784126984127
+    },
+    {
+      "text": "a",
+      "start": 19.1784126984127,
+      "end": 19.258412698412698
+    },
+    {
+      "text": "picture",
+      "start": 19.258412698412698,
+      "end": 19.7384126984127
+    },
+    {
+      "text": "let",
+      "start": 19.8984126984127,
+      "end": 20.0584126984127
+    },
+    {
+      "text": "it",
+      "start": 20.0584126984127,
+      "end": 20.2184126984127
+    },
+    {
+      "text": "guess",
+      "start": 20.2184126984127,
+      "end": 20.618412698412698
+    },
+    {
+      "text": "and",
+      "start": 20.778412698412698,
+      "end": 20.938412698412698
+    },
+    {
+      "text": "measure",
+      "start": 20.938412698412698,
+      "end": 21.1784126984127
+    },
+    {
+      "text": "exactly",
+      "start": 21.1784126984127,
+      "end": 21.8184126984127
+    },
+    {
+      "text": "how",
+      "start": 21.8184126984127,
+      "end": 21.978412698412697
+    },
+    {
+      "text": "wrong",
+      "start": 21.978412698412697,
+      "end": 22.298412698412697
+    },
+    {
+      "text": "the",
+      "start": 22.298412698412697,
+      "end": 22.3784126984127
+    },
+    {
+      "text": "guess",
+      "start": 22.3784126984127,
+      "end": 22.6984126984127
+    },
+    {
+      "text": "was",
+      "start": 22.6984126984127,
+      "end": 23.098412698412698
+    },
+    {
+      "text": "Then",
+      "start": 23.4184126984127,
+      "end": 23.658412698412697
+    },
+    {
+      "text": "nudge",
+      "start": 23.658412698412697,
+      "end": 23.978412698412697
+    },
+    {
+      "text": "every",
+      "start": 23.978412698412697,
+      "end": 24.2184126984127
+    },
+    {
+      "text": "connection",
+      "start": 24.2184126984127,
+      "end": 24.6984126984127
+    },
+    {
+      "text": "slightly",
+      "start": 24.6984126984127,
+      "end": 25.338412698412696
+    },
+    {
+      "text": "in",
+      "start": 25.4984126984127,
+      "end": 25.658412698412697
+    },
+    {
+      "text": "whichever",
+      "start": 25.658412698412697,
+      "end": 26.0584126984127
+    },
+    {
+      "text": "direction",
+      "start": 26.0584126984127,
+      "end": 26.618412698412698
+    },
+    {
+      "text": "would",
+      "start": 26.618412698412698,
+      "end": 26.6984126984127
+    },
+    {
+      "text": "have",
+      "start": 26.6984126984127,
+      "end": 26.7784126984127
+    },
+    {
+      "text": "made",
+      "start": 26.7784126984127,
+      "end": 26.938412698412698
+    },
+    {
+      "text": "it",
+      "start": 26.938412698412698,
+      "end": 27.098412698412698
+    },
+    {
+      "text": "less",
+      "start": 27.098412698412698,
+      "end": 27.4184126984127
+    },
+    {
+      "text": "wrong",
+      "start": 27.4184126984127,
+      "end": 27.7384126984127
+    },
+    {
+      "text": "Do",
+      "start": 28.209138321995468,
+      "end": 28.449138321995466
+    },
+    {
+      "text": "that",
+      "start": 28.449138321995466,
+      "end": 28.529138321995468
+    },
+    {
+      "text": "a",
+      "start": 28.529138321995468,
+      "end": 28.609138321995466
+    },
+    {
+      "text": "few",
+      "start": 28.609138321995466,
+      "end": 28.84913832199547
+    },
+    {
+      "text": "million",
+      "start": 28.84913832199547,
+      "end": 29.16913832199547
+    },
+    {
+      "text": "times",
+      "start": 29.16913832199547,
+      "end": 29.64913832199547
+    },
+    {
+      "text": "and",
+      "start": 29.80913832199547,
+      "end": 29.969138321995466
+    },
+    {
+      "text": "it",
+      "start": 29.969138321995466,
+      "end": 30.049138321995468
+    },
+    {
+      "text": "holds",
+      "start": 30.049138321995468,
+      "end": 30.369138321995468
+    },
+    {
+      "text": "rules",
+      "start": 30.369138321995468,
+      "end": 30.68913832199547
+    },
+    {
+      "text": "nobody",
+      "start": 30.68913832199547,
+      "end": 31.089138321995467
+    },
+    {
+      "text": "wrote",
+      "start": 31.089138321995467,
+      "end": 31.409138321995467
+    },
+    {
+      "text": "and",
+      "start": 31.409138321995467,
+      "end": 31.569138321995467
+    },
+    {
+      "text": "nobody",
+      "start": 31.569138321995467,
+      "end": 31.889138321995468
+    },
+    {
+      "text": "can",
+      "start": 31.889138321995468,
+      "end": 32.04913832199547
+    },
+    {
+      "text": "read",
+      "start": 32.04913832199547,
+      "end": 32.44913832199547
+    },
+    {
+      "text": "A",
+      "start": 32.76913832199547,
+      "end": 32.84913832199547
+    },
+    {
+      "text": "language",
+      "start": 32.84913832199547,
+      "end": 33.329138321995465
+    },
+    {
+      "text": "model",
+      "start": 33.329138321995465,
+      "end": 33.729138321995464
+    },
+    {
+      "text": "is",
+      "start": 33.729138321995464,
+      "end": 33.88913832199547
+    },
+    {
+      "text": "the",
+      "start": 33.88913832199547,
+      "end": 33.969138321995466
+    },
+    {
+      "text": "same",
+      "start": 33.969138321995466,
+      "end": 34.289138321995466
+    },
+    {
+      "text": "machine",
+      "start": 34.289138321995466,
+      "end": 34.84913832199547
+    },
+    {
+      "text": "guessing",
+      "start": 35.009138321995465,
+      "end": 35.40913832199547
+    },
+    {
+      "text": "the",
+      "start": 35.40913832199547,
+      "end": 35.48913832199547
+    },
+    {
+      "text": "next",
+      "start": 35.48913832199547,
+      "end": 35.80913832199547
+    },
+    {
+      "text": "word",
+      "start": 35.80913832199547,
+      "end": 36.12913832199547
+    },
+    {
+      "text": "instead",
+      "start": 36.12913832199547,
+      "end": 36.44913832199547
+    },
+    {
+      "text": "of",
+      "start": 36.44913832199547,
+      "end": 36.52913832199547
+    },
+    {
+      "text": "the",
+      "start": 36.52913832199547,
+      "end": 36.68913832199547
+    },
+    {
+      "text": "animal",
+      "start": 36.68913832199547,
+      "end": 37.16913832199547
+    },
+    {
+      "text": "It",
+      "start": 37.48913832199547,
+      "end": 37.56913832199547
+    },
+    {
+      "text": "is",
+      "start": 37.56913832199547,
+      "end": 37.649138321995466
+    },
+    {
+      "text": "not",
+      "start": 37.649138321995466,
+      "end": 37.88913832199547
+    },
+    {
+      "text": "retrieving",
+      "start": 37.88913832199547,
+      "end": 38.369138321995464
+    },
+    {
+      "text": "a",
+      "start": 38.369138321995464,
+      "end": 38.44913832199547
+    },
+    {
+      "text": "fact",
+      "start": 38.44913832199547,
+      "end": 38.92913832199547
+    },
+    {
+      "text": "It",
+      "start": 39.08913832199546,
+      "end": 39.24913832199547
+    },
+    {
+      "text": "is",
+      "start": 39.24913832199547,
+      "end": 39.329138321995465
+    },
+    {
+      "text": "predicting",
+      "start": 39.329138321995465,
+      "end": 39.88913832199547
+    },
+    {
+      "text": "what",
+      "start": 39.88913832199547,
+      "end": 39.969138321995466
+    },
+    {
+      "text": "usually",
+      "start": 39.969138321995466,
+      "end": 40.369138321995464
+    },
+    {
+      "text": "comes",
+      "start": 40.369138321995464,
+      "end": 40.68913832199547
+    },
+    {
+      "text": "next",
+      "start": 40.68913832199547,
+      "end": 41.08913832199546
+    },
+    {
+      "text": "Prediction",
+      "start": 41.48362811791384,
+      "end": 41.963628117913835
+    },
+    {
+      "text": "at",
+      "start": 41.963628117913835,
+      "end": 42.04362811791383
+    },
+    {
+      "text": "enough",
+      "start": 42.04362811791383,
+      "end": 42.283628117913835
+    },
+    {
+      "text": "scale",
+      "start": 42.283628117913835,
+      "end": 42.84362811791384
+    },
+    {
+      "text": "looks",
+      "start": 43.003628117913834,
+      "end": 43.243628117913836
+    },
+    {
+      "text": "a",
+      "start": 43.243628117913836,
+      "end": 43.323628117913835
+    },
+    {
+      "text": "great",
+      "start": 43.323628117913835,
+      "end": 43.643628117913835
+    },
+    {
+      "text": "deal",
+      "start": 43.643628117913835,
+      "end": 43.88362811791384
+    },
+    {
+      "text": "like",
+      "start": 43.88362811791384,
+      "end": 44.12362811791384
+    },
+    {
+      "text": "understanding",
+      "start": 44.12362811791384,
+      "end": 44.923628117913836
+    },
+    {
+      "text": "and",
+      "start": 45.16362811791384,
+      "end": 45.323628117913835
+    },
+    {
+      "text": "that",
+      "start": 45.323628117913835,
+      "end": 45.48362811791384
+    },
+    {
+      "text": "argument",
+      "start": 45.48362811791384,
+      "end": 45.88362811791384
+    },
+    {
+      "text": "is",
+      "start": 45.88362811791384,
+      "end": 46.04362811791383
+    },
+    {
+      "text": "not",
+      "start": 46.04362811791383,
+      "end": 46.363628117913834
+    },
+    {
+      "text": "settled",
+      "start": 46.363628117913834,
+      "end": 46.84362811791384
+    },
+    {
+      "text": "One",
+      "start": 47.08362811791383,
+      "end": 47.323628117913835
+    },
+    {
+      "text": "of",
+      "start": 47.323628117913835,
+      "end": 47.40362811791384
+    },
+    {
+      "text": "these",
+      "start": 47.40362811791384,
+      "end": 47.643628117913835
+    },
+    {
+      "text": "every",
+      "start": 47.72362811791383,
+      "end": 48.04362811791383
+    },
+    {
+      "text": "day",
+      "start": 48.04362811791383,
+      "end": 48.44362811791384
+    },
+    {
+      "text": "Follow",
+      "start": 48.76362811791384,
+      "end": 49.08362811791383
+    },
+    {
+      "text": "so",
+      "start": 49.08362811791383,
+      "end": 49.243628117913836
+    },
+    {
+      "text": "you",
+      "start": 49.243628117913836,
+      "end": 49.323628117913835
+    },
+    {
+      "text": "do",
+      "start": 49.323628117913835,
+      "end": 49.48362811791384
+    },
+    {
+      "text": "not",
+      "start": 49.48362811791384,
+      "end": 49.72362811791383
+    },
+    {
+      "text": "miss",
+      "start": 49.72362811791383,
+      "end": 50.04362811791384
+    },
+    {
+      "text": "tomorrow",
+      "start": 50.04362811791384,
+      "end": 50.603628117913836
+    }
+  ],
+  "text": "Nobody wrote the rules for recognising a cat. The system worked them out from examples. Ordinary software is rules a person wrote down. If this, then that. Nobody can write down the rule for a cat. Every rule you try has an exception. So instead you build a board of connections and set every one of them to a random strength. Show it a picture, let it guess, and measure exactly how wrong the guess was. Then nudge every connection slightly in whichever direction would have made it less wrong. Do that a few million times and it holds rules nobody wrote and nobody can read. A language model is the same machine, guessing the next word instead of the animal. It is not retrieving a fact. It is predicting what usually comes next. Prediction at enough scale looks a great deal like understanding, and that argument is not settled. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

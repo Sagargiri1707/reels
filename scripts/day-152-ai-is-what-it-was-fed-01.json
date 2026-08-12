@@ -1,0 +1,109 @@
+{
+  "topic": "AI is only as good as what it was fed",
+  "lesson": "A model has no opinions, it is an accurate mirror of its training data, which is worse than prejudice because the output arrives looking like a measurement.",
+  "slug": "day-152-ai-is-what-it-was-fed-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Train a hiring model on a company's past hires and it faithfully reproduces that company's past bias.",
+      "scene": "a stack of identical forms, a small black cartoon figure hauling one out of the middle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of identical forms, a small black cartoon figure hauling one out of the middle. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "People imagine the model holding an opinion. It does not hold any.",
+      "scene": "an empty chair at a bare desk, a small black cartoon figure clambering onto the seat",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty chair at a bare desk, a small black cartoon figure clambering onto the seat. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Everything it does came out of the examples it was shown, and nothing else.",
+      "scene": "a funnel with only one kind of bead going in, a small black cartoon figure pouring them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a funnel with only one kind of bead going in, a small black cartoon figure pouring them. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "If those examples were skewed, then the pattern it found is the skew.",
+      "scene": "the same beads coming out below the funnel, a small black cartoon figure catching them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same beads coming out below the funnel, a small black cartoon figure catching them. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And that is worse than prejudice, because it comes back looking objective.",
+      "scene": "a heavy seal pressed onto a plain sheet, a small black cartoon figure leaning on the seal",
+      "image_text": "OBJECTIVE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy seal pressed onto a plain sheet, a small black cartoon figure leaning on the seal. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"OBJECTIVE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "A person can be argued with. A number on a screen gets treated as a measurement.",
+      "scene": "a brass measuring gauge, a small black cartoon figure holding it up with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass measuring gauge, a small black cartoon figure holding it up with both arms. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The same thing happens with gaps. Image systems worked badly on darker skin, for years.",
+      "scene": "a paint chart missing its darker half, a small black cartoon figure reaching into the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paint chart missing its darker half, a small black cartoon figure reaching into the gap. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Nothing in the system decided that. The absence did.",
+      "scene": "an empty slot in a full shelf, a small black cartoon figure standing in the gap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty slot in a full shelf, a small black cartoon figure standing in the gap. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which means you cannot audit these things by reading the code. You have to audit the data.",
+      "scene": "a sealed box beside an open crate of samples, a small black cartoon figure digging in the crate",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed box beside an open crate of samples, a small black cartoon figure digging in the crate. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The model is not biased. It is an extremely accurate mirror, and that is the problem.",
+      "scene": "a propped mirror, a small black cartoon figure polishing it with both arms",
+      "image_text": "A MIRROR",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a propped mirror, a small black cartoon figure polishing it with both arms. the scene belongs to whatever went in coming back out looking official, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"A MIRROR\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A model holds no opinions. Everything it does comes from the examples it was shown, so a hiring model trained on a company's past hires reproduces that company's past decisions exactly. That is worse than prejudice, because the output arrives looking like a measurement and a number on a screen is argued with far less than a person. Gaps do the same damage: image systems performed poorly on darker skin for years because the training sets were skewed. You audit the data, not the code.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ai #bias #data #ethics #science",
+    "thumbnail_beat": "10"
+  }
+}

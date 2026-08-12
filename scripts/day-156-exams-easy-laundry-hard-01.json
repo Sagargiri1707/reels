@@ -1,0 +1,109 @@
+{
+  "topic": "Passing exams is easy. Folding laundry is hard.",
+  "lesson": "Reasoning is computationally cheap and perception and dexterity are extremely expensive, because evolution spent hundreds of millions of years on movement and almost none on abstract thought.",
+  "slug": "day-156-exams-easy-laundry-hard-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "AI can pass professional exams and still fail to reliably pick up a towel.",
+      "scene": "a crumpled towel, a small black cartoon figure struggling to lift one corner of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crumpled towel, a small black cartoon figure struggling to lift one corner of it. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "That is backwards from what everybody expected, and it has a name.",
+      "scene": "a chess board, a small black cartoon figure sliding one piece across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chess board, a small black cartoon figure sliding one piece across. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Moravec's paradox. Reasoning is cheap. Perception and movement are brutally expensive.",
+      "scene": "a heavy old book beside a folded cloth, a small black cartoon figure dragging the cloth",
+      "image_text": "PARADOX",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy old book beside a folded cloth, a small black cartoon figure dragging the cloth. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"PARADOX\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Because evolution spent hundreds of millions of years on moving through a physical world.",
+      "scene": "a deeply worn stone step, a small black cartoon figure walking across it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a deeply worn stone step, a small black cartoon figure walking across it. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "And a few tens of thousands on anything you would call abstract thought.",
+      "scene": "a fresh pencil mark on that same step, a small black cartoon figure drawing it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fresh pencil mark on that same step, a small black cartoon figure drawing it. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "So the hard problems are the ones you do without noticing you are doing them.",
+      "scene": "a shoelace mid knot, a small black cartoon figure hauling the loop tight",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shoelace mid knot, a small black cartoon figure hauling the loop tight. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "A towel has no fixed shape. It has folds you cannot see, and it changes as you touch it.",
+      "scene": "a cloth changing shape as it is gripped, a small black cartoon figure gripping it hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cloth changing shape as it is gripped, a small black cartoon figure gripping it hard. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "There is no clean list of what a towel currently looks like. There is one for a chess board.",
+      "scene": "a neat grid board beside a heap of cloth, a small black cartoon figure standing on the board",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a neat grid board beside a heap of cloth, a small black cartoon figure standing on the board. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which flips the usual prediction about which jobs are actually safest.",
+      "scene": "two chalk columns being swapped over, a small black cartoon figure dragging one across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two chalk columns being swapped over, a small black cartoon figure dragging one across. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "It is not the ones needing a degree. It is the ones needing hands, in a room nobody tidied.",
+      "scene": "an untidy corner with a laundry basket, a small black cartoon figure hauling the basket",
+      "image_text": "HANDS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an untidy corner with a laundry basket, a small black cartoon figure hauling the basket. the scene belongs to the tasks nobody notices doing turning out to be the hard ones, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"HANDS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Moravec's paradox: reasoning is computationally cheap, perception and dexterity are extremely expensive. Evolution spent hundreds of millions of years on moving through a physical world and only a sliver on abstract thought, so the things you do without noticing are the hard ones. A towel has no fixed shape, has folds you cannot see, and changes as you grip it. A chess board does not. Which flips the usual prediction about which jobs are safest.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #ai #robotics #moravec #jobs #science",
+    "thumbnail_beat": "01"
+  }
+}

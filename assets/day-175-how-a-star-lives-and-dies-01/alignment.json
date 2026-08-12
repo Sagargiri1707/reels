@@ -1,0 +1,858 @@
+{
+  "audio_duration": 52.76725,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "star",
+      "start": 0.08,
+      "end": 0.56
+    },
+    {
+      "text": "is",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "a",
+      "start": 0.72,
+      "end": 0.72
+    },
+    {
+      "text": "permanent",
+      "start": 0.72,
+      "end": 1.2
+    },
+    {
+      "text": "argument",
+      "start": 1.28,
+      "end": 1.68
+    },
+    {
+      "text": "between",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "text": "gravity",
+      "start": 2.0,
+      "end": 2.48
+    },
+    {
+      "text": "pulling",
+      "start": 2.48,
+      "end": 2.88
+    },
+    {
+      "text": "in",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "and",
+      "start": 3.12,
+      "end": 3.2
+    },
+    {
+      "text": "fusion",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "text": "pushing",
+      "start": 3.68,
+      "end": 4.0
+    },
+    {
+      "text": "out",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "text": "Gravity",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "text": "wants",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "to",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "crush",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "it",
+      "start": 5.92,
+      "end": 6.08
+    },
+    {
+      "text": "to",
+      "start": 6.08,
+      "end": 6.16
+    },
+    {
+      "text": "a",
+      "start": 6.16,
+      "end": 6.16
+    },
+    {
+      "text": "point",
+      "start": 6.16,
+      "end": 6.56
+    },
+    {
+      "text": "Fusion",
+      "start": 6.96,
+      "end": 7.36
+    },
+    {
+      "text": "in",
+      "start": 7.36,
+      "end": 7.52
+    },
+    {
+      "text": "the",
+      "start": 7.52,
+      "end": 7.52
+    },
+    {
+      "text": "core",
+      "start": 7.52,
+      "end": 7.92
+    },
+    {
+      "text": "pushes",
+      "start": 7.92,
+      "end": 8.32
+    },
+    {
+      "text": "back",
+      "start": 8.32,
+      "end": 8.56
+    },
+    {
+      "text": "exactly",
+      "start": 8.56,
+      "end": 9.2
+    },
+    {
+      "text": "hard",
+      "start": 9.2,
+      "end": 9.44
+    },
+    {
+      "text": "enough",
+      "start": 9.44,
+      "end": 9.76
+    },
+    {
+      "text": "That",
+      "start": 10.16,
+      "end": 10.4
+    },
+    {
+      "text": "standoff",
+      "start": 10.4,
+      "end": 10.96
+    },
+    {
+      "text": "is",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "what",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "a",
+      "start": 11.2,
+      "end": 11.28
+    },
+    {
+      "text": "star",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "is",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "text": "and",
+      "start": 12.24,
+      "end": 12.32
+    },
+    {
+      "text": "it",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "lasts",
+      "start": 12.4,
+      "end": 12.88
+    },
+    {
+      "text": "precisely",
+      "start": 12.88,
+      "end": 13.52
+    },
+    {
+      "text": "as",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "long",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "text": "as",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "text": "the",
+      "start": 14.0,
+      "end": 14.08
+    },
+    {
+      "text": "fuel",
+      "start": 14.08,
+      "end": 14.4
+    },
+    {
+      "text": "does",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "The",
+      "start": 15.18077097505669,
+      "end": 15.26077097505669
+    },
+    {
+      "text": "Sun",
+      "start": 15.26077097505669,
+      "end": 15.58077097505669
+    },
+    {
+      "text": "has",
+      "start": 15.66077097505669,
+      "end": 15.74077097505669
+    },
+    {
+      "text": "held",
+      "start": 15.74077097505669,
+      "end": 15.98077097505669
+    },
+    {
+      "text": "it",
+      "start": 15.98077097505669,
+      "end": 16.06077097505669
+    },
+    {
+      "text": "for",
+      "start": 16.06077097505669,
+      "end": 16.22077097505669
+    },
+    {
+      "text": "about",
+      "start": 16.22077097505669,
+      "end": 16.46077097505669
+    },
+    {
+      "text": "four",
+      "start": 16.54077097505669,
+      "end": 16.78077097505669
+    },
+    {
+      "text": "and",
+      "start": 16.78077097505669,
+      "end": 16.86077097505669
+    },
+    {
+      "text": "a",
+      "start": 16.86077097505669,
+      "end": 16.86077097505669
+    },
+    {
+      "text": "half",
+      "start": 16.86077097505669,
+      "end": 17.10077097505669
+    },
+    {
+      "text": "billion",
+      "start": 17.10077097505669,
+      "end": 17.58077097505669
+    },
+    {
+      "text": "years",
+      "start": 17.58077097505669,
+      "end": 17.98077097505669
+    },
+    {
+      "text": "with",
+      "start": 18.30077097505669,
+      "end": 18.38077097505669
+    },
+    {
+      "text": "roughly",
+      "start": 18.38077097505669,
+      "end": 18.78077097505669
+    },
+    {
+      "text": "the",
+      "start": 18.78077097505669,
+      "end": 18.86077097505669
+    },
+    {
+      "text": "same",
+      "start": 18.86077097505669,
+      "end": 19.26077097505669
+    },
+    {
+      "text": "left",
+      "start": 19.26077097505669,
+      "end": 19.66077097505669
+    },
+    {
+      "text": "Here",
+      "start": 19.98077097505669,
+      "end": 20.14077097505669
+    },
+    {
+      "text": "is",
+      "start": 20.14077097505669,
+      "end": 20.30077097505669
+    },
+    {
+      "text": "the",
+      "start": 20.30077097505669,
+      "end": 20.38077097505669
+    },
+    {
+      "text": "part",
+      "start": 20.38077097505669,
+      "end": 20.70077097505669
+    },
+    {
+      "text": "that",
+      "start": 20.70077097505669,
+      "end": 20.78077097505669
+    },
+    {
+      "text": "surprises",
+      "start": 20.78077097505669,
+      "end": 21.26077097505669
+    },
+    {
+      "text": "people",
+      "start": 21.26077097505669,
+      "end": 21.74077097505669
+    },
+    {
+      "text": "Bigger",
+      "start": 21.98077097505669,
+      "end": 22.30077097505669
+    },
+    {
+      "text": "stars",
+      "start": 22.30077097505669,
+      "end": 22.70077097505669
+    },
+    {
+      "text": "die",
+      "start": 22.70077097505669,
+      "end": 23.020770975056692
+    },
+    {
+      "text": "sooner",
+      "start": 23.020770975056692,
+      "end": 23.50077097505669
+    },
+    {
+      "text": "More",
+      "start": 23.82077097505669,
+      "end": 24.06077097505669
+    },
+    {
+      "text": "mass",
+      "start": 24.06077097505669,
+      "end": 24.46077097505669
+    },
+    {
+      "text": "means",
+      "start": 24.46077097505669,
+      "end": 24.70077097505669
+    },
+    {
+      "text": "more",
+      "start": 24.70077097505669,
+      "end": 24.94077097505669
+    },
+    {
+      "text": "crushing",
+      "start": 24.94077097505669,
+      "end": 25.42077097505669
+    },
+    {
+      "text": "so",
+      "start": 25.74077097505669,
+      "end": 25.900770975056687
+    },
+    {
+      "text": "it",
+      "start": 25.900770975056687,
+      "end": 25.900770975056687
+    },
+    {
+      "text": "has",
+      "start": 25.98077097505669,
+      "end": 26.14077097505669
+    },
+    {
+      "text": "to",
+      "start": 26.220770975056688,
+      "end": 26.220770975056688
+    },
+    {
+      "text": "burn",
+      "start": 26.220770975056688,
+      "end": 26.46077097505669
+    },
+    {
+      "text": "far",
+      "start": 26.46077097505669,
+      "end": 26.78077097505669
+    },
+    {
+      "text": "harder",
+      "start": 26.78077097505669,
+      "end": 27.18077097505669
+    },
+    {
+      "text": "just",
+      "start": 27.18077097505669,
+      "end": 27.42077097505669
+    },
+    {
+      "text": "to",
+      "start": 27.42077097505669,
+      "end": 27.50077097505669
+    },
+    {
+      "text": "hold",
+      "start": 27.50077097505669,
+      "end": 27.660770975056693
+    },
+    {
+      "text": "itself",
+      "start": 27.660770975056693,
+      "end": 28.06077097505669
+    },
+    {
+      "text": "up",
+      "start": 28.06077097505669,
+      "end": 28.30077097505669
+    },
+    {
+      "text": "The",
+      "start": 28.72734693877551,
+      "end": 28.72734693877551
+    },
+    {
+      "text": "largest",
+      "start": 28.72734693877551,
+      "end": 29.207346938775512
+    },
+    {
+      "text": "stars",
+      "start": 29.207346938775512,
+      "end": 29.527346938775512
+    },
+    {
+      "text": "burn",
+      "start": 29.527346938775512,
+      "end": 29.847346938775512
+    },
+    {
+      "text": "through",
+      "start": 29.847346938775512,
+      "end": 30.08734693877551
+    },
+    {
+      "text": "everything",
+      "start": 30.08734693877551,
+      "end": 30.48734693877551
+    },
+    {
+      "text": "in",
+      "start": 30.48734693877551,
+      "end": 30.56734693877551
+    },
+    {
+      "text": "a",
+      "start": 30.56734693877551,
+      "end": 30.647346938775513
+    },
+    {
+      "text": "few",
+      "start": 30.647346938775513,
+      "end": 30.88734693877551
+    },
+    {
+      "text": "million",
+      "start": 30.88734693877551,
+      "end": 31.207346938775512
+    },
+    {
+      "text": "years",
+      "start": 31.207346938775512,
+      "end": 31.60734693877551
+    },
+    {
+      "text": "Small",
+      "start": 31.847346938775512,
+      "end": 32.24734693877551
+    },
+    {
+      "text": "red",
+      "start": 32.24734693877551,
+      "end": 32.48734693877551
+    },
+    {
+      "text": "dwarfs",
+      "start": 32.48734693877551,
+      "end": 32.80734693877551
+    },
+    {
+      "text": "last",
+      "start": 32.80734693877551,
+      "end": 33.12734693877551
+    },
+    {
+      "text": "trillions",
+      "start": 33.12734693877551,
+      "end": 33.76734693877551
+    },
+    {
+      "text": "Which",
+      "start": 33.927346938775514,
+      "end": 34.16734693877551
+    },
+    {
+      "text": "means",
+      "start": 34.16734693877551,
+      "end": 34.40734693877551
+    },
+    {
+      "text": "essentially",
+      "start": 34.40734693877551,
+      "end": 34.96734693877551
+    },
+    {
+      "text": "every",
+      "start": 34.96734693877551,
+      "end": 35.20734693877551
+    },
+    {
+      "text": "small",
+      "start": 35.20734693877551,
+      "end": 35.52734693877551
+    },
+    {
+      "text": "star",
+      "start": 35.52734693877551,
+      "end": 35.84734693877551
+    },
+    {
+      "text": "ever",
+      "start": 35.84734693877551,
+      "end": 36.08734693877551
+    },
+    {
+      "text": "formed",
+      "start": 36.08734693877551,
+      "end": 36.567346938775515
+    },
+    {
+      "text": "is",
+      "start": 36.567346938775515,
+      "end": 36.64734693877551
+    },
+    {
+      "text": "still",
+      "start": 36.64734693877551,
+      "end": 36.96734693877551
+    },
+    {
+      "text": "burning",
+      "start": 36.96734693877551,
+      "end": 37.36734693877551
+    },
+    {
+      "text": "right",
+      "start": 37.36734693877551,
+      "end": 37.52734693877551
+    },
+    {
+      "text": "now",
+      "start": 37.52734693877551,
+      "end": 37.927346938775514
+    },
+    {
+      "text": "When",
+      "start": 38.16734693877551,
+      "end": 38.40734693877551
+    },
+    {
+      "text": "fusion",
+      "start": 38.40734693877551,
+      "end": 38.80734693877551
+    },
+    {
+      "text": "finally",
+      "start": 38.80734693877551,
+      "end": 39.207346938775515
+    },
+    {
+      "text": "loses",
+      "start": 39.207346938775515,
+      "end": 39.68734693877551
+    },
+    {
+      "text": "a",
+      "start": 39.927346938775514,
+      "end": 40.00734693877551
+    },
+    {
+      "text": "small",
+      "start": 40.00734693877551,
+      "end": 40.32734693877551
+    },
+    {
+      "text": "star",
+      "start": 40.32734693877551,
+      "end": 40.64734693877551
+    },
+    {
+      "text": "swells",
+      "start": 40.64734693877551,
+      "end": 41.12734693877551
+    },
+    {
+      "text": "up",
+      "start": 41.12734693877551,
+      "end": 41.36734693877551
+    },
+    {
+      "text": "and",
+      "start": 41.52734693877551,
+      "end": 41.68734693877551
+    },
+    {
+      "text": "then",
+      "start": 41.68734693877551,
+      "end": 41.76734693877551
+    },
+    {
+      "text": "quietly",
+      "start": 41.76734693877551,
+      "end": 42.24734693877551
+    },
+    {
+      "text": "collapses",
+      "start": 42.24734693877551,
+      "end": 42.88734693877551
+    },
+    {
+      "text": "into",
+      "start": 42.88734693877551,
+      "end": 43.12734693877551
+    },
+    {
+      "text": "a",
+      "start": 43.12734693877551,
+      "end": 43.207346938775515
+    },
+    {
+      "text": "white",
+      "start": 43.207346938775515,
+      "end": 43.44734693877551
+    },
+    {
+      "text": "dwarf",
+      "start": 43.44734693877551,
+      "end": 43.76734693877551
+    },
+    {
+      "text": "The",
+      "start": 44.26229024943311,
+      "end": 44.342290249433105
+    },
+    {
+      "text": "big",
+      "start": 44.342290249433105,
+      "end": 44.662290249433106
+    },
+    {
+      "text": "ones",
+      "start": 44.662290249433106,
+      "end": 44.982290249433106
+    },
+    {
+      "text": "lose",
+      "start": 44.982290249433106,
+      "end": 45.22229024943311
+    },
+    {
+      "text": "the",
+      "start": 45.22229024943311,
+      "end": 45.382290249433105
+    },
+    {
+      "text": "argument",
+      "start": 45.382290249433105,
+      "end": 45.7822902494331
+    },
+    {
+      "text": "all",
+      "start": 45.7822902494331,
+      "end": 46.022290249433105
+    },
+    {
+      "text": "at",
+      "start": 46.022290249433105,
+      "end": 46.1022902494331
+    },
+    {
+      "text": "once",
+      "start": 46.1022902494331,
+      "end": 46.5022902494331
+    },
+    {
+      "text": "and",
+      "start": 46.662290249433106,
+      "end": 46.742290249433104
+    },
+    {
+      "text": "the",
+      "start": 46.742290249433104,
+      "end": 46.8222902494331
+    },
+    {
+      "text": "explosion",
+      "start": 46.90229024943311,
+      "end": 47.4622902494331
+    },
+    {
+      "text": "makes",
+      "start": 47.4622902494331,
+      "end": 47.702290249433105
+    },
+    {
+      "text": "everything",
+      "start": 47.7822902494331,
+      "end": 48.18229024943311
+    },
+    {
+      "text": "you",
+      "start": 48.18229024943311,
+      "end": 48.342290249433105
+    },
+    {
+      "text": "are",
+      "start": 48.342290249433105,
+      "end": 48.422290249433104
+    },
+    {
+      "text": "made",
+      "start": 48.422290249433104,
+      "end": 48.742290249433104
+    },
+    {
+      "text": "of",
+      "start": 48.742290249433104,
+      "end": 48.90229024943311
+    },
+    {
+      "text": "One",
+      "start": 49.302290249433106,
+      "end": 49.54229024943311
+    },
+    {
+      "text": "of",
+      "start": 49.54229024943311,
+      "end": 49.62229024943311
+    },
+    {
+      "text": "these",
+      "start": 49.62229024943311,
+      "end": 49.8622902494331
+    },
+    {
+      "text": "every",
+      "start": 49.8622902494331,
+      "end": 50.18229024943311
+    },
+    {
+      "text": "day",
+      "start": 50.18229024943311,
+      "end": 50.58229024943311
+    },
+    {
+      "text": "Follow",
+      "start": 50.90229024943311,
+      "end": 51.22229024943311
+    },
+    {
+      "text": "so",
+      "start": 51.22229024943311,
+      "end": 51.382290249433105
+    },
+    {
+      "text": "you",
+      "start": 51.382290249433105,
+      "end": 51.54229024943311
+    },
+    {
+      "text": "do",
+      "start": 51.54229024943311,
+      "end": 51.62229024943311
+    },
+    {
+      "text": "not",
+      "start": 51.62229024943311,
+      "end": 51.8622902494331
+    },
+    {
+      "text": "miss",
+      "start": 51.8622902494331,
+      "end": 52.022290249433105
+    },
+    {
+      "text": "tomorrow",
+      "start": 52.022290249433105,
+      "end": 52.58229024943311
+    }
+  ],
+  "text": "A star is a permanent argument between gravity pulling in and fusion pushing out. Gravity wants to crush it to a point. Fusion in the core pushes back exactly hard enough. That standoff is what a star is, and it lasts precisely as long as the fuel does. The Sun has held it for about four and a half billion years, with roughly the same left. Here is the part that surprises people. Bigger stars die sooner. More mass means more crushing, so it has to burn far harder just to hold itself up. The largest stars burn through everything in a few million years. Small red dwarfs last trillions. Which means essentially every small star ever formed is still burning right now. When fusion finally loses, a small star swells up and then quietly collapses into a white dwarf. The big ones lose the argument all at once, and the explosion makes everything you are made of. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

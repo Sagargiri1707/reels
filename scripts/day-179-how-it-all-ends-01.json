@@ -1,0 +1,109 @@
+{
+  "topic": "How it all ends",
+  "lesson": "Every scenario for the end of the universe hangs on dark energy, which nobody can explain, so this is a live frontier rather than a forecast.",
+  "slug": "day-179-how-it-all-ends-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Every current scenario for the end of the universe is strange, and none of them are settled.",
+      "scene": "three chalk paths leading from one point, a small black cartoon figure standing at the fork",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three chalk paths leading from one point, a small black cartoon figure standing at the fork. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It comes down to one thing nobody understands. Dark energy.",
+      "scene": "a plain sealed box, a small black cartoon figure knocking hard on its lid",
+      "image_text": "UNEXPLAINED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plain sealed box, a small black cartoon figure knocking hard on its lid. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"UNEXPLAINED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "The expansion is not slowing down, the way gravity says it should. It is speeding up.",
+      "scene": "a cart rolling faster across a level surface, a small black cartoon figure chasing after it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cart rolling faster across a level surface, a small black cartoon figure chasing after it. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Something is pushing, and we have essentially no idea what it is.",
+      "scene": "a card bent by something unseen, a small black cartoon figure gripping the card",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card bent by something unseen, a small black cartoon figure gripping the card. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "If it stays as it is, you get heat death. Expansion continues and everything spreads out.",
+      "scene": "a tray of beads spread thinner and thinner, a small black cartoon figure spreading them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray of beads spread thinner and thinner, a small black cartoon figure spreading them. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Stars burn out, matter thins, and eventually nothing is close enough for anything to happen.",
+      "scene": "a cold hearth of grey ash, a small black cartoon figure sweeping through it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cold hearth of grey ash, a small black cartoon figure sweeping through it. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "If dark energy strengthens, you get the big rip. Galaxies come apart, then stars, then atoms.",
+      "scene": "a rubber band snapped in two, a small black cartoon figure holding both broken ends",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rubber band snapped in two, a small black cartoon figure holding both broken ends. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And if it ever reversed, everything falls back together into a big crunch.",
+      "scene": "scattered beads being raked back to one point, a small black cartoon figure raking them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. scattered beads being raked back to one point, a small black cartoon figure raking them. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Current evidence points to continued expansion, which makes heat death the front runner.",
+      "scene": "three chalk paths with one drawn over heavily, a small black cartoon figure dragging the chalk",
+      "image_text": "FRONT RUNNER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. three chalk paths with one drawn over heavily, a small black cartoon figure dragging the chalk. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FRONT RUNNER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "But all of it rests on something we cannot explain. This is a live frontier, not a forecast.",
+      "scene": "a chalkboard being wiped clean, a small black cartoon figure hauling the cloth across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalkboard being wiped clean, a small black cartoon figure hauling the cloth across. the scene belongs to several possible endings hanging on one thing nobody can explain, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Every ending scenario hangs on dark energy, and dark energy is essentially unexplained. The expansion is not slowing the way gravity says it should; it is accelerating. If that stays constant you get heat death, with everything spreading until nothing is close enough to anything for anything to happen. If it strengthens you get the Big Rip. If it reversed you get a Big Crunch. Current evidence favours continued expansion. All of it rests on something nobody can account for.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #universe #darkenergy #cosmology #space #science",
+    "thumbnail_beat": "01"
+  }
+}

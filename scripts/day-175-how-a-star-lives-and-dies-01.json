@@ -1,0 +1,109 @@
+{
+  "topic": "How a star lives and dies",
+  "lesson": "A star is a standoff between gravity pulling in and fusion pushing out, and bigger stars die sooner because holding themselves up costs so much more.",
+  "slug": "day-175-how-a-star-lives-and-dies-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A star is a permanent argument between gravity pulling in and fusion pushing out.",
+      "scene": "a spring held compressed between two blocks, a small black cartoon figure holding one block",
+      "image_text": "ARGUMENT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spring held compressed between two blocks, a small black cartoon figure holding one block. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ARGUMENT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Gravity wants to crush it to a point. Fusion in the core pushes back exactly hard enough.",
+      "scene": "a heavy weight over an upright spring, a small black cartoon figure wedged underneath it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy weight over an upright spring, a small black cartoon figure wedged underneath it. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "That standoff is what a star is, and it lasts precisely as long as the fuel does.",
+      "scene": "a heavy door propped by one wedge, a small black cartoon figure standing on the wedge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy door propped by one wedge, a small black cartoon figure standing on the wedge. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The Sun has held it for about four and a half billion years, with roughly the same left.",
+      "scene": "a candle burnt to halfway, a small black cartoon figure marking the midpoint on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a candle burnt to halfway, a small black cartoon figure marking the midpoint on it. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Here is the part that surprises people. Bigger stars die sooner.",
+      "scene": "a big candle beside a small candle, a small black cartoon figure carrying the small one",
+      "image_text": "SOONER",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a big candle beside a small candle, a small black cartoon figure carrying the small one. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SOONER\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "More mass means more crushing, so it has to burn far harder just to hold itself up.",
+      "scene": "a bellows pumped hard under a heavy weight, a small black cartoon figure pumping it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bellows pumped hard under a heavy weight, a small black cartoon figure pumping it. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The largest stars burn through everything in a few million years. Small red dwarfs last trillions.",
+      "scene": "a stubby candle beside a very tall thin one, a small black cartoon figure lighting the stub",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stubby candle beside a very tall thin one, a small black cartoon figure lighting the stub. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which means essentially every small star ever formed is still burning right now.",
+      "scene": "a shelf of long thin candles all still lit, a small black cartoon figure walking along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shelf of long thin candles all still lit, a small black cartoon figure walking along it. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "When fusion finally loses, a small star swells up and then quietly collapses into a white dwarf.",
+      "scene": "a swollen paper lantern settling flat, a small black cartoon figure pressing it down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a swollen paper lantern settling flat, a small black cartoon figure pressing it down. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "The big ones lose the argument all at once, and the explosion makes everything you are made of.",
+      "scene": "a shattered pot with seeds scattering out, a small black cartoon figure gathering the seeds",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a shattered pot with seeds scattering out, a small black cartoon figure gathering the seeds. the scene belongs to something holding itself up against a crushing weight until the fuel runs out, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A star is a standoff: gravity crushing inward, fusion pushing back exactly hard enough, lasting as long as the fuel does. The counterintuitive part is that bigger stars die sooner, because more mass means more crushing and it has to burn far harder to hold itself up. The largest last a few million years, small red dwarfs will last trillions, and essentially every one ever formed is still burning. Small stars end as white dwarfs. The big ones end all at once.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #stars #astronomy #space #supernova #science",
+    "thumbnail_beat": "05"
+  }
+}

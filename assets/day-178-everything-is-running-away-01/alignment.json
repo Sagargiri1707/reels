@@ -1,0 +1,783 @@
+{
+  "audio_duration": 47.464375,
+  "segments": [
+    {
+      "text": "Every",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "distant",
+      "start": 0.32,
+      "end": 0.72
+    },
+    {
+      "text": "galaxy",
+      "start": 0.72,
+      "end": 1.28
+    },
+    {
+      "text": "is",
+      "start": 1.28,
+      "end": 1.36
+    },
+    {
+      "text": "moving",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "text": "away",
+      "start": 1.68,
+      "end": 2.0
+    },
+    {
+      "text": "from",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "text": "us",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "text": "and",
+      "start": 2.8,
+      "end": 2.88
+    },
+    {
+      "text": "the",
+      "start": 2.88,
+      "end": 2.96
+    },
+    {
+      "text": "further",
+      "start": 2.96,
+      "end": 3.36
+    },
+    {
+      "text": "away",
+      "start": 3.36,
+      "end": 3.68
+    },
+    {
+      "text": "it",
+      "start": 3.68,
+      "end": 3.76
+    },
+    {
+      "text": "is",
+      "start": 3.76,
+      "end": 4.08
+    },
+    {
+      "text": "the",
+      "start": 4.32,
+      "end": 4.32
+    },
+    {
+      "text": "faster",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "it",
+      "start": 4.88,
+      "end": 4.96
+    },
+    {
+      "text": "goes",
+      "start": 4.96,
+      "end": 5.44
+    },
+    {
+      "text": "Which",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "sounds",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "like",
+      "start": 6.4,
+      "end": 6.56
+    },
+    {
+      "text": "we",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "are",
+      "start": 6.72,
+      "end": 6.8
+    },
+    {
+      "text": "at",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "the",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "text": "centre",
+      "start": 7.04,
+      "end": 7.44
+    },
+    {
+      "text": "of",
+      "start": 7.44,
+      "end": 7.52
+    },
+    {
+      "text": "something",
+      "start": 7.52,
+      "end": 8.08
+    },
+    {
+      "text": "We",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "are",
+      "start": 8.56,
+      "end": 8.64
+    },
+    {
+      "text": "not",
+      "start": 8.64,
+      "end": 9.04
+    },
+    {
+      "text": "We",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "know",
+      "start": 9.52,
+      "end": 9.76
+    },
+    {
+      "text": "they",
+      "start": 9.76,
+      "end": 9.92
+    },
+    {
+      "text": "are",
+      "start": 9.92,
+      "end": 10.0
+    },
+    {
+      "text": "receding",
+      "start": 10.0,
+      "end": 10.56
+    },
+    {
+      "text": "because",
+      "start": 10.56,
+      "end": 10.8
+    },
+    {
+      "text": "their",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "light",
+      "start": 10.96,
+      "end": 11.2
+    },
+    {
+      "text": "arrives",
+      "start": 11.2,
+      "end": 11.6
+    },
+    {
+      "text": "stretched",
+      "start": 11.6,
+      "end": 12.08
+    },
+    {
+      "text": "towards",
+      "start": 12.08,
+      "end": 12.4
+    },
+    {
+      "text": "red",
+      "start": 12.4,
+      "end": 12.8
+    },
+    {
+      "text": "It",
+      "start": 13.116734693877552,
+      "end": 13.276734693877552
+    },
+    {
+      "text": "is",
+      "start": 13.276734693877552,
+      "end": 13.356734693877552
+    },
+    {
+      "text": "the",
+      "start": 13.356734693877552,
+      "end": 13.436734693877552
+    },
+    {
+      "text": "same",
+      "start": 13.436734693877552,
+      "end": 13.756734693877553
+    },
+    {
+      "text": "effect",
+      "start": 13.756734693877553,
+      "end": 14.156734693877551
+    },
+    {
+      "text": "as",
+      "start": 14.156734693877551,
+      "end": 14.236734693877551
+    },
+    {
+      "text": "a",
+      "start": 14.236734693877551,
+      "end": 14.316734693877551
+    },
+    {
+      "text": "siren",
+      "start": 14.316734693877551,
+      "end": 14.796734693877552
+    },
+    {
+      "text": "dropping",
+      "start": 14.796734693877552,
+      "end": 15.196734693877552
+    },
+    {
+      "text": "in",
+      "start": 15.196734693877552,
+      "end": 15.276734693877552
+    },
+    {
+      "text": "pitch",
+      "start": 15.276734693877552,
+      "end": 15.676734693877552
+    },
+    {
+      "text": "applied",
+      "start": 15.996734693877553,
+      "end": 16.476734693877553
+    },
+    {
+      "text": "to",
+      "start": 16.476734693877553,
+      "end": 16.55673469387755
+    },
+    {
+      "text": "light",
+      "start": 16.55673469387755,
+      "end": 16.87673469387755
+    },
+    {
+      "text": "instead",
+      "start": 16.87673469387755,
+      "end": 17.196734693877552
+    },
+    {
+      "text": "of",
+      "start": 17.196734693877552,
+      "end": 17.27673469387755
+    },
+    {
+      "text": "sound",
+      "start": 17.27673469387755,
+      "end": 17.75673469387755
+    },
+    {
+      "text": "But",
+      "start": 18.156734693877553,
+      "end": 18.316734693877553
+    },
+    {
+      "text": "they",
+      "start": 18.316734693877553,
+      "end": 18.39673469387755
+    },
+    {
+      "text": "are",
+      "start": 18.39673469387755,
+      "end": 18.476734693877553
+    },
+    {
+      "text": "not",
+      "start": 18.476734693877553,
+      "end": 18.796734693877553
+    },
+    {
+      "text": "flying",
+      "start": 18.796734693877553,
+      "end": 19.116734693877554
+    },
+    {
+      "text": "through",
+      "start": 19.116734693877554,
+      "end": 19.356734693877552
+    },
+    {
+      "text": "space",
+      "start": 19.356734693877552,
+      "end": 19.676734693877552
+    },
+    {
+      "text": "away",
+      "start": 19.676734693877552,
+      "end": 20.07673469387755
+    },
+    {
+      "text": "from",
+      "start": 20.07673469387755,
+      "end": 20.23673469387755
+    },
+    {
+      "text": "us",
+      "start": 20.23673469387755,
+      "end": 20.476734693877553
+    },
+    {
+      "text": "Space",
+      "start": 20.71673469387755,
+      "end": 21.116734693877554
+    },
+    {
+      "text": "itself",
+      "start": 21.116734693877554,
+      "end": 21.59673469387755
+    },
+    {
+      "text": "is",
+      "start": 21.59673469387755,
+      "end": 21.756734693877554
+    },
+    {
+      "text": "getting",
+      "start": 21.756734693877554,
+      "end": 21.99673469387755
+    },
+    {
+      "text": "bigger",
+      "start": 21.99673469387755,
+      "end": 22.39673469387755
+    },
+    {
+      "text": "Picture",
+      "start": 22.71673469387755,
+      "end": 23.036734693877552
+    },
+    {
+      "text": "raisins",
+      "start": 23.036734693877552,
+      "end": 23.516734693877552
+    },
+    {
+      "text": "in",
+      "start": 23.516734693877552,
+      "end": 23.59673469387755
+    },
+    {
+      "text": "a",
+      "start": 23.59673469387755,
+      "end": 23.59673469387755
+    },
+    {
+      "text": "rising",
+      "start": 23.59673469387755,
+      "end": 24.07673469387755
+    },
+    {
+      "text": "loaf",
+      "start": 24.07673469387755,
+      "end": 24.39673469387755
+    },
+    {
+      "text": "Every",
+      "start": 24.796734693877553,
+      "end": 25.116734693877554
+    },
+    {
+      "text": "raisin",
+      "start": 25.116734693877554,
+      "end": 25.516734693877552
+    },
+    {
+      "text": "sees",
+      "start": 25.516734693877552,
+      "end": 25.756734693877554
+    },
+    {
+      "text": "every",
+      "start": 25.756734693877554,
+      "end": 26.156734693877553
+    },
+    {
+      "text": "other",
+      "start": 26.156734693877553,
+      "end": 26.31673469387755
+    },
+    {
+      "text": "raisin",
+      "start": 26.31673469387755,
+      "end": 26.71673469387755
+    },
+    {
+      "text": "moving",
+      "start": 26.71673469387755,
+      "end": 26.95673469387755
+    },
+    {
+      "text": "away",
+      "start": 26.95673469387755,
+      "end": 27.356734693877552
+    },
+    {
+      "text": "And",
+      "start": 27.69981859410431,
+      "end": 27.77981859410431
+    },
+    {
+      "text": "the",
+      "start": 27.77981859410431,
+      "end": 27.85981859410431
+    },
+    {
+      "text": "further",
+      "start": 27.85981859410431,
+      "end": 28.25981859410431
+    },
+    {
+      "text": "apart",
+      "start": 28.25981859410431,
+      "end": 28.659818594104312
+    },
+    {
+      "text": "two",
+      "start": 28.659818594104312,
+      "end": 28.819818594104312
+    },
+    {
+      "text": "of",
+      "start": 28.819818594104312,
+      "end": 28.89981859410431
+    },
+    {
+      "text": "them",
+      "start": 28.89981859410431,
+      "end": 29.05981859410431
+    },
+    {
+      "text": "are",
+      "start": 29.05981859410431,
+      "end": 29.37981859410431
+    },
+    {
+      "text": "the",
+      "start": 29.61981859410431,
+      "end": 29.61981859410431
+    },
+    {
+      "text": "more",
+      "start": 29.61981859410431,
+      "end": 29.93981859410431
+    },
+    {
+      "text": "dough",
+      "start": 29.93981859410431,
+      "end": 30.17981859410431
+    },
+    {
+      "text": "is",
+      "start": 30.17981859410431,
+      "end": 30.33981859410431
+    },
+    {
+      "text": "expanding",
+      "start": 30.33981859410431,
+      "end": 30.89981859410431
+    },
+    {
+      "text": "between",
+      "start": 30.89981859410431,
+      "end": 31.21981859410431
+    },
+    {
+      "text": "them",
+      "start": 31.21981859410431,
+      "end": 31.53981859410431
+    },
+    {
+      "text": "No",
+      "start": 31.69981859410431,
+      "end": 31.93981859410431
+    },
+    {
+      "text": "raisin",
+      "start": 31.93981859410431,
+      "end": 32.33981859410431
+    },
+    {
+      "text": "is",
+      "start": 32.33981859410431,
+      "end": 32.49981859410431
+    },
+    {
+      "text": "the",
+      "start": 32.49981859410431,
+      "end": 32.57981859410431
+    },
+    {
+      "text": "centre",
+      "start": 32.57981859410431,
+      "end": 33.059818594104314
+    },
+    {
+      "text": "There",
+      "start": 33.29981859410431,
+      "end": 33.37981859410431
+    },
+    {
+      "text": "is",
+      "start": 33.37981859410431,
+      "end": 33.53981859410431
+    },
+    {
+      "text": "no",
+      "start": 33.53981859410431,
+      "end": 33.77981859410431
+    },
+    {
+      "text": "centre",
+      "start": 33.77981859410431,
+      "end": 34.09981859410431
+    },
+    {
+      "text": "in",
+      "start": 34.09981859410431,
+      "end": 34.25981859410431
+    },
+    {
+      "text": "the",
+      "start": 34.25981859410431,
+      "end": 34.33981859410431
+    },
+    {
+      "text": "loaf",
+      "start": 34.33981859410431,
+      "end": 34.57981859410431
+    },
+    {
+      "text": "at",
+      "start": 34.57981859410431,
+      "end": 34.739818594104314
+    },
+    {
+      "text": "all",
+      "start": 34.739818594104314,
+      "end": 35.059818594104314
+    },
+    {
+      "text": "So",
+      "start": 35.21981859410431,
+      "end": 35.37981859410431
+    },
+    {
+      "text": "the",
+      "start": 35.37981859410431,
+      "end": 35.45981859410431
+    },
+    {
+      "text": "galaxies",
+      "start": 35.45981859410431,
+      "end": 36.09981859410431
+    },
+    {
+      "text": "are",
+      "start": 36.09981859410431,
+      "end": 36.17981859410431
+    },
+    {
+      "text": "not",
+      "start": 36.17981859410431,
+      "end": 36.41981859410431
+    },
+    {
+      "text": "moving",
+      "start": 36.41981859410431,
+      "end": 36.89981859410431
+    },
+    {
+      "text": "The",
+      "start": 37.13981859410431,
+      "end": 37.21981859410431
+    },
+    {
+      "text": "distance",
+      "start": 37.21981859410431,
+      "end": 37.61981859410431
+    },
+    {
+      "text": "between",
+      "start": 37.61981859410431,
+      "end": 38.01981859410431
+    },
+    {
+      "text": "them",
+      "start": 38.01981859410431,
+      "end": 38.17981859410431
+    },
+    {
+      "text": "is",
+      "start": 38.17981859410431,
+      "end": 38.339818594104315
+    },
+    {
+      "text": "being",
+      "start": 38.339818594104315,
+      "end": 38.65981859410431
+    },
+    {
+      "text": "made",
+      "start": 38.65981859410431,
+      "end": 39.059818594104314
+    },
+    {
+      "text": "Everything",
+      "start": 39.43056689342404,
+      "end": 39.83056689342404
+    },
+    {
+      "text": "is",
+      "start": 39.83056689342404,
+      "end": 39.99056689342404
+    },
+    {
+      "text": "running",
+      "start": 39.99056689342404,
+      "end": 40.23056689342404
+    },
+    {
+      "text": "away",
+      "start": 40.23056689342404,
+      "end": 40.55056689342404
+    },
+    {
+      "text": "from",
+      "start": 40.55056689342404,
+      "end": 40.710566893424044
+    },
+    {
+      "text": "everything",
+      "start": 40.710566893424044,
+      "end": 41.27056689342404
+    },
+    {
+      "text": "and",
+      "start": 41.51056689342404,
+      "end": 41.75056689342404
+    },
+    {
+      "text": "nobody",
+      "start": 41.75056689342404,
+      "end": 42.07056689342404
+    },
+    {
+      "text": "anywhere",
+      "start": 42.07056689342404,
+      "end": 42.55056689342404
+    },
+    {
+      "text": "is",
+      "start": 42.55056689342404,
+      "end": 42.710566893424044
+    },
+    {
+      "text": "standing",
+      "start": 42.710566893424044,
+      "end": 43.11056689342404
+    },
+    {
+      "text": "still",
+      "start": 43.11056689342404,
+      "end": 43.59056689342404
+    },
+    {
+      "text": "One",
+      "start": 43.83056689342404,
+      "end": 44.07056689342404
+    },
+    {
+      "text": "of",
+      "start": 44.07056689342404,
+      "end": 44.15056689342404
+    },
+    {
+      "text": "these",
+      "start": 44.15056689342404,
+      "end": 44.390566893424044
+    },
+    {
+      "text": "every",
+      "start": 44.390566893424044,
+      "end": 44.710566893424044
+    },
+    {
+      "text": "day",
+      "start": 44.710566893424044,
+      "end": 45.11056689342404
+    },
+    {
+      "text": "Follow",
+      "start": 45.43056689342404,
+      "end": 45.83056689342404
+    },
+    {
+      "text": "so",
+      "start": 45.83056689342404,
+      "end": 45.99056689342404
+    },
+    {
+      "text": "you",
+      "start": 45.99056689342404,
+      "end": 46.15056689342404
+    },
+    {
+      "text": "do",
+      "start": 46.15056689342404,
+      "end": 46.23056689342404
+    },
+    {
+      "text": "not",
+      "start": 46.23056689342404,
+      "end": 46.47056689342404
+    },
+    {
+      "text": "miss",
+      "start": 46.47056689342404,
+      "end": 46.710566893424044
+    },
+    {
+      "text": "tomorrow",
+      "start": 46.710566893424044,
+      "end": 47.27056689342404
+    }
+  ],
+  "text": "Every distant galaxy is moving away from us, and the further away it is, the faster it goes. Which sounds like we are at the centre of something. We are not. We know they are receding because their light arrives stretched towards red. It is the same effect as a siren dropping in pitch, applied to light instead of sound. But they are not flying through space away from us. Space itself is getting bigger. Picture raisins in a rising loaf. Every raisin sees every other raisin moving away. And the further apart two of them are, the more dough is expanding between them. No raisin is the centre. There is no centre in the loaf at all. So the galaxies are not moving. The distance between them is being made. Everything is running away from everything, and nobody anywhere is standing still. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

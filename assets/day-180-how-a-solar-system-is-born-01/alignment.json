@@ -1,0 +1,858 @@
+{
+  "audio_duration": 57.626063,
+  "segments": [
+    {
+      "text": "Somewhere",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "in",
+      "start": 0.48,
+      "end": 0.56
+    },
+    {
+      "text": "the",
+      "start": 0.56,
+      "end": 0.56
+    },
+    {
+      "text": "galaxy",
+      "start": 0.56,
+      "end": 1.12
+    },
+    {
+      "text": "right",
+      "start": 1.12,
+      "end": 1.28
+    },
+    {
+      "text": "now",
+      "start": 1.28,
+      "end": 1.76
+    },
+    {
+      "text": "a",
+      "start": 1.92,
+      "end": 2.0
+    },
+    {
+      "text": "cloud",
+      "start": 2.0,
+      "end": 2.4
+    },
+    {
+      "text": "of",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "gas",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "and",
+      "start": 2.88,
+      "end": 3.04
+    },
+    {
+      "text": "dust",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "text": "is",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "collapsing",
+      "start": 3.52,
+      "end": 4.08
+    },
+    {
+      "text": "into",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "text": "planets",
+      "start": 4.24,
+      "end": 4.8
+    },
+    {
+      "text": "It",
+      "start": 5.36,
+      "end": 5.44
+    },
+    {
+      "text": "starts",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "text": "as",
+      "start": 5.84,
+      "end": 5.92
+    },
+    {
+      "text": "nothing",
+      "start": 5.92,
+      "end": 6.32
+    },
+    {
+      "text": "much",
+      "start": 6.32,
+      "end": 6.72
+    },
+    {
+      "text": "A",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "text": "cold",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "text": "cloud",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "text": "drifting",
+      "start": 8.0,
+      "end": 8.64
+    },
+    {
+      "text": "slightly",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "text": "denser",
+      "start": 9.28,
+      "end": 9.68
+    },
+    {
+      "text": "in",
+      "start": 9.68,
+      "end": 9.76
+    },
+    {
+      "text": "one",
+      "start": 9.76,
+      "end": 10.0
+    },
+    {
+      "text": "place",
+      "start": 10.0,
+      "end": 10.24
+    },
+    {
+      "text": "than",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "another",
+      "start": 10.4,
+      "end": 10.8
+    },
+    {
+      "text": "Gravity",
+      "start": 11.2,
+      "end": 11.68
+    },
+    {
+      "text": "works",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "text": "on",
+      "start": 12.0,
+      "end": 12.16
+    },
+    {
+      "text": "that",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "text": "difference",
+      "start": 12.32,
+      "end": 12.8
+    },
+    {
+      "text": "The",
+      "start": 13.12,
+      "end": 13.2
+    },
+    {
+      "text": "dense",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "part",
+      "start": 13.52,
+      "end": 13.84
+    },
+    {
+      "text": "pulls",
+      "start": 13.84,
+      "end": 14.08
+    },
+    {
+      "text": "harder",
+      "start": 14.08,
+      "end": 14.48
+    },
+    {
+      "text": "and",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "text": "so",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "text": "gets",
+      "start": 15.04,
+      "end": 15.28
+    },
+    {
+      "text": "denser",
+      "start": 15.28,
+      "end": 15.68
+    },
+    {
+      "text": "still",
+      "start": 15.68,
+      "end": 16.16
+    },
+    {
+      "text": "And",
+      "start": 16.540408163265305,
+      "end": 16.700408163265305
+    },
+    {
+      "text": "any",
+      "start": 16.700408163265305,
+      "end": 16.940408163265307
+    },
+    {
+      "text": "tiny",
+      "start": 16.940408163265307,
+      "end": 17.340408163265305
+    },
+    {
+      "text": "spin",
+      "start": 17.340408163265305,
+      "end": 17.740408163265307
+    },
+    {
+      "text": "it",
+      "start": 17.740408163265307,
+      "end": 17.740408163265307
+    },
+    {
+      "text": "had",
+      "start": 17.740408163265307,
+      "end": 18.140408163265306
+    },
+    {
+      "text": "speeds",
+      "start": 18.220408163265304,
+      "end": 18.700408163265305
+    },
+    {
+      "text": "up",
+      "start": 18.700408163265305,
+      "end": 18.940408163265307
+    },
+    {
+      "text": "as",
+      "start": 18.940408163265307,
+      "end": 19.100408163265307
+    },
+    {
+      "text": "it",
+      "start": 19.100408163265307,
+      "end": 19.180408163265305
+    },
+    {
+      "text": "shrinks",
+      "start": 19.180408163265305,
+      "end": 19.660408163265306
+    },
+    {
+      "text": "like",
+      "start": 19.900408163265308,
+      "end": 20.060408163265308
+    },
+    {
+      "text": "a",
+      "start": 20.060408163265308,
+      "end": 20.140408163265306
+    },
+    {
+      "text": "skater",
+      "start": 20.140408163265306,
+      "end": 20.620408163265306
+    },
+    {
+      "text": "pulling",
+      "start": 20.620408163265306,
+      "end": 20.940408163265307
+    },
+    {
+      "text": "their",
+      "start": 20.940408163265307,
+      "end": 21.020408163265305
+    },
+    {
+      "text": "arms",
+      "start": 21.020408163265305,
+      "end": 21.340408163265305
+    },
+    {
+      "text": "in",
+      "start": 21.340408163265305,
+      "end": 21.580408163265307
+    },
+    {
+      "text": "Spin",
+      "start": 21.900408163265304,
+      "end": 22.300408163265306
+    },
+    {
+      "text": "flattens",
+      "start": 22.300408163265306,
+      "end": 22.780408163265307
+    },
+    {
+      "text": "it",
+      "start": 22.780408163265307,
+      "end": 22.940408163265307
+    },
+    {
+      "text": "Anything",
+      "start": 23.340408163265305,
+      "end": 23.740408163265307
+    },
+    {
+      "text": "orbiting",
+      "start": 23.740408163265307,
+      "end": 24.140408163265306
+    },
+    {
+      "text": "sideways",
+      "start": 24.140408163265306,
+      "end": 24.780408163265307
+    },
+    {
+      "text": "survives",
+      "start": 24.780408163265307,
+      "end": 25.420408163265307
+    },
+    {
+      "text": "Anything",
+      "start": 25.660408163265306,
+      "end": 26.060408163265308
+    },
+    {
+      "text": "falling",
+      "start": 26.060408163265308,
+      "end": 26.380408163265308
+    },
+    {
+      "text": "straight",
+      "start": 26.380408163265308,
+      "end": 26.780408163265307
+    },
+    {
+      "text": "in",
+      "start": 26.780408163265307,
+      "end": 26.940408163265307
+    },
+    {
+      "text": "cancels",
+      "start": 26.940408163265307,
+      "end": 27.340408163265305
+    },
+    {
+      "text": "out",
+      "start": 27.340408163265305,
+      "end": 27.660408163265306
+    },
+    {
+      "text": "So",
+      "start": 27.980408163265306,
+      "end": 28.140408163265306
+    },
+    {
+      "text": "the",
+      "start": 28.140408163265306,
+      "end": 28.220408163265304
+    },
+    {
+      "text": "cloud",
+      "start": 28.220408163265304,
+      "end": 28.540408163265305
+    },
+    {
+      "text": "becomes",
+      "start": 28.540408163265305,
+      "end": 28.860408163265305
+    },
+    {
+      "text": "a",
+      "start": 28.860408163265305,
+      "end": 28.940408163265307
+    },
+    {
+      "text": "disc",
+      "start": 28.940408163265307,
+      "end": 29.340408163265305
+    },
+    {
+      "text": "which",
+      "start": 29.580408163265304,
+      "end": 29.740408163265307
+    },
+    {
+      "text": "is",
+      "start": 29.740408163265307,
+      "end": 29.820408163265306
+    },
+    {
+      "text": "why",
+      "start": 29.820408163265306,
+      "end": 30.060408163265308
+    },
+    {
+      "text": "the",
+      "start": 30.060408163265308,
+      "end": 30.140408163265306
+    },
+    {
+      "text": "whole",
+      "start": 30.140408163265306,
+      "end": 30.380408163265308
+    },
+    {
+      "text": "solar",
+      "start": 30.380408163265308,
+      "end": 30.780408163265307
+    },
+    {
+      "text": "system",
+      "start": 30.780408163265307,
+      "end": 31.180408163265305
+    },
+    {
+      "text": "lies",
+      "start": 31.180408163265305,
+      "end": 31.500408163265305
+    },
+    {
+      "text": "in",
+      "start": 31.500408163265305,
+      "end": 31.580408163265304
+    },
+    {
+      "text": "almost",
+      "start": 31.580408163265304,
+      "end": 31.980408163265306
+    },
+    {
+      "text": "one",
+      "start": 31.980408163265306,
+      "end": 32.220408163265304
+    },
+    {
+      "text": "plane",
+      "start": 32.220408163265304,
+      "end": 32.70040816326531
+    },
+    {
+      "text": "The",
+      "start": 33.15736961451247,
+      "end": 33.23736961451247
+    },
+    {
+      "text": "centre",
+      "start": 33.23736961451247,
+      "end": 33.637369614512465
+    },
+    {
+      "text": "gets",
+      "start": 33.637369614512465,
+      "end": 33.79736961451247
+    },
+    {
+      "text": "so",
+      "start": 33.79736961451247,
+      "end": 34.03736961451247
+    },
+    {
+      "text": "compressed",
+      "start": 34.03736961451247,
+      "end": 34.67736961451247
+    },
+    {
+      "text": "that",
+      "start": 34.83736961451247,
+      "end": 34.997369614512465
+    },
+    {
+      "text": "fusion",
+      "start": 34.997369614512465,
+      "end": 35.39736961451247
+    },
+    {
+      "text": "starts",
+      "start": 35.39736961451247,
+      "end": 35.957369614512466
+    },
+    {
+      "text": "and",
+      "start": 36.11736961451247,
+      "end": 36.277369614512466
+    },
+    {
+      "text": "there",
+      "start": 36.277369614512466,
+      "end": 36.43736961451247
+    },
+    {
+      "text": "is",
+      "start": 36.43736961451247,
+      "end": 36.51736961451247
+    },
+    {
+      "text": "a",
+      "start": 36.51736961451247,
+      "end": 36.597369614512466
+    },
+    {
+      "text": "star",
+      "start": 36.597369614512466,
+      "end": 37.07736961451247
+    },
+    {
+      "text": "Out",
+      "start": 37.47736961451247,
+      "end": 37.637369614512465
+    },
+    {
+      "text": "in",
+      "start": 37.637369614512465,
+      "end": 37.71736961451247
+    },
+    {
+      "text": "the",
+      "start": 37.71736961451247,
+      "end": 37.79736961451247
+    },
+    {
+      "text": "disc",
+      "start": 37.79736961451247,
+      "end": 38.19736961451247
+    },
+    {
+      "text": "dust",
+      "start": 38.357369614512464,
+      "end": 38.75736961451247
+    },
+    {
+      "text": "grains",
+      "start": 38.75736961451247,
+      "end": 39.07736961451247
+    },
+    {
+      "text": "stick",
+      "start": 39.07736961451247,
+      "end": 39.39736961451247
+    },
+    {
+      "text": "together",
+      "start": 39.39736961451247,
+      "end": 39.87736961451247
+    },
+    {
+      "text": "become",
+      "start": 40.03736961451247,
+      "end": 40.357369614512464
+    },
+    {
+      "text": "pebbles",
+      "start": 40.357369614512464,
+      "end": 40.83736961451247
+    },
+    {
+      "text": "then",
+      "start": 41.07736961451247,
+      "end": 41.23736961451247
+    },
+    {
+      "text": "rocks",
+      "start": 41.23736961451247,
+      "end": 41.71736961451247
+    },
+    {
+      "text": "then",
+      "start": 41.87736961451247,
+      "end": 42.11736961451247
+    },
+    {
+      "text": "worlds",
+      "start": 42.11736961451247,
+      "end": 42.597369614512466
+    },
+    {
+      "text": "And",
+      "start": 42.83736961451247,
+      "end": 42.997369614512465
+    },
+    {
+      "text": "we",
+      "start": 42.997369614512465,
+      "end": 43.07736961451247
+    },
+    {
+      "text": "can",
+      "start": 43.07736961451247,
+      "end": 43.15736961451247
+    },
+    {
+      "text": "photograph",
+      "start": 43.15736961451247,
+      "end": 43.71736961451247
+    },
+    {
+      "text": "this",
+      "start": 43.71736961451247,
+      "end": 43.87736961451247
+    },
+    {
+      "text": "happening",
+      "start": 43.87736961451247,
+      "end": 44.43736961451247
+    },
+    {
+      "text": "Real",
+      "start": 44.67736961451247,
+      "end": 44.997369614512465
+    },
+    {
+      "text": "discs",
+      "start": 44.997369614512465,
+      "end": 45.47736961451247
+    },
+    {
+      "text": "with",
+      "start": 45.55736961451247,
+      "end": 45.71736961451247
+    },
+    {
+      "text": "real",
+      "start": 45.71736961451247,
+      "end": 45.957369614512466
+    },
+    {
+      "text": "gaps",
+      "start": 45.957369614512466,
+      "end": 46.357369614512464
+    },
+    {
+      "text": "carved",
+      "start": 46.357369614512464,
+      "end": 46.75736961451247
+    },
+    {
+      "text": "by",
+      "start": 46.75736961451247,
+      "end": 46.83736961451247
+    },
+    {
+      "text": "planets",
+      "start": 46.83736961451247,
+      "end": 47.31736961451247
+    },
+    {
+      "text": "forming",
+      "start": 47.31736961451247,
+      "end": 47.71736961451247
+    },
+    {
+      "text": "inside",
+      "start": 47.71736961451247,
+      "end": 48.03736961451247
+    },
+    {
+      "text": "them",
+      "start": 48.03736961451247,
+      "end": 48.277369614512466
+    },
+    {
+      "text": "Which",
+      "start": 48.67886621315193,
+      "end": 48.838866213151924
+    },
+    {
+      "text": "is",
+      "start": 48.838866213151924,
+      "end": 48.91886621315192
+    },
+    {
+      "text": "exactly",
+      "start": 48.91886621315192,
+      "end": 49.478866213151925
+    },
+    {
+      "text": "where",
+      "start": 49.478866213151925,
+      "end": 49.63886621315193
+    },
+    {
+      "text": "this",
+      "start": 49.63886621315193,
+      "end": 49.71886621315193
+    },
+    {
+      "text": "series",
+      "start": 49.71886621315193,
+      "end": 50.118866213151925
+    },
+    {
+      "text": "started",
+      "start": 50.118866213151925,
+      "end": 50.59886621315192
+    },
+    {
+      "text": "a",
+      "start": 50.838866213151924,
+      "end": 50.91886621315192
+    },
+    {
+      "text": "hundred",
+      "start": 50.91886621315192,
+      "end": 51.23886621315192
+    },
+    {
+      "text": "and",
+      "start": 51.23886621315192,
+      "end": 51.31886621315193
+    },
+    {
+      "text": "eighty",
+      "start": 51.398866213151926,
+      "end": 51.63886621315193
+    },
+    {
+      "text": "days",
+      "start": 51.63886621315193,
+      "end": 51.95886621315193
+    },
+    {
+      "text": "ago",
+      "start": 51.95886621315193,
+      "end": 52.27886621315193
+    },
+    {
+      "text": "Go",
+      "start": 52.67886621315193,
+      "end": 52.91886621315193
+    },
+    {
+      "text": "back",
+      "start": 52.91886621315193,
+      "end": 53.158866213151924
+    },
+    {
+      "text": "to",
+      "start": 53.158866213151924,
+      "end": 53.23886621315192
+    },
+    {
+      "text": "day",
+      "start": 53.23886621315192,
+      "end": 53.398866213151926
+    },
+    {
+      "text": "one",
+      "start": 53.398866213151926,
+      "end": 53.87886621315192
+    },
+    {
+      "text": "One",
+      "start": 54.03886621315193,
+      "end": 54.27886621315193
+    },
+    {
+      "text": "of",
+      "start": 54.27886621315193,
+      "end": 54.35886621315193
+    },
+    {
+      "text": "these",
+      "start": 54.35886621315193,
+      "end": 54.67886621315193
+    },
+    {
+      "text": "every",
+      "start": 54.67886621315193,
+      "end": 54.91886621315193
+    },
+    {
+      "text": "day",
+      "start": 54.91886621315193,
+      "end": 55.31886621315193
+    },
+    {
+      "text": "Follow",
+      "start": 55.63886621315193,
+      "end": 55.95886621315192
+    },
+    {
+      "text": "so",
+      "start": 55.95886621315192,
+      "end": 56.118866213151925
+    },
+    {
+      "text": "you",
+      "start": 56.118866213151925,
+      "end": 56.19886621315192
+    },
+    {
+      "text": "do",
+      "start": 56.19886621315192,
+      "end": 56.35886621315193
+    },
+    {
+      "text": "not",
+      "start": 56.35886621315193,
+      "end": 56.59886621315192
+    },
+    {
+      "text": "miss",
+      "start": 56.59886621315192,
+      "end": 56.838866213151924
+    },
+    {
+      "text": "tomorrow",
+      "start": 56.838866213151924,
+      "end": 57.478866213151925
+    }
+  ],
+  "text": "Somewhere in the galaxy right now, a cloud of gas and dust is collapsing into planets. It starts as nothing much. A cold cloud, drifting, slightly denser in one place than another. Gravity works on that difference. The dense part pulls harder, and so gets denser still. And any tiny spin it had speeds up as it shrinks, like a skater pulling their arms in. Spin flattens it. Anything orbiting sideways survives. Anything falling straight in cancels out. So the cloud becomes a disc, which is why the whole solar system lies in almost one plane. The centre gets so compressed that fusion starts, and there is a star. Out in the disc, dust grains stick together, become pebbles, then rocks, then worlds. And we can photograph this happening. Real discs, with real gaps carved by planets forming inside them. Which is exactly where this series started, a hundred and eighty days ago. Go back to day one. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

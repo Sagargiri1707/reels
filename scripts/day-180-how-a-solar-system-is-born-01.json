@@ -1,0 +1,109 @@
+{
+  "topic": "How a solar system is born",
+  "lesson": "A collapsing cloud spins faster as it shrinks and flattens into a disc, which is why the solar system lies almost in one plane and why we can photograph the same thing happening now.",
+  "slug": "day-180-how-a-solar-system-is-born-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Somewhere in the galaxy right now, a cloud of gas and dust is collapsing into planets.",
+      "scene": "a jar of fine dust, a small black cartoon figure shaking it hard with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar of fine dust, a small black cartoon figure shaking it hard with both arms. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It starts as nothing much. A cold cloud, drifting, slightly denser in one place than another.",
+      "scene": "a loose spread of dust with one thicker patch, a small black cartoon figure pressing the patch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a loose spread of dust with one thicker patch, a small black cartoon figure pressing the patch. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Gravity works on that difference. The dense part pulls harder, and so gets denser still.",
+      "scene": "a heap growing as more is swept into it, a small black cartoon figure sweeping towards it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heap growing as more is swept into it, a small black cartoon figure sweeping towards it. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "And any tiny spin it had speeds up as it shrinks, like a skater pulling their arms in.",
+      "scene": "a turntable spun faster as it narrows, a small black cartoon figure pulling both arms in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a turntable spun faster as it narrows, a small black cartoon figure pulling both arms in. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "Spin flattens it. Anything orbiting sideways survives. Anything falling straight in cancels out.",
+      "scene": "a bowl of loose beads flattening as it spins, a small black cartoon figure spinning it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bowl of loose beads flattening as it spins, a small black cartoon figure spinning it. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "So the cloud becomes a disc, which is why the whole solar system lies in almost one plane.",
+      "scene": "a flat disc of beads, a small black cartoon figure walking around its rim",
+      "image_text": "ONE PLANE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat disc of beads, a small black cartoon figure walking around its rim. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"ONE PLANE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "The centre gets so compressed that fusion starts, and there is a star.",
+      "scene": "a bright bulb at the centre of the disc, a small black cartoon figure screwing it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bright bulb at the centre of the disc, a small black cartoon figure screwing it in. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Out in the disc, dust grains stick together, become pebbles, then rocks, then worlds.",
+      "scene": "small pebbles pressed onto a larger ball, a small black cartoon figure pressing one on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. small pebbles pressed onto a larger ball, a small black cartoon figure pressing one on. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And we can photograph this happening. Real discs, with real gaps carved by planets forming inside them.",
+      "scene": "a photograph of a ringed disc, a small black cartoon figure holding it up with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a photograph of a ringed disc, a small black cartoon figure holding it up with both arms. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is exactly where this series started, a hundred and eighty days ago. Go back to day one.",
+      "scene": "a book being opened at the first page, a small black cartoon figure hauling the cover over",
+      "image_text": "DAY ONE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a book being opened at the first page, a small black cartoon figure hauling the cover over. the scene belongs to a loose cloud collapsing, spinning up and flattening into a disc, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"DAY ONE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A cold cloud with a slightly denser patch collapses under gravity, and whatever faint spin it had speeds up as it shrinks, exactly like a skater pulling their arms in. That spin flattens it: sideways orbits survive, straight-in motion cancels out. So the cloud becomes a disc, which is why our solar system lies almost in one plane. The centre compresses until fusion starts, and out in the disc dust sticks into pebbles, rocks and worlds. We can photograph it happening right now.\n\nThat is 180 days. Start again from day one, it reads completely differently.\n\n#reels #trending #viral #explorepage #reelsinstagram #solarsystem #astronomy #planets #space #science",
+    "thumbnail_beat": "06"
+  }
+}

@@ -1,0 +1,718 @@
+{
+  "audio_duration": 46.341125,
+  "segments": [
+    {
+      "text": "Andromeda",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "is",
+      "start": 0.56,
+      "end": 0.72
+    },
+    {
+      "text": "heading",
+      "start": 0.72,
+      "end": 0.96
+    },
+    {
+      "text": "straight",
+      "start": 0.96,
+      "end": 1.36
+    },
+    {
+      "text": "at",
+      "start": 1.36,
+      "end": 1.52
+    },
+    {
+      "text": "us",
+      "start": 1.52,
+      "end": 1.76
+    },
+    {
+      "text": "at",
+      "start": 1.84,
+      "end": 1.92
+    },
+    {
+      "text": "about",
+      "start": 1.92,
+      "end": 2.16
+    },
+    {
+      "text": "a",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "hundred",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "and",
+      "start": 2.64,
+      "end": 2.8
+    },
+    {
+      "text": "ten",
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "text": "kilometres",
+      "start": 3.04,
+      "end": 3.52
+    },
+    {
+      "text": "a",
+      "start": 3.52,
+      "end": 3.52
+    },
+    {
+      "text": "second",
+      "start": 3.52,
+      "end": 4.0
+    },
+    {
+      "text": "In",
+      "start": 4.32,
+      "end": 4.48
+    },
+    {
+      "text": "roughly",
+      "start": 4.48,
+      "end": 4.88
+    },
+    {
+      "text": "four",
+      "start": 4.88,
+      "end": 5.2
+    },
+    {
+      "text": "billion",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "text": "years",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "text": "the",
+      "start": 6.24,
+      "end": 6.24
+    },
+    {
+      "text": "two",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "text": "galaxies",
+      "start": 6.56,
+      "end": 7.04
+    },
+    {
+      "text": "merge",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "text": "Which",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "sounds",
+      "start": 8.0,
+      "end": 8.32
+    },
+    {
+      "text": "like",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "the",
+      "start": 8.48,
+      "end": 8.56
+    },
+    {
+      "text": "worst",
+      "start": 8.56,
+      "end": 8.96
+    },
+    {
+      "text": "news",
+      "start": 8.96,
+      "end": 9.28
+    },
+    {
+      "text": "anyone",
+      "start": 9.28,
+      "end": 9.68
+    },
+    {
+      "text": "has",
+      "start": 9.68,
+      "end": 9.84
+    },
+    {
+      "text": "ever",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "text": "delivered",
+      "start": 10.08,
+      "end": 10.56
+    },
+    {
+      "text": "But",
+      "start": 10.8,
+      "end": 10.88
+    },
+    {
+      "text": "almost",
+      "start": 10.88,
+      "end": 11.28
+    },
+    {
+      "text": "nothing",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "will",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "text": "actually",
+      "start": 11.84,
+      "end": 12.24
+    },
+    {
+      "text": "collide",
+      "start": 12.24,
+      "end": 12.8
+    },
+    {
+      "text": "Not",
+      "start": 12.96,
+      "end": 13.2
+    },
+    {
+      "text": "one",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "star",
+      "start": 13.52,
+      "end": 13.92
+    },
+    {
+      "text": "is",
+      "start": 13.92,
+      "end": 14.0
+    },
+    {
+      "text": "likely",
+      "start": 14.0,
+      "end": 14.4
+    },
+    {
+      "text": "to",
+      "start": 14.4,
+      "end": 14.4
+    },
+    {
+      "text": "hit",
+      "start": 14.4,
+      "end": 14.56
+    },
+    {
+      "text": "another",
+      "start": 14.56,
+      "end": 15.04
+    },
+    {
+      "text": "Because",
+      "start": 15.299410430839002,
+      "end": 15.539410430839002
+    },
+    {
+      "text": "a",
+      "start": 15.539410430839002,
+      "end": 15.619410430839002
+    },
+    {
+      "text": "galaxy",
+      "start": 15.619410430839002,
+      "end": 16.099410430839
+    },
+    {
+      "text": "is",
+      "start": 16.099410430839,
+      "end": 16.259410430839
+    },
+    {
+      "text": "mostly",
+      "start": 16.259410430839,
+      "end": 16.659410430839003
+    },
+    {
+      "text": "empty",
+      "start": 16.659410430839003,
+      "end": 17.139410430839
+    },
+    {
+      "text": "Overwhelmingly",
+      "start": 17.459410430839,
+      "end": 18.259410430839
+    },
+    {
+      "text": "unimaginably",
+      "start": 18.339410430839003,
+      "end": 19.139410430839
+    },
+    {
+      "text": "empty",
+      "start": 19.139410430839,
+      "end": 19.539410430839002
+    },
+    {
+      "text": "If",
+      "start": 19.859410430839002,
+      "end": 20.019410430839002
+    },
+    {
+      "text": "the",
+      "start": 20.019410430839002,
+      "end": 20.099410430839
+    },
+    {
+      "text": "Sun",
+      "start": 20.099410430839,
+      "end": 20.419410430839
+    },
+    {
+      "text": "were",
+      "start": 20.419410430839,
+      "end": 20.579410430839
+    },
+    {
+      "text": "a",
+      "start": 20.579410430839,
+      "end": 20.659410430839003
+    },
+    {
+      "text": "grain",
+      "start": 20.659410430839003,
+      "end": 20.899410430839
+    },
+    {
+      "text": "of",
+      "start": 20.899410430839,
+      "end": 20.979410430839003
+    },
+    {
+      "text": "sand",
+      "start": 20.979410430839003,
+      "end": 21.459410430839
+    },
+    {
+      "text": "the",
+      "start": 21.699410430839002,
+      "end": 21.779410430839
+    },
+    {
+      "text": "nearest",
+      "start": 21.779410430839,
+      "end": 22.179410430839003
+    },
+    {
+      "text": "star",
+      "start": 22.179410430839003,
+      "end": 22.419410430839
+    },
+    {
+      "text": "would",
+      "start": 22.419410430839,
+      "end": 22.659410430839003
+    },
+    {
+      "text": "be",
+      "start": 22.659410430839003,
+      "end": 22.739410430839
+    },
+    {
+      "text": "kilometres",
+      "start": 22.739410430839,
+      "end": 23.219410430839
+    },
+    {
+      "text": "away",
+      "start": 23.219410430839,
+      "end": 23.699410430839002
+    },
+    {
+      "text": "Scale",
+      "start": 23.779410430839,
+      "end": 24.179410430839
+    },
+    {
+      "text": "two",
+      "start": 24.179410430839,
+      "end": 24.419410430839
+    },
+    {
+      "text": "clouds",
+      "start": 24.419410430839,
+      "end": 24.739410430839
+    },
+    {
+      "text": "like",
+      "start": 24.739410430839,
+      "end": 24.979410430839003
+    },
+    {
+      "text": "that",
+      "start": 24.979410430839003,
+      "end": 25.139410430839
+    },
+    {
+      "text": "up",
+      "start": 25.139410430839,
+      "end": 25.459410430839
+    },
+    {
+      "text": "pass",
+      "start": 25.619410430839004,
+      "end": 25.939410430839004
+    },
+    {
+      "text": "them",
+      "start": 25.939410430839004,
+      "end": 26.099410430839
+    },
+    {
+      "text": "through",
+      "start": 26.099410430839,
+      "end": 26.339410430839003
+    },
+    {
+      "text": "each",
+      "start": 26.339410430839003,
+      "end": 26.499410430839
+    },
+    {
+      "text": "other",
+      "start": 26.499410430839,
+      "end": 26.819410430839
+    },
+    {
+      "text": "and",
+      "start": 26.979410430839003,
+      "end": 27.139410430839
+    },
+    {
+      "text": "they",
+      "start": 27.139410430839,
+      "end": 27.219410430839
+    },
+    {
+      "text": "simply",
+      "start": 27.219410430839,
+      "end": 27.619410430839004
+    },
+    {
+      "text": "interpenetrate",
+      "start": 27.619410430839004,
+      "end": 28.579410430839
+    },
+    {
+      "text": "What",
+      "start": 28.979410430839003,
+      "end": 29.219410430839
+    },
+    {
+      "text": "does",
+      "start": 29.219410430839,
+      "end": 29.459410430839
+    },
+    {
+      "text": "change",
+      "start": 29.459410430839,
+      "end": 29.859410430839002
+    },
+    {
+      "text": "is",
+      "start": 29.859410430839002,
+      "end": 30.019410430839002
+    },
+    {
+      "text": "the",
+      "start": 30.019410430839002,
+      "end": 30.099410430839
+    },
+    {
+      "text": "shape",
+      "start": 30.099410430839,
+      "end": 30.499410430839
+    },
+    {
+      "text": "Gravity",
+      "start": 30.957052154195008,
+      "end": 31.43705215419501
+    },
+    {
+      "text": "drags",
+      "start": 31.43705215419501,
+      "end": 31.83705215419501
+    },
+    {
+      "text": "both",
+      "start": 31.83705215419501,
+      "end": 32.15705215419501
+    },
+    {
+      "text": "into",
+      "start": 32.15705215419501,
+      "end": 32.31705215419501
+    },
+    {
+      "text": "long",
+      "start": 32.31705215419501,
+      "end": 32.63705215419501
+    },
+    {
+      "text": "streams",
+      "start": 32.63705215419501,
+      "end": 33.197052154195006
+    },
+    {
+      "text": "then",
+      "start": 33.35705215419501,
+      "end": 33.59705215419501
+    },
+    {
+      "text": "one",
+      "start": 33.59705215419501,
+      "end": 33.83705215419501
+    },
+    {
+      "text": "blob",
+      "start": 33.83705215419501,
+      "end": 34.23705215419501
+    },
+    {
+      "text": "The",
+      "start": 34.557052154195006,
+      "end": 34.63705215419501
+    },
+    {
+      "text": "Sun",
+      "start": 34.63705215419501,
+      "end": 34.95705215419501
+    },
+    {
+      "text": "will",
+      "start": 34.95705215419501,
+      "end": 35.03705215419501
+    },
+    {
+      "text": "probably",
+      "start": 35.03705215419501,
+      "end": 35.43705215419501
+    },
+    {
+      "text": "get",
+      "start": 35.43705215419501,
+      "end": 35.67705215419501
+    },
+    {
+      "text": "flung",
+      "start": 35.67705215419501,
+      "end": 35.99705215419501
+    },
+    {
+      "text": "into",
+      "start": 35.99705215419501,
+      "end": 36.15705215419501
+    },
+    {
+      "text": "a",
+      "start": 36.15705215419501,
+      "end": 36.23705215419501
+    },
+    {
+      "text": "different",
+      "start": 36.23705215419501,
+      "end": 36.63705215419501
+    },
+    {
+      "text": "orbit",
+      "start": 36.63705215419501,
+      "end": 36.95705215419501
+    },
+    {
+      "text": "and",
+      "start": 37.197052154195006,
+      "end": 37.27705215419501
+    },
+    {
+      "text": "carry",
+      "start": 37.27705215419501,
+      "end": 37.59705215419501
+    },
+    {
+      "text": "on",
+      "start": 37.59705215419501,
+      "end": 37.75705215419501
+    },
+    {
+      "text": "completely",
+      "start": 37.75705215419501,
+      "end": 38.23705215419501
+    },
+    {
+      "text": "unharmed",
+      "start": 38.23705215419501,
+      "end": 38.87705215419501
+    },
+    {
+      "text": "Two",
+      "start": 39.197052154195006,
+      "end": 39.35705215419501
+    },
+    {
+      "text": "galaxies",
+      "start": 39.35705215419501,
+      "end": 39.917052154195005
+    },
+    {
+      "text": "will",
+      "start": 39.917052154195005,
+      "end": 39.99705215419501
+    },
+    {
+      "text": "pass",
+      "start": 39.99705215419501,
+      "end": 40.31705215419501
+    },
+    {
+      "text": "right",
+      "start": 40.31705215419501,
+      "end": 40.557052154195006
+    },
+    {
+      "text": "through",
+      "start": 40.557052154195006,
+      "end": 40.87705215419501
+    },
+    {
+      "text": "each",
+      "start": 40.87705215419501,
+      "end": 40.95705215419501
+    },
+    {
+      "text": "other",
+      "start": 40.95705215419501,
+      "end": 41.27705215419501
+    },
+    {
+      "text": "and",
+      "start": 41.43705215419501,
+      "end": 41.67705215419501
+    },
+    {
+      "text": "barely",
+      "start": 41.67705215419501,
+      "end": 41.99705215419501
+    },
+    {
+      "text": "scratch",
+      "start": 41.99705215419501,
+      "end": 42.39705215419501
+    },
+    {
+      "text": "a",
+      "start": 42.39705215419501,
+      "end": 42.39705215419501
+    },
+    {
+      "text": "thing",
+      "start": 42.39705215419501,
+      "end": 42.79705215419501
+    },
+    {
+      "text": "One",
+      "start": 43.03705215419501,
+      "end": 43.27705215419501
+    },
+    {
+      "text": "of",
+      "start": 43.27705215419501,
+      "end": 43.35705215419501
+    },
+    {
+      "text": "these",
+      "start": 43.35705215419501,
+      "end": 43.59705215419501
+    },
+    {
+      "text": "every",
+      "start": 43.59705215419501,
+      "end": 43.917052154195005
+    },
+    {
+      "text": "day",
+      "start": 43.917052154195005,
+      "end": 44.23705215419501
+    },
+    {
+      "text": "Follow",
+      "start": 44.39705215419501,
+      "end": 44.71705215419501
+    },
+    {
+      "text": "so",
+      "start": 44.71705215419501,
+      "end": 44.87705215419501
+    },
+    {
+      "text": "you",
+      "start": 44.87705215419501,
+      "end": 45.03705215419501
+    },
+    {
+      "text": "do",
+      "start": 45.03705215419501,
+      "end": 45.11705215419501
+    },
+    {
+      "text": "not",
+      "start": 45.11705215419501,
+      "end": 45.35705215419501
+    },
+    {
+      "text": "miss",
+      "start": 45.35705215419501,
+      "end": 45.59705215419501
+    },
+    {
+      "text": "tomorrow",
+      "start": 45.59705215419501,
+      "end": 46.15705215419501
+    }
+  ],
+  "text": "Andromeda is heading straight at us at about a hundred and ten kilometres a second. In roughly four billion years, the two galaxies merge. Which sounds like the worst news anyone has ever delivered. But almost nothing will actually collide. Not one star is likely to hit another. Because a galaxy is mostly empty. Overwhelmingly, unimaginably empty. If the Sun were a grain of sand, the nearest star would be kilometres away. Scale two clouds like that up, pass them through each other, and they simply interpenetrate. What does change is the shape. Gravity drags both into long streams, then one blob. The Sun will probably get flung into a different orbit, and carry on completely unharmed. Two galaxies will pass right through each other and barely scratch a thing. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

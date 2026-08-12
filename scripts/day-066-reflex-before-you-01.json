@@ -1,0 +1,109 @@
+{
+  "topic": "Signals at 120 metres per second",
+  "lesson": "A reflex is routed through your spinal cord and fires before the signal ever reaches your brain, so your body has already acted by the time you are aware of anything.",
+  "slug": "day-066-reflex-before-you-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Touch something hot and your hand is already moving before you know it is hot.",
+      "scene": "a metal pan handle glowing faintly, a small black cartoon figure snatching both arms back from it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal pan handle glowing faintly, a small black cartoon figure snatching both arms back from it. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It feels instant. It is not. Everything you feel had to travel first.",
+      "scene": "a long garden hose coiled between two taps, a small black cartoon figure trudging along its length",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a long garden hose coiled between two taps, a small black cartoon figure trudging along its length. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Nerve signals run at up to a hundred and twenty metres a second.",
+      "scene": "a bicycle brake cable stretched taut, a small black cartoon figure yanking the lever at one end",
+      "image_text": "FAST",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bicycle brake cable stretched taut, a small black cartoon figure yanking the lever at one end. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FAST\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "That speed comes from a fatty sheath wrapped around the nerve, like insulation on a cable.",
+      "scene": "a length of insulated copper wire, a small black cartoon figure stripping the sheath back with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a length of insulated copper wire, a small black cartoon figure stripping the sheath back with both arms. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Bare unwrapped nerves crawl by comparison, which is why a dull ache arrives late.",
+      "scene": "a frayed hemp rope lying slack, a small black cartoon figure dragging a wooden bead slowly along it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a frayed hemp rope lying slack, a small black cartoon figure dragging a wooden bead slowly along it. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But the fast signal does not go to your brain first.",
+      "scene": "a wooden signpost at a fork, a small black cartoon figure hauling its arm around to point the other way",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wooden signpost at a fork, a small black cartoon figure hauling its arm around to point the other way. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "It reaches your spinal cord, and the spinal cord sends the order straight back down.",
+      "scene": "a bell pull cord on a return spring, a small black cartoon figure swinging off the cord as the bell tips back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bell pull cord on a return spring, a small black cartoon figure swinging off the cord as the bell tips back. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Your arm is already retracting. The message to your brain is still in transit.",
+      "scene": "a mousetrap snapped shut, a small black cartoon figure still running towards it waving a small flag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mousetrap snapped shut, a small black cartoon figure still running towards it waving a small flag. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So you never decided to pull away. You found out that you had.",
+      "scene": "a light switch already flipped down, a small black cartoon figure reaching for it too late with one arm out",
+      "image_text": "TOO LATE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a light switch already flipped down, a small black cartoon figure reaching for it too late with one arm out. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TOO LATE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "By the time you show up, your body has already handled it.",
+      "scene": "a neat stack of caught plates, a small black cartoon figure arriving with both arms out to catch nothing",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a neat stack of caught plates, a small black cartoon figure arriving with both arms out to catch nothing. the scene belongs to signals travelling along a line, and the difference between the order and the news of it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Nerve signals travel at up to 120 metres per second, sped up by a fatty myelin sheath that works like insulation on a cable. But the reflex that pulls your hand off a hot pan never reaches your brain first. It goes to the spinal cord, which sends the order straight back down. Your arm is already moving while the message to your brain is still in transit. You do not decide to pull away. You find out that you did.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #nervoussystem #reflex #neuroscience #humanbody #science",
+    "thumbnail_beat": "01"
+  }
+}

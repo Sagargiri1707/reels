@@ -1,0 +1,109 @@
+{
+  "topic": "Bone is stronger than steel, by weight",
+  "lesson": "Bone beats steel for strength per kilogram because it combines flexible collagen with hard mineral in a hollow shaft, and it rebuilds itself to match whatever load you put on it.",
+  "slug": "day-064-bone-stronger-than-steel-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Kilogram for kilogram, bone carries more load than steel. And steel cannot heal.",
+      "scene": "a balance scale with a pale stone block on one pan and a steel bolt on the other, a small black cartoon figure hauling the lighter pan down",
+      "image_text": "BY WEIGHT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale with a pale stone block on one pan and a steel bolt on the other, a small black cartoon figure hauling the lighter pan down. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BY WEIGHT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Anything hard enough to resist crushing is usually brittle enough to shatter.",
+      "scene": "a sheet of glass propped flat, a small black cartoon figure swinging a hammer at the corner of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sheet of glass propped flat, a small black cartoon figure swinging a hammer at the corner of it. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Bone gets around that by being two materials at the same time.",
+      "scene": "a slab of laminated plywood, a small black cartoon figure peeling two layers apart at the end with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slab of laminated plywood, a small black cartoon figure peeling two layers apart at the end with both arms. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Collagen fibres give it flex, so it bends before it snaps.",
+      "scene": "a bundle of green willow rods, a small black cartoon figure bending one into a deep arc with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bundle of green willow rods, a small black cartoon figure bending one into a deep arc with their whole body. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Mineral crystals packed around those fibres give it hardness.",
+      "scene": "a slab of set mortar, a small black cartoon figure chipping at its face with a chisel",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slab of set mortar, a small black cartoon figure chipping at its face with a chisel. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And the shaft is hollow, which is how you get the strength without the mass.",
+      "scene": "an upright length of scaffolding tube, a small black cartoon figure leaning over the open end and peering down it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an upright length of scaffolding tube, a small black cartoon figure leaning over the open end and peering down it. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "The strange part is that it is not finished. It is being rebuilt right now.",
+      "scene": "a wall clock with its back off, a small black cartoon figure turning a gear inside while the hands move",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wall clock with its back off, a small black cartoon figure turning a gear inside while the hands move. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "One set of cells dissolves old bone. Another lays fresh bone down behind them.",
+      "scene": "a stack of bricks, a small black cartoon figure pulling one out of the bottom while a new one waits on top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of bricks, a small black cartoon figure pulling one out of the bottom while a new one waits on top. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "So the skeleton follows the load. Astronauts lose it in orbit because nothing is pulling.",
+      "scene": "a chain hanging slack from a hook with nothing on it, a small black cartoon figure dangling from it not moving",
+      "image_text": "NO LOAD",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chain hanging slack from a hook with nothing on it, a small black cartoon figure dangling from it not moving. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO LOAD\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Carry something heavy and your bones thicken to meet it. Steel just wears out.",
+      "scene": "a thick rope with one braided section visibly fatter, a small black cartoon figure hauling hard on the thick part",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick rope with one braided section visibly fatter, a small black cartoon figure hauling hard on the thick part. the scene belongs to structures that hold weight, and the trade between being hard and being brittle, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Bone has a higher strength-to-weight ratio than steel or concrete, and unlike steel it repairs itself. It manages that by being a composite: collagen fibres for flex, mineral crystals for hardness, and a hollow shaft for strength without the mass. It is also never finished. Osteoclasts dissolve old bone while osteoblasts lay down new, constantly remodelling to match load. That is why astronauts lose bone density and why weight-bearing exercise builds it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #bones #anatomy #humanbody #biomechanics #science",
+    "thumbnail_beat": "01"
+  }
+}

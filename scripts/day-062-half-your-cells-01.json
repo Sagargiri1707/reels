@@ -1,0 +1,109 @@
+{
+  "topic": "Roughly half your cells aren't human",
+  "lesson": "You carry more bacterial cells than human ones, and they do work you cannot do yourself: breaking down fibre, making vitamins and training your immune system.",
+  "slug": "day-062-half-your-cells-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Count every cell in your body and fewer than half of them are yours.",
+      "scene": "a spread of dark seeds on the surface, a small black cartoon figure sweeping half of them aside with a stiff card",
+      "image_text": "HALF",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spread of dark seeds on the surface, a small black cartoon figure sweeping half of them aside with a stiff card. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"HALF\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Around thirty trillion human cells. Around thirty eight trillion bacteria.",
+      "scene": "two glass jars filled to slightly different heights, a small black cartoon figure balancing on the rim of the fuller one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two glass jars filled to slightly different heights, a small black cartoon figure balancing on the rim of the fuller one. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Most of them live in your gut, packed tighter than any city on Earth.",
+      "scene": "a coiled garden hose crammed into a small crate, a small black cartoon figure standing on the lid forcing it shut",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a coiled garden hose crammed into a small crate, a small black cartoon figure standing on the lid forcing it shut. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "They are not passengers. They break down fibre your own enzymes cannot touch.",
+      "scene": "a thick knot of dry rope, a small black cartoon figure sawing through the last strand with a tiny blade",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thick knot of dry rope, a small black cartoon figure sawing through the last strand with a tiny blade. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "They manufacture vitamins you do not make yourself, and hand them straight over.",
+      "scene": "a small brown bottle under a funnel, a small black cartoon figure pouring bright beads down into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small brown bottle under a funnel, a small black cartoon figure pouring bright beads down into it. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "And early on, they teach your immune system what is safe to leave alone.",
+      "scene": "a row of face down cards, a small black cartoon figure turning one over and holding it up with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of face down cards, a small black cartoon figure turning one over and holding it up with both arms. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "There are real links between that crowd and your mood, along the nerve joining gut to brain.",
+      "scene": "two tin cans joined by a taut string across the surface, a small black cartoon figure shouting into the lower can",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two tin cans joined by a taut string across the surface, a small black cartoon figure shouting into the lower can. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "How much of that is cause and how much is coincidence is still being argued over.",
+      "scene": "a balance scale holding a stone on each pan, a small black cartoon figure nudging one pan that refuses to settle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance scale holding a stone on each pan, a small black cartoon figure nudging one pan that refuses to settle. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The startling one is already clinical. Transplanting a healthy person's gut bacteria cures infections antibiotics cannot.",
+      "scene": "a sealed sample pot, a small black cartoon figure carrying it with both arms towards an open empty pot",
+      "image_text": "TRANSPLANT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed sample pot, a small black cartoon figure carrying it with both arms towards an open empty pot. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TRANSPLANT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "You are not one organism. You are a very well managed crowd.",
+      "scene": "a tray packed with many small wooden pegs, a small black cartoon figure on the tray edge straightening the last row",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tray packed with many small wooden pegs, a small black cartoon figure on the tray edge straightening the last row. the scene belongs to a crowd of tiny things doing real work inside something that looks like one object, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "You carry roughly 38 trillion bacteria against roughly 30 trillion human cells. They break down fibre your own enzymes cannot, manufacture vitamins you do not make yourself, and train your immune system early on what to leave alone. The gut-mood links are real but the causation is still being worked out. The genuinely startling case is already clinical: faecal transplants cure infections antibiotics cannot.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #microbiome #guthealth #bacteria #humanbody #science",
+    "thumbnail_beat": "01"
+  }
+}

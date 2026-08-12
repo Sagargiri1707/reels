@@ -1,0 +1,109 @@
+{
+  "topic": "Your immune system keeps a wanted list",
+  "lesson": "Your body stores a molecular mugshot of every infection it has beaten, and a vaccine simply adds a face to that list without making you ill first.",
+  "slug": "day-063-immune-wanted-list-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your body still remembers the exact shape of infections you had as a child.",
+      "scene": "a cork board of curling pinned photographs, a small black cartoon figure pressing a pin into the last one",
+      "image_text": "WANTED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cork board of curling pinned photographs, a small black cartoon figure pressing a pin into the last one. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"WANTED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "The first line of defence remembers nothing. It attacks anything that looks wrong.",
+      "scene": "a heavy wooden gate with a plain iron latch, a small black cartoon figure shoving the latch shut with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy wooden gate with a plain iron latch, a small black cartoon figure shoving the latch shut with their whole body. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "That buys time. Behind it, a slower system is taking notes.",
+      "scene": "a sand timer running out, a small black cartoon figure scratching a mark on a pad propped against it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sand timer running out, a small black cartoon figure scratching a mark on a pad propped against it. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It builds one antibody shaped to fit one specific invader, and nothing else.",
+      "scene": "a lump of clay moulded around an odd shaped key, a small black cartoon figure pulling the mould open to show the fit",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lump of clay moulded around an odd shaped key, a small black cartoon figure pulling the mould open to show the fit. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "That takes days, which is why the first time you meet something, you get ill.",
+      "scene": "a slow tap dripping into a tall beaker, a small black cartoon figure sitting on the beaker rim waiting",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a slow tap dripping into a tall beaker, a small black cartoon figure sitting on the beaker rim waiting. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Then it keeps a copy. Memory cells holding that shape for decades.",
+      "scene": "a card index drawer pulled open, a small black cartoon figure filing one card into the middle of the row",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a card index drawer pulled open, a small black cartoon figure filing one card into the middle of the row. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Meet it again and the response is so fast you never notice you were infected.",
+      "scene": "a stopwatch on the surface, a small black cartoon figure slamming its button down almost the instant it starts",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stopwatch on the surface, a small black cartoon figure slamming its button down almost the instant it starts. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Which is the whole trick behind a vaccine. It is not a treatment.",
+      "scene": "a small glass vial standing beside an untouched roll of bandage, a small black cartoon figure pushing the bandage away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small glass vial standing beside an untouched roll of bandage, a small black cartoon figure pushing the bandage away. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "It is a training exercise. The shape, without the illness.",
+      "scene": "a straw practice dummy, a small black cartoon figure striking it with a wooden stick held in both arms",
+      "image_text": "PRACTICE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a straw practice dummy, a small black cartoon figure striking it with a wooden stick held in both arms. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"PRACTICE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Your body keeps a wanted list. A vaccine just adds a face to it early.",
+      "scene": "the same cork board, a small black cartoon figure pinning one fresh photograph beside the faded ones",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same cork board, a small black cartoon figure pinning one fresh photograph beside the faded ones. the scene belongs to recognising something you have met before and reacting faster the second time, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Your innate immune response attacks anything that looks wrong and remembers nothing. Behind it the adaptive response builds an antibody shaped for one specific invader, which takes days, which is why you get ill the first time. Then it stores memory cells holding that shape for decades. Meet the same thing again and you never notice. That is exactly what a vaccine exploits: it is a training exercise, not a treatment.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #immunesystem #vaccines #biology #humanbody #science",
+    "thumbnail_beat": "01"
+  }
+}

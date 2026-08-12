@@ -1,0 +1,54 @@
+{
+  "images": {
+    "01": {
+      "bytes": 2274206,
+      "file": "01.png",
+      "hash": "6df28eca0e4bcb3f"
+    },
+    "02": {
+      "bytes": 2307047,
+      "file": "02.png",
+      "hash": "89f1996029c07540"
+    },
+    "03": {
+      "bytes": 1935718,
+      "file": "03.png",
+      "hash": "ca2ece389070526a"
+    },
+    "04": {
+      "bytes": 1940071,
+      "file": "04.png",
+      "hash": "6d991735279e14ef"
+    },
+    "05": {
+      "bytes": 2247191,
+      "file": "05.png",
+      "hash": "4aa9df896ad56f03"
+    },
+    "06": {
+      "bytes": 2691357,
+      "file": "06.png",
+      "hash": "037826ca3f3b0df7"
+    },
+    "07": {
+      "bytes": 1922429,
+      "file": "07.png",
+      "hash": "d1b63919ec07f613"
+    },
+    "08": {
+      "bytes": 1730303,
+      "file": "08.png",
+      "hash": "ce0944ce4863c6e2"
+    },
+    "09": {
+      "bytes": 2105925,
+      "file": "09.png",
+      "hash": "b50d3925c975ae91"
+    },
+    "outro": {
+      "bytes": 2261437,
+      "file": "outro.png",
+      "hash": "eabfb4a4a47bb265"
+    }
+  }
+}

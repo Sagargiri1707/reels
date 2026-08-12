@@ -1,0 +1,108 @@
+{
+  "topic": "Your message is torn into pieces and reassembled",
+  "lesson": "Packet switching splits every message into pieces that route independently and reassemble at the far end, which is why the internet degrades instead of dying when parts fail.",
+  "slug": "day-142-message-torn-into-pieces-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Send a photo and it is torn into thousands of pieces that take different routes and arrive out of order.",
+      "scene": "a photograph torn into many numbered scraps, a small black cartoon figure scattering them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a photograph torn into many numbered scraps, a small black cartoon figure scattering them. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "You imagine a line opening between you and the other end. Nothing like that happens.",
+      "scene": "two tin cans and a slack string, a small black cartoon figure dropping the string",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two tin cans and a slack string, a small black cartoon figure dropping the string. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Each piece gets an address and a position, and is then completely on its own.",
+      "scene": "a scrap of card with a tag on it, a small black cartoon figure tying the tag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a scrap of card with a tag on it, a small black cartoon figure tying the tag. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Every junction it reaches looks at the address and picks whichever way looks best right now.",
+      "scene": "a signpost at a three way fork, a small black cartoon figure hauling a scrap down one arm",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a signpost at a three way fork, a small black cartoon figure hauling a scrap down one arm. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Which means two pieces of the same photo can cross different continents.",
+      "scene": "two scraps taking two chalk routes across the surface, a small black cartoon figure dragging one",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two scraps taking two chalk routes across the surface, a small black cartoon figure dragging one. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And that was the point. It was designed with no central place to break.",
+      "scene": "a mesh of string with several strands cut, a small black cartoon figure tugging a surviving one",
+      "image_text": "NO CENTRE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mesh of string with several strands cut, a small black cartoon figure tugging a surviving one. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO CENTRE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Knock out any junction and the pieces just go around it.",
+      "scene": "a blocked chalk path with a detour drawn round, a small black cartoon figure dragging the chalk",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a blocked chalk path with a detour drawn round, a small black cartoon figure dragging the chalk. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "At the far end they are sorted back into order by the numbers they carry.",
+      "scene": "scattered numbered scraps being lined up, a small black cartoon figure sliding one into place",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. scattered numbered scraps being lined up, a small black cartoon figure sliding one into place. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Anything missing gets asked for again, quietly, before you ever see the picture.",
+      "scene": "one empty slot in an otherwise complete row, a small black cartoon figure fitting a fresh scrap in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one empty slot in an otherwise complete row, a small black cartoon figure fitting a fresh scrap in. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Which is why the internet gets slower when it breaks, instead of stopping.",
+      "scene": "a rope bridge with several planks missing, a small black cartoon figure stepping across carefully",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope bridge with several planks missing, a small black cartoon figure stepping across carefully. the scene belongs to one thing broken into many pieces that travel separately and are put back together, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Nothing opens a line between you and the other end. Your message is split into packets, each carrying an address and a position, and each one is routed independently by whichever junction it reaches. Two packets from the same photo can cross different continents and arrive out of order. That was deliberate: no central point to break. The far end sorts them by number and quietly re-requests anything missing, which is why the internet degrades rather than dies.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #internet #networking #packets #technology #science",
+    "thumbnail_beat": "01"
+  }
+}

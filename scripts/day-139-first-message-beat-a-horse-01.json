@@ -1,0 +1,109 @@
+{
+  "topic": "The first message that beat a horse",
+  "lesson": "The telegraph was the first time information moved faster than any physical object could, and that separation reshaped markets, news and everything built on them.",
+  "slug": "day-139-first-message-beat-a-horse-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Before eighteen forty four, information travelled at the speed of a rider. Then it went at the speed of electricity.",
+      "scene": "a horseshoe beside a length of bare wire, a small black cartoon figure hauling the wire past it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a horseshoe beside a length of bare wire, a small black cartoon figure hauling the wire past it. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "For all of history before that, a message was a physical object somebody carried.",
+      "scene": "a sealed letter in a saddlebag, a small black cartoon figure stuffing it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed letter in a saddlebag, a small black cartoon figure stuffing it in. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "News from London reached New York when a ship did. Weeks, if the weather held.",
+      "scene": "a paper boat in a shallow tray, a small black cartoon figure pushing it slowly across",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper boat in a shallow tray, a small black cartoon figure pushing it slowly across. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "The telegraph broke that. A wire, a battery, and a switch you press.",
+      "scene": "a brass switch key on the surface, a small black cartoon figure jumping on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass switch key on the surface, a small black cartoon figure jumping on it. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Morse code gave the commonest letters the shortest signals, so the traffic moved faster.",
+      "scene": "a row of short and long pegs, a small black cartoon figure setting the shortest one first",
+      "image_text": "SHORTEST FIRST",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of short and long pegs, a small black cartoon figure setting the shortest one first. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SHORTEST FIRST\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Then they laid a cable across the Atlantic, and weeks became minutes.",
+      "scene": "a heavy cable running off the edge into a tray of water, a small black cartoon figure feeding it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy cable running off the edge into a tray of water, a small black cartoon figure feeding it in. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Which is the first time in history that information outran the object it was about.",
+      "scene": "a bead racing ahead of a slow cart along a groove, a small black cartoon figure flicking the bead",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bead racing ahead of a slow cart along a groove, a small black cartoon figure flicking the bead. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "A price could reach a market before the cargo did.",
+      "scene": "a tag arriving at an empty stall, a small black cartoon figure pinning it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tag arriving at an empty stall, a small black cartoon figure pinning it up. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which is where modern markets and modern journalism both actually begin.",
+      "scene": "a ledger and a folded newspaper side by side, a small black cartoon figure opening the ledger",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ledger and a folded newspaper side by side, a small black cartoon figure opening the ledger. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Everything after this is a world where knowing arrives before arriving does.",
+      "scene": "an empty saddlebag hanging on a hook, a small black cartoon figure swinging from it",
+      "image_text": "BEFORE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty saddlebag hanging on a hook, a small black cartoon figure swinging from it. the scene belongs to a message arriving long before the thing that carried news used to, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"BEFORE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Before 1844 a message was a physical object somebody carried, and news from London reached New York whenever a ship did. The telegraph broke that: a wire, a battery and a key, with Morse assigning the shortest codes to the commonest letters. Transatlantic cables collapsed the delay from weeks to minutes. It was the first time information moved faster than the objects it described, which is where modern markets and modern journalism both begin.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #telegraph #morsecode #history #communication #science",
+    "thumbnail_beat": "01"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Speaking through invisible waves",
+  "lesson": "Radio works by riding your voice on a carrier wave and stripping the carrier away at the far end, and because bandwidth is genuinely finite, spectrum is property.",
+  "slug": "day-140-speaking-through-invisible-waves-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Your voice is riding on a wave you cannot see, and the receiver strips that wave away to hand it back.",
+      "scene": "a small parcel strapped to a rolling wheel, a small black cartoon figure untying the strap",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small parcel strapped to a rolling wheel, a small black cartoon figure untying the strap. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A voice on its own does not travel. Its wavelengths are far too clumsy for an aerial.",
+      "scene": "an enormously long floppy rope, a small black cartoon figure struggling to lift one end",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormously long floppy rope, a small black cartoon figure struggling to lift one end. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So you make a fast, steady wave that does travel, and you ride the voice on top of it.",
+      "scene": "a taut wire vibrating fast, a small black cartoon figure hooking a small tag onto it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a taut wire vibrating fast, a small black cartoon figure hooking a small tag onto it. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Amplitude modulation makes the carrier louder and quieter in the shape of the voice.",
+      "scene": "a strip cut with a wavy outer edge, a small black cartoon figure running an arm along the edge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a strip cut with a wavy outer edge, a small black cartoon figure running an arm along the edge. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Frequency modulation keeps it the same size and squeezes and stretches it instead.",
+      "scene": "a spring squeezed at one end and stretched at the other, a small black cartoon figure gripping it",
+      "image_text": "SQUEEZED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spring squeezed at one end and stretched at the other, a small black cartoon figure gripping it. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SQUEEZED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "And each band behaves differently, which is why the dial matters more than it seems.",
+      "scene": "a row of tuning dials, a small black cartoon figure turning one to a marked notch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a row of tuning dials, a small black cartoon figure turning one to a marked notch. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Long waves bend around hills. Short ones need a clear line of sight.",
+      "scene": "a rope looping over a wooden block, a small black cartoon figure guiding it over the top",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope looping over a wooden block, a small black cartoon figure guiding it over the top. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And at night, the upper atmosphere changes and bounces long waves back down, so they carry much further.",
+      "scene": "a ball bounced off an overhead board back down, a small black cartoon figure throwing it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball bounced off an overhead board back down, a small black cartoon figure throwing it up. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which means the spectrum is finite, divided, and worth an enormous amount of money.",
+      "scene": "a strip of card cut into numbered plots, a small black cartoon figure hammering a stake into one",
+      "image_text": "FINITE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a strip of card cut into numbered plots, a small black cartoon figure hammering a stake into one. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FINITE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Nobody owns light. Everybody owns a slice of it.",
+      "scene": "a fan of card with one wedge pulled out, a small black cartoon figure carrying the wedge off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fan of card with one wedge pulled out, a small black cartoon figure carrying the wedge off. the scene belongs to a signal carried by something else and then separated from it again, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A voice cannot travel as radio on its own, so it rides on a carrier wave. AM varies the carrier's size in the shape of the voice, FM squeezes and stretches it instead, and the receiver strips the carrier away at the far end. Different bands behave differently: long waves bend around obstacles, short ones need line of sight, and at night the ionosphere bounces AM back down so it carries much further. Bandwidth is genuinely finite, which is why spectrum is auctioned like land.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #radio #waves #spectrum #communication #science",
+    "thumbnail_beat": "09"
+  }
+}

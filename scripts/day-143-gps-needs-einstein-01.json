@@ -1,0 +1,108 @@
+{
+  "topic": "GPS only works because of Einstein",
+  "lesson": "GPS is clock comparison, so both relativistic corrections have to be applied or the fix drifts about ten kilometres off within a day.",
+  "slug": "day-143-gps-needs-einstein-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Ignore relativity and your maps app drifts about ten kilometres off within a day.",
+      "scene": "a pin pushed into a chalk map, a small black cartoon figure dragging the pin far off the mark",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pin pushed into a chalk map, a small black cartoon figure dragging the pin far off the mark. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A satellite does not know where you are. It only says who it is and what time it is.",
+      "scene": "a small card dropped from above onto the surface, a small black cartoon figure catching it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small card dropped from above onto the surface, a small black cartoon figure catching it. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Your phone compares that time to its own and works out how long the signal took.",
+      "scene": "two clocks side by side, a small black cartoon figure holding one against the other",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two clocks side by side, a small black cartoon figure holding one against the other. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "That gives a distance. One distance puts you on a sphere. Two puts you on a circle.",
+      "scene": "two chalk circles overlapping, a small black cartoon figure standing where they cross",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two chalk circles overlapping, a small black cartoon figure standing where they cross. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Four satellites pins you to one point, and fixes your phone's own sloppy clock as well.",
+      "scene": "four strings pulled to one knot, a small black cartoon figure holding the knot down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. four strings pulled to one knot, a small black cartoon figure holding the knot down. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "Which means everything depends on the clocks agreeing. And they do not.",
+      "scene": "two clocks reading slightly differently, a small black cartoon figure nudging one hand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two clocks reading slightly differently, a small black cartoon figure nudging one hand. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Up there gravity is weaker, so the satellite clock runs faster than yours.",
+      "scene": "a clock lifted onto a tall stack of books, a small black cartoon figure climbing beside it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clock lifted onto a tall stack of books, a small black cartoon figure climbing beside it. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "It is also moving fast, which makes it run slower. The two pull opposite ways.",
+      "scene": "a clock on a spinning turntable, a small black cartoon figure holding the edge steady",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a clock on a spinning turntable, a small black cartoon figure holding the edge steady. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Gravity wins, by about thirty eight microseconds a day, and light crosses a lot of ground in that.",
+      "scene": "a ruler with a tiny gap marked at one end, a small black cartoon figure pressing a pin in",
+      "image_text": "MICROSECONDS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ruler with a tiny gap marked at one end, a small black cartoon figure pressing a pin in. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"MICROSECONDS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "So the correction is built in before launch. Relativity is not abstract. It is in your pocket.",
+      "scene": "a small adjustment screw on a clock face, a small black cartoon figure turning it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small adjustment screw on a clock face, a small black cartoon figure turning it with both arms. the scene belongs to position worked out purely from how late each signal is, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A GPS satellite does not know where you are. It broadcasts its identity and the time, your receiver measures how late the signal is, and four of those pin you to a point while also correcting your phone's own clock. Which makes the whole thing a clock comparison, and the clocks disagree: weaker gravity up there speeds them up, orbital speed slows them down, and gravity wins by roughly 38 microseconds a day. Without the correction the fix drifts kilometres off within a day.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #gps #relativity #einstein #physics #science",
+    "thumbnail_beat": "01"
+  }
+}

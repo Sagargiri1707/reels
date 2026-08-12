@@ -1,0 +1,703 @@
+{
+  "audio_duration": 44.904375,
+  "segments": [
+    {
+      "text": "Cheese",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "bread",
+      "start": 0.64,
+      "end": 1.12
+    },
+    {
+      "text": "coffee",
+      "start": 1.28,
+      "end": 1.76
+    },
+    {
+      "text": "chocolate",
+      "start": 1.92,
+      "end": 2.4
+    },
+    {
+      "text": "soy",
+      "start": 2.56,
+      "end": 2.88
+    },
+    {
+      "text": "sauce",
+      "start": 2.88,
+      "end": 3.28
+    },
+    {
+      "text": "pickles",
+      "start": 3.36,
+      "end": 3.92
+    },
+    {
+      "text": "All",
+      "start": 4.24,
+      "end": 4.48
+    },
+    {
+      "text": "of",
+      "start": 4.48,
+      "end": 4.56
+    },
+    {
+      "text": "them",
+      "start": 4.56,
+      "end": 4.72
+    },
+    {
+      "text": "are",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "text": "something",
+      "start": 4.8,
+      "end": 5.2
+    },
+    {
+      "text": "rotting",
+      "start": 5.2,
+      "end": 5.6
+    },
+    {
+      "text": "on",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "text": "purpose",
+      "start": 5.76,
+      "end": 6.24
+    },
+    {
+      "text": "Rot",
+      "start": 6.56,
+      "end": 6.88
+    },
+    {
+      "text": "is",
+      "start": 6.88,
+      "end": 6.96
+    },
+    {
+      "text": "only",
+      "start": 6.96,
+      "end": 7.28
+    },
+    {
+      "text": "what",
+      "start": 7.28,
+      "end": 7.44
+    },
+    {
+      "text": "you",
+      "start": 7.44,
+      "end": 7.52
+    },
+    {
+      "text": "call",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "it",
+      "start": 7.84,
+      "end": 7.84
+    },
+    {
+      "text": "when",
+      "start": 7.84,
+      "end": 8.0
+    },
+    {
+      "text": "it",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "goes",
+      "start": 8.08,
+      "end": 8.32
+    },
+    {
+      "text": "the",
+      "start": 8.32,
+      "end": 8.4
+    },
+    {
+      "text": "way",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "text": "you",
+      "start": 8.64,
+      "end": 8.72
+    },
+    {
+      "text": "did",
+      "start": 8.72,
+      "end": 8.96
+    },
+    {
+      "text": "not",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "want",
+      "start": 9.12,
+      "end": 9.52
+    },
+    {
+      "text": "Fermentation",
+      "start": 9.92,
+      "end": 10.56
+    },
+    {
+      "text": "is",
+      "start": 10.56,
+      "end": 10.72
+    },
+    {
+      "text": "the",
+      "start": 10.72,
+      "end": 10.8
+    },
+    {
+      "text": "same",
+      "start": 10.8,
+      "end": 11.12
+    },
+    {
+      "text": "process",
+      "start": 11.12,
+      "end": 11.76
+    },
+    {
+      "text": "steered",
+      "start": 11.92,
+      "end": 12.48
+    },
+    {
+      "text": "Microbes",
+      "start": 12.8,
+      "end": 13.36
+    },
+    {
+      "text": "eat",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "text": "the",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "sugars",
+      "start": 13.6,
+      "end": 14.08
+    },
+    {
+      "text": "and",
+      "start": 14.08,
+      "end": 14.24
+    },
+    {
+      "text": "hand",
+      "start": 14.24,
+      "end": 14.48
+    },
+    {
+      "text": "back",
+      "start": 14.48,
+      "end": 14.72
+    },
+    {
+      "text": "acids",
+      "start": 14.72,
+      "end": 15.28
+    },
+    {
+      "text": "alcohol",
+      "start": 15.52,
+      "end": 16.08
+    },
+    {
+      "text": "and",
+      "start": 16.08,
+      "end": 16.24
+    },
+    {
+      "text": "gas",
+      "start": 16.24,
+      "end": 16.72
+    },
+    {
+      "text": "The",
+      "start": 17.051247165532878,
+      "end": 17.21124716553288
+    },
+    {
+      "text": "acid",
+      "start": 17.21124716553288,
+      "end": 17.61124716553288
+    },
+    {
+      "text": "is",
+      "start": 17.61124716553288,
+      "end": 17.69124716553288
+    },
+    {
+      "text": "what",
+      "start": 17.69124716553288,
+      "end": 17.85124716553288
+    },
+    {
+      "text": "stops",
+      "start": 17.85124716553288,
+      "end": 18.25124716553288
+    },
+    {
+      "text": "anything",
+      "start": 18.25124716553288,
+      "end": 18.731247165532878
+    },
+    {
+      "text": "worse",
+      "start": 18.731247165532878,
+      "end": 18.97124716553288
+    },
+    {
+      "text": "moving",
+      "start": 18.97124716553288,
+      "end": 19.29124716553288
+    },
+    {
+      "text": "in",
+      "start": 19.29124716553288,
+      "end": 19.61124716553288
+    },
+    {
+      "text": "That",
+      "start": 19.93124716553288,
+      "end": 20.09124716553288
+    },
+    {
+      "text": "is",
+      "start": 20.09124716553288,
+      "end": 20.25124716553288
+    },
+    {
+      "text": "the",
+      "start": 20.25124716553288,
+      "end": 20.33124716553288
+    },
+    {
+      "text": "preservation",
+      "start": 20.33124716553288,
+      "end": 20.97124716553288
+    },
+    {
+      "text": "half",
+      "start": 20.97124716553288,
+      "end": 21.29124716553288
+    },
+    {
+      "text": "But",
+      "start": 21.61124716553288,
+      "end": 21.77124716553288
+    },
+    {
+      "text": "flavour",
+      "start": 21.77124716553288,
+      "end": 22.25124716553288
+    },
+    {
+      "text": "is",
+      "start": 22.25124716553288,
+      "end": 22.411247165532878
+    },
+    {
+      "text": "the",
+      "start": 22.411247165532878,
+      "end": 22.49124716553288
+    },
+    {
+      "text": "real",
+      "start": 22.49124716553288,
+      "end": 22.731247165532878
+    },
+    {
+      "text": "prize",
+      "start": 22.731247165532878,
+      "end": 23.29124716553288
+    },
+    {
+      "text": "and",
+      "start": 23.53124716553288,
+      "end": 23.61124716553288
+    },
+    {
+      "text": "it",
+      "start": 23.61124716553288,
+      "end": 23.69124716553288
+    },
+    {
+      "text": "is",
+      "start": 23.69124716553288,
+      "end": 23.85124716553288
+    },
+    {
+      "text": "not",
+      "start": 23.85124716553288,
+      "end": 24.17124716553288
+    },
+    {
+      "text": "in",
+      "start": 24.17124716553288,
+      "end": 24.25124716553288
+    },
+    {
+      "text": "the",
+      "start": 24.25124716553288,
+      "end": 24.33124716553288
+    },
+    {
+      "text": "ingredient",
+      "start": 24.33124716553288,
+      "end": 24.89124716553288
+    },
+    {
+      "text": "at",
+      "start": 24.89124716553288,
+      "end": 24.97124716553288
+    },
+    {
+      "text": "all",
+      "start": 24.97124716553288,
+      "end": 25.29124716553288
+    },
+    {
+      "text": "Those",
+      "start": 25.531247165532882,
+      "end": 25.85124716553288
+    },
+    {
+      "text": "compounds",
+      "start": 25.85124716553288,
+      "end": 26.411247165532878
+    },
+    {
+      "text": "do",
+      "start": 26.411247165532878,
+      "end": 26.57124716553288
+    },
+    {
+      "text": "not",
+      "start": 26.57124716553288,
+      "end": 26.731247165532878
+    },
+    {
+      "text": "exist",
+      "start": 26.731247165532878,
+      "end": 27.211247165532882
+    },
+    {
+      "text": "until",
+      "start": 27.211247165532882,
+      "end": 27.45124716553288
+    },
+    {
+      "text": "something",
+      "start": 27.45124716553288,
+      "end": 27.85124716553288
+    },
+    {
+      "text": "has",
+      "start": 27.85124716553288,
+      "end": 28.01124716553288
+    },
+    {
+      "text": "eaten",
+      "start": 28.01124716553288,
+      "end": 28.25124716553288
+    },
+    {
+      "text": "it",
+      "start": 28.25124716553288,
+      "end": 28.411247165532878
+    },
+    {
+      "text": "first",
+      "start": 28.411247165532878,
+      "end": 28.81124716553288
+    },
+    {
+      "text": "There",
+      "start": 29.13124716553288,
+      "end": 29.29124716553288
+    },
+    {
+      "text": "is",
+      "start": 29.29124716553288,
+      "end": 29.45124716553288
+    },
+    {
+      "text": "no",
+      "start": 29.45124716553288,
+      "end": 29.61124716553288
+    },
+    {
+      "text": "such",
+      "start": 29.61124716553288,
+      "end": 29.93124716553288
+    },
+    {
+      "text": "thing",
+      "start": 29.93124716553288,
+      "end": 30.17124716553288
+    },
+    {
+      "text": "as",
+      "start": 30.17124716553288,
+      "end": 30.25124716553288
+    },
+    {
+      "text": "unfermented",
+      "start": 30.33124716553288,
+      "end": 30.97124716553288
+    },
+    {
+      "text": "chocolate",
+      "start": 30.97124716553288,
+      "end": 31.45124716553288
+    },
+    {
+      "text": "that",
+      "start": 31.45124716553288,
+      "end": 31.531247165532882
+    },
+    {
+      "text": "tastes",
+      "start": 31.531247165532882,
+      "end": 31.85124716553288
+    },
+    {
+      "text": "like",
+      "start": 31.85124716553288,
+      "end": 32.01124716553288
+    },
+    {
+      "text": "chocolate",
+      "start": 32.01124716553288,
+      "end": 32.49124716553288
+    },
+    {
+      "text": "And",
+      "start": 32.84219954648526,
+      "end": 32.92219954648526
+    },
+    {
+      "text": "humans",
+      "start": 32.92219954648526,
+      "end": 33.40219954648526
+    },
+    {
+      "text": "worked",
+      "start": 33.40219954648526,
+      "end": 33.72219954648526
+    },
+    {
+      "text": "all",
+      "start": 33.72219954648526,
+      "end": 33.88219954648526
+    },
+    {
+      "text": "of",
+      "start": 33.88219954648526,
+      "end": 34.04219954648526
+    },
+    {
+      "text": "this",
+      "start": 34.04219954648526,
+      "end": 34.20219954648526
+    },
+    {
+      "text": "out",
+      "start": 34.20219954648526,
+      "end": 34.52219954648526
+    },
+    {
+      "text": "thousands",
+      "start": 34.52219954648526,
+      "end": 34.92219954648526
+    },
+    {
+      "text": "of",
+      "start": 34.92219954648526,
+      "end": 35.00219954648526
+    },
+    {
+      "text": "years",
+      "start": 35.00219954648526,
+      "end": 35.32219954648526
+    },
+    {
+      "text": "before",
+      "start": 35.32219954648526,
+      "end": 35.64219954648526
+    },
+    {
+      "text": "anyone",
+      "start": 35.64219954648526,
+      "end": 36.04219954648526
+    },
+    {
+      "text": "knew",
+      "start": 36.04219954648526,
+      "end": 36.20219954648526
+    },
+    {
+      "text": "microbes",
+      "start": 36.20219954648526,
+      "end": 36.76219954648526
+    },
+    {
+      "text": "existed",
+      "start": 36.76219954648526,
+      "end": 37.32219954648526
+    },
+    {
+      "text": "We",
+      "start": 37.56219954648526,
+      "end": 37.64219954648526
+    },
+    {
+      "text": "were",
+      "start": 37.64219954648526,
+      "end": 37.80219954648526
+    },
+    {
+      "text": "running",
+      "start": 37.80219954648526,
+      "end": 38.12219954648526
+    },
+    {
+      "text": "biotechnology",
+      "start": 38.12219954648526,
+      "end": 39.00219954648526
+    },
+    {
+      "text": "blind",
+      "start": 39.00219954648526,
+      "end": 39.56219954648526
+    },
+    {
+      "text": "and",
+      "start": 39.80219954648526,
+      "end": 39.88219954648526
+    },
+    {
+      "text": "we",
+      "start": 39.88219954648526,
+      "end": 39.96219954648526
+    },
+    {
+      "text": "got",
+      "start": 39.96219954648526,
+      "end": 40.20219954648526
+    },
+    {
+      "text": "extremely",
+      "start": 40.20219954648526,
+      "end": 40.68219954648526
+    },
+    {
+      "text": "good",
+      "start": 40.68219954648526,
+      "end": 40.92219954648526
+    },
+    {
+      "text": "at",
+      "start": 40.92219954648526,
+      "end": 41.082199546485256
+    },
+    {
+      "text": "it",
+      "start": 41.082199546485256,
+      "end": 41.24219954648526
+    },
+    {
+      "text": "One",
+      "start": 41.56219954648526,
+      "end": 41.72219954648526
+    },
+    {
+      "text": "of",
+      "start": 41.72219954648526,
+      "end": 41.88219954648526
+    },
+    {
+      "text": "these",
+      "start": 41.88219954648526,
+      "end": 42.12219954648526
+    },
+    {
+      "text": "every",
+      "start": 42.12219954648526,
+      "end": 42.442199546485256
+    },
+    {
+      "text": "day",
+      "start": 42.442199546485256,
+      "end": 42.76219954648526
+    },
+    {
+      "text": "Follow",
+      "start": 43.00219954648526,
+      "end": 43.32219954648526
+    },
+    {
+      "text": "so",
+      "start": 43.32219954648526,
+      "end": 43.48219954648526
+    },
+    {
+      "text": "you",
+      "start": 43.48219954648526,
+      "end": 43.64219954648526
+    },
+    {
+      "text": "do",
+      "start": 43.64219954648526,
+      "end": 43.802199546485255
+    },
+    {
+      "text": "not",
+      "start": 43.802199546485255,
+      "end": 43.96219954648526
+    },
+    {
+      "text": "miss",
+      "start": 43.96219954648526,
+      "end": 44.20219954648526
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.20219954648526,
+      "end": 44.68219954648526
+    }
+  ],
+  "text": "Cheese, bread, coffee, chocolate, soy sauce, pickles. All of them are something rotting on purpose. Rot is only what you call it when it goes the way you did not want. Fermentation is the same process, steered. Microbes eat the sugars and hand back acids, alcohol and gas. The acid is what stops anything worse moving in. That is the preservation half. But flavour is the real prize, and it is not in the ingredient at all. Those compounds do not exist until something has eaten it first. There is no such thing as unfermented chocolate that tastes like chocolate. And humans worked all of this out thousands of years before anyone knew microbes existed. We were running biotechnology blind, and we got extremely good at it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

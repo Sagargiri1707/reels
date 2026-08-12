@@ -1,0 +1,748 @@
+{
+  "audio_duration": 49.815438,
+  "segments": [
+    {
+      "text": "Before",
+      "start": 0.0,
+      "end": 0.4
+    },
+    {
+      "text": "refrigeration",
+      "start": 0.4,
+      "end": 1.28
+    },
+    {
+      "text": "the",
+      "start": 1.44,
+      "end": 1.52
+    },
+    {
+      "text": "most",
+      "start": 1.52,
+      "end": 1.84
+    },
+    {
+      "text": "valuable",
+      "start": 1.84,
+      "end": 2.24
+    },
+    {
+      "text": "technology",
+      "start": 2.24,
+      "end": 2.88
+    },
+    {
+      "text": "on",
+      "start": 2.88,
+      "end": 3.12
+    },
+    {
+      "text": "Earth",
+      "start": 3.2,
+      "end": 3.44
+    },
+    {
+      "text": "was",
+      "start": 3.68,
+      "end": 3.84
+    },
+    {
+      "text": "stopping",
+      "start": 3.84,
+      "end": 4.32
+    },
+    {
+      "text": "food",
+      "start": 4.32,
+      "end": 4.64
+    },
+    {
+      "text": "from",
+      "start": 4.64,
+      "end": 4.88
+    },
+    {
+      "text": "rotting",
+      "start": 4.88,
+      "end": 5.36
+    },
+    {
+      "text": "A",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "harvest",
+      "start": 5.84,
+      "end": 6.32
+    },
+    {
+      "text": "you",
+      "start": 6.32,
+      "end": 6.4
+    },
+    {
+      "text": "cannot",
+      "start": 6.4,
+      "end": 6.88
+    },
+    {
+      "text": "store",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "is",
+      "start": 7.2,
+      "end": 7.44
+    },
+    {
+      "text": "not",
+      "start": 7.44,
+      "end": 7.76
+    },
+    {
+      "text": "wealth",
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "It",
+      "start": 8.4,
+      "end": 8.56
+    },
+    {
+      "text": "is",
+      "start": 8.56,
+      "end": 8.72
+    },
+    {
+      "text": "a",
+      "start": 8.72,
+      "end": 8.72
+    },
+    {
+      "text": "deadline",
+      "start": 8.72,
+      "end": 9.44
+    },
+    {
+      "text": "Salt",
+      "start": 9.6,
+      "end": 10.08
+    },
+    {
+      "text": "came",
+      "start": 10.08,
+      "end": 10.32
+    },
+    {
+      "text": "first",
+      "start": 10.32,
+      "end": 10.88
+    },
+    {
+      "text": "It",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "text": "pulls",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "text": "the",
+      "start": 11.6,
+      "end": 11.68
+    },
+    {
+      "text": "water",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "text": "out",
+      "start": 12.0,
+      "end": 12.32
+    },
+    {
+      "text": "and",
+      "start": 12.56,
+      "end": 12.72
+    },
+    {
+      "text": "microbes",
+      "start": 12.72,
+      "end": 13.28
+    },
+    {
+      "text": "cannot",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "text": "work",
+      "start": 13.68,
+      "end": 13.92
+    },
+    {
+      "text": "without",
+      "start": 13.92,
+      "end": 14.24
+    },
+    {
+      "text": "water",
+      "start": 14.24,
+      "end": 14.72
+    },
+    {
+      "text": "Drying",
+      "start": 15.18077097505669,
+      "end": 15.58077097505669
+    },
+    {
+      "text": "does",
+      "start": 15.58077097505669,
+      "end": 15.74077097505669
+    },
+    {
+      "text": "the",
+      "start": 15.74077097505669,
+      "end": 15.82077097505669
+    },
+    {
+      "text": "same",
+      "start": 15.82077097505669,
+      "end": 16.14077097505669
+    },
+    {
+      "text": "job",
+      "start": 16.14077097505669,
+      "end": 16.46077097505669
+    },
+    {
+      "text": "with",
+      "start": 16.46077097505669,
+      "end": 16.62077097505669
+    },
+    {
+      "text": "sun",
+      "start": 16.62077097505669,
+      "end": 16.94077097505669
+    },
+    {
+      "text": "and",
+      "start": 16.94077097505669,
+      "end": 17.10077097505669
+    },
+    {
+      "text": "wind",
+      "start": 17.10077097505669,
+      "end": 17.50077097505669
+    },
+    {
+      "text": "and",
+      "start": 17.66077097505669,
+      "end": 17.82077097505669
+    },
+    {
+      "text": "costs",
+      "start": 17.82077097505669,
+      "end": 18.22077097505669
+    },
+    {
+      "text": "nothing",
+      "start": 18.22077097505669,
+      "end": 18.62077097505669
+    },
+    {
+      "text": "at",
+      "start": 18.62077097505669,
+      "end": 18.70077097505669
+    },
+    {
+      "text": "all",
+      "start": 18.70077097505669,
+      "end": 19.18077097505669
+    },
+    {
+      "text": "Smoke",
+      "start": 19.42077097505669,
+      "end": 19.90077097505669
+    },
+    {
+      "text": "adds",
+      "start": 19.90077097505669,
+      "end": 20.14077097505669
+    },
+    {
+      "text": "chemicals",
+      "start": 20.14077097505669,
+      "end": 20.70077097505669
+    },
+    {
+      "text": "that",
+      "start": 20.70077097505669,
+      "end": 20.78077097505669
+    },
+    {
+      "text": "kill",
+      "start": 20.78077097505669,
+      "end": 21.020770975056692
+    },
+    {
+      "text": "microbes",
+      "start": 21.020770975056692,
+      "end": 21.66077097505669
+    },
+    {
+      "text": "and",
+      "start": 21.90077097505669,
+      "end": 21.98077097505669
+    },
+    {
+      "text": "seals",
+      "start": 21.98077097505669,
+      "end": 22.38077097505669
+    },
+    {
+      "text": "the",
+      "start": 22.38077097505669,
+      "end": 22.46077097505669
+    },
+    {
+      "text": "surface",
+      "start": 22.46077097505669,
+      "end": 22.94077097505669
+    },
+    {
+      "text": "at",
+      "start": 22.94077097505669,
+      "end": 23.020770975056692
+    },
+    {
+      "text": "the",
+      "start": 23.020770975056692,
+      "end": 23.10077097505669
+    },
+    {
+      "text": "same",
+      "start": 23.10077097505669,
+      "end": 23.50077097505669
+    },
+    {
+      "text": "time",
+      "start": 23.50077097505669,
+      "end": 23.900770975056687
+    },
+    {
+      "text": "Sugar",
+      "start": 24.14077097505669,
+      "end": 24.46077097505669
+    },
+    {
+      "text": "and",
+      "start": 24.46077097505669,
+      "end": 24.70077097505669
+    },
+    {
+      "text": "vinegar",
+      "start": 24.70077097505669,
+      "end": 25.10077097505669
+    },
+    {
+      "text": "work",
+      "start": 25.10077097505669,
+      "end": 25.42077097505669
+    },
+    {
+      "text": "by",
+      "start": 25.42077097505669,
+      "end": 25.50077097505669
+    },
+    {
+      "text": "making",
+      "start": 25.50077097505669,
+      "end": 25.900770975056687
+    },
+    {
+      "text": "the",
+      "start": 25.900770975056687,
+      "end": 25.900770975056687
+    },
+    {
+      "text": "food",
+      "start": 25.900770975056687,
+      "end": 26.220770975056688
+    },
+    {
+      "text": "somewhere",
+      "start": 26.220770975056688,
+      "end": 26.70077097505669
+    },
+    {
+      "text": "nothing",
+      "start": 26.70077097505669,
+      "end": 27.10077097505669
+    },
+    {
+      "text": "wants",
+      "start": 27.10077097505669,
+      "end": 27.42077097505669
+    },
+    {
+      "text": "to",
+      "start": 27.42077097505669,
+      "end": 27.42077097505669
+    },
+    {
+      "text": "live",
+      "start": 27.42077097505669,
+      "end": 27.82077097505669
+    },
+    {
+      "text": "Then",
+      "start": 28.27138321995465,
+      "end": 28.51138321995465
+    },
+    {
+      "text": "Napoleon",
+      "start": 28.51138321995465,
+      "end": 28.99138321995465
+    },
+    {
+      "text": "offered",
+      "start": 28.99138321995465,
+      "end": 29.39138321995465
+    },
+    {
+      "text": "a",
+      "start": 29.39138321995465,
+      "end": 29.39138321995465
+    },
+    {
+      "text": "prize",
+      "start": 29.39138321995465,
+      "end": 29.87138321995465
+    },
+    {
+      "text": "for",
+      "start": 29.87138321995465,
+      "end": 30.031383219954648
+    },
+    {
+      "text": "feeding",
+      "start": 30.031383219954648,
+      "end": 30.35138321995465
+    },
+    {
+      "text": "an",
+      "start": 30.35138321995465,
+      "end": 30.43138321995465
+    },
+    {
+      "text": "army",
+      "start": 30.43138321995465,
+      "end": 30.75138321995465
+    },
+    {
+      "text": "on",
+      "start": 30.75138321995465,
+      "end": 30.99138321995465
+    },
+    {
+      "text": "the",
+      "start": 30.99138321995465,
+      "end": 30.99138321995465
+    },
+    {
+      "text": "move",
+      "start": 30.99138321995465,
+      "end": 31.39138321995465
+    },
+    {
+      "text": "and",
+      "start": 31.63138321995465,
+      "end": 31.79138321995465
+    },
+    {
+      "text": "canning",
+      "start": 31.79138321995465,
+      "end": 32.19138321995465
+    },
+    {
+      "text": "was",
+      "start": 32.19138321995465,
+      "end": 32.35138321995465
+    },
+    {
+      "text": "invented",
+      "start": 32.35138321995465,
+      "end": 32.91138321995465
+    },
+    {
+      "text": "to",
+      "start": 32.91138321995465,
+      "end": 32.91138321995465
+    },
+    {
+      "text": "win",
+      "start": 32.91138321995465,
+      "end": 33.15138321995465
+    },
+    {
+      "text": "it",
+      "start": 33.15138321995465,
+      "end": 33.31138321995465
+    },
+    {
+      "text": "Refrigeration",
+      "start": 33.71138321995465,
+      "end": 34.51138321995465
+    },
+    {
+      "text": "came",
+      "start": 34.51138321995465,
+      "end": 34.75138321995465
+    },
+    {
+      "text": "last",
+      "start": 34.75138321995465,
+      "end": 35.23138321995465
+    },
+    {
+      "text": "and",
+      "start": 35.471383219954646,
+      "end": 35.55138321995465
+    },
+    {
+      "text": "it",
+      "start": 35.55138321995465,
+      "end": 35.63138321995465
+    },
+    {
+      "text": "rewrote",
+      "start": 35.63138321995465,
+      "end": 36.11138321995465
+    },
+    {
+      "text": "what",
+      "start": 36.11138321995465,
+      "end": 36.27138321995465
+    },
+    {
+      "text": "a",
+      "start": 36.27138321995465,
+      "end": 36.35138321995465
+    },
+    {
+      "text": "city",
+      "start": 36.35138321995465,
+      "end": 36.67138321995465
+    },
+    {
+      "text": "could",
+      "start": 36.67138321995465,
+      "end": 36.91138321995465
+    },
+    {
+      "text": "eat",
+      "start": 36.91138321995465,
+      "end": 37.23138321995465
+    },
+    {
+      "text": "Every",
+      "start": 37.471383219954646,
+      "end": 37.79138321995465
+    },
+    {
+      "text": "one",
+      "start": 37.79138321995465,
+      "end": 38.03138321995465
+    },
+    {
+      "text": "of",
+      "start": 38.03138321995465,
+      "end": 38.11138321995465
+    },
+    {
+      "text": "them",
+      "start": 38.11138321995465,
+      "end": 38.27138321995465
+    },
+    {
+      "text": "buys",
+      "start": 38.27138321995465,
+      "end": 38.59138321995465
+    },
+    {
+      "text": "exactly",
+      "start": 38.59138321995465,
+      "end": 39.07138321995465
+    },
+    {
+      "text": "the",
+      "start": 39.07138321995465,
+      "end": 39.15138321995465
+    },
+    {
+      "text": "same",
+      "start": 39.15138321995465,
+      "end": 39.471383219954646
+    },
+    {
+      "text": "thing",
+      "start": 39.471383219954646,
+      "end": 39.87138321995465
+    },
+    {
+      "text": "Time",
+      "start": 40.11138321995465,
+      "end": 40.59138321995465
+    },
+    {
+      "text": "And",
+      "start": 40.86891156462585,
+      "end": 41.02891156462585
+    },
+    {
+      "text": "a",
+      "start": 41.02891156462585,
+      "end": 41.10891156462585
+    },
+    {
+      "text": "surplus",
+      "start": 41.10891156462585,
+      "end": 41.74891156462585
+    },
+    {
+      "text": "that",
+      "start": 41.74891156462585,
+      "end": 41.82891156462585
+    },
+    {
+      "text": "keeps",
+      "start": 41.82891156462585,
+      "end": 42.30891156462585
+    },
+    {
+      "text": "is",
+      "start": 42.46891156462585,
+      "end": 42.62891156462585
+    },
+    {
+      "text": "what",
+      "start": 42.62891156462585,
+      "end": 42.86891156462585
+    },
+    {
+      "text": "lets",
+      "start": 42.86891156462585,
+      "end": 43.02891156462585
+    },
+    {
+      "text": "somebody",
+      "start": 43.02891156462585,
+      "end": 43.42891156462585
+    },
+    {
+      "text": "stop",
+      "start": 43.42891156462585,
+      "end": 43.82891156462585
+    },
+    {
+      "text": "farming",
+      "start": 43.90891156462585,
+      "end": 44.38891156462585
+    },
+    {
+      "text": "and",
+      "start": 44.38891156462585,
+      "end": 44.548911564625854
+    },
+    {
+      "text": "do",
+      "start": 44.548911564625854,
+      "end": 44.62891156462585
+    },
+    {
+      "text": "something",
+      "start": 44.62891156462585,
+      "end": 45.02891156462585
+    },
+    {
+      "text": "else",
+      "start": 45.02891156462585,
+      "end": 45.26891156462585
+    },
+    {
+      "text": "entirely",
+      "start": 45.26891156462585,
+      "end": 45.90891156462585
+    },
+    {
+      "text": "One",
+      "start": 46.14891156462585,
+      "end": 46.46891156462585
+    },
+    {
+      "text": "of",
+      "start": 46.46891156462585,
+      "end": 46.548911564625854
+    },
+    {
+      "text": "these",
+      "start": 46.548911564625854,
+      "end": 46.78891156462585
+    },
+    {
+      "text": "every",
+      "start": 46.86891156462585,
+      "end": 47.10891156462585
+    },
+    {
+      "text": "day",
+      "start": 47.10891156462585,
+      "end": 47.50891156462585
+    },
+    {
+      "text": "Follow",
+      "start": 47.82891156462585,
+      "end": 48.14891156462585
+    },
+    {
+      "text": "so",
+      "start": 48.14891156462585,
+      "end": 48.30891156462585
+    },
+    {
+      "text": "you",
+      "start": 48.30891156462585,
+      "end": 48.46891156462585
+    },
+    {
+      "text": "do",
+      "start": 48.46891156462585,
+      "end": 48.548911564625854
+    },
+    {
+      "text": "not",
+      "start": 48.548911564625854,
+      "end": 48.78891156462585
+    },
+    {
+      "text": "miss",
+      "start": 48.78891156462585,
+      "end": 49.02891156462585
+    },
+    {
+      "text": "tomorrow",
+      "start": 49.02891156462585,
+      "end": 49.66891156462585
+    }
+  ],
+  "text": "Before refrigeration, the most valuable technology on Earth was stopping food from rotting. A harvest you cannot store is not wealth. It is a deadline. Salt came first. It pulls the water out, and microbes cannot work without water. Drying does the same job with sun and wind, and costs nothing at all. Smoke adds chemicals that kill microbes and seals the surface at the same time. Sugar and vinegar work by making the food somewhere nothing wants to live. Then Napoleon offered a prize for feeding an army on the move, and canning was invented to win it. Refrigeration came last, and it rewrote what a city could eat. Every one of them buys exactly the same thing. Time. And a surplus that keeps is what lets somebody stop farming and do something else entirely. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

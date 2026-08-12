@@ -1,0 +1,109 @@
+{
+  "topic": "How humans beat spoilage",
+  "lesson": "Every preservation method buys the same thing, time, and a surplus that keeps is what lets somebody stop producing food and do something else entirely.",
+  "slug": "day-084-beating-spoilage-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Before refrigeration, the most valuable technology on Earth was stopping food from rotting.",
+      "scene": "a block of ice melting on the surface, a small black cartoon figure trying to hold it together",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a block of ice melting on the surface, a small black cartoon figure trying to hold it together. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "A harvest you cannot store is not wealth. It is a deadline.",
+      "scene": "a full grain sack leaking from a split, a small black cartoon figure plugging the hole with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a full grain sack leaking from a split, a small black cartoon figure plugging the hole with both arms. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Salt came first. It pulls the water out, and microbes cannot work without water.",
+      "scene": "a mound of coarse salt with a fish laid in it, a small black cartoon figure heaping more salt over",
+      "image_text": "SALT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a mound of coarse salt with a fish laid in it, a small black cartoon figure heaping more salt over. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"SALT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Drying does the same job with sun and wind, and costs nothing at all.",
+      "scene": "a line of thin slices pegged along a string, a small black cartoon figure pegging the last one up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a line of thin slices pegged along a string, a small black cartoon figure pegging the last one up. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Smoke adds chemicals that kill microbes and seals the surface at the same time.",
+      "scene": "a smoking chimney over a drying rack, a small black cartoon figure fanning the smoke upward",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a smoking chimney over a drying rack, a small black cartoon figure fanning the smoke upward. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Sugar and vinegar work by making the food somewhere nothing wants to live.",
+      "scene": "a jar of thick syrup, a small black cartoon figure lowering fruit into it on a string",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar of thick syrup, a small black cartoon figure lowering fruit into it on a string. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "role": "turn",
+      "text": "Then Napoleon offered a prize for feeding an army on the move, and canning was invented to win it.",
+      "scene": "a sealed tin under a heavy press, a small black cartoon figure hauling the press lever down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed tin under a heavy press, a small black cartoon figure hauling the press lever down. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Refrigeration came last, and it rewrote what a city could eat.",
+      "scene": "an ice box with a block inside, a small black cartoon figure heaving the lid shut",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an ice box with a block inside, a small black cartoon figure heaving the lid shut. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Every one of them buys exactly the same thing. Time.",
+      "scene": "a padlock through a hasp, a small black cartoon figure clicking it shut with their whole body",
+      "image_text": "TIME",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a padlock through a hasp, a small black cartoon figure clicking it shut with their whole body. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TIME\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "And a surplus that keeps is what lets somebody stop farming and do something else entirely.",
+      "scene": "a stacked pantry shelf, a small black cartoon figure walking away from it carrying a tool bag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stacked pantry shelf, a small black cartoon figure walking away from it carrying a tool bag. the scene belongs to food being held back from rotting so it can be stored, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Salting, drying, smoking, fermenting and sugar preservation all do the same job by different routes: make the food a place microbes cannot work. Canning was invented to win a prize Napoleon offered for feeding an army on the move. Refrigeration came last and rewrote what a city could eat. Every method buys the same thing, which is time. And a surplus that keeps is exactly what allows anyone to stop producing food and do something else.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #food #history #preservation #civilisation #science",
+    "thumbnail_beat": "03"
+  }
+}

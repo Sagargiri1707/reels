@@ -1,0 +1,109 @@
+{
+  "topic": "Sugar and the reward system",
+  "lesson": "Sugar runs on the same dopamine reward pathway as any other reward, and liquid sugar is the worst case because it arrives fastest and barely registers as food.",
+  "slug": "day-080-sugar-and-reward-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Sugar runs on the same reward pathway as everything else your brain chases.",
+      "scene": "a brass counter bell, a small black cartoon figure slapping it over and over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass counter bell, a small black cartoon figure slapping it over and over. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Which is why one is rarely one. The mechanism is not willpower.",
+      "scene": "an open tin of sweets, a small black cartoon figure climbing back into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an open tin of sweets, a small black cartoon figure climbing back into it. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Sweetness meant safe calories for most of our history, so your brain pays you for finding it.",
+      "scene": "a ripe fruit high on a bare branch, a small black cartoon figure stretching up for it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ripe fruit high on a bare branch, a small black cartoon figure stretching up for it. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "It releases dopamine. Not pleasure exactly. The signal that says get more of that.",
+      "scene": "a small signal flag on a pole, a small black cartoon figure hauling it up the line",
+      "image_text": "MORE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small signal flag on a pole, a small black cartoon figure hauling it up the line. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"MORE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "The problem is speed. Blood sugar spikes, and the correction overshoots below where you started.",
+      "scene": "a spring scale pulled far down, a small black cartoon figure hanging off it as it snaps back",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spring scale pulled far down, a small black cartoon figure hanging off it as it snaps back. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "So an hour later you are hungrier than you were before you ate.",
+      "scene": "an empty biscuit tin, a small black cartoon figure tipping it right upside down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty biscuit tin, a small black cartoon figure tipping it right upside down. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Liquid sugar is the worst version. It arrives fastest and barely registers as food.",
+      "scene": "a bottle pouring hard into a funnel, a small black cartoon figure holding the funnel steady",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bottle pouring hard into a funnel, a small black cartoon figure holding the funnel steady. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "You would never eat ten spoonfuls of sugar. You will drink them without noticing.",
+      "scene": "a stack of ten sugar cubes beside a tall glass, a small black cartoon figure balancing the top cube",
+      "image_text": "TEN CUBES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of ten sugar cubes beside a tall glass, a small black cartoon figure balancing the top cube. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TEN CUBES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And low fat products often replace the fat with sugar, because the taste had to come from somewhere.",
+      "scene": "a jar having its lid swapped for a different one, a small black cartoon figure screwing the new lid on",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a jar having its lid swapped for a different one, a small black cartoon figure screwing the new lid on. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "None of this is a character flaw. It is a system that worked, running in a world it was not built for.",
+      "scene": "an old iron key being forced into a modern lock, a small black cartoon figure shoving it with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an old iron key being forced into a modern lock, a small black cartoon figure shoving it with both arms. the scene belongs to a reward signal that keeps asking for more, and how fast the delivery arrives, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Sugar triggers the same dopamine pathway as other rewards, which is why one is rarely one. Blood sugar spikes and the correction overshoots, leaving you hungrier an hour later than before you ate. Liquid sugar is the worst case: absorbed fastest, with the weakest fullness signal, so ten spoonfuls go down without registering. And low-fat products often replace the fat with sugar because the taste had to come from somewhere. Reading labels for the hidden names is the useful move.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #sugar #dopamine #nutrition #health #science",
+    "thumbnail_beat": "08"
+  }
+}

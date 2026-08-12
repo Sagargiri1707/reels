@@ -1,0 +1,723 @@
+{
+  "audio_duration": 44.329688,
+  "segments": [
+    {
+      "text": "Cooking",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "is",
+      "start": 0.48,
+      "end": 0.64
+    },
+    {
+      "text": "not",
+      "start": 0.64,
+      "end": 0.8
+    },
+    {
+      "text": "about",
+      "start": 0.8,
+      "end": 1.12
+    },
+    {
+      "text": "flavour",
+      "start": 1.12,
+      "end": 1.6
+    },
+    {
+      "text": "It",
+      "start": 1.92,
+      "end": 2.08
+    },
+    {
+      "text": "is",
+      "start": 2.08,
+      "end": 2.24
+    },
+    {
+      "text": "digestion",
+      "start": 2.24,
+      "end": 2.96
+    },
+    {
+      "text": "you",
+      "start": 2.96,
+      "end": 3.04
+    },
+    {
+      "text": "do",
+      "start": 3.04,
+      "end": 3.28
+    },
+    {
+      "text": "outside",
+      "start": 3.28,
+      "end": 3.84
+    },
+    {
+      "text": "your",
+      "start": 3.84,
+      "end": 3.92
+    },
+    {
+      "text": "body",
+      "start": 3.92,
+      "end": 4.32
+    },
+    {
+      "text": "A",
+      "start": 4.72,
+      "end": 4.8
+    },
+    {
+      "text": "big",
+      "start": 4.8,
+      "end": 5.12
+    },
+    {
+      "text": "gut",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "and",
+      "start": 5.44,
+      "end": 5.52
+    },
+    {
+      "text": "a",
+      "start": 5.52,
+      "end": 5.6
+    },
+    {
+      "text": "big",
+      "start": 5.6,
+      "end": 5.92
+    },
+    {
+      "text": "brain",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "text": "are",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "text": "both",
+      "start": 6.32,
+      "end": 6.64
+    },
+    {
+      "text": "enormously",
+      "start": 6.64,
+      "end": 7.28
+    },
+    {
+      "text": "expensive",
+      "start": 7.28,
+      "end": 7.92
+    },
+    {
+      "text": "Almost",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "text": "nothing",
+      "start": 8.72,
+      "end": 9.04
+    },
+    {
+      "text": "affords",
+      "start": 9.04,
+      "end": 9.44
+    },
+    {
+      "text": "both",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "text": "A",
+      "start": 10.24,
+      "end": 10.32
+    },
+    {
+      "text": "great",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "text": "ape",
+      "start": 10.64,
+      "end": 10.88
+    },
+    {
+      "text": "spends",
+      "start": 10.88,
+      "end": 11.2
+    },
+    {
+      "text": "most",
+      "start": 11.2,
+      "end": 11.52
+    },
+    {
+      "text": "of",
+      "start": 11.52,
+      "end": 11.68
+    },
+    {
+      "text": "its",
+      "start": 11.68,
+      "end": 11.76
+    },
+    {
+      "text": "waking",
+      "start": 11.76,
+      "end": 12.16
+    },
+    {
+      "text": "hours",
+      "start": 12.16,
+      "end": 12.56
+    },
+    {
+      "text": "chewing",
+      "start": 12.56,
+      "end": 13.04
+    },
+    {
+      "text": "You",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "spend",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "text": "under",
+      "start": 13.84,
+      "end": 14.0
+    },
+    {
+      "text": "an",
+      "start": 14.08,
+      "end": 14.16
+    },
+    {
+      "text": "hour",
+      "start": 14.16,
+      "end": 14.4
+    },
+    {
+      "text": "a",
+      "start": 14.4,
+      "end": 14.48
+    },
+    {
+      "text": "day",
+      "start": 14.48,
+      "end": 14.8
+    },
+    {
+      "text": "eating",
+      "start": 14.8,
+      "end": 15.28
+    },
+    {
+      "text": "and",
+      "start": 15.44,
+      "end": 15.6
+    },
+    {
+      "text": "you",
+      "start": 15.6,
+      "end": 15.68
+    },
+    {
+      "text": "get",
+      "start": 15.68,
+      "end": 15.84
+    },
+    {
+      "text": "more",
+      "start": 15.84,
+      "end": 16.08
+    },
+    {
+      "text": "calories",
+      "start": 16.08,
+      "end": 16.56
+    },
+    {
+      "text": "out",
+      "start": 16.56,
+      "end": 16.8
+    },
+    {
+      "text": "of",
+      "start": 16.8,
+      "end": 16.88
+    },
+    {
+      "text": "it",
+      "start": 16.88,
+      "end": 16.96
+    },
+    {
+      "text": "Heat",
+      "start": 17.456326530612245,
+      "end": 17.616326530612245
+    },
+    {
+      "text": "breaks",
+      "start": 17.616326530612245,
+      "end": 18.016326530612243
+    },
+    {
+      "text": "the",
+      "start": 18.016326530612243,
+      "end": 18.096326530612245
+    },
+    {
+      "text": "tough",
+      "start": 18.096326530612245,
+      "end": 18.336326530612244
+    },
+    {
+      "text": "structure",
+      "start": 18.336326530612244,
+      "end": 18.816326530612244
+    },
+    {
+      "text": "apart",
+      "start": 18.816326530612244,
+      "end": 19.136326530612244
+    },
+    {
+      "text": "before",
+      "start": 19.136326530612244,
+      "end": 19.456326530612245
+    },
+    {
+      "text": "it",
+      "start": 19.456326530612245,
+      "end": 19.456326530612245
+    },
+    {
+      "text": "ever",
+      "start": 19.536326530612243,
+      "end": 19.696326530612243
+    },
+    {
+      "text": "reaches",
+      "start": 19.696326530612243,
+      "end": 20.096326530612245
+    },
+    {
+      "text": "you",
+      "start": 20.096326530612245,
+      "end": 20.416326530612245
+    },
+    {
+      "text": "So",
+      "start": 20.656326530612244,
+      "end": 20.816326530612244
+    },
+    {
+      "text": "the",
+      "start": 20.816326530612244,
+      "end": 20.896326530612242
+    },
+    {
+      "text": "gut",
+      "start": 20.896326530612242,
+      "end": 21.136326530612244
+    },
+    {
+      "text": "had",
+      "start": 21.136326530612244,
+      "end": 21.296326530612244
+    },
+    {
+      "text": "less",
+      "start": 21.296326530612244,
+      "end": 21.616326530612245
+    },
+    {
+      "text": "work",
+      "start": 21.616326530612245,
+      "end": 21.936326530612245
+    },
+    {
+      "text": "to",
+      "start": 21.936326530612245,
+      "end": 21.936326530612245
+    },
+    {
+      "text": "do",
+      "start": 21.936326530612245,
+      "end": 22.256326530612245
+    },
+    {
+      "text": "and",
+      "start": 22.576326530612246,
+      "end": 22.656326530612244
+    },
+    {
+      "text": "a",
+      "start": 22.656326530612244,
+      "end": 22.736326530612246
+    },
+    {
+      "text": "smaller",
+      "start": 22.736326530612246,
+      "end": 23.136326530612244
+    },
+    {
+      "text": "gut",
+      "start": 23.136326530612244,
+      "end": 23.456326530612245
+    },
+    {
+      "text": "is",
+      "start": 23.456326530612245,
+      "end": 23.536326530612243
+    },
+    {
+      "text": "much",
+      "start": 23.536326530612243,
+      "end": 23.856326530612243
+    },
+    {
+      "text": "cheaper",
+      "start": 23.856326530612243,
+      "end": 24.176326530612243
+    },
+    {
+      "text": "to",
+      "start": 24.256326530612245,
+      "end": 24.336326530612244
+    },
+    {
+      "text": "run",
+      "start": 24.336326530612244,
+      "end": 24.656326530612244
+    },
+    {
+      "text": "That",
+      "start": 25.056326530612246,
+      "end": 25.296326530612244
+    },
+    {
+      "text": "freed",
+      "start": 25.296326530612244,
+      "end": 25.536326530612243
+    },
+    {
+      "text": "up",
+      "start": 25.536326530612243,
+      "end": 25.616326530612245
+    },
+    {
+      "text": "energy",
+      "start": 25.616326530612245,
+      "end": 26.096326530612245
+    },
+    {
+      "text": "and",
+      "start": 26.336326530612244,
+      "end": 26.416326530612245
+    },
+    {
+      "text": "the",
+      "start": 26.416326530612245,
+      "end": 26.496326530612244
+    },
+    {
+      "text": "fossil",
+      "start": 26.496326530612244,
+      "end": 26.896326530612242
+    },
+    {
+      "text": "record",
+      "start": 26.896326530612242,
+      "end": 27.216326530612243
+    },
+    {
+      "text": "shows",
+      "start": 27.216326530612243,
+      "end": 27.536326530612243
+    },
+    {
+      "text": "exactly",
+      "start": 27.536326530612243,
+      "end": 28.096326530612245
+    },
+    {
+      "text": "where",
+      "start": 28.096326530612245,
+      "end": 28.336326530612244
+    },
+    {
+      "text": "it",
+      "start": 28.336326530612244,
+      "end": 28.336326530612244
+    },
+    {
+      "text": "went",
+      "start": 28.336326530612244,
+      "end": 28.736326530612246
+    },
+    {
+      "text": "Guts",
+      "start": 28.976326530612244,
+      "end": 29.296326530612244
+    },
+    {
+      "text": "shrink",
+      "start": 29.296326530612244,
+      "end": 29.776326530612245
+    },
+    {
+      "text": "Skulls",
+      "start": 30.016326530612247,
+      "end": 30.496326530612244
+    },
+    {
+      "text": "grow",
+      "start": 30.496326530612244,
+      "end": 30.896326530612242
+    },
+    {
+      "text": "Teeth",
+      "start": 31.056326530612246,
+      "end": 31.376326530612246
+    },
+    {
+      "text": "get",
+      "start": 31.376326530612246,
+      "end": 31.536326530612243
+    },
+    {
+      "text": "smaller",
+      "start": 31.536326530612243,
+      "end": 32.01632653061225
+    },
+    {
+      "text": "All",
+      "start": 32.33632653061224,
+      "end": 32.496326530612244
+    },
+    {
+      "text": "of",
+      "start": 32.496326530612244,
+      "end": 32.65632653061225
+    },
+    {
+      "text": "it",
+      "start": 32.65632653061225,
+      "end": 32.65632653061225
+    },
+    {
+      "text": "at",
+      "start": 32.65632653061225,
+      "end": 32.816326530612244
+    },
+    {
+      "text": "once",
+      "start": 32.816326530612244,
+      "end": 33.29632653061225
+    },
+    {
+      "text": "And",
+      "start": 33.63716553287982,
+      "end": 33.71716553287982
+    },
+    {
+      "text": "no",
+      "start": 33.797165532879816,
+      "end": 33.95716553287982
+    },
+    {
+      "text": "other",
+      "start": 33.95716553287982,
+      "end": 34.197165532879815
+    },
+    {
+      "text": "animal",
+      "start": 34.197165532879815,
+      "end": 34.59716553287982
+    },
+    {
+      "text": "cooks",
+      "start": 34.59716553287982,
+      "end": 34.99716553287982
+    },
+    {
+      "text": "Not",
+      "start": 35.157165532879816,
+      "end": 35.39716553287982
+    },
+    {
+      "text": "a",
+      "start": 35.39716553287982,
+      "end": 35.39716553287982
+    },
+    {
+      "text": "single",
+      "start": 35.39716553287982,
+      "end": 35.797165532879816
+    },
+    {
+      "text": "one",
+      "start": 35.797165532879816,
+      "end": 36.11716553287982
+    },
+    {
+      "text": "All",
+      "start": 36.43716553287982,
+      "end": 36.67716553287982
+    },
+    {
+      "text": "those",
+      "start": 36.67716553287982,
+      "end": 36.91716553287982
+    },
+    {
+      "text": "hours",
+      "start": 36.91716553287982,
+      "end": 37.237165532879814
+    },
+    {
+      "text": "you",
+      "start": 37.237165532879814,
+      "end": 37.39716553287982
+    },
+    {
+      "text": "were",
+      "start": 37.39716553287982,
+      "end": 37.477165532879816
+    },
+    {
+      "text": "not",
+      "start": 37.477165532879816,
+      "end": 37.71716553287982
+    },
+    {
+      "text": "chewing",
+      "start": 37.71716553287982,
+      "end": 38.197165532879815
+    },
+    {
+      "text": "became",
+      "start": 38.35716553287982,
+      "end": 38.67716553287982
+    },
+    {
+      "text": "the",
+      "start": 38.67716553287982,
+      "end": 38.67716553287982
+    },
+    {
+      "text": "first",
+      "start": 38.67716553287982,
+      "end": 39.157165532879816
+    },
+    {
+      "text": "free",
+      "start": 39.157165532879816,
+      "end": 39.31716553287982
+    },
+    {
+      "text": "time",
+      "start": 39.31716553287982,
+      "end": 39.63716553287982
+    },
+    {
+      "text": "anyone",
+      "start": 39.71716553287982,
+      "end": 40.03716553287982
+    },
+    {
+      "text": "ever",
+      "start": 40.03716553287982,
+      "end": 40.27716553287982
+    },
+    {
+      "text": "had",
+      "start": 40.27716553287982,
+      "end": 40.67716553287982
+    },
+    {
+      "text": "One",
+      "start": 40.91716553287982,
+      "end": 41.157165532879816
+    },
+    {
+      "text": "of",
+      "start": 41.157165532879816,
+      "end": 41.237165532879814
+    },
+    {
+      "text": "these",
+      "start": 41.237165532879814,
+      "end": 41.477165532879816
+    },
+    {
+      "text": "every",
+      "start": 41.477165532879816,
+      "end": 41.797165532879816
+    },
+    {
+      "text": "day",
+      "start": 41.797165532879816,
+      "end": 42.11716553287982
+    },
+    {
+      "text": "Follow",
+      "start": 42.35716553287982,
+      "end": 42.67716553287982
+    },
+    {
+      "text": "so",
+      "start": 42.67716553287982,
+      "end": 42.837165532879816
+    },
+    {
+      "text": "you",
+      "start": 42.837165532879816,
+      "end": 42.99716553287982
+    },
+    {
+      "text": "do",
+      "start": 42.99716553287982,
+      "end": 43.07716553287982
+    },
+    {
+      "text": "not",
+      "start": 43.07716553287982,
+      "end": 43.31716553287982
+    },
+    {
+      "text": "miss",
+      "start": 43.31716553287982,
+      "end": 43.55716553287982
+    },
+    {
+      "text": "tomorrow",
+      "start": 43.55716553287982,
+      "end": 44.11716553287982
+    }
+  ],
+  "text": "Cooking is not about flavour. It is digestion you do outside your body. A big gut and a big brain are both enormously expensive. Almost nothing affords both. A great ape spends most of its waking hours chewing. You spend under an hour a day eating, and you get more calories out of it. Heat breaks the tough structure apart before it ever reaches you. So the gut had less work to do, and a smaller gut is much cheaper to run. That freed up energy, and the fossil record shows exactly where it went. Guts shrink. Skulls grow. Teeth get smaller. All of it at once. And no other animal cooks. Not a single one. All those hours you were not chewing became the first free time anyone ever had. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

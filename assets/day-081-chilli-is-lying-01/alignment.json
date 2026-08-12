@@ -1,0 +1,713 @@
+{
+  "audio_duration": 44.747688,
+  "segments": [
+    {
+      "text": "Chilli",
+      "start": 0.0,
+      "end": 0.32
+    },
+    {
+      "text": "does",
+      "start": 0.32,
+      "end": 0.4
+    },
+    {
+      "text": "not",
+      "start": 0.4,
+      "end": 0.64
+    },
+    {
+      "text": "burn",
+      "start": 0.72,
+      "end": 1.04
+    },
+    {
+      "text": "you",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "text": "There",
+      "start": 1.52,
+      "end": 1.6
+    },
+    {
+      "text": "is",
+      "start": 1.6,
+      "end": 1.76
+    },
+    {
+      "text": "no",
+      "start": 1.76,
+      "end": 1.92
+    },
+    {
+      "text": "heat",
+      "start": 1.92,
+      "end": 2.24
+    },
+    {
+      "text": "involved",
+      "start": 2.24,
+      "end": 2.64
+    },
+    {
+      "text": "anywhere",
+      "start": 2.72,
+      "end": 3.2
+    },
+    {
+      "text": "Your",
+      "start": 3.52,
+      "end": 3.6
+    },
+    {
+      "text": "tongue",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "carries",
+      "start": 4.0,
+      "end": 4.32
+    },
+    {
+      "text": "a",
+      "start": 4.32,
+      "end": 4.32
+    },
+    {
+      "text": "receptor",
+      "start": 4.32,
+      "end": 4.88
+    },
+    {
+      "text": "whose",
+      "start": 4.88,
+      "end": 5.12
+    },
+    {
+      "text": "only",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "job",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "is",
+      "start": 5.76,
+      "end": 6.0
+    },
+    {
+      "text": "to",
+      "start": 6.0,
+      "end": 6.0
+    },
+    {
+      "text": "report",
+      "start": 6.0,
+      "end": 6.4
+    },
+    {
+      "text": "dangerous",
+      "start": 6.4,
+      "end": 6.88
+    },
+    {
+      "text": "temperature",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "text": "Capsaicin",
+      "start": 7.76,
+      "end": 8.32
+    },
+    {
+      "text": "fits",
+      "start": 8.32,
+      "end": 8.64
+    },
+    {
+      "text": "that",
+      "start": 8.64,
+      "end": 8.8
+    },
+    {
+      "text": "receptor",
+      "start": 8.8,
+      "end": 9.28
+    },
+    {
+      "text": "and",
+      "start": 9.28,
+      "end": 9.44
+    },
+    {
+      "text": "switches",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "text": "it",
+      "start": 9.84,
+      "end": 10.0
+    },
+    {
+      "text": "on",
+      "start": 10.0,
+      "end": 10.16
+    },
+    {
+      "text": "directly",
+      "start": 10.16,
+      "end": 10.72
+    },
+    {
+      "text": "So",
+      "start": 11.04,
+      "end": 11.12
+    },
+    {
+      "text": "your",
+      "start": 11.12,
+      "end": 11.28
+    },
+    {
+      "text": "brain",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "text": "receives",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "text": "a",
+      "start": 12.0,
+      "end": 12.08
+    },
+    {
+      "text": "genuine",
+      "start": 12.08,
+      "end": 12.64
+    },
+    {
+      "text": "burning",
+      "start": 12.64,
+      "end": 12.96
+    },
+    {
+      "text": "alarm",
+      "start": 12.96,
+      "end": 13.44
+    },
+    {
+      "text": "with",
+      "start": 13.6,
+      "end": 13.76
+    },
+    {
+      "text": "nothing",
+      "start": 13.76,
+      "end": 14.16
+    },
+    {
+      "text": "actually",
+      "start": 14.16,
+      "end": 14.56
+    },
+    {
+      "text": "burning",
+      "start": 14.56,
+      "end": 15.04
+    },
+    {
+      "text": "The",
+      "start": 15.36,
+      "end": 15.44
+    },
+    {
+      "text": "pain",
+      "start": 15.44,
+      "end": 15.84
+    },
+    {
+      "text": "is",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "text": "real",
+      "start": 16.0,
+      "end": 16.4
+    },
+    {
+      "text": "The",
+      "start": 16.772607709750567,
+      "end": 16.85260770975057
+    },
+    {
+      "text": "heat",
+      "start": 16.85260770975057,
+      "end": 17.17260770975057
+    },
+    {
+      "text": "is",
+      "start": 17.17260770975057,
+      "end": 17.33260770975057
+    },
+    {
+      "text": "a",
+      "start": 17.33260770975057,
+      "end": 17.33260770975057
+    },
+    {
+      "text": "lie",
+      "start": 17.33260770975057,
+      "end": 17.81260770975057
+    },
+    {
+      "text": "Menthol",
+      "start": 18.052607709750568,
+      "end": 18.61260770975057
+    },
+    {
+      "text": "pulls",
+      "start": 18.61260770975057,
+      "end": 18.85260770975057
+    },
+    {
+      "text": "the",
+      "start": 18.85260770975057,
+      "end": 19.01260770975057
+    },
+    {
+      "text": "exact",
+      "start": 19.01260770975057,
+      "end": 19.412607709750567
+    },
+    {
+      "text": "same",
+      "start": 19.412607709750567,
+      "end": 19.732607709750567
+    },
+    {
+      "text": "trick",
+      "start": 19.732607709750567,
+      "end": 19.97260770975057
+    },
+    {
+      "text": "in",
+      "start": 19.97260770975057,
+      "end": 20.052607709750568
+    },
+    {
+      "text": "reverse",
+      "start": 20.052607709750568,
+      "end": 20.61260770975057
+    },
+    {
+      "text": "on",
+      "start": 20.772607709750567,
+      "end": 20.93260770975057
+    },
+    {
+      "text": "the",
+      "start": 20.93260770975057,
+      "end": 21.01260770975057
+    },
+    {
+      "text": "cold",
+      "start": 21.01260770975057,
+      "end": 21.33260770975057
+    },
+    {
+      "text": "receptor",
+      "start": 21.33260770975057,
+      "end": 21.892607709750568
+    },
+    {
+      "text": "Birds",
+      "start": 22.132607709750566,
+      "end": 22.532607709750568
+    },
+    {
+      "text": "do",
+      "start": 22.532607709750568,
+      "end": 22.69260770975057
+    },
+    {
+      "text": "not",
+      "start": 22.69260770975057,
+      "end": 22.93260770975057
+    },
+    {
+      "text": "have",
+      "start": 22.93260770975057,
+      "end": 23.092607709750567
+    },
+    {
+      "text": "that",
+      "start": 23.092607709750567,
+      "end": 23.252607709750567
+    },
+    {
+      "text": "receptor",
+      "start": 23.252607709750567,
+      "end": 23.732607709750567
+    },
+    {
+      "text": "in",
+      "start": 23.732607709750567,
+      "end": 23.892607709750568
+    },
+    {
+      "text": "a",
+      "start": 23.892607709750568,
+      "end": 23.892607709750568
+    },
+    {
+      "text": "form",
+      "start": 23.892607709750568,
+      "end": 24.212607709750568
+    },
+    {
+      "text": "capsaicin",
+      "start": 24.212607709750568,
+      "end": 24.772607709750567
+    },
+    {
+      "text": "can",
+      "start": 24.772607709750567,
+      "end": 24.93260770975057
+    },
+    {
+      "text": "jam",
+      "start": 24.93260770975057,
+      "end": 25.33260770975057
+    },
+    {
+      "text": "so",
+      "start": 25.572607709750567,
+      "end": 25.65260770975057
+    },
+    {
+      "text": "they",
+      "start": 25.65260770975057,
+      "end": 25.812607709750566
+    },
+    {
+      "text": "feel",
+      "start": 25.812607709750566,
+      "end": 26.132607709750566
+    },
+    {
+      "text": "nothing",
+      "start": 26.132607709750566,
+      "end": 26.61260770975057
+    },
+    {
+      "text": "Which",
+      "start": 26.93260770975057,
+      "end": 27.092607709750567
+    },
+    {
+      "text": "is",
+      "start": 27.092607709750567,
+      "end": 27.25260770975057
+    },
+    {
+      "text": "the",
+      "start": 27.25260770975057,
+      "end": 27.33260770975057
+    },
+    {
+      "text": "whole",
+      "start": 27.33260770975057,
+      "end": 27.572607709750567
+    },
+    {
+      "text": "point",
+      "start": 27.572607709750567,
+      "end": 27.97260770975057
+    },
+    {
+      "text": "The",
+      "start": 28.29260770975057,
+      "end": 28.372607709750568
+    },
+    {
+      "text": "plant",
+      "start": 28.372607709750568,
+      "end": 28.69260770975057
+    },
+    {
+      "text": "wants",
+      "start": 28.69260770975057,
+      "end": 28.93260770975057
+    },
+    {
+      "text": "birds",
+      "start": 28.93260770975057,
+      "end": 29.33260770975057
+    },
+    {
+      "text": "to",
+      "start": 29.33260770975057,
+      "end": 29.412607709750567
+    },
+    {
+      "text": "spread",
+      "start": 29.412607709750567,
+      "end": 29.732607709750567
+    },
+    {
+      "text": "its",
+      "start": 29.732607709750567,
+      "end": 29.892607709750568
+    },
+    {
+      "text": "seeds",
+      "start": 29.892607709750568,
+      "end": 30.29260770975057
+    },
+    {
+      "text": "and",
+      "start": 30.29260770975057,
+      "end": 30.452607709750566
+    },
+    {
+      "text": "mammals",
+      "start": 30.452607709750566,
+      "end": 30.93260770975057
+    },
+    {
+      "text": "to",
+      "start": 30.93260770975057,
+      "end": 30.93260770975057
+    },
+    {
+      "text": "leave",
+      "start": 30.93260770975057,
+      "end": 31.17260770975057
+    },
+    {
+      "text": "it",
+      "start": 31.17260770975057,
+      "end": 31.25260770975057
+    },
+    {
+      "text": "alone",
+      "start": 31.25260770975057,
+      "end": 31.732607709750567
+    },
+    {
+      "text": "And",
+      "start": 32.089070294784584,
+      "end": 32.24907029478458
+    },
+    {
+      "text": "water",
+      "start": 32.24907029478458,
+      "end": 32.56907029478458
+    },
+    {
+      "text": "does",
+      "start": 32.56907029478458,
+      "end": 32.729070294784584
+    },
+    {
+      "text": "not",
+      "start": 32.729070294784584,
+      "end": 32.96907029478458
+    },
+    {
+      "text": "help",
+      "start": 32.96907029478458,
+      "end": 33.28907029478458
+    },
+    {
+      "text": "because",
+      "start": 33.52907029478458,
+      "end": 33.76907029478458
+    },
+    {
+      "text": "capsaicin",
+      "start": 33.76907029478458,
+      "end": 34.32907029478458
+    },
+    {
+      "text": "is",
+      "start": 34.32907029478458,
+      "end": 34.48907029478458
+    },
+    {
+      "text": "not",
+      "start": 34.48907029478458,
+      "end": 34.729070294784584
+    },
+    {
+      "text": "water",
+      "start": 34.729070294784584,
+      "end": 34.96907029478458
+    },
+    {
+      "text": "soluble",
+      "start": 34.96907029478458,
+      "end": 35.60907029478458
+    },
+    {
+      "text": "It",
+      "start": 35.76907029478458,
+      "end": 35.92907029478458
+    },
+    {
+      "text": "only",
+      "start": 35.92907029478458,
+      "end": 36.24907029478458
+    },
+    {
+      "text": "spreads",
+      "start": 36.24907029478458,
+      "end": 36.56907029478458
+    },
+    {
+      "text": "it",
+      "start": 36.56907029478458,
+      "end": 36.64907029478458
+    },
+    {
+      "text": "around",
+      "start": 36.64907029478458,
+      "end": 37.12907029478458
+    },
+    {
+      "text": "Milk",
+      "start": 37.36907029478458,
+      "end": 37.689070294784585
+    },
+    {
+      "text": "works",
+      "start": 37.689070294784585,
+      "end": 38.16907029478458
+    },
+    {
+      "text": "The",
+      "start": 38.409070294784584,
+      "end": 38.48907029478458
+    },
+    {
+      "text": "fat",
+      "start": 38.48907029478458,
+      "end": 38.80907029478458
+    },
+    {
+      "text": "dissolves",
+      "start": 38.80907029478458,
+      "end": 39.20907029478458
+    },
+    {
+      "text": "it",
+      "start": 39.20907029478458,
+      "end": 39.36907029478458
+    },
+    {
+      "text": "and",
+      "start": 39.44907029478458,
+      "end": 39.60907029478458
+    },
+    {
+      "text": "the",
+      "start": 39.60907029478458,
+      "end": 39.689070294784585
+    },
+    {
+      "text": "protein",
+      "start": 39.689070294784585,
+      "end": 40.089070294784584
+    },
+    {
+      "text": "drags",
+      "start": 40.089070294784584,
+      "end": 40.48907029478458
+    },
+    {
+      "text": "it",
+      "start": 40.48907029478458,
+      "end": 40.56907029478458
+    },
+    {
+      "text": "away",
+      "start": 40.56907029478458,
+      "end": 40.96907029478458
+    },
+    {
+      "text": "One",
+      "start": 41.20907029478458,
+      "end": 41.44907029478458
+    },
+    {
+      "text": "of",
+      "start": 41.44907029478458,
+      "end": 41.52907029478458
+    },
+    {
+      "text": "these",
+      "start": 41.52907029478458,
+      "end": 41.76907029478458
+    },
+    {
+      "text": "every",
+      "start": 41.76907029478458,
+      "end": 42.089070294784584
+    },
+    {
+      "text": "day",
+      "start": 42.089070294784584,
+      "end": 42.48907029478458
+    },
+    {
+      "text": "Follow",
+      "start": 42.80907029478458,
+      "end": 43.049070294784585
+    },
+    {
+      "text": "so",
+      "start": 43.049070294784585,
+      "end": 43.20907029478458
+    },
+    {
+      "text": "you",
+      "start": 43.20907029478458,
+      "end": 43.36907029478458
+    },
+    {
+      "text": "do",
+      "start": 43.36907029478458,
+      "end": 43.52907029478458
+    },
+    {
+      "text": "not",
+      "start": 43.52907029478458,
+      "end": 43.76907029478458
+    },
+    {
+      "text": "miss",
+      "start": 43.76907029478458,
+      "end": 44.00907029478458
+    },
+    {
+      "text": "tomorrow",
+      "start": 44.00907029478458,
+      "end": 44.56907029478458
+    }
+  ],
+  "text": "Chilli does not burn you. There is no heat involved anywhere. Your tongue carries a receptor whose only job is to report dangerous temperature. Capsaicin fits that receptor and switches it on directly. So your brain receives a genuine burning alarm with nothing actually burning. The pain is real. The heat is a lie. Menthol pulls the exact same trick in reverse, on the cold receptor. Birds do not have that receptor in a form capsaicin can jam, so they feel nothing. Which is the whole point. The plant wants birds to spread its seeds and mammals to leave it alone. And water does not help, because capsaicin is not water soluble. It only spreads it around. Milk works. The fat dissolves it and the protein drags it away. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Your favourite foods are controlled decay",
+  "lesson": "Cheese, bread, coffee, chocolate, soy sauce and pickles are all made by microbes eating something first, and humans ran that process for millennia before knowing microbes existed.",
+  "slug": "day-082-controlled-decay-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Cheese, bread, coffee, chocolate, soy sauce, pickles. All of them are something rotting on purpose.",
+      "scene": "a wheel of cheese with one wedge cut out, a small black cartoon figure hauling the wedge away",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wheel of cheese with one wedge cut out, a small black cartoon figure hauling the wedge away. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Rot is only what you call it when it goes the way you did not want.",
+      "scene": "a furred forgotten loaf, a small black cartoon figure holding their nose and shoving it off the edge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a furred forgotten loaf, a small black cartoon figure holding their nose and shoving it off the edge. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Fermentation is the same process, steered.",
+      "scene": "a set of leather reins tied to a post, a small black cartoon figure hauling hard on them",
+      "image_text": "STEERED",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a set of leather reins tied to a post, a small black cartoon figure hauling hard on them. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STEERED\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "Microbes eat the sugars and hand back acids, alcohol and gas.",
+      "scene": "a bubbling crock with an airlock in the lid, a small black cartoon figure pressing the lid down",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bubbling crock with an airlock in the lid, a small black cartoon figure pressing the lid down. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "The acid is what stops anything worse moving in. That is the preservation half.",
+      "scene": "a sealed jar of pickles, a small black cartoon figure sitting squarely on the lid",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed jar of pickles, a small black cartoon figure sitting squarely on the lid. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But flavour is the real prize, and it is not in the ingredient at all.",
+      "scene": "a small wooden chest, a small black cartoon figure prising the lid open with both arms",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small wooden chest, a small black cartoon figure prising the lid open with both arms. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Those compounds do not exist until something has eaten it first.",
+      "scene": "a cocoa pod split in two, a small black cartoon figure pulling the halves apart",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cocoa pod split in two, a small black cartoon figure pulling the halves apart. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "There is no such thing as unfermented chocolate that tastes like chocolate.",
+      "scene": "a pale raw bean beside a dark roasted one, a small black cartoon figure carrying the dark one off",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a pale raw bean beside a dark roasted one, a small black cartoon figure carrying the dark one off. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And humans worked all of this out thousands of years before anyone knew microbes existed.",
+      "scene": "a very old clay pot, a small black cartoon figure brushing dust off its shoulder",
+      "image_text": "NO IDEA",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a very old clay pot, a small black cartoon figure brushing dust off its shoulder. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO IDEA\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We were running biotechnology blind, and we got extremely good at it.",
+      "scene": "a brass microscope with nothing on the stage, a small black cartoon figure climbing up its stand",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a brass microscope with nothing on the stage, a small black cartoon figure climbing up its stand. the scene belongs to decay being steered on purpose instead of prevented, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Cheese, curd, bread, coffee, chocolate, soy sauce and pickles are all made by microbes eating something first. Fermentation converts sugars into acids, alcohol and gases, which preserves the food and creates flavour compounds that do not otherwise exist. There is no unfermented chocolate that tastes like chocolate. And humans worked all of it out thousands of years before anyone knew microbes existed. We were running biotechnology blind and getting very good at it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #fermentation #food #microbes #cooking #science",
+    "thumbnail_beat": "01"
+  }
+}

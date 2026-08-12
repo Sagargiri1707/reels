@@ -1,0 +1,109 @@
+{
+  "topic": "Why rockets are mostly fuel",
+  "lesson": "Fuel has weight, so you need fuel to lift the fuel, and that compounding is why payload is a sliver of liftoff mass and why staging exists at all.",
+  "slug": "day-164-rockets-are-mostly-fuel-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A rocket is a fuel tank with an engine bolted on. The payload is a few percent of the whole thing.",
+      "scene": "a huge canister with one tiny box taped on top, a small black cartoon figure hauling the canister",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a huge canister with one tiny box taped on top, a small black cartoon figure hauling the canister. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "To stay in orbit you need to be moving sideways at about twenty eight thousand kilometres an hour.",
+      "scene": "a ball whipped round on a string, a small black cartoon figure swinging it hard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball whipped round on a string, a small black cartoon figure swinging it hard. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "That is not about height. It is about speed. Height is the easy half.",
+      "scene": "a short stack beside a very long chalk line, a small black cartoon figure running along the line",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a short stack beside a very long chalk line, a small black cartoon figure running along the line. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "role": "turn",
+      "text": "And here is the trap. Fuel has weight, so you need fuel just to lift the fuel.",
+      "scene": "a fuel can loaded onto an already full cart, a small black cartoon figure heaving it on",
+      "image_text": "FUEL TO LIFT FUEL",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a fuel can loaded onto an already full cart, a small black cartoon figure heaving it on. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"FUEL TO LIFT FUEL\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Add more and you have added more mass to lift, which needs more fuel again.",
+      "scene": "a cart sagging under stacked cans, a small black cartoon figure adding one more",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a cart sagging under stacked cans, a small black cartoon figure adding one more. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "It does not add up. It compounds, and it compounds against you.",
+      "scene": "a stack of cans towering over the figure, a small black cartoon figure at its base",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of cans towering over the figure, a small black cartoon figure at its base. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Which is why almost the whole rocket is tank, and the useful cargo is a sliver at the top.",
+      "scene": "an enormous tank with one small crate on top, a small black cartoon figure sitting on the crate",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an enormous tank with one small crate on top, a small black cartoon figure sitting on the crate. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "The workaround is to stop carrying what you have already emptied.",
+      "scene": "an empty can being kicked off a cart, a small black cartoon figure shoving it away",
+      "image_text": "DROP IT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an empty can being kicked off a cart, a small black cartoon figure shoving it away. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"DROP IT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Drop the empty tank in flight and everything above it becomes far easier to push.",
+      "scene": "a lightened cart rolling easily, a small black cartoon figure pushing it one handed",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a lightened cart rolling easily, a small black cartoon figure pushing it one handed. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Space is expensive because of arithmetic. It was a mass problem long before it was a money problem.",
+      "scene": "a balance loaded hard on one side, a small black cartoon figure hauling down the light side",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a balance loaded hard on one side, a small black cartoon figure hauling down the light side. the scene belongs to a load that grows faster than the thing carrying it, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Orbit is about sideways speed, not height: roughly 28,000 km/h. And the fuel to reach it has weight, so you need fuel to lift the fuel, which compounds rather than adds. That is the tyranny of the rocket equation, and it is why a launch vehicle is almost entirely tank with a sliver of payload on top. Staging is the workaround: drop the empty mass mid-flight so everything above it becomes easier to push. Space is expensive because of arithmetic.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #rockets #space #physics #engineering #science",
+    "thumbnail_beat": "07"
+  }
+}

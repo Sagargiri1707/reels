@@ -1,0 +1,109 @@
+{
+  "topic": "We've littered orbit",
+  "lesson": "Nothing in orbit slows down, so every fragment stays lethal indefinitely and each collision multiplies the debris rather than clearing it.",
+  "slug": "day-168-weve-littered-orbit-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "There are millions of fragments in orbit, and a fleck of paint up there hits harder than a bullet.",
+      "scene": "a metal plate with one clean hole punched through, a small black cartoon figure poking the hole",
+      "image_text": "PAINT FLECK",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal plate with one clean hole punched through, a small black cartoon figure poking the hole. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"PAINT FLECK\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Nothing slows down up there. There is no air to bleed the speed off.",
+      "scene": "a ball rolling across a bare surface that never stops, a small black cartoon figure chasing it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ball rolling across a bare surface that never stops, a small black cartoon figure chasing it. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So everything ever left behind is still moving at about twenty eight thousand kilometres an hour.",
+      "scene": "a spinning top still turning hard, a small black cartoon figure trying to grab it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spinning top still turning hard, a small black cartoon figure trying to grab it. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "At that speed the mass barely matters. A chip of metal punches straight through a pressure hull.",
+      "scene": "a thin sheet cleanly punctured, a small black cartoon figure pushing an arm through the hole",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a thin sheet cleanly punctured, a small black cartoon figure pushing an arm through the hole. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And every collision makes the problem worse, not better.",
+      "scene": "one cracked plate breaking into many shards, a small black cartoon figure sweeping at them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. one cracked plate breaking into many shards, a small black cartoon figure sweeping at them. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Two objects hit, and now you have a thousand objects where you used to have two.",
+      "scene": "two marbles colliding into a scatter of chips, a small black cartoon figure flicking one in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two marbles colliding into a scatter of chips, a small black cartoon figure flicking one in. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Each of those can hit something else. That cascade has a name. Kessler syndrome.",
+      "scene": "a chain of collisions running along a groove, a small black cartoon figure at the far end",
+      "image_text": "CASCADE",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chain of collisions running along a groove, a small black cartoon figure at the far end. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"CASCADE\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Anti satellite tests made this worse on purpose, and left debris that will be up there for decades.",
+      "scene": "a deliberately smashed plate, a small black cartoon figure holding the hammer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a deliberately smashed plate, a small black cartoon figure holding the hammer. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "The useful orbits are a finite shared resource, and there is no enforcement mechanism at all.",
+      "scene": "a small tray crowded with debris, a small black cartoon figure trying to clear a space",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small tray crowded with debris, a small black cartoon figure trying to clear a space. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We built a rubbish problem in the one place where nothing ever falls.",
+      "scene": "a bin with no bottom in it, a small black cartoon figure dropping something straight through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a bin with no bottom in it, a small black cartoon figure dropping something straight through. the scene belongs to rubbish in a place where nothing ever falls and nothing slows down, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Nothing in orbit slows down, because there is no air to bleed the speed off, so every spent stage, dead satellite and paint fleck is still travelling around 28,000 km/h. At that speed mass barely matters and a metal chip punches through a pressure hull. Worse, collisions multiply: two objects become a thousand, each able to hit something else, which is Kessler syndrome. Anti-satellite tests added to it deliberately. The useful orbits are finite and nobody can enforce anything.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #spacedebris #orbit #satellites #space #science",
+    "thumbnail_beat": "01"
+  }
+}

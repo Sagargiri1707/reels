@@ -1,0 +1,778 @@
+{
+  "audio_duration": 49.266875,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.0
+    },
+    {
+      "text": "rocket",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "works",
+      "start": 0.48,
+      "end": 0.72
+    },
+    {
+      "text": "better",
+      "start": 0.72,
+      "end": 0.96
+    },
+    {
+      "text": "in",
+      "start": 0.96,
+      "end": 1.12
+    },
+    {
+      "text": "a",
+      "start": 1.12,
+      "end": 1.2
+    },
+    {
+      "text": "vacuum",
+      "start": 1.2,
+      "end": 1.76
+    },
+    {
+      "text": "It",
+      "start": 2.08,
+      "end": 2.24
+    },
+    {
+      "text": "is",
+      "start": 2.24,
+      "end": 2.32
+    },
+    {
+      "text": "not",
+      "start": 2.32,
+      "end": 2.64
+    },
+    {
+      "text": "pushing",
+      "start": 2.64,
+      "end": 2.96
+    },
+    {
+      "text": "against",
+      "start": 2.96,
+      "end": 3.36
+    },
+    {
+      "text": "anything",
+      "start": 3.36,
+      "end": 4.0
+    },
+    {
+      "text": "Everyone",
+      "start": 4.24,
+      "end": 4.56
+    },
+    {
+      "text": "assumes",
+      "start": 4.56,
+      "end": 5.04
+    },
+    {
+      "text": "it",
+      "start": 5.04,
+      "end": 5.12
+    },
+    {
+      "text": "shoves",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "against",
+      "start": 5.44,
+      "end": 5.76
+    },
+    {
+      "text": "the",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "air",
+      "start": 5.92,
+      "end": 6.24
+    },
+    {
+      "text": "the",
+      "start": 6.48,
+      "end": 6.56
+    },
+    {
+      "text": "way",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "a",
+      "start": 6.72,
+      "end": 6.8
+    },
+    {
+      "text": "swimmer",
+      "start": 6.8,
+      "end": 7.2
+    },
+    {
+      "text": "shoves",
+      "start": 7.2,
+      "end": 7.52
+    },
+    {
+      "text": "against",
+      "start": 7.52,
+      "end": 7.84
+    },
+    {
+      "text": "water",
+      "start": 7.84,
+      "end": 8.24
+    },
+    {
+      "text": "If",
+      "start": 8.56,
+      "end": 8.8
+    },
+    {
+      "text": "that",
+      "start": 8.8,
+      "end": 8.96
+    },
+    {
+      "text": "were",
+      "start": 8.96,
+      "end": 9.04
+    },
+    {
+      "text": "true",
+      "start": 9.04,
+      "end": 9.52
+    },
+    {
+      "text": "a",
+      "start": 9.68,
+      "end": 9.76
+    },
+    {
+      "text": "rocket",
+      "start": 9.76,
+      "end": 10.16
+    },
+    {
+      "text": "would",
+      "start": 10.16,
+      "end": 10.32
+    },
+    {
+      "text": "stop",
+      "start": 10.32,
+      "end": 10.64
+    },
+    {
+      "text": "working",
+      "start": 10.64,
+      "end": 10.96
+    },
+    {
+      "text": "the",
+      "start": 10.96,
+      "end": 11.04
+    },
+    {
+      "text": "moment",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "text": "it",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "left",
+      "start": 11.44,
+      "end": 11.68
+    },
+    {
+      "text": "the",
+      "start": 11.68,
+      "end": 11.84
+    },
+    {
+      "text": "atmosphere",
+      "start": 11.84,
+      "end": 12.48
+    },
+    {
+      "text": "What",
+      "start": 12.8,
+      "end": 12.96
+    },
+    {
+      "text": "it",
+      "start": 12.96,
+      "end": 13.04
+    },
+    {
+      "text": "actually",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "does",
+      "start": 13.44,
+      "end": 13.84
+    },
+    {
+      "text": "is",
+      "start": 14.0,
+      "end": 14.16
+    },
+    {
+      "text": "throw",
+      "start": 14.16,
+      "end": 14.4
+    },
+    {
+      "text": "mass",
+      "start": 14.4,
+      "end": 14.72
+    },
+    {
+      "text": "backwards",
+      "start": 14.72,
+      "end": 15.44
+    },
+    {
+      "text": "extremely",
+      "start": 15.68,
+      "end": 16.24
+    },
+    {
+      "text": "fast",
+      "start": 16.24,
+      "end": 16.8
+    },
+    {
+      "text": "The",
+      "start": 17.110566893424036,
+      "end": 17.190566893424034
+    },
+    {
+      "text": "rocket",
+      "start": 17.190566893424034,
+      "end": 17.590566893424036
+    },
+    {
+      "text": "pushes",
+      "start": 17.590566893424036,
+      "end": 17.910566893424036
+    },
+    {
+      "text": "the",
+      "start": 17.910566893424036,
+      "end": 18.070566893424036
+    },
+    {
+      "text": "exhaust",
+      "start": 18.070566893424036,
+      "end": 18.470566893424035
+    },
+    {
+      "text": "one",
+      "start": 18.470566893424035,
+      "end": 18.790566893424035
+    },
+    {
+      "text": "way",
+      "start": 18.790566893424035,
+      "end": 19.110566893424036
+    },
+    {
+      "text": "and",
+      "start": 19.350566893424034,
+      "end": 19.430566893424036
+    },
+    {
+      "text": "the",
+      "start": 19.430566893424036,
+      "end": 19.510566893424034
+    },
+    {
+      "text": "exhaust",
+      "start": 19.510566893424034,
+      "end": 19.990566893424035
+    },
+    {
+      "text": "pushes",
+      "start": 19.990566893424035,
+      "end": 20.310566893424035
+    },
+    {
+      "text": "the",
+      "start": 20.310566893424035,
+      "end": 20.390566893424037
+    },
+    {
+      "text": "rocket",
+      "start": 20.390566893424037,
+      "end": 20.790566893424035
+    },
+    {
+      "text": "the",
+      "start": 20.790566893424035,
+      "end": 20.950566893424035
+    },
+    {
+      "text": "other",
+      "start": 20.950566893424035,
+      "end": 21.270566893424036
+    },
+    {
+      "text": "That",
+      "start": 21.510566893424034,
+      "end": 21.670566893424034
+    },
+    {
+      "text": "is",
+      "start": 21.670566893424034,
+      "end": 21.830566893424034
+    },
+    {
+      "text": "the",
+      "start": 21.830566893424034,
+      "end": 21.910566893424036
+    },
+    {
+      "text": "whole",
+      "start": 21.910566893424036,
+      "end": 22.070566893424036
+    },
+    {
+      "text": "mechanism",
+      "start": 22.070566893424036,
+      "end": 22.710566893424037
+    },
+    {
+      "text": "Two",
+      "start": 22.950566893424035,
+      "end": 23.190566893424034
+    },
+    {
+      "text": "things",
+      "start": 23.190566893424034,
+      "end": 23.510566893424034
+    },
+    {
+      "text": "shoving",
+      "start": 23.510566893424034,
+      "end": 23.830566893424034
+    },
+    {
+      "text": "each",
+      "start": 23.830566893424034,
+      "end": 24.070566893424036
+    },
+    {
+      "text": "other",
+      "start": 24.070566893424036,
+      "end": 24.230566893424037
+    },
+    {
+      "text": "apart",
+      "start": 24.230566893424037,
+      "end": 24.710566893424037
+    },
+    {
+      "text": "Stand",
+      "start": 24.950566893424035,
+      "end": 25.350566893424038
+    },
+    {
+      "text": "on",
+      "start": 25.350566893424038,
+      "end": 25.430566893424036
+    },
+    {
+      "text": "a",
+      "start": 25.430566893424036,
+      "end": 25.430566893424036
+    },
+    {
+      "text": "skateboard",
+      "start": 25.430566893424036,
+      "end": 26.150566893424035
+    },
+    {
+      "text": "throw",
+      "start": 26.390566893424037,
+      "end": 26.550566893424033
+    },
+    {
+      "text": "something",
+      "start": 26.550566893424033,
+      "end": 26.950566893424035
+    },
+    {
+      "text": "heavy",
+      "start": 26.950566893424035,
+      "end": 27.350566893424038
+    },
+    {
+      "text": "and",
+      "start": 27.510566893424034,
+      "end": 27.670566893424038
+    },
+    {
+      "text": "you",
+      "start": 27.670566893424038,
+      "end": 27.830566893424034
+    },
+    {
+      "text": "roll",
+      "start": 27.830566893424034,
+      "end": 28.070566893424036
+    },
+    {
+      "text": "backwards",
+      "start": 28.070566893424036,
+      "end": 28.630566893424035
+    },
+    {
+      "text": "Same",
+      "start": 28.790566893424035,
+      "end": 29.110566893424036
+    },
+    {
+      "text": "thing",
+      "start": 29.110566893424036,
+      "end": 29.350566893424038
+    },
+    {
+      "text": "exactly",
+      "start": 29.350566893424038,
+      "end": 29.990566893424035
+    },
+    {
+      "text": "Air",
+      "start": 30.310566893424035,
+      "end": 30.550566893424033
+    },
+    {
+      "text": "does",
+      "start": 30.550566893424033,
+      "end": 30.710566893424037
+    },
+    {
+      "text": "not",
+      "start": 30.710566893424037,
+      "end": 30.870566893424034
+    },
+    {
+      "text": "help",
+      "start": 30.870566893424034,
+      "end": 31.190566893424034
+    },
+    {
+      "text": "at",
+      "start": 31.190566893424034,
+      "end": 31.350566893424038
+    },
+    {
+      "text": "all",
+      "start": 31.350566893424038,
+      "end": 31.670566893424038
+    },
+    {
+      "text": "Air",
+      "start": 32.14671201814059,
+      "end": 32.30671201814059
+    },
+    {
+      "text": "is",
+      "start": 32.30671201814059,
+      "end": 32.46671201814059
+    },
+    {
+      "text": "drag",
+      "start": 32.46671201814059,
+      "end": 32.94671201814059
+    },
+    {
+      "text": "and",
+      "start": 33.10671201814059,
+      "end": 33.26671201814059
+    },
+    {
+      "text": "it",
+      "start": 33.26671201814059,
+      "end": 33.34671201814059
+    },
+    {
+      "text": "squeezes",
+      "start": 33.34671201814059,
+      "end": 33.82671201814059
+    },
+    {
+      "text": "the",
+      "start": 33.82671201814059,
+      "end": 33.986712018140594
+    },
+    {
+      "text": "exhaust",
+      "start": 33.986712018140594,
+      "end": 34.38671201814059
+    },
+    {
+      "text": "plume",
+      "start": 34.38671201814059,
+      "end": 34.70671201814059
+    },
+    {
+      "text": "inwards",
+      "start": 34.70671201814059,
+      "end": 35.18671201814059
+    },
+    {
+      "text": "too",
+      "start": 35.18671201814059,
+      "end": 35.50671201814059
+    },
+    {
+      "text": "Which",
+      "start": 35.82671201814059,
+      "end": 35.986712018140594
+    },
+    {
+      "text": "is",
+      "start": 35.986712018140594,
+      "end": 36.06671201814059
+    },
+    {
+      "text": "why",
+      "start": 36.06671201814059,
+      "end": 36.30671201814059
+    },
+    {
+      "text": "upper",
+      "start": 36.30671201814059,
+      "end": 36.62671201814059
+    },
+    {
+      "text": "stage",
+      "start": 36.62671201814059,
+      "end": 36.94671201814059
+    },
+    {
+      "text": "engines",
+      "start": 36.94671201814059,
+      "end": 37.42671201814059
+    },
+    {
+      "text": "have",
+      "start": 37.42671201814059,
+      "end": 37.58671201814059
+    },
+    {
+      "text": "enormous",
+      "start": 37.58671201814059,
+      "end": 38.06671201814059
+    },
+    {
+      "text": "nozzles",
+      "start": 38.06671201814059,
+      "end": 38.62671201814059
+    },
+    {
+      "text": "With",
+      "start": 38.86671201814059,
+      "end": 39.02671201814059
+    },
+    {
+      "text": "no",
+      "start": 39.02671201814059,
+      "end": 39.26671201814059
+    },
+    {
+      "text": "air",
+      "start": 39.26671201814059,
+      "end": 39.50671201814059
+    },
+    {
+      "text": "pressing",
+      "start": 39.50671201814059,
+      "end": 39.82671201814059
+    },
+    {
+      "text": "in",
+      "start": 39.82671201814059,
+      "end": 40.14671201814059
+    },
+    {
+      "text": "the",
+      "start": 40.30671201814059,
+      "end": 40.46671201814059
+    },
+    {
+      "text": "plume",
+      "start": 40.46671201814059,
+      "end": 40.78671201814059
+    },
+    {
+      "text": "spreads",
+      "start": 40.78671201814059,
+      "end": 41.34671201814059
+    },
+    {
+      "text": "A",
+      "start": 41.58671201814059,
+      "end": 41.666712018140586
+    },
+    {
+      "text": "rocket",
+      "start": 41.666712018140586,
+      "end": 42.06671201814059
+    },
+    {
+      "text": "needs",
+      "start": 42.06671201814059,
+      "end": 42.30671201814059
+    },
+    {
+      "text": "nothing",
+      "start": 42.30671201814059,
+      "end": 42.70671201814059
+    },
+    {
+      "text": "to",
+      "start": 42.70671201814059,
+      "end": 42.78671201814059
+    },
+    {
+      "text": "push",
+      "start": 42.78671201814059,
+      "end": 43.026712018140586
+    },
+    {
+      "text": "against",
+      "start": 43.026712018140586,
+      "end": 43.50671201814059
+    },
+    {
+      "text": "It",
+      "start": 43.666712018140586,
+      "end": 43.82671201814059
+    },
+    {
+      "text": "brings",
+      "start": 43.82671201814059,
+      "end": 44.14671201814059
+    },
+    {
+      "text": "the",
+      "start": 44.14671201814059,
+      "end": 44.22671201814059
+    },
+    {
+      "text": "thing",
+      "start": 44.22671201814059,
+      "end": 44.46671201814059
+    },
+    {
+      "text": "it",
+      "start": 44.46671201814059,
+      "end": 44.54671201814059
+    },
+    {
+      "text": "pushes",
+      "start": 44.54671201814059,
+      "end": 44.86671201814059
+    },
+    {
+      "text": "against",
+      "start": 44.86671201814059,
+      "end": 45.18671201814059
+    },
+    {
+      "text": "with",
+      "start": 45.18671201814059,
+      "end": 45.42671201814059
+    },
+    {
+      "text": "it",
+      "start": 45.42671201814059,
+      "end": 45.58671201814059
+    },
+    {
+      "text": "One",
+      "start": 45.82671201814059,
+      "end": 45.986712018140594
+    },
+    {
+      "text": "of",
+      "start": 45.986712018140594,
+      "end": 46.06671201814059
+    },
+    {
+      "text": "these",
+      "start": 46.06671201814059,
+      "end": 46.30671201814059
+    },
+    {
+      "text": "every",
+      "start": 46.30671201814059,
+      "end": 46.626712018140594
+    },
+    {
+      "text": "day",
+      "start": 46.626712018140594,
+      "end": 46.94671201814059
+    },
+    {
+      "text": "Follow",
+      "start": 47.39648526077098,
+      "end": 47.63648526077098
+    },
+    {
+      "text": "so",
+      "start": 47.63648526077098,
+      "end": 47.79648526077098
+    },
+    {
+      "text": "you",
+      "start": 47.79648526077098,
+      "end": 47.95648526077098
+    },
+    {
+      "text": "do",
+      "start": 47.95648526077098,
+      "end": 48.03648526077098
+    },
+    {
+      "text": "not",
+      "start": 48.03648526077098,
+      "end": 48.35648526077098
+    },
+    {
+      "text": "miss",
+      "start": 48.35648526077098,
+      "end": 48.59648526077098
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.59648526077098,
+      "end": 49.07648526077098
+    }
+  ],
+  "text": "A rocket works better in a vacuum. It is not pushing against anything. Everyone assumes it shoves against the air, the way a swimmer shoves against water. If that were true, a rocket would stop working the moment it left the atmosphere. What it actually does is throw mass backwards, extremely fast. The rocket pushes the exhaust one way and the exhaust pushes the rocket the other. That is the whole mechanism. Two things shoving each other apart. Stand on a skateboard, throw something heavy, and you roll backwards. Same thing exactly. Air does not help at all. Air is drag, and it squeezes the exhaust plume inwards too. Which is why upper stage engines have enormous nozzles. With no air pressing in, the plume spreads. A rocket needs nothing to push against. It brings the thing it pushes against with it. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

@@ -1,0 +1,828 @@
+{
+  "audio_duration": 49.789313,
+  "segments": [
+    {
+      "text": "There",
+      "start": 0.0,
+      "end": 0.16
+    },
+    {
+      "text": "are",
+      "start": 0.16,
+      "end": 0.16
+    },
+    {
+      "text": "millions",
+      "start": 0.16,
+      "end": 0.64
+    },
+    {
+      "text": "of",
+      "start": 0.64,
+      "end": 0.72
+    },
+    {
+      "text": "fragments",
+      "start": 0.8,
+      "end": 1.28
+    },
+    {
+      "text": "in",
+      "start": 1.28,
+      "end": 1.36
+    },
+    {
+      "text": "orbit",
+      "start": 1.36,
+      "end": 1.84
+    },
+    {
+      "text": "and",
+      "start": 2.08,
+      "end": 2.16
+    },
+    {
+      "text": "a",
+      "start": 2.16,
+      "end": 2.24
+    },
+    {
+      "text": "fleck",
+      "start": 2.24,
+      "end": 2.56
+    },
+    {
+      "text": "of",
+      "start": 2.56,
+      "end": 2.72
+    },
+    {
+      "text": "paint",
+      "start": 2.72,
+      "end": 3.04
+    },
+    {
+      "text": "up",
+      "start": 3.04,
+      "end": 3.2
+    },
+    {
+      "text": "there",
+      "start": 3.2,
+      "end": 3.52
+    },
+    {
+      "text": "hits",
+      "start": 3.68,
+      "end": 3.84
+    },
+    {
+      "text": "harder",
+      "start": 3.84,
+      "end": 4.24
+    },
+    {
+      "text": "than",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "text": "a",
+      "start": 4.4,
+      "end": 4.4
+    },
+    {
+      "text": "bullet",
+      "start": 4.4,
+      "end": 4.88
+    },
+    {
+      "text": "Nothing",
+      "start": 5.12,
+      "end": 5.44
+    },
+    {
+      "text": "slows",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "text": "down",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "up",
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "text": "there",
+      "start": 6.24,
+      "end": 6.56
+    },
+    {
+      "text": "There",
+      "start": 6.8,
+      "end": 6.96
+    },
+    {
+      "text": "is",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "text": "no",
+      "start": 7.04,
+      "end": 7.28
+    },
+    {
+      "text": "air",
+      "start": 7.28,
+      "end": 7.6
+    },
+    {
+      "text": "to",
+      "start": 7.6,
+      "end": 7.68
+    },
+    {
+      "text": "bleed",
+      "start": 7.68,
+      "end": 8.0
+    },
+    {
+      "text": "the",
+      "start": 8.0,
+      "end": 8.08
+    },
+    {
+      "text": "speed",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "off",
+      "start": 8.4,
+      "end": 8.64
+    },
+    {
+      "text": "So",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "everything",
+      "start": 9.12,
+      "end": 9.68
+    },
+    {
+      "text": "ever",
+      "start": 9.68,
+      "end": 9.92
+    },
+    {
+      "text": "left",
+      "start": 9.92,
+      "end": 10.16
+    },
+    {
+      "text": "behind",
+      "start": 10.16,
+      "end": 10.64
+    },
+    {
+      "text": "is",
+      "start": 10.8,
+      "end": 10.96
+    },
+    {
+      "text": "still",
+      "start": 10.96,
+      "end": 11.28
+    },
+    {
+      "text": "moving",
+      "start": 11.28,
+      "end": 11.68
+    },
+    {
+      "text": "at",
+      "start": 11.68,
+      "end": 11.68
+    },
+    {
+      "text": "about",
+      "start": 11.68,
+      "end": 12.0
+    },
+    {
+      "text": "twenty",
+      "start": 12.0,
+      "end": 12.4
+    },
+    {
+      "text": "eight",
+      "start": 12.4,
+      "end": 12.64
+    },
+    {
+      "text": "thousand",
+      "start": 12.64,
+      "end": 13.04
+    },
+    {
+      "text": "kilometres",
+      "start": 13.04,
+      "end": 13.52
+    },
+    {
+      "text": "an",
+      "start": 13.52,
+      "end": 13.6
+    },
+    {
+      "text": "hour",
+      "start": 13.6,
+      "end": 14.0
+    },
+    {
+      "text": "At",
+      "start": 14.471292517006804,
+      "end": 14.711292517006804
+    },
+    {
+      "text": "that",
+      "start": 14.711292517006804,
+      "end": 14.871292517006804
+    },
+    {
+      "text": "speed",
+      "start": 14.871292517006804,
+      "end": 15.191292517006804
+    },
+    {
+      "text": "the",
+      "start": 15.191292517006804,
+      "end": 15.271292517006803
+    },
+    {
+      "text": "mass",
+      "start": 15.271292517006803,
+      "end": 15.591292517006803
+    },
+    {
+      "text": "barely",
+      "start": 15.591292517006803,
+      "end": 16.071292517006803
+    },
+    {
+      "text": "matters",
+      "start": 16.071292517006803,
+      "end": 16.551292517006804
+    },
+    {
+      "text": "A",
+      "start": 16.791292517006802,
+      "end": 16.871292517006804
+    },
+    {
+      "text": "chip",
+      "start": 16.871292517006804,
+      "end": 17.111292517006802
+    },
+    {
+      "text": "of",
+      "start": 17.111292517006802,
+      "end": 17.191292517006804
+    },
+    {
+      "text": "metal",
+      "start": 17.191292517006804,
+      "end": 17.511292517006805
+    },
+    {
+      "text": "punches",
+      "start": 17.511292517006805,
+      "end": 17.911292517006803
+    },
+    {
+      "text": "straight",
+      "start": 17.911292517006803,
+      "end": 18.311292517006805
+    },
+    {
+      "text": "through",
+      "start": 18.311292517006805,
+      "end": 18.551292517006804
+    },
+    {
+      "text": "a",
+      "start": 18.551292517006804,
+      "end": 18.551292517006804
+    },
+    {
+      "text": "pressure",
+      "start": 18.551292517006804,
+      "end": 18.951292517006802
+    },
+    {
+      "text": "hull",
+      "start": 18.951292517006802,
+      "end": 19.191292517006804
+    },
+    {
+      "text": "And",
+      "start": 19.511292517006805,
+      "end": 19.591292517006803
+    },
+    {
+      "text": "every",
+      "start": 19.671292517006805,
+      "end": 19.911292517006803
+    },
+    {
+      "text": "collision",
+      "start": 19.911292517006803,
+      "end": 20.391292517006804
+    },
+    {
+      "text": "makes",
+      "start": 20.391292517006804,
+      "end": 20.631292517006802
+    },
+    {
+      "text": "the",
+      "start": 20.631292517006802,
+      "end": 20.631292517006802
+    },
+    {
+      "text": "problem",
+      "start": 20.631292517006802,
+      "end": 21.111292517006802
+    },
+    {
+      "text": "worse",
+      "start": 21.111292517006802,
+      "end": 21.511292517006805
+    },
+    {
+      "text": "not",
+      "start": 21.671292517006805,
+      "end": 21.911292517006803
+    },
+    {
+      "text": "better",
+      "start": 21.911292517006803,
+      "end": 22.311292517006805
+    },
+    {
+      "text": "Two",
+      "start": 22.631292517006806,
+      "end": 22.791292517006802
+    },
+    {
+      "text": "objects",
+      "start": 22.791292517006802,
+      "end": 23.271292517006803
+    },
+    {
+      "text": "hit",
+      "start": 23.271292517006803,
+      "end": 23.591292517006803
+    },
+    {
+      "text": "and",
+      "start": 23.751292517006803,
+      "end": 23.911292517006803
+    },
+    {
+      "text": "now",
+      "start": 23.911292517006803,
+      "end": 24.1512925170068
+    },
+    {
+      "text": "you",
+      "start": 24.1512925170068,
+      "end": 24.231292517006803
+    },
+    {
+      "text": "have",
+      "start": 24.231292517006803,
+      "end": 24.391292517006804
+    },
+    {
+      "text": "a",
+      "start": 24.391292517006804,
+      "end": 24.471292517006802
+    },
+    {
+      "text": "thousand",
+      "start": 24.471292517006802,
+      "end": 24.871292517006804
+    },
+    {
+      "text": "objects",
+      "start": 24.871292517006804,
+      "end": 25.431292517006803
+    },
+    {
+      "text": "where",
+      "start": 25.591292517006803,
+      "end": 25.671292517006805
+    },
+    {
+      "text": "you",
+      "start": 25.671292517006805,
+      "end": 25.8312925170068
+    },
+    {
+      "text": "used",
+      "start": 25.8312925170068,
+      "end": 26.1512925170068
+    },
+    {
+      "text": "to",
+      "start": 26.1512925170068,
+      "end": 26.231292517006803
+    },
+    {
+      "text": "have",
+      "start": 26.231292517006803,
+      "end": 26.391292517006804
+    },
+    {
+      "text": "two",
+      "start": 26.391292517006804,
+      "end": 26.791292517006802
+    },
+    {
+      "text": "Each",
+      "start": 27.111292517006802,
+      "end": 27.351292517006804
+    },
+    {
+      "text": "of",
+      "start": 27.351292517006804,
+      "end": 27.431292517006803
+    },
+    {
+      "text": "those",
+      "start": 27.431292517006803,
+      "end": 27.751292517006803
+    },
+    {
+      "text": "can",
+      "start": 27.751292517006803,
+      "end": 27.8312925170068
+    },
+    {
+      "text": "hit",
+      "start": 27.8312925170068,
+      "end": 28.071292517006803
+    },
+    {
+      "text": "something",
+      "start": 28.071292517006803,
+      "end": 28.391292517006804
+    },
+    {
+      "text": "else",
+      "start": 28.391292517006804,
+      "end": 28.791292517006802
+    },
+    {
+      "text": "That",
+      "start": 29.111292517006802,
+      "end": 29.351292517006804
+    },
+    {
+      "text": "cascade",
+      "start": 29.351292517006804,
+      "end": 29.8312925170068
+    },
+    {
+      "text": "has",
+      "start": 29.8312925170068,
+      "end": 29.991292517006805
+    },
+    {
+      "text": "a",
+      "start": 29.991292517006805,
+      "end": 30.071292517006803
+    },
+    {
+      "text": "name",
+      "start": 30.071292517006803,
+      "end": 30.471292517006802
+    },
+    {
+      "text": "Kessler",
+      "start": 30.92671201814059,
+      "end": 31.32671201814059
+    },
+    {
+      "text": "syndrome",
+      "start": 31.32671201814059,
+      "end": 31.886712018140592
+    },
+    {
+      "text": "Anti",
+      "start": 32.20671201814059,
+      "end": 32.60671201814059
+    },
+    {
+      "text": "satellite",
+      "start": 32.60671201814059,
+      "end": 33.08671201814059
+    },
+    {
+      "text": "tests",
+      "start": 33.08671201814059,
+      "end": 33.486712018140594
+    },
+    {
+      "text": "made",
+      "start": 33.486712018140594,
+      "end": 33.64671201814059
+    },
+    {
+      "text": "this",
+      "start": 33.64671201814059,
+      "end": 33.88671201814059
+    },
+    {
+      "text": "worse",
+      "start": 33.88671201814059,
+      "end": 34.126712018140594
+    },
+    {
+      "text": "on",
+      "start": 34.126712018140594,
+      "end": 34.28671201814059
+    },
+    {
+      "text": "purpose",
+      "start": 34.28671201814059,
+      "end": 34.766712018140595
+    },
+    {
+      "text": "and",
+      "start": 35.00671201814059,
+      "end": 35.08671201814059
+    },
+    {
+      "text": "left",
+      "start": 35.08671201814059,
+      "end": 35.40671201814059
+    },
+    {
+      "text": "debris",
+      "start": 35.40671201814059,
+      "end": 35.72671201814059
+    },
+    {
+      "text": "that",
+      "start": 35.72671201814059,
+      "end": 35.88671201814059
+    },
+    {
+      "text": "will",
+      "start": 35.88671201814059,
+      "end": 35.96671201814059
+    },
+    {
+      "text": "be",
+      "start": 35.96671201814059,
+      "end": 36.126712018140594
+    },
+    {
+      "text": "up",
+      "start": 36.126712018140594,
+      "end": 36.36671201814059
+    },
+    {
+      "text": "there",
+      "start": 36.36671201814059,
+      "end": 36.52671201814059
+    },
+    {
+      "text": "for",
+      "start": 36.52671201814059,
+      "end": 36.60671201814059
+    },
+    {
+      "text": "decades",
+      "start": 36.60671201814059,
+      "end": 37.24671201814059
+    },
+    {
+      "text": "The",
+      "start": 37.56671201814059,
+      "end": 37.64671201814059
+    },
+    {
+      "text": "useful",
+      "start": 37.64671201814059,
+      "end": 38.04671201814059
+    },
+    {
+      "text": "orbits",
+      "start": 38.04671201814059,
+      "end": 38.44671201814059
+    },
+    {
+      "text": "are",
+      "start": 38.44671201814059,
+      "end": 38.60671201814059
+    },
+    {
+      "text": "a",
+      "start": 38.60671201814059,
+      "end": 38.60671201814059
+    },
+    {
+      "text": "finite",
+      "start": 38.60671201814059,
+      "end": 39.08671201814059
+    },
+    {
+      "text": "shared",
+      "start": 39.08671201814059,
+      "end": 39.486712018140594
+    },
+    {
+      "text": "resource",
+      "start": 39.486712018140594,
+      "end": 40.04671201814059
+    },
+    {
+      "text": "and",
+      "start": 40.28671201814059,
+      "end": 40.44671201814059
+    },
+    {
+      "text": "there",
+      "start": 40.44671201814059,
+      "end": 40.52671201814059
+    },
+    {
+      "text": "is",
+      "start": 40.52671201814059,
+      "end": 40.68671201814059
+    },
+    {
+      "text": "no",
+      "start": 40.68671201814059,
+      "end": 40.84671201814059
+    },
+    {
+      "text": "enforcement",
+      "start": 40.84671201814059,
+      "end": 41.406712018140595
+    },
+    {
+      "text": "mechanism",
+      "start": 41.406712018140595,
+      "end": 41.88671201814059
+    },
+    {
+      "text": "at",
+      "start": 41.88671201814059,
+      "end": 41.96671201814059
+    },
+    {
+      "text": "all",
+      "start": 41.96671201814059,
+      "end": 42.28671201814059
+    },
+    {
+      "text": "We",
+      "start": 42.52671201814059,
+      "end": 42.68671201814059
+    },
+    {
+      "text": "built",
+      "start": 42.68671201814059,
+      "end": 42.92671201814059
+    },
+    {
+      "text": "a",
+      "start": 42.92671201814059,
+      "end": 42.92671201814059
+    },
+    {
+      "text": "rubbish",
+      "start": 42.92671201814059,
+      "end": 43.32671201814059
+    },
+    {
+      "text": "problem",
+      "start": 43.32671201814059,
+      "end": 43.72671201814059
+    },
+    {
+      "text": "in",
+      "start": 43.72671201814059,
+      "end": 43.88671201814059
+    },
+    {
+      "text": "the",
+      "start": 43.88671201814059,
+      "end": 43.96671201814059
+    },
+    {
+      "text": "one",
+      "start": 43.96671201814059,
+      "end": 44.20671201814059
+    },
+    {
+      "text": "place",
+      "start": 44.20671201814059,
+      "end": 44.60671201814059
+    },
+    {
+      "text": "where",
+      "start": 44.60671201814059,
+      "end": 44.68671201814059
+    },
+    {
+      "text": "nothing",
+      "start": 44.68671201814059,
+      "end": 45.08671201814059
+    },
+    {
+      "text": "ever",
+      "start": 45.08671201814059,
+      "end": 45.32671201814059
+    },
+    {
+      "text": "falls",
+      "start": 45.32671201814059,
+      "end": 45.80671201814059
+    },
+    {
+      "text": "One",
+      "start": 46.275986394557826,
+      "end": 46.51598639455783
+    },
+    {
+      "text": "of",
+      "start": 46.51598639455783,
+      "end": 46.595986394557826
+    },
+    {
+      "text": "these",
+      "start": 46.595986394557826,
+      "end": 46.91598639455783
+    },
+    {
+      "text": "every",
+      "start": 46.91598639455783,
+      "end": 47.15598639455783
+    },
+    {
+      "text": "day",
+      "start": 47.15598639455783,
+      "end": 47.55598639455783
+    },
+    {
+      "text": "Follow",
+      "start": 47.79598639455783,
+      "end": 48.11598639455782
+    },
+    {
+      "text": "so",
+      "start": 48.11598639455782,
+      "end": 48.275986394557826
+    },
+    {
+      "text": "you",
+      "start": 48.275986394557826,
+      "end": 48.43598639455782
+    },
+    {
+      "text": "do",
+      "start": 48.43598639455782,
+      "end": 48.595986394557826
+    },
+    {
+      "text": "not",
+      "start": 48.595986394557826,
+      "end": 48.75598639455782
+    },
+    {
+      "text": "miss",
+      "start": 48.75598639455782,
+      "end": 48.995986394557825
+    },
+    {
+      "text": "tomorrow",
+      "start": 48.995986394557825,
+      "end": 49.55598639455783
+    }
+  ],
+  "text": "There are millions of fragments in orbit, and a fleck of paint up there hits harder than a bullet. Nothing slows down up there. There is no air to bleed the speed off. So everything ever left behind is still moving at about twenty eight thousand kilometres an hour. At that speed the mass barely matters. A chip of metal punches straight through a pressure hull. And every collision makes the problem worse, not better. Two objects hit, and now you have a thousand objects where you used to have two. Each of those can hit something else. That cascade has a name. Kessler syndrome. Anti satellite tests made this worse on purpose, and left debris that will be up there for decades. The useful orbits are a finite shared resource, and there is no enforcement mechanism at all. We built a rubbish problem in the one place where nothing ever falls. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

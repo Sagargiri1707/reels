@@ -1,0 +1,109 @@
+{
+  "topic": "Landing a skyscraper on a boat",
+  "lesson": "Reusable boosters collapsed the cost per kilogram to orbit, and cheap launch is upstream of every other plan anyone has beyond low orbit.",
+  "slug": "day-165-landing-a-skyscraper-on-a-boat-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "For most of spaceflight history, every rocket was used exactly once.",
+      "scene": "a scorched cone being tipped into a bin, a small black cartoon figure tipping it in",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a scorched cone being tipped into a bin, a small black cartoon figure tipping it in. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Imagine scrapping an aircraft after one flight and building a new one for the journey home.",
+      "scene": "a paper aeroplane torn in half, a small black cartoon figure tearing it apart",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a paper aeroplane torn in half, a small black cartoon figure tearing it apart. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "Nobody was being wasteful. Landing the thing was simply thought impossible.",
+      "scene": "a chalk cross drawn on the surface, a small black cartoon figure standing squarely on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a chalk cross drawn on the surface, a small black cartoon figure standing squarely on it. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "A booster comes back empty, moving fast, and far too light to throttle down gently.",
+      "scene": "a tall empty tube toppling over, a small black cartoon figure catching it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a tall empty tube toppling over, a small black cartoon figure catching it. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "So you relight the engine at exactly the right moment, and only briefly.",
+      "scene": "a match struck at the last instant, a small black cartoon figure striking it hard",
+      "image_text": "RELIGHT",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a match struck at the last instant, a small black cartoon figure striking it hard. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"RELIGHT\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Too early and you run out of fuel. Too late and you simply arrive at the ground.",
+      "scene": "a sand timer almost run through, a small black cartoon figure heaving it over",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sand timer almost run through, a small black cartoon figure heaving it over. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Grid fins steer it on the way down, and the legs unfold in the last few seconds.",
+      "scene": "four small fins on a tube, a small black cartoon figure folding one out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. four small fins on a tube, a small black cartoon figure folding one out. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "And it lands on a boat, because the ocean is where the trajectory was already heading.",
+      "scene": "a flat decked boat model, a small black cartoon figure standing a tube upright on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a flat decked boat model, a small black cartoon figure standing a tube upright on it. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Cost per kilogram to orbit fell by roughly a factor of twenty inside a decade.",
+      "scene": "a heavy price tag cut down to a stub, a small black cartoon figure snipping through it",
+      "image_text": "TWENTY TIMES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy price tag cut down to a stub, a small black cartoon figure snipping through it. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"TWENTY TIMES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Cheap launch is upstream of everything. Every plan beyond low orbit was waiting on this one number.",
+      "scene": "a ladder being raised against a wall, a small black cartoon figure hauling it upright",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a ladder being raised against a wall, a small black cartoon figure hauling it upright. the scene belongs to something enormous being brought back down intact instead of thrown away, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "For most of spaceflight history every rocket was thrown away after one use, not out of waste but because landing one was thought impossible. A returning booster is empty, fast and too light to throttle down gently, so you relight briefly at exactly the right moment, steer with grid fins and unfold legs in the last seconds. It lands on a boat because that is where the trajectory already goes. Cost per kilogram to orbit fell roughly twentyfold in a decade, and everything else depends on that number.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #rockets #spacex #reusability #space #science",
+    "thumbnail_beat": "05"
+  }
+}

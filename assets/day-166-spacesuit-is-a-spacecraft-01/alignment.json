@@ -1,0 +1,813 @@
+{
+  "audio_duration": 53.629313,
+  "segments": [
+    {
+      "text": "A",
+      "start": 0.0,
+      "end": 0.08
+    },
+    {
+      "text": "spacesuit",
+      "start": 0.08,
+      "end": 0.88
+    },
+    {
+      "text": "is",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "text": "not",
+      "start": 1.04,
+      "end": 1.44
+    },
+    {
+      "text": "clothing",
+      "start": 1.44,
+      "end": 2.0
+    },
+    {
+      "text": "It",
+      "start": 2.4,
+      "end": 2.48
+    },
+    {
+      "text": "is",
+      "start": 2.48,
+      "end": 2.64
+    },
+    {
+      "text": "a",
+      "start": 2.64,
+      "end": 2.72
+    },
+    {
+      "text": "personal",
+      "start": 2.72,
+      "end": 3.2
+    },
+    {
+      "text": "spacecraft",
+      "start": 3.2,
+      "end": 4.0
+    },
+    {
+      "text": "with",
+      "start": 4.08,
+      "end": 4.24
+    },
+    {
+      "text": "a",
+      "start": 4.24,
+      "end": 4.32
+    },
+    {
+      "text": "person",
+      "start": 4.32,
+      "end": 4.8
+    },
+    {
+      "text": "inside",
+      "start": 4.8,
+      "end": 5.28
+    },
+    {
+      "text": "it",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "text": "It",
+      "start": 5.84,
+      "end": 6.0
+    },
+    {
+      "text": "holds",
+      "start": 6.0,
+      "end": 6.24
+    },
+    {
+      "text": "pressure",
+      "start": 6.24,
+      "end": 6.8
+    },
+    {
+      "text": "supplies",
+      "start": 6.96,
+      "end": 7.44
+    },
+    {
+      "text": "oxygen",
+      "start": 7.44,
+      "end": 8.08
+    },
+    {
+      "text": "removes",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "text": "carbon",
+      "start": 8.72,
+      "end": 9.12
+    },
+    {
+      "text": "dioxide",
+      "start": 9.12,
+      "end": 9.84
+    },
+    {
+      "text": "and",
+      "start": 10.0,
+      "end": 10.16
+    },
+    {
+      "text": "handles",
+      "start": 10.16,
+      "end": 10.48
+    },
+    {
+      "text": "hundreds",
+      "start": 10.48,
+      "end": 10.88
+    },
+    {
+      "text": "of",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "degrees",
+      "start": 11.04,
+      "end": 11.36
+    },
+    {
+      "text": "of",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "swing",
+      "start": 11.52,
+      "end": 12.0
+    },
+    {
+      "text": "And",
+      "start": 12.32,
+      "end": 12.48
+    },
+    {
+      "text": "it",
+      "start": 12.48,
+      "end": 12.56
+    },
+    {
+      "text": "has",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "to",
+      "start": 12.8,
+      "end": 12.88
+    },
+    {
+      "text": "stop",
+      "start": 12.88,
+      "end": 13.28
+    },
+    {
+      "text": "a",
+      "start": 13.28,
+      "end": 13.36
+    },
+    {
+      "text": "micrometeorite",
+      "start": 13.36,
+      "end": 14.32
+    },
+    {
+      "text": "moving",
+      "start": 14.32,
+      "end": 14.64
+    },
+    {
+      "text": "faster",
+      "start": 14.64,
+      "end": 15.04
+    },
+    {
+      "text": "than",
+      "start": 15.04,
+      "end": 15.2
+    },
+    {
+      "text": "a",
+      "start": 15.2,
+      "end": 15.28
+    },
+    {
+      "text": "bullet",
+      "start": 15.28,
+      "end": 15.68
+    },
+    {
+      "text": "So",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "text": "it",
+      "start": 16.16,
+      "end": 16.24
+    },
+    {
+      "text": "is",
+      "start": 16.24,
+      "end": 16.32
+    },
+    {
+      "text": "layers",
+      "start": 16.32,
+      "end": 16.88
+    },
+    {
+      "text": "A",
+      "start": 17.296326530612244,
+      "end": 17.376326530612243
+    },
+    {
+      "text": "cooling",
+      "start": 17.376326530612243,
+      "end": 17.776326530612245
+    },
+    {
+      "text": "garment",
+      "start": 17.776326530612245,
+      "end": 18.176326530612243
+    },
+    {
+      "text": "threaded",
+      "start": 18.176326530612243,
+      "end": 18.576326530612246
+    },
+    {
+      "text": "with",
+      "start": 18.576326530612246,
+      "end": 18.736326530612246
+    },
+    {
+      "text": "water",
+      "start": 18.736326530612246,
+      "end": 19.056326530612246
+    },
+    {
+      "text": "tubing",
+      "start": 19.056326530612246,
+      "end": 19.376326530612246
+    },
+    {
+      "text": "sits",
+      "start": 19.376326530612246,
+      "end": 19.696326530612243
+    },
+    {
+      "text": "against",
+      "start": 19.696326530612243,
+      "end": 20.016326530612243
+    },
+    {
+      "text": "the",
+      "start": 20.016326530612243,
+      "end": 20.096326530612245
+    },
+    {
+      "text": "skin",
+      "start": 20.096326530612245,
+      "end": 20.576326530612246
+    },
+    {
+      "text": "Then",
+      "start": 20.976326530612244,
+      "end": 21.136326530612244
+    },
+    {
+      "text": "a",
+      "start": 21.136326530612244,
+      "end": 21.216326530612243
+    },
+    {
+      "text": "pressure",
+      "start": 21.216326530612243,
+      "end": 21.616326530612245
+    },
+    {
+      "text": "bladder",
+      "start": 21.616326530612245,
+      "end": 22.096326530612245
+    },
+    {
+      "text": "restraint",
+      "start": 22.256326530612245,
+      "end": 22.736326530612246
+    },
+    {
+      "text": "layers",
+      "start": 22.736326530612246,
+      "end": 23.216326530612243
+    },
+    {
+      "text": "to",
+      "start": 23.216326530612243,
+      "end": 23.216326530612243
+    },
+    {
+      "text": "stop",
+      "start": 23.216326530612243,
+      "end": 23.536326530612243
+    },
+    {
+      "text": "it",
+      "start": 23.536326530612243,
+      "end": 23.616326530612245
+    },
+    {
+      "text": "ballooning",
+      "start": 23.616326530612245,
+      "end": 24.256326530612245
+    },
+    {
+      "text": "then",
+      "start": 24.416326530612245,
+      "end": 24.656326530612244
+    },
+    {
+      "text": "armour",
+      "start": 24.736326530612246,
+      "end": 25.136326530612244
+    },
+    {
+      "text": "then",
+      "start": 25.296326530612244,
+      "end": 25.536326530612243
+    },
+    {
+      "text": "insulation",
+      "start": 25.536326530612243,
+      "end": 26.336326530612244
+    },
+    {
+      "text": "But",
+      "start": 26.656326530612244,
+      "end": 26.816326530612244
+    },
+    {
+      "text": "the",
+      "start": 26.816326530612244,
+      "end": 26.896326530612242
+    },
+    {
+      "text": "real",
+      "start": 26.896326530612242,
+      "end": 27.216326530612243
+    },
+    {
+      "text": "problem",
+      "start": 27.216326530612243,
+      "end": 27.696326530612247
+    },
+    {
+      "text": "is",
+      "start": 27.776326530612245,
+      "end": 27.936326530612245
+    },
+    {
+      "text": "that",
+      "start": 27.936326530612245,
+      "end": 28.016326530612247
+    },
+    {
+      "text": "a",
+      "start": 28.016326530612247,
+      "end": 28.096326530612245
+    },
+    {
+      "text": "pressurised",
+      "start": 28.096326530612245,
+      "end": 28.816326530612244
+    },
+    {
+      "text": "suit",
+      "start": 28.816326530612244,
+      "end": 29.136326530612244
+    },
+    {
+      "text": "does",
+      "start": 29.296326530612244,
+      "end": 29.456326530612245
+    },
+    {
+      "text": "not",
+      "start": 29.456326530612245,
+      "end": 29.696326530612247
+    },
+    {
+      "text": "want",
+      "start": 29.696326530612247,
+      "end": 29.936326530612245
+    },
+    {
+      "text": "to",
+      "start": 29.936326530612245,
+      "end": 29.936326530612245
+    },
+    {
+      "text": "bend",
+      "start": 29.936326530612245,
+      "end": 30.25632653061224
+    },
+    {
+      "text": "at",
+      "start": 30.25632653061224,
+      "end": 30.416326530612245
+    },
+    {
+      "text": "all",
+      "start": 30.416326530612245,
+      "end": 30.816326530612244
+    },
+    {
+      "text": "Inflate",
+      "start": 31.23344671201814,
+      "end": 31.63344671201814
+    },
+    {
+      "text": "a",
+      "start": 31.63344671201814,
+      "end": 31.71344671201814
+    },
+    {
+      "text": "glove",
+      "start": 31.71344671201814,
+      "end": 32.193446712018144
+    },
+    {
+      "text": "and",
+      "start": 32.43344671201814,
+      "end": 32.513446712018144
+    },
+    {
+      "text": "it",
+      "start": 32.513446712018144,
+      "end": 32.59344671201814
+    },
+    {
+      "text": "becomes",
+      "start": 32.59344671201814,
+      "end": 32.99344671201814
+    },
+    {
+      "text": "a",
+      "start": 32.99344671201814,
+      "end": 32.99344671201814
+    },
+    {
+      "text": "stiff",
+      "start": 32.99344671201814,
+      "end": 33.39344671201814
+    },
+    {
+      "text": "balloon",
+      "start": 33.39344671201814,
+      "end": 33.87344671201814
+    },
+    {
+      "text": "that",
+      "start": 34.03344671201814,
+      "end": 34.193446712018144
+    },
+    {
+      "text": "wants",
+      "start": 34.193446712018144,
+      "end": 34.513446712018144
+    },
+    {
+      "text": "to",
+      "start": 34.513446712018144,
+      "end": 34.513446712018144
+    },
+    {
+      "text": "stay",
+      "start": 34.513446712018144,
+      "end": 34.833446712018144
+    },
+    {
+      "text": "open",
+      "start": 34.833446712018144,
+      "end": 35.23344671201814
+    },
+    {
+      "text": "So",
+      "start": 35.473446712018145,
+      "end": 35.63344671201814
+    },
+    {
+      "text": "every",
+      "start": 35.63344671201814,
+      "end": 35.95344671201814
+    },
+    {
+      "text": "time",
+      "start": 35.95344671201814,
+      "end": 36.193446712018144
+    },
+    {
+      "text": "you",
+      "start": 36.193446712018144,
+      "end": 36.35344671201814
+    },
+    {
+      "text": "close",
+      "start": 36.35344671201814,
+      "end": 36.67344671201814
+    },
+    {
+      "text": "your",
+      "start": 36.67344671201814,
+      "end": 36.75344671201814
+    },
+    {
+      "text": "hand",
+      "start": 36.75344671201814,
+      "end": 37.15344671201814
+    },
+    {
+      "text": "you",
+      "start": 37.23344671201814,
+      "end": 37.39344671201814
+    },
+    {
+      "text": "are",
+      "start": 37.39344671201814,
+      "end": 37.473446712018145
+    },
+    {
+      "text": "fighting",
+      "start": 37.473446712018145,
+      "end": 37.87344671201814
+    },
+    {
+      "text": "that",
+      "start": 37.87344671201814,
+      "end": 38.03344671201814
+    },
+    {
+      "text": "pressure",
+      "start": 38.03344671201814,
+      "end": 38.51344671201814
+    },
+    {
+      "text": "All",
+      "start": 38.67344671201814,
+      "end": 38.833446712018144
+    },
+    {
+      "text": "day",
+      "start": 38.833446712018144,
+      "end": 39.23344671201814
+    },
+    {
+      "text": "Hands",
+      "start": 39.55344671201814,
+      "end": 39.79344671201814
+    },
+    {
+      "text": "tire",
+      "start": 39.79344671201814,
+      "end": 40.193446712018144
+    },
+    {
+      "text": "within",
+      "start": 40.193446712018144,
+      "end": 40.51344671201814
+    },
+    {
+      "text": "hours",
+      "start": 40.51344671201814,
+      "end": 40.99344671201814
+    },
+    {
+      "text": "and",
+      "start": 41.23344671201814,
+      "end": 41.39344671201814
+    },
+    {
+      "text": "gloves",
+      "start": 41.39344671201814,
+      "end": 41.79344671201814
+    },
+    {
+      "text": "are",
+      "start": 41.79344671201814,
+      "end": 41.87344671201814
+    },
+    {
+      "text": "still",
+      "start": 41.87344671201814,
+      "end": 42.193446712018144
+    },
+    {
+      "text": "the",
+      "start": 42.193446712018144,
+      "end": 42.27344671201814
+    },
+    {
+      "text": "least",
+      "start": 42.27344671201814,
+      "end": 42.67344671201814
+    },
+    {
+      "text": "solved",
+      "start": 42.67344671201814,
+      "end": 43.07344671201814
+    },
+    {
+      "text": "part",
+      "start": 43.07344671201814,
+      "end": 43.31344671201814
+    },
+    {
+      "text": "of",
+      "start": 43.31344671201814,
+      "end": 43.39344671201814
+    },
+    {
+      "text": "the",
+      "start": 43.39344671201814,
+      "end": 43.55344671201814
+    },
+    {
+      "text": "entire",
+      "start": 43.55344671201814,
+      "end": 43.95344671201814
+    },
+    {
+      "text": "design",
+      "start": 43.95344671201814,
+      "end": 44.51344671201814
+    },
+    {
+      "text": "We",
+      "start": 44.75344671201814,
+      "end": 44.91344671201814
+    },
+    {
+      "text": "can",
+      "start": 44.91344671201814,
+      "end": 45.07344671201814
+    },
+    {
+      "text": "keep",
+      "start": 45.07344671201814,
+      "end": 45.23344671201814
+    },
+    {
+      "text": "a",
+      "start": 45.23344671201814,
+      "end": 45.31344671201814
+    },
+    {
+      "text": "person",
+      "start": 45.31344671201814,
+      "end": 45.71344671201814
+    },
+    {
+      "text": "alive",
+      "start": 45.71344671201814,
+      "end": 46.03344671201814
+    },
+    {
+      "text": "in",
+      "start": 46.03344671201814,
+      "end": 46.11344671201814
+    },
+    {
+      "text": "a",
+      "start": 46.11344671201814,
+      "end": 46.193446712018144
+    },
+    {
+      "text": "vacuum",
+      "start": 46.193446712018144,
+      "end": 46.75344671201814
+    },
+    {
+      "text": "We",
+      "start": 47.126439909297055,
+      "end": 47.20643990929705
+    },
+    {
+      "text": "still",
+      "start": 47.20643990929705,
+      "end": 47.52643990929705
+    },
+    {
+      "text": "cannot",
+      "start": 47.52643990929705,
+      "end": 47.846439909297054
+    },
+    {
+      "text": "let",
+      "start": 47.846439909297054,
+      "end": 48.086439909297056
+    },
+    {
+      "text": "them",
+      "start": 48.086439909297056,
+      "end": 48.24643990929705
+    },
+    {
+      "text": "comfortably",
+      "start": 48.24643990929705,
+      "end": 48.806439909297055
+    },
+    {
+      "text": "pick",
+      "start": 48.806439909297055,
+      "end": 49.04643990929705
+    },
+    {
+      "text": "something",
+      "start": 49.04643990929705,
+      "end": 49.446439909297055
+    },
+    {
+      "text": "up",
+      "start": 49.446439909297055,
+      "end": 49.68643990929705
+    },
+    {
+      "text": "One",
+      "start": 50.086439909297056,
+      "end": 50.24643990929705
+    },
+    {
+      "text": "of",
+      "start": 50.24643990929705,
+      "end": 50.406439909297056
+    },
+    {
+      "text": "these",
+      "start": 50.406439909297056,
+      "end": 50.64643990929705
+    },
+    {
+      "text": "every",
+      "start": 50.64643990929705,
+      "end": 50.96643990929705
+    },
+    {
+      "text": "day",
+      "start": 50.96643990929705,
+      "end": 51.28643990929705
+    },
+    {
+      "text": "Follow",
+      "start": 51.60643990929705,
+      "end": 51.92643990929705
+    },
+    {
+      "text": "so",
+      "start": 51.92643990929705,
+      "end": 52.00643990929705
+    },
+    {
+      "text": "you",
+      "start": 52.00643990929705,
+      "end": 52.166439909297054
+    },
+    {
+      "text": "do",
+      "start": 52.166439909297054,
+      "end": 52.32643990929705
+    },
+    {
+      "text": "not",
+      "start": 52.32643990929705,
+      "end": 52.56643990929705
+    },
+    {
+      "text": "miss",
+      "start": 52.56643990929705,
+      "end": 52.806439909297055
+    },
+    {
+      "text": "tomorrow",
+      "start": 52.806439909297055,
+      "end": 53.446439909297055
+    }
+  ],
+  "text": "A spacesuit is not clothing. It is a personal spacecraft with a person inside it. It holds pressure, supplies oxygen, removes carbon dioxide, and handles hundreds of degrees of swing. And it has to stop a micrometeorite moving faster than a bullet. So it is layers. A cooling garment threaded with water tubing sits against the skin. Then a pressure bladder, restraint layers to stop it ballooning, then armour, then insulation. But the real problem is that a pressurised suit does not want to bend at all. Inflate a glove and it becomes a stiff balloon that wants to stay open. So every time you close your hand you are fighting that pressure. All day. Hands tire within hours, and gloves are still the least solved part of the entire design. We can keep a person alive in a vacuum. We still cannot let them comfortably pick something up. One of these every day. Follow so you do not miss tomorrow.",
+  "voice": "802e3bc2b27e49c2995d23ef70e6ac89",
+  "model": "s2.1-pro-free"
+}

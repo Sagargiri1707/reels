@@ -1,0 +1,109 @@
+{
+  "topic": "A spacesuit is a personal spacecraft",
+  "lesson": "A pressurised suit resists every movement, so gloves remain the least solved part of the design and delicate work stays exhausting.",
+  "slug": "day-166-spacesuit-is-a-spacecraft-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A spacesuit is not clothing. It is a personal spacecraft with a person inside it.",
+      "scene": "a helmet on a stand, a small black cartoon figure clambering up into it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a helmet on a stand, a small black cartoon figure clambering up into it. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "It holds pressure, supplies oxygen, removes carbon dioxide, and handles hundreds of degrees of swing.",
+      "scene": "a sealed jar with a pressure gauge, a small black cartoon figure gripping the gauge",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed jar with a pressure gauge, a small black cartoon figure gripping the gauge. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "And it has to stop a micrometeorite moving faster than a bullet.",
+      "scene": "a metal plate with one clean punched hole, a small black cartoon figure poking at the hole",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a metal plate with one clean punched hole, a small black cartoon figure poking at the hole. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "So it is layers. A cooling garment threaded with water tubing sits against the skin.",
+      "scene": "a garment threaded with fine tubing, a small black cartoon figure hauling a tube out",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a garment threaded with fine tubing, a small black cartoon figure hauling a tube out. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "Then a pressure bladder, restraint layers to stop it ballooning, then armour, then insulation.",
+      "scene": "a stack of fabric layers peeled back, a small black cartoon figure lifting one clear",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a stack of fabric layers peeled back, a small black cartoon figure lifting one clear. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "role": "turn",
+      "text": "But the real problem is that a pressurised suit does not want to bend at all.",
+      "scene": "an inflated glove standing stiff, a small black cartoon figure swinging off one finger",
+      "image_text": "STIFF",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. an inflated glove standing stiff, a small black cartoon figure swinging off one finger. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"STIFF\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Inflate a glove and it becomes a stiff balloon that wants to stay open.",
+      "scene": "a taut balloon that will not fold, a small black cartoon figure pressing down on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a taut balloon that will not fold, a small black cartoon figure pressing down on it. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "So every time you close your hand you are fighting that pressure. All day.",
+      "scene": "a grip exerciser, a small black cartoon figure crushing it with their whole body",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a grip exerciser, a small black cartoon figure crushing it with their whole body. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Hands tire within hours, and gloves are still the least solved part of the entire design.",
+      "scene": "a worn out glove set down, a small black cartoon figure slumped beside it",
+      "image_text": "GLOVES",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a worn out glove set down, a small black cartoon figure slumped beside it. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"GLOVES\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "We can keep a person alive in a vacuum. We still cannot let them comfortably pick something up.",
+      "scene": "a small object just beyond a stiff glove, a small black cartoon figure nudging it closer",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a small object just beyond a stiff glove, a small black cartoon figure nudging it closer. the scene belongs to something inflated that refuses to bend, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A spacesuit has to hold pressure, supply oxygen, scrub carbon dioxide, manage a temperature swing of hundreds of degrees and stop micrometeorites, which is why it is built in layers from a water-cooled garment outward. The hardest part is mechanical: a pressurised suit resists bending, so an inflated glove behaves like a stiff balloon that wants to stay open. Every finger movement fights that pressure, hands tire within hours, and gloves remain the least solved part of the design.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #spacesuit #astronauts #space #engineering #science",
+    "thumbnail_beat": "06"
+  }
+}

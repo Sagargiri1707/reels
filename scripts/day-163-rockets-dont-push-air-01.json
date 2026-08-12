@@ -1,0 +1,109 @@
+{
+  "topic": "Rockets don't push against air",
+  "lesson": "A rocket throws mass backwards and the exhaust pushes it forwards, so it works better in a vacuum where nothing squeezes the plume or drags on the hull.",
+  "slug": "day-163-rockets-dont-push-air-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "A rocket works better in a vacuum. It is not pushing against anything.",
+      "scene": "a sealed bell jar with a small rocket model inside, a small black cartoon figure rapping the glass",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sealed bell jar with a small rocket model inside, a small black cartoon figure rapping the glass. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Everyone assumes it shoves against the air, the way a swimmer shoves against water.",
+      "scene": "a hand paddle in a tray of water, a small black cartoon figure pushing it through",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a hand paddle in a tray of water, a small black cartoon figure pushing it through. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "If that were true, a rocket would stop working the moment it left the atmosphere.",
+      "scene": "the same paddle waving over an empty dry tray, a small black cartoon figure swinging it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. the same paddle waving over an empty dry tray, a small black cartoon figure swinging it. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "role": "turn",
+      "text": "What it actually does is throw mass backwards, extremely fast.",
+      "scene": "a heavy ball being hurled off the back of a skateboard, a small black cartoon figure throwing it",
+      "image_text": "THROW MASS",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy ball being hurled off the back of a skateboard, a small black cartoon figure throwing it. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"THROW MASS\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "text": "The rocket pushes the exhaust one way and the exhaust pushes the rocket the other.",
+      "scene": "two magnets shoving apart, a small black cartoon figure standing between them",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two magnets shoving apart, a small black cartoon figure standing between them. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "That is the whole mechanism. Two things shoving each other apart.",
+      "scene": "two carts flung apart by a spring, a small black cartoon figure releasing the catch",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. two carts flung apart by a spring, a small black cartoon figure releasing the catch. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "Stand on a skateboard, throw something heavy, and you roll backwards. Same thing exactly.",
+      "scene": "a skateboard rolling backwards, a small black cartoon figure riding on it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a skateboard rolling backwards, a small black cartoon figure riding on it. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Air does not help at all. Air is drag, and it squeezes the exhaust plume inwards too.",
+      "scene": "a plume pinched narrow by a metal collar, a small black cartoon figure gripping the collar",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plume pinched narrow by a metal collar, a small black cartoon figure gripping the collar. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "Which is why upper stage engines have enormous nozzles. With no air pressing in, the plume spreads.",
+      "scene": "a wide bell shaped nozzle, a small black cartoon figure clambering inside it",
+      "image_text": "NO AIR",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a wide bell shaped nozzle, a small black cartoon figure clambering inside it. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO AIR\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "A rocket needs nothing to push against. It brings the thing it pushes against with it.",
+      "scene": "a heavy sack loaded onto a cart, a small black cartoon figure hauling the sack aboard",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a heavy sack loaded onto a cart, a small black cartoon figure hauling the sack aboard. the scene belongs to two things shoving each other apart rather than one pushing on the surroundings, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "A rocket does not push on the air. It throws mass backwards and the exhaust pushes the rocket forwards, which is Newton's third law and nothing more. Stand on a skateboard and throw something heavy and you get the same effect. Air only adds drag and squeezes the exhaust plume inward, which is why upper-stage engines have far larger, more efficient nozzles. A rocket brings the thing it pushes against with it.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #rockets #physics #space #newton #science",
+    "thumbnail_beat": "04"
+  }
+}

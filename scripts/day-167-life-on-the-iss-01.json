@@ -1,0 +1,109 @@
+{
+  "topic": "Life on the ISS",
+  "lesson": "Everything strange about living in orbit is the body responding correctly to no load and no down, exactly as the physics predicts.",
+  "slug": "day-167-life-on-the-iss-01",
+  "music": null,
+  "prompt_format": "full",
+  "style": {
+    "bg": "#F2EDE4",
+    "caption_font": "Poppins",
+    "caption_size": 62,
+    "caption_upper": true,
+    "caption_words_per_chunk": 3
+  },
+  "image": {
+    "model": "openai/gpt-image-2",
+    "image_size": {
+      "width": 1152,
+      "height": 2048
+    },
+    "quality": "low",
+    "palette": [
+      {
+        "name": "clean white",
+        "hex": "#FFFFFF"
+      }
+    ]
+  },
+  "voice": {
+    "reference_id": "802e3bc2b27e49c2995d23ef70e6ac89",
+    "format": "mp3",
+    "prosody": {
+      "speed": 1.0
+    }
+  },
+  "subject_anchor": "a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk",
+  "style_lock": "real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object",
+  "beats": [
+    {
+      "id": "01",
+      "role": "hook",
+      "text": "Astronauts sleep strapped to a wall and drink water recovered from their own urine.",
+      "scene": "a sleeping bag strapped flat to a board, a small black cartoon figure hauling the zip",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a sleeping bag strapped flat to a board, a small black cartoon figure hauling the zip. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "02",
+      "role": "ground",
+      "text": "Everything up there is decided by two facts. Nothing falls, and nothing arrives cheaply.",
+      "scene": "a crate with an enormous price tag, a small black cartoon figure swinging off the tag",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a crate with an enormous price tag, a small black cartoon figure swinging off the tag. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "03",
+      "text": "So water gets recycled. Sweat, breath and urine, back to drinking water, over and over.",
+      "scene": "a filter jug, a small black cartoon figure pouring into the top of it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a filter jug, a small black cartoon figure pouring into the top of it. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "04",
+      "text": "They recover well over ninety percent of it, because sending more up costs a fortune.",
+      "scene": "a nearly full glass beside a nearly empty jug, a small black cartoon figure tipping the last drop",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a nearly full glass beside a nearly empty jug, a small black cartoon figure tipping the last drop. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "05",
+      "role": "turn",
+      "text": "And the body reacts exactly the way the physics says it should.",
+      "scene": "a spring scale reading nothing at all, a small black cartoon figure hanging off it",
+      "image_text": "NO LOAD",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spring scale reading nothing at all, a small black cartoon figure hanging off it. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO LOAD\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "06",
+      "text": "Bone rebuilds to match load. With no load, it thins. Continuously.",
+      "scene": "a rope fraying where nothing pulls on it, a small black cartoon figure tugging at it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rope fraying where nothing pulls on it, a small black cartoon figure tugging at it. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "07",
+      "text": "So they exercise about two hours a day, strapped to a machine, only to slow it down.",
+      "scene": "a rowing machine strapped to the surface, a small black cartoon figure hauling the handle",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a rowing machine strapped to the surface, a small black cartoon figure hauling the handle. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "08",
+      "text": "Fluid stops pooling in the legs and moves to the head. Faces puff up and eyesight changes.",
+      "scene": "a water balloon heavy at the top, a small black cartoon figure holding it up",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a water balloon heavy at the top, a small black cartoon figure holding it up. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "09",
+      "text": "And there is no down, so a dropped spoon does not land. It waits somewhere in the room.",
+      "scene": "a spoon resting on a fine wire mid air, a small black cartoon figure reaching up for it",
+      "image_text": "NO DOWN",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a spoon resting on a fine wire mid air, a small black cartoon figure reaching up for it. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. the only writing anywhere in the image is the exact English word \"NO DOWN\", hand-lettered in plain block capitals on the surface it belongs to, with no other writing, caption or label of any kind. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    },
+    {
+      "id": "10",
+      "role": "payoff",
+      "text": "Nothing about it is exotic. It is your body responding correctly to a situation it never expected.",
+      "scene": "a plain chair bolted to a wall board, a small black cartoon figure sitting sideways in it",
+      "image_prompt": "9:16 vertical portrait canvas, 1152x2048. a plain chair bolted to a wall board, a small black cartoon figure sitting sideways in it. the scene belongs to a body doing the right thing in a situation it never expected, shown as simple tabletop demonstrations on a bare white desk, and must visibly read as part of it. real photographic objects arranged in a clean white studio, one clear main object with unified soft light and perspective, light contact shadows only, a small simple black cartoon character carrying out the one core physical action, two to four short handwritten labels, four to six small colour accents in blue pink yellow green or red, generous breathing space around every object. set on a seamless clean white studio surface, flat background colour #FFFFFF. no text, no letters and no numbers anywhere in the image. Avoid: full-page border or frame, page number, title, caption, watermark, gibberish or invented text, non-English lettering, screenshots, app or website UI, logos, gradients, vignette, grey or warm-white background, heavy drop shadows, neon or saturated colour, crowded composition of many props, flat vector icon look, sticker cut-out edges, several people, PPT or infographic layout."
+    }
+  ],
+  "post": {
+    "caption": "Life on station is decided by two facts: nothing falls, and nothing arrives cheaply. Water is recovered from sweat, breath condensation and urine at well over 90%. Bone remodels to match load, so with no load it thins continuously, which is why crews exercise around two hours a day just to slow it. Fluid stops pooling in the legs and shifts to the head, puffing faces and changing eyesight. All of it is the body responding exactly as the physics predicts.\n\nOne science idea a day. Follow so you don't miss tomorrow's.\n\n#reels #trending #viral #explorepage #reelsinstagram #iss #astronauts #space #humanbody #science",
+    "thumbnail_beat": "01"
+  }
+}

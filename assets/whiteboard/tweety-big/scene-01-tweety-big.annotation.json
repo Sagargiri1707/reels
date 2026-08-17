@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16479,
+  "elements": [
+    {
+      "id": "tuft",
+      "label": "头顶呆毛",
+      "sequence": 1,
+      "narrativeRole": "三根呆毛先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 515,
+        "width": 300,
+        "height": 175
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 1052,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          290,
+          602
+        ],
+        "end": [
+          590,
+          602
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "大脑袋",
+      "sequence": 2,
+      "narrativeRole": "主角登场：圆头是主体",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 245,
+        "y": 660,
+        "width": 575,
+        "height": 575
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 1552,
+        "durationMs": 6628,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          532,
+          660
+        ],
+        "end": [
+          532,
+          1235
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "eyes",
+      "label": "大眼睛",
+      "sequence": 3,
+      "narrativeRole": "眼睛点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 310,
+        "y": 900,
+        "width": 320,
+        "height": 240
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 8380,
+        "durationMs": 1540,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          310,
+          1020
+        ],
+        "end": [
+          630,
+          1020
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "beak",
+      "label": "橙色嘴",
+      "sequence": 4,
+      "narrativeRole": "小嘴收住表情",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 450,
+        "y": 1135,
+        "width": 130,
+        "height": 85
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 10120,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          450,
+          1177
+        ],
+        "end": [
+          580,
+          1177
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与翅膀",
+      "sequence": 5,
+      "narrativeRole": "身体接在头下面",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 400,
+        "y": 1215,
+        "width": 280,
+        "height": 270
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11220,
+        "durationMs": 1516,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1215
+        ],
+        "end": [
+          540,
+          1485
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "橙色大脚",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 195,
+        "y": 1480,
+        "width": 690,
+        "height": 220
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 12936,
+        "durationMs": 3043,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          195,
+          1590
+        ],
+        "end": [
+          885,
+          1590
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

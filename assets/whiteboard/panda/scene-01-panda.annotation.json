@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16036,
+  "elements": [
+    {
+      "id": "head",
+      "label": "白色头部",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先起大圆头",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 145,
+        "y": 420,
+        "width": 800,
+        "height": 650
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 6363,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          545,
+          420
+        ],
+        "end": [
+          545,
+          1070
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "ear-left",
+      "label": "左耳",
+      "sequence": 2,
+      "narrativeRole": "黑耳朵补在左上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 125,
+        "y": 405,
+        "width": 225,
+        "height": 275
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 6863,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          237,
+          405
+        ],
+        "end": [
+          237,
+          680
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "ear-right",
+      "label": "右耳",
+      "sequence": 3,
+      "narrativeRole": "黑耳朵补在右上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 715,
+        "y": 405,
+        "width": 240,
+        "height": 275
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 7963,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          835,
+          405
+        ],
+        "end": [
+          835,
+          680
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "黑眼圈与鼻子",
+      "sequence": 4,
+      "narrativeRole": "熊猫的眼圈是关键特征",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 670,
+        "width": 600,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 9063,
+        "durationMs": 2202,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          240,
+          820
+        ],
+        "end": [
+          840,
+          820
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与手臂",
+      "sequence": 5,
+      "narrativeRole": "身体接住头",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 230,
+        "y": 1050,
+        "width": 650,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11465,
+        "durationMs": 1591,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          555,
+          1050
+        ],
+        "end": [
+          555,
+          1250
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "双脚",
+      "sequence": 6,
+      "narrativeRole": "坐姿落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 145,
+        "y": 1230,
+        "width": 810,
+        "height": 230
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13256,
+        "durationMs": 2280,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          145,
+          1345
+        ],
+        "end": [
+          955,
+          1345
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

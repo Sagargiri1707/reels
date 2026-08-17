@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15799,
+  "elements": [
+    {
+      "id": "ears",
+      "label": "双耳",
+      "sequence": 1,
+      "narrativeRole": "标志性耳朵先出，认出角色",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 150,
+        "y": 450,
+        "width": 760,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 2743,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          150,
+          550
+        ],
+        "end": [
+          910,
+          550
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "头部轮廓",
+      "sequence": 2,
+      "narrativeRole": "头形接住双耳",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 620,
+        "width": 460,
+        "height": 400
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3243,
+        "durationMs": 3321,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          520,
+          620
+        ],
+        "end": [
+          520,
+          1020
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛腮红与笑嘴",
+      "sequence": 3,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 330,
+        "y": 780,
+        "width": 380,
+        "height": 210
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6764,
+        "durationMs": 1440,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          330,
+          885
+        ],
+        "end": [
+          710,
+          885
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与前爪",
+      "sequence": 4,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 980,
+        "width": 460,
+        "height": 165
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 8404,
+        "durationMs": 1370,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          520,
+          980
+        ],
+        "end": [
+          520,
+          1145
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "tail",
+      "label": "闪电尾巴",
+      "sequence": 5,
+      "narrativeRole": "招牌闪电尾收住右侧",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 730,
+        "y": 720,
+        "width": 260,
+        "height": 490
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 9974,
+        "durationMs": 2299,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          860,
+          1210
+        ],
+        "end": [
+          860,
+          720
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "双脚与影子",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 190,
+        "y": 1140,
+        "width": 580,
+        "height": 270
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 12473,
+        "durationMs": 2826,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          190,
+          1275
+        ],
+        "end": [
+          770,
+          1275
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

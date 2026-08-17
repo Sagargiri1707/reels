@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16590,
+  "elements": [
+    {
+      "id": "tom-head",
+      "label": "汤姆的头与耳朵",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先起猫头",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 420,
+        "y": 205,
+        "width": 570,
+        "height": 480
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 2996,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          705,
+          205
+        ],
+        "end": [
+          705,
+          685
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "tom-face",
+      "label": "汤姆的脸与笑嘴",
+      "sequence": 2,
+      "narrativeRole": "表情说明它心情不错",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 430,
+        "y": 490,
+        "width": 300,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 3496,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          430,
+          590
+        ],
+        "end": [
+          730,
+          590
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "hand",
+      "label": "托着杰瑞的手",
+      "sequence": 3,
+      "narrativeRole": "关键动作：摊开的手掌",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 90,
+        "y": 600,
+        "width": 290,
+        "height": 220
+      },
+      "reveal": {
+        "direction": "right_to_left",
+        "startMs": 4596,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          380,
+          710
+        ],
+        "end": [
+          90,
+          710
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "jerry",
+      "label": "杰瑞",
+      "sequence": 4,
+      "narrativeRole": "第二主角站上手掌，关系成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 110,
+        "y": 420,
+        "width": 230,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 5696,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          225,
+          420
+        ],
+        "end": [
+          225,
+          720
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "tom-body",
+      "label": "汤姆的身体与肚皮",
+      "sequence": 5,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 170,
+        "y": 660,
+        "width": 740,
+        "height": 650
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 6796,
+        "durationMs": 5267,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          660
+        ],
+        "end": [
+          540,
+          1310
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "arm-tail",
+      "label": "右臂与尾巴",
+      "sequence": 6,
+      "narrativeRole": "叉腰的手与翘起的尾巴",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 590,
+        "y": 790,
+        "width": 400,
+        "height": 450
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 12263,
+        "durationMs": 1971,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          790,
+          790
+        ],
+        "end": [
+          790,
+          1240
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与白脚",
+      "sequence": 7,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 370,
+        "y": 1270,
+        "width": 360,
+        "height": 420
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 14434,
+        "durationMs": 1656,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          550,
+          1270
+        ],
+        "end": [
+          550,
+          1690
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

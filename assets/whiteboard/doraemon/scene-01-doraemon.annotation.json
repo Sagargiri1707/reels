@@ -1,0 +1,299 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 9 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 18105,
+  "elements": [
+    {
+      "id": "head",
+      "label": "头部与蓝色轮廓",
+      "sequence": 1,
+      "narrativeRole": "主角登场：圆头最先认出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 120,
+        "y": 280,
+        "width": 900,
+        "height": 760
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 5193,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          570,
+          280
+        ],
+        "end": [
+          570,
+          1040
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "eyes",
+      "label": "眼睛",
+      "sequence": 2,
+      "narrativeRole": "眼睛点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 370,
+        "y": 330,
+        "width": 370,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 5693,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          370,
+          420
+        ],
+        "end": [
+          740,
+          420
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "nose",
+      "label": "红鼻子与胡须",
+      "sequence": 3,
+      "narrativeRole": "红鼻子是身份标志",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 200,
+        "y": 480,
+        "width": 680,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6793,
+        "durationMs": 929,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          200,
+          570
+        ],
+        "end": [
+          880,
+          570
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "mouth",
+      "label": "大笑的嘴",
+      "sequence": 4,
+      "narrativeRole": "笑容是这张图的核心",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 260,
+        "y": 640,
+        "width": 560,
+        "height": 330
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 7922,
+        "durationMs": 1403,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          260,
+          805
+        ],
+        "end": [
+          820,
+          805
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "collar",
+      "label": "项圈与铃铛",
+      "sequence": 5,
+      "narrativeRole": "铃铛定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 180,
+        "y": 940,
+        "width": 700,
+        "height": 190
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 9525,
+        "durationMs": 1010,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          180,
+          1035
+        ],
+        "end": [
+          880,
+          1035
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-hand",
+      "label": "举起的左手",
+      "sequence": 6,
+      "narrativeRole": "关键动作：打招呼",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 0,
+        "y": 690,
+        "width": 160,
+        "height": 190
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 10735,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          80,
+          880
+        ],
+        "end": [
+          80,
+          690
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与肚子口袋",
+      "sequence": 7,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 180,
+        "y": 1040,
+        "width": 840,
+        "height": 520
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11835,
+        "durationMs": 3316,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          600,
+          1040
+        ],
+        "end": [
+          600,
+          1560
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-hand",
+      "label": "右手",
+      "sequence": 8,
+      "narrativeRole": "另一只手补齐",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 880,
+        "y": 1170,
+        "width": 200,
+        "height": 170
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 15351,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          880,
+          1255
+        ],
+        "end": [
+          1080,
+          1255
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "双脚",
+      "sequence": 9,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 150,
+        "y": 1420,
+        "width": 760,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 16451,
+        "durationMs": 1154,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          150,
+          1520
+        ],
+        "end": [
+          910,
+          1520
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15995,
+  "elements": [
+    {
+      "id": "fist",
+      "label": "举起的拳头",
+      "sequence": 1,
+      "narrativeRole": "关键动作：冲拳先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 165,
+        "y": 230,
+        "width": 300,
+        "height": 350
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 300,
+        "durationMs": 1287,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          315,
+          580
+        ],
+        "end": [
+          315,
+          230
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "cap",
+      "label": "红帽子",
+      "sequence": 2,
+      "narrativeRole": "红帽是身份标志",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 410,
+        "y": 320,
+        "width": 440,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 1787,
+        "durationMs": 1564,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          410,
+          465
+        ],
+        "end": [
+          850,
+          465
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "脸与胡子",
+      "sequence": 3,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 390,
+        "y": 470,
+        "width": 420,
+        "height": 400
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3551,
+        "durationMs": 2060,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          600,
+          470
+        ],
+        "end": [
+          600,
+          870
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "蓝色背带裤",
+      "sequence": 4,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 220,
+        "y": 840,
+        "width": 510,
+        "height": 660
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 5811,
+        "durationMs": 4127,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          475,
+          840
+        ],
+        "end": [
+          475,
+          1500
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "fist2",
+      "label": "另一只拳头",
+      "sequence": 5,
+      "narrativeRole": "另一只手补齐",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 680,
+        "y": 850,
+        "width": 230,
+        "height": 250
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 10138,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          680,
+          975
+        ],
+        "end": [
+          910,
+          975
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "boots",
+      "label": "棕色靴子",
+      "sequence": 6,
+      "narrativeRole": "跳跃姿势收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 300,
+        "y": 1090,
+        "width": 560,
+        "height": 620
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11238,
+        "durationMs": 4257,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          580,
+          1090
+        ],
+        "end": [
+          580,
+          1710
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

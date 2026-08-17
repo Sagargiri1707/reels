@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16055,
+  "elements": [
+    {
+      "id": "hair",
+      "label": "头发",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先压住头顶大形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 50,
+        "y": 80,
+        "width": 970,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 1839,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          50,
+          240
+        ],
+        "end": [
+          1020,
+          240
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "脸与抬头纹",
+      "sequence": 2,
+      "narrativeRole": "长脸轮廓是这张图的主体",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 10,
+        "y": 350,
+        "width": 1050,
+        "height": 700
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 2339,
+        "durationMs": 4354,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          535,
+          350
+        ],
+        "end": [
+          535,
+          1050
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "eyes",
+      "label": "眼睛与眉毛",
+      "sequence": 3,
+      "narrativeRole": "瞪圆的眼睛点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 230,
+        "y": 540,
+        "width": 550,
+        "height": 260
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6893,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          230,
+          670
+        ],
+        "end": [
+          780,
+          670
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "smile",
+      "label": "鼻子与坏笑",
+      "sequence": 4,
+      "narrativeRole": "招牌坏笑收住表情",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 280,
+        "y": 780,
+        "width": 420,
+        "height": 280
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 7993,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          280,
+          920
+        ],
+        "end": [
+          700,
+          920
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "jacket",
+      "label": "西装外套",
+      "sequence": 5,
+      "narrativeRole": "西装定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 80,
+        "y": 1040,
+        "width": 1000,
+        "height": 880
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9093,
+        "durationMs": 5213,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          580,
+          1040
+        ],
+        "end": [
+          580,
+          1920
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "tie",
+      "label": "衬衫与红领带",
+      "sequence": 6,
+      "narrativeRole": "最后一笔落在领带上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 1150,
+        "width": 230,
+        "height": 770
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 14506,
+        "durationMs": 1049,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          495,
+          1150
+        ],
+        "end": [
+          495,
+          1920
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

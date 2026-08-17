@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16001,
+  "elements": [
+    {
+      "id": "head",
+      "label": "星形头顶",
+      "sequence": 1,
+      "narrativeRole": "主角登场：星尖先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 375,
+        "width": 380,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 1850,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          570,
+          375
+        ],
+        "end": [
+          570,
+          665
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛与大笑",
+      "sequence": 2,
+      "narrativeRole": "表情是这张图的核心",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 610,
+        "width": 300,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 2350,
+        "durationMs": 1612,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          380,
+          770
+        ],
+        "end": [
+          680,
+          770
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "左边星角（手臂）",
+      "sequence": 3,
+      "narrativeRole": "张开的左臂",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 90,
+        "y": 640,
+        "width": 300,
+        "height": 360
+      },
+      "reveal": {
+        "direction": "right_to_left",
+        "startMs": 4162,
+        "durationMs": 1813,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          390,
+          820
+        ],
+        "end": [
+          90,
+          820
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm",
+      "label": "右边星角（手臂）",
+      "sequence": 4,
+      "narrativeRole": "张开的右臂",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 690,
+        "y": 640,
+        "width": 270,
+        "height": 360
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6175,
+        "durationMs": 1632,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          690,
+          820
+        ],
+        "end": [
+          960,
+          820
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体",
+      "sequence": 5,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 210,
+        "y": 880,
+        "width": 590,
+        "height": 280
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 8007,
+        "durationMs": 2773,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          505,
+          880
+        ],
+        "end": [
+          505,
+          1160
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shorts",
+      "label": "绿色沙滩裤",
+      "sequence": 6,
+      "narrativeRole": "花裤子定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 210,
+        "y": 1090,
+        "width": 560,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10980,
+        "durationMs": 3008,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          490,
+          1090
+        ],
+        "end": [
+          490,
+          1410
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "下面两个星角（脚）",
+      "sequence": 7,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 250,
+        "y": 1350,
+        "width": 460,
+        "height": 170
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 14188,
+        "durationMs": 1313,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          250,
+          1435
+        ],
+        "end": [
+          710,
+          1435
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

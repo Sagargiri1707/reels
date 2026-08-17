@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16638,
+  "elements": [
+    {
+      "id": "hair",
+      "label": "头顶碎发",
+      "sequence": 1,
+      "narrativeRole": "先落几根呆毛，角色感就出来了",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 205,
+        "width": 600,
+        "height": 140
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          240,
+          275
+        ],
+        "end": [
+          840,
+          275
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "头身黄色轮廓",
+      "sequence": 2,
+      "narrativeRole": "胶囊形主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 130,
+        "y": 320,
+        "width": 840,
+        "height": 780
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 1400,
+        "durationMs": 5148,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          550,
+          320
+        ],
+        "end": [
+          550,
+          1100
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "goggles",
+      "label": "护目镜与眼睛",
+      "sequence": 3,
+      "narrativeRole": "护目镜是招牌特征",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 100,
+        "y": 460,
+        "width": 900,
+        "height": 350
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6748,
+        "durationMs": 2475,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          100,
+          635
+        ],
+        "end": [
+          1000,
+          635
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "mouth",
+      "label": "嘴巴",
+      "sequence": 4,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 990,
+        "width": 320,
+        "height": 120
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 9423,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          380,
+          1050
+        ],
+        "end": [
+          700,
+          1050
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "overalls",
+      "label": "蓝色背带裤",
+      "sequence": 5,
+      "narrativeRole": "工装定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 130,
+        "y": 1080,
+        "width": 850,
+        "height": 490
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10523,
+        "durationMs": 3273,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          555,
+          1080
+        ],
+        "end": [
+          555,
+          1570
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "hands-feet",
+      "label": "手套与双脚",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 75,
+        "y": 1420,
+        "width": 940,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13996,
+        "durationMs": 2142,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          75,
+          1565
+        ],
+        "end": [
+          1015,
+          1565
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

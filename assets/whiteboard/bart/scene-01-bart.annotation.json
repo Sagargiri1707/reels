@@ -1,0 +1,267 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 8 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16374,
+  "elements": [
+    {
+      "id": "hair",
+      "label": "尖头发",
+      "sequence": 1,
+      "narrativeRole": "招牌尖发先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 420,
+        "y": 370,
+        "width": 320,
+        "height": 110
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          420,
+          425
+        ],
+        "end": [
+          740,
+          425
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "头部与脸",
+      "sequence": 2,
+      "narrativeRole": "头形成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 420,
+        "y": 440,
+        "width": 380,
+        "height": 470
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 1400,
+        "durationMs": 4131,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          610,
+          440
+        ],
+        "end": [
+          610,
+          910
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "大眼睛与嘴",
+      "sequence": 3,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 530,
+        "y": 600,
+        "width": 270,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 5731,
+        "durationMs": 1124,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          530,
+          690
+        ],
+        "end": [
+          800,
+          690
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shirt",
+      "label": "红色 T 恤",
+      "sequence": 4,
+      "narrativeRole": "红衣定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 360,
+        "y": 890,
+        "width": 350,
+        "height": 330
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 7055,
+        "durationMs": 2671,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          535,
+          890
+        ],
+        "end": [
+          535,
+          1220
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "arm",
+      "label": "手臂",
+      "sequence": 5,
+      "narrativeRole": "手臂垂在身侧",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 410,
+        "y": 1020,
+        "width": 130,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9926,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          475,
+          1020
+        ],
+        "end": [
+          475,
+          1310
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shorts",
+      "label": "蓝色短裤",
+      "sequence": 6,
+      "narrativeRole": "下半身接上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 1190,
+        "width": 320,
+        "height": 170
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11026,
+        "durationMs": 1258,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1190
+        ],
+        "end": [
+          540,
+          1360
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与蓝鞋",
+      "sequence": 7,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 410,
+        "y": 1330,
+        "width": 330,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 12484,
+        "durationMs": 2290,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          575,
+          1330
+        ],
+        "end": [
+          575,
+          1630
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shadow",
+      "label": "地面影子",
+      "sequence": 8,
+      "narrativeRole": "最后一笔落在影子上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 90,
+        "y": 1520,
+        "width": 330,
+        "height": 110
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 14974,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          90,
+          1575
+        ],
+        "end": [
+          420,
+          1575
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

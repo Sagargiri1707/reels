@@ -1,0 +1,139 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 4 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15401,
+  "elements": [
+    {
+      "id": "head",
+      "label": "幽灵的头顶轮廓",
+      "sequence": 1,
+      "narrativeRole": "主角登场：一笔起圆顶",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 200,
+        "y": 540,
+        "width": 690,
+        "height": 380
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 5527,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          545,
+          540
+        ],
+        "end": [
+          545,
+          920
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛与笑脸",
+      "sequence": 2,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 400,
+        "y": 740,
+        "width": 300,
+        "height": 150
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6027,
+        "durationMs": 949,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          400,
+          815
+        ],
+        "end": [
+          700,
+          815
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "hands",
+      "label": "张开的双手",
+      "sequence": 3,
+      "narrativeRole": "关键动作：张开双手",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 190,
+        "y": 850,
+        "width": 700,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 7176,
+        "durationMs": 2656,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          190,
+          940
+        ],
+        "end": [
+          890,
+          940
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与波浪下摆",
+      "sequence": 4,
+      "narrativeRole": "波浪下摆收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 210,
+        "y": 1000,
+        "width": 660,
+        "height": 350
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10032,
+        "durationMs": 4869,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1000
+        ],
+        "end": [
+          540,
+          1350
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 9 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 18124,
+  "elements": [
+    {
+      "id": "sky",
+      "label": "天空与放射光芒",
+      "sequence": 1,
+      "narrativeRole": "先铺背景：放射状的天空",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1000
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 4519,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          0
+        ],
+        "end": [
+          540,
+          1000
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "bushes",
+      "label": "树丛与围栏",
+      "sequence": 2,
+      "narrativeRole": "中景把画面分层",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 0,
+        "y": 980,
+        "width": 1080,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 5019,
+        "durationMs": 1356,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          0,
+          1130
+        ],
+        "end": [
+          1080,
+          1130
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "grass",
+      "label": "草地",
+      "sequence": 3,
+      "narrativeRole": "前景落地",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 0,
+        "y": 1250,
+        "width": 1080,
+        "height": 670
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 6575,
+        "durationMs": 3028,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1250
+        ],
+        "end": [
+          540,
+          1920
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "豆豆先生的头与脸",
+      "sequence": 4,
+      "narrativeRole": "主角登场",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 160,
+        "width": 730,
+        "height": 760
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9803,
+        "durationMs": 2321,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          655,
+          160
+        ],
+        "end": [
+          655,
+          920
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "arm",
+      "label": "举起的手臂",
+      "sequence": 5,
+      "narrativeRole": "关键动作：把泰迪举起来",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 170,
+        "y": 540,
+        "width": 290,
+        "height": 430
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 12324,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          315,
+          970
+        ],
+        "end": [
+          315,
+          540
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "teddy",
+      "label": "泰迪熊",
+      "sequence": 6,
+      "narrativeRole": "被举起的泰迪，关系成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 60,
+        "y": 330,
+        "width": 260,
+        "height": 500
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 13424,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          190,
+          330
+        ],
+        "end": [
+          190,
+          830
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "suit",
+      "label": "西装与领带",
+      "sequence": 7,
+      "narrativeRole": "服装定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 360,
+        "y": 900,
+        "width": 400,
+        "height": 420
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 14524,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          560,
+          900
+        ],
+        "end": [
+          560,
+          1320
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "长裤与皮鞋",
+      "sequence": 8,
+      "narrativeRole": "站姿收住下半身",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 340,
+        "y": 1280,
+        "width": 380,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 15624,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          530,
+          1280
+        ],
+        "end": [
+          530,
+          1820
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-hand",
+      "label": "垂下的右手",
+      "sequence": 9,
+      "narrativeRole": "最后补上另一只手",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 690,
+        "y": 1330,
+        "width": 170,
+        "height": 210
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 16724,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          775,
+          1330
+        ],
+        "end": [
+          775,
+          1540
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

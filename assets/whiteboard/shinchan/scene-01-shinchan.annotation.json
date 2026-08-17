@@ -1,0 +1,267 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 8 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16773,
+  "elements": [
+    {
+      "id": "dog",
+      "label": "头上的小白",
+      "sequence": 1,
+      "narrativeRole": "先画顶在头上的狗，笑点先立住",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 260,
+        "y": 380,
+        "width": 550,
+        "height": 380
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 3105,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          535,
+          380
+        ],
+        "end": [
+          535,
+          760
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "小新的头与头发",
+      "sequence": 2,
+      "narrativeRole": "主角登场",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 170,
+        "y": 690,
+        "width": 630,
+        "height": 400
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3605,
+        "durationMs": 3744,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          485,
+          690
+        ],
+        "end": [
+          485,
+          1090
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛与张开的嘴",
+      "sequence": 3,
+      "narrativeRole": "招牌表情",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 300,
+        "y": 810,
+        "width": 350,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 7549,
+        "durationMs": 1560,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          300,
+          960
+        ],
+        "end": [
+          650,
+          960
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shirt",
+      "label": "红色上衣",
+      "sequence": 4,
+      "narrativeRole": "服装定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 1070,
+        "width": 450,
+        "height": 330
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9309,
+        "durationMs": 2207,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          465,
+          1070
+        ],
+        "end": [
+          465,
+          1400
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm",
+      "label": "张开的右臂",
+      "sequence": 5,
+      "narrativeRole": "关键动作：张开手臂",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 670,
+        "y": 990,
+        "width": 330,
+        "height": 150
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 11716,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          670,
+          1065
+        ],
+        "end": [
+          1000,
+          1065
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "张开的左臂",
+      "sequence": 6,
+      "narrativeRole": "另一侧手臂对称",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 120,
+        "y": 1200,
+        "width": 180,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "right_to_left",
+        "startMs": 12816,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          300,
+          1300
+        ],
+        "end": [
+          120,
+          1300
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shorts",
+      "label": "黄色短裤",
+      "sequence": 7,
+      "narrativeRole": "下半身接上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 1350,
+        "width": 360,
+        "height": 160
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 13916,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          470,
+          1350
+        ],
+        "end": [
+          470,
+          1510
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与鞋",
+      "sequence": 8,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 1480,
+        "width": 470,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 15016,
+        "durationMs": 1257,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          290,
+          1570
+        ],
+        "end": [
+          760,
+          1570
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

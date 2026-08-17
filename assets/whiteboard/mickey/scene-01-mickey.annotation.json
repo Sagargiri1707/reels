@@ -1,0 +1,267 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 8 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16873,
+  "elements": [
+    {
+      "id": "ears",
+      "label": "两只黑耳朵",
+      "sequence": 1,
+      "narrativeRole": "标志性圆耳先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 225,
+        "y": 430,
+        "width": 640,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 3009,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          225,
+          580
+        ],
+        "end": [
+          865,
+          580
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "头部与脸",
+      "sequence": 2,
+      "narrativeRole": "头形接住双耳",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 580,
+        "width": 420,
+        "height": 440
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3509,
+        "durationMs": 2896,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          500,
+          580
+        ],
+        "end": [
+          500,
+          1020
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛鼻子与笑嘴",
+      "sequence": 3,
+      "narrativeRole": "五官点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 300,
+        "y": 690,
+        "width": 350,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6605,
+        "durationMs": 1646,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          300,
+          840
+        ],
+        "end": [
+          650,
+          840
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "thumb",
+      "label": "竖起大拇指的手套",
+      "sequence": 4,
+      "narrativeRole": "关键动作：点赞",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 640,
+        "y": 860,
+        "width": 240,
+        "height": 270
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 8451,
+        "durationMs": 1016,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          760,
+          1130
+        ],
+        "end": [
+          760,
+          860
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "torso",
+      "label": "黑色上半身",
+      "sequence": 5,
+      "narrativeRole": "身体接住头与手",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 355,
+        "y": 975,
+        "width": 300,
+        "height": 110
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9667,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          505,
+          975
+        ],
+        "end": [
+          505,
+          1085
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-hand",
+      "label": "左手与手套",
+      "sequence": 6,
+      "narrativeRole": "另一只手补齐",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 260,
+        "y": 1000,
+        "width": 150,
+        "height": 260
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10767,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          335,
+          1000
+        ],
+        "end": [
+          335,
+          1260
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shorts",
+      "label": "红色短裤",
+      "sequence": 7,
+      "narrativeRole": "红裤子是身份色",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 340,
+        "y": 1070,
+        "width": 310,
+        "height": 250
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11867,
+        "durationMs": 1215,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          495,
+          1070
+        ],
+        "end": [
+          495,
+          1320
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shoes",
+      "label": "双腿与黄鞋",
+      "sequence": 8,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 190,
+        "y": 1290,
+        "width": 680,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13282,
+        "durationMs": 3091,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          190,
+          1435
+        ],
+        "end": [
+          870,
+          1435
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

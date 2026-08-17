@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15807,
+  "elements": [
+    {
+      "id": "head",
+      "label": "头与耳朵",
+      "sequence": 1,
+      "narrativeRole": "主角登场：圆头圆耳",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 230,
+        "width": 640,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 3599,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          560,
+          230
+        ],
+        "end": [
+          560,
+          770
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛鼻子与笑嘴",
+      "sequence": 2,
+      "narrativeRole": "五官点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 440,
+        "width": 320,
+        "height": 280
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 4099,
+        "durationMs": 933,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          380,
+          580
+        ],
+        "end": [
+          700,
+          580
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shirt",
+      "label": "红色上衣",
+      "sequence": 3,
+      "narrativeRole": "红衣是身份色",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 165,
+        "y": 650,
+        "width": 800,
+        "height": 370
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 5232,
+        "durationMs": 3083,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          565,
+          650
+        ],
+        "end": [
+          565,
+          1020
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "belly",
+      "label": "身体与肚子",
+      "sequence": 4,
+      "narrativeRole": "圆肚子是主体",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 320,
+        "y": 960,
+        "width": 645,
+        "height": 500
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 8515,
+        "durationMs": 3359,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          642,
+          960
+        ],
+        "end": [
+          642,
+          1460
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "左臂",
+      "sequence": 5,
+      "narrativeRole": "左侧手臂展开",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 130,
+        "y": 820,
+        "width": 220,
+        "height": 390
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 12074,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          240,
+          820
+        ],
+        "end": [
+          240,
+          1210
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与脚",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 140,
+        "y": 1390,
+        "width": 640,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13174,
+        "durationMs": 2133,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          140,
+          1550
+        ],
+        "end": [
+          780,
+          1550
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 6 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15799,
+  "elements": [
+    {
+      "id": "head",
+      "label": "方块头与眼睛",
+      "sequence": 1,
+      "narrativeRole": "主角登场：方形海绵与大眼睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 110,
+        "y": 285,
+        "width": 860,
+        "height": 620
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 5824,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          285
+        ],
+        "end": [
+          540,
+          905
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "smile",
+      "label": "笑脸与门牙",
+      "sequence": 2,
+      "narrativeRole": "表情是这张图的核心",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 745,
+        "width": 620,
+        "height": 310
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 6324,
+        "durationMs": 2099,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          240,
+          900
+        ],
+        "end": [
+          860,
+          900
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "左手臂",
+      "sequence": 3,
+      "narrativeRole": "左侧肢体展开",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 55,
+        "y": 870,
+        "width": 175,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 8623,
+        "durationMs": 1032,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          142,
+          870
+        ],
+        "end": [
+          142,
+          1410
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm",
+      "label": "右手臂",
+      "sequence": 4,
+      "narrativeRole": "右侧肢体对称补齐",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 855,
+        "y": 870,
+        "width": 175,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9855,
+        "durationMs": 1032,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          942,
+          870
+        ],
+        "end": [
+          942,
+          1410
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shirt",
+      "label": "衬衫领带与短裤",
+      "sequence": 5,
+      "narrativeRole": "服装细节让身份成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 195,
+        "y": 1040,
+        "width": 690,
+        "height": 240
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 11087,
+        "durationMs": 1809,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1040
+        ],
+        "end": [
+          540,
+          1280
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与皮鞋",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 265,
+        "y": 1250,
+        "width": 545,
+        "height": 370
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 13096,
+        "durationMs": 2203,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          537,
+          1250
+        ],
+        "end": [
+          537,
+          1620
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

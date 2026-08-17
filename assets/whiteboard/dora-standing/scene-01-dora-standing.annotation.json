@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16266,
+  "elements": [
+    {
+      "id": "hair",
+      "label": "黑色头发",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先起头发剪影",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 195,
+        "y": 400,
+        "width": 730,
+        "height": 400
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 4782,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          560,
+          400
+        ],
+        "end": [
+          560,
+          800
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "脸与笑嘴",
+      "sequence": 2,
+      "narrativeRole": "五官点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 550,
+        "width": 360,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 5282,
+        "durationMs": 1887,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          380,
+          710
+        ],
+        "end": [
+          740,
+          710
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shirt",
+      "label": "粉色上衣与背包",
+      "sequence": 3,
+      "narrativeRole": "服装与背包定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 840,
+        "width": 560,
+        "height": 300
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 7369,
+        "durationMs": 2751,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          520,
+          840
+        ],
+        "end": [
+          520,
+          1140
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "伸出的左手",
+      "sequence": 4,
+      "narrativeRole": "关键动作：张开双手",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 110,
+        "y": 930,
+        "width": 230,
+        "height": 230
+      },
+      "reveal": {
+        "direction": "right_to_left",
+        "startMs": 10320,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          340,
+          1045
+        ],
+        "end": [
+          110,
+          1045
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm",
+      "label": "伸出的右手",
+      "sequence": 5,
+      "narrativeRole": "另一侧手臂对称",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 750,
+        "y": 910,
+        "width": 240,
+        "height": 170
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 11420,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          750,
+          995
+        ],
+        "end": [
+          990,
+          995
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shorts",
+      "label": "橙色短裤与双腿",
+      "sequence": 6,
+      "narrativeRole": "下半身接上",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 380,
+        "y": 1090,
+        "width": 320,
+        "height": 320
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 12520,
+        "durationMs": 1677,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          540,
+          1090
+        ],
+        "end": [
+          540,
+          1410
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "shoes",
+      "label": "白色球鞋",
+      "sequence": 7,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 310,
+        "y": 1350,
+        "width": 440,
+        "height": 190
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 14397,
+        "durationMs": 1369,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          310,
+          1445
+        ],
+        "end": [
+          750,
+          1445
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

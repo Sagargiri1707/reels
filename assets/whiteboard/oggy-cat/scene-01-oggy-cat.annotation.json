@@ -1,0 +1,171 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 5 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 15599,
+  "elements": [
+    {
+      "id": "head",
+      "label": "头部与五官",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先立住脸和表情",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 190,
+        "y": 380,
+        "width": 710,
+        "height": 520
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 5340,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          545,
+          380
+        ],
+        "end": [
+          545,
+          900
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与肚皮",
+      "sequence": 2,
+      "narrativeRole": "把主体轮廓接到头下面",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 300,
+        "y": 890,
+        "width": 470,
+        "height": 460
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 5840,
+        "durationMs": 3127,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          535,
+          890
+        ],
+        "end": [
+          535,
+          1350
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "招手的左臂",
+      "sequence": 3,
+      "narrativeRole": "关键动作：打招呼的手",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 95,
+        "y": 760,
+        "width": 265,
+        "height": 330
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9167,
+        "durationMs": 1265,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          227,
+          760
+        ],
+        "end": [
+          227,
+          1090
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm-tail",
+      "label": "右臂与尾巴",
+      "sequence": 4,
+      "narrativeRole": "补齐另一侧的手与尾巴",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 690,
+        "y": 890,
+        "width": 340,
+        "height": 430
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10632,
+        "durationMs": 2115,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          860,
+          890
+        ],
+        "end": [
+          860,
+          1320
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "feet",
+      "label": "双脚与影子",
+      "sequence": 5,
+      "narrativeRole": "落地收尾，画面站稳",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 230,
+        "y": 1310,
+        "width": 620,
+        "height": 240
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 12947,
+        "durationMs": 2152,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          230,
+          1430
+        ],
+        "end": [
+          850,
+          1430
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

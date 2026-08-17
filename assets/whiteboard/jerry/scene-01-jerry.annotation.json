@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16028,
+  "elements": [
+    {
+      "id": "ear",
+      "label": "大耳朵",
+      "sequence": 1,
+      "narrativeRole": "标志性大耳先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 230,
+        "y": 390,
+        "width": 230,
+        "height": 430
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 300,
+        "durationMs": 1498,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          345,
+          390
+        ],
+        "end": [
+          345,
+          820
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "头与脸",
+      "sequence": 2,
+      "narrativeRole": "头形成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 410,
+        "y": 380,
+        "width": 430,
+        "height": 530
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 1998,
+        "durationMs": 3452,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          625,
+          380
+        ],
+        "end": [
+          625,
+          910
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眼睛与笑嘴",
+      "sequence": 3,
+      "narrativeRole": "表情点睛",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 490,
+        "y": 550,
+        "width": 310,
+        "height": 360
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 5650,
+        "durationMs": 1690,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          490,
+          730
+        ],
+        "end": [
+          800,
+          730
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与米色肚皮",
+      "sequence": 4,
+      "narrativeRole": "身体主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 320,
+        "y": 870,
+        "width": 420,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 7540,
+        "durationMs": 3435,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          530,
+          870
+        ],
+        "end": [
+          530,
+          1410
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-arm",
+      "label": "左臂与尾巴",
+      "sequence": 5,
+      "narrativeRole": "左侧肢体与尾巴",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 80,
+        "y": 1030,
+        "width": 260,
+        "height": 260
+      },
+      "reveal": {
+        "direction": "right_to_left",
+        "startMs": 11175,
+        "durationMs": 1024,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          340,
+          1160
+        ],
+        "end": [
+          80,
+          1160
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-arm",
+      "label": "右臂与手",
+      "sequence": 6,
+      "narrativeRole": "右侧肢体展开",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 690,
+        "y": 1030,
+        "width": 320,
+        "height": 180
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 12399,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          690,
+          1120
+        ],
+        "end": [
+          1010,
+          1120
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "legs",
+      "label": "双腿与脚",
+      "sequence": 7,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 140,
+        "y": 1330,
+        "width": 670,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13499,
+        "durationMs": 2029,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          140,
+          1430
+        ],
+        "end": [
+          810,
+          1430
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

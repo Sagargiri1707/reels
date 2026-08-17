@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 17226,
+  "elements": [
+    {
+      "id": "hair",
+      "label": "头发",
+      "sequence": 1,
+      "narrativeRole": "主角登场：先压头顶",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 340,
+        "y": 330,
+        "width": 500,
+        "height": 200
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 1717,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          340,
+          430
+        ],
+        "end": [
+          840,
+          430
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "脸与大耳朵",
+      "sequence": 2,
+      "narrativeRole": "长脸与招风耳是主体",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 370,
+        "width": 620,
+        "height": 540
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 2217,
+        "durationMs": 5750,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          600,
+          370
+        ],
+        "end": [
+          600,
+          910
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "eyes",
+      "label": "斜看的眼睛",
+      "sequence": 3,
+      "narrativeRole": "眼神决定这张图的喜感",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 490,
+        "y": 570,
+        "width": 310,
+        "height": 150
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 8167,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          490,
+          645
+        ],
+        "end": [
+          800,
+          645
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "suit",
+      "label": "西装与红领带",
+      "sequence": 4,
+      "narrativeRole": "服装定身份",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 320,
+        "y": 880,
+        "width": 420,
+        "height": 380
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 9267,
+        "durationMs": 2741,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          530,
+          880
+        ],
+        "end": [
+          530,
+          1260
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "left-hand",
+      "label": "抬起的左手",
+      "sequence": 5,
+      "narrativeRole": "关键动作：手舞",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 180,
+        "y": 780,
+        "width": 130,
+        "height": 130
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 12208,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          245,
+          910
+        ],
+        "end": [
+          245,
+          780
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "right-hand",
+      "label": "右手",
+      "sequence": 6,
+      "narrativeRole": "另一只手对称",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 730,
+        "y": 940,
+        "width": 160,
+        "height": 140
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13308,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          730,
+          1010
+        ],
+        "end": [
+          890,
+          1010
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "leg",
+      "label": "抬起的腿与皮鞋",
+      "sequence": 7,
+      "narrativeRole": "抬腿收住舞姿",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 370,
+        "y": 1140,
+        "width": 270,
+        "height": 500
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 14408,
+        "durationMs": 2318,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          505,
+          1140
+        ],
+        "end": [
+          505,
+          1640
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "storyBasis": "竖屏 reel：单一角色分区手绘，共 7 个模块，按轮廓→五官→肢体→落地的顺序作画。",
+  "sceneDurationMs": 16545,
+  "elements": [
+    {
+      "id": "ears",
+      "label": "竖起的耳朵",
+      "sequence": 1,
+      "narrativeRole": "标志性尖耳先出",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 520,
+        "width": 620,
+        "height": 210
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 2549,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          290,
+          625
+        ],
+        "end": [
+          910,
+          625
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "head",
+      "label": "头部与脸",
+      "sequence": 2,
+      "narrativeRole": "头形成立",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 370,
+        "y": 570,
+        "width": 470,
+        "height": 450
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 3049,
+        "durationMs": 4141,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          605,
+          570
+        ],
+        "end": [
+          605,
+          1020
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "face",
+      "label": "眯眼与笑嘴",
+      "sequence": 3,
+      "narrativeRole": "眨眼的表情是重点",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 440,
+        "y": 730,
+        "width": 270,
+        "height": 290
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 7390,
+        "durationMs": 1533,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          440,
+          875
+        ],
+        "end": [
+          710,
+          875
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "thumb",
+      "label": "竖大拇指的手",
+      "sequence": 4,
+      "narrativeRole": "关键动作：点赞",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 240,
+        "y": 860,
+        "width": 170,
+        "height": 270
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 9123,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          325,
+          1130
+        ],
+        "end": [
+          325,
+          860
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "body",
+      "label": "身体与尾巴",
+      "sequence": 5,
+      "narrativeRole": "坐姿主体成形",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 320,
+        "y": 980,
+        "width": 480,
+        "height": 350
+      },
+      "reveal": {
+        "direction": "top_to_bottom",
+        "startMs": 10223,
+        "durationMs": 3289,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          560,
+          980
+        ],
+        "end": [
+          560,
+          1330
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "paws",
+      "label": "白色前爪",
+      "sequence": 6,
+      "narrativeRole": "落地收尾",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 290,
+        "y": 1250,
+        "width": 450,
+        "height": 140
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 13712,
+        "durationMs": 1233,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          290,
+          1320
+        ],
+        "end": [
+          740,
+          1320
+        ],
+        "easing": "easeInOut"
+      }
+    },
+    {
+      "id": "heart",
+      "label": "旁边的小红心",
+      "sequence": 7,
+      "narrativeRole": "最后一笔点上红心",
+      "subtitle": "",
+      "type": "structure",
+      "region": {
+        "x": 140,
+        "y": 700,
+        "width": 140,
+        "height": 130
+      },
+      "reveal": {
+        "direction": "bottom_to_top",
+        "startMs": 15145,
+        "durationMs": 900,
+        "maskPaddingPx": 18,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          210,
+          830
+        ],
+        "end": [
+          210,
+          700
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

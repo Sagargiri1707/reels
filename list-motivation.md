@@ -635,7 +635,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Old mental models have to loosen before new ones can form, which produces a temporary sense of not knowing that people misinterpret as regression instead of transition.
       color: mustard
 
-- [ ] **Day 51 — reel — Growth feels like confusion before it feels like progress**
+- [x] **Day 51 — reel — Growth feels like confusion before it feels like progress**
       idea: The disoriented phase before a breakthrough gets mistaken for going backward.
       angle: Old models have to loosen before new ones can form.
       color: red
@@ -647,7 +647,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Experience alone doesn't teach; reflection does. Two people can go through the identical event and come out with completely different amounts of growth based on the honesty of the reflection afterward.
       color: lavender
 
-- [ ] **Day 52 — reel — You grow from what you examine honestly, not just from what happened**
+- [x] **Day 52 — reel — You grow from what you examine honestly, not just from what happened**
       idea: Two people can survive the identical event with wildly different growth.
       angle: Experience doesn't teach. Honest reflection does.
       color: royal-blue
@@ -659,7 +659,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Measurement bias focuses on visible, easily tracked metrics, which usually lag behind the actual underlying change; giving up because a lagging indicator hasn't moved yet is a timing error, not a real signal.
       color: slate-navy
 
-- [ ] **Day 53 — reel — The growth you're impatient for is invisible in the metric you're checking**
+- [x] **Day 53 — reel — The growth you're impatient for is invisible in the metric you're checking**
       idea: Most meaningful change is invisible in the short term.
       angle: People quit right before the compounding becomes visible.
       color: warm-beige
@@ -671,7 +671,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The discomfort isn't a sign something is wrong, it's the actual mechanism of adaptation; expecting growth without discomfort misunderstands what growth structurally requires.
       color: mustard
 
-- [ ] **Day 54 — reel — Comfort and growth don't coexist, waiting for both keeps you stuck**
+- [x] **Day 54 — reel — Comfort and growth don't coexist, waiting for both keeps you stuck**
       idea: Every skill you have was built during a period that felt uncomfortable.
       angle: Discomfort isn't a warning sign, it's the actual mechanism.
       color: red
@@ -683,7 +683,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Deliberate practice research consistently shows skill develops at the boundary of current competence, not within the comfortable zone of existing mastery.
       color: lavender
 
-- [ ] **Day 55 — reel — Only doing what you're already good at is how growth stops**
+- [x] **Day 55 — reel — Only doing what you're already good at is how growth stops**
       idea: Repeating strengths feels productive but produces a plateau.
       angle: Growth only happens at the edge of a skill you haven't mastered.
       color: royal-blue
@@ -695,7 +695,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: A lot of self-improvement framing implies building a new self from scratch, when much of actual growth is subtractive — removing fear-based patterns that were obscuring existing capacity.
       color: slate-navy
 
-- [ ] **Day 56 — reel — Growth is often subtractive, not additive — removing what was covering you**
+- [x] **Day 56 — reel — Growth is often subtractive, not additive — removing what was covering you**
       idea: A lot of self-improvement framing implies building someone new.
       angle: Much of real growth is removing fear-based patterns, not adding a new self.
       color: warm-beige
@@ -707,7 +707,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Visible, dramatic change is easier to narrate and share, but sustainable change tends to happen through unglamorous, repeated adjustment that doesn't produce a satisfying before-and-after story.
       color: mustard
 
-- [ ] **Day 57 — reel — The growth that actually works is usually the quiet, unglamorous kind**
+- [x] **Day 57 — reel — The growth that actually works is usually the quiet, unglamorous kind**
       idea: Dramatic transformation stories make good content but rarely hold.
       angle: Sustainable change is usually slower and less quotable than the highlight reel.
       color: red
@@ -719,7 +719,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The ego resists returning to beginner status once competence has been achieved elsewhere, but every genuinely new domain requires re-entering that uncomfortable state regardless of prior mastery.
       color: lavender
 
-- [ ] **Day 58 — reel — Growth means being willing to feel like a beginner again, repeatedly**
+- [x] **Day 58 — reel — Growth means being willing to feel like a beginner again, repeatedly**
       idea: The ego resists returning to beginner status once competence exists elsewhere.
       angle: Every new domain requires re-entering that state, no matter your other mastery.
       color: royal-blue
@@ -731,7 +731,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Self-worth measured by external approval fluctuates with the mood of whoever's judging, which is an unstable foundation by definition, regardless of how confidently they deliver the verdict.
       color: slate-navy
 
-- [ ] **Day 59 — reel — Your worth was never up for a vote**
+- [x] **Day 59 — reel — Your worth was never up for a vote**
       idea: You kept asking people who weren't qualified to cast one.
       angle: Their opinion was never data, it was noise with confidence.
       color: warm-beige
@@ -743,7 +743,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Performance-based self-worth is inherently unstable because it's contingent on constantly repeating success; character-based self-worth is stable because it doesn't require an external result to hold.
       color: mustard
 
-- [ ] **Day 60 — reel — Achievement-based self-worth collapses the moment achievement stops**
+- [x] **Day 60 — reel — Achievement-based self-worth collapses the moment achievement stops**
       idea: A slow month becomes an identity crisis instead of just a bad month.
       angle: Character-based worth doesn't need a result to hold up.
       color: red
@@ -755,7 +755,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: There's a category error where people conflate 'respect I've earned through specific accomplishment' with 'basic dignity owed to any person,' and the confusion gets used to justify mistreatment.
       color: lavender
 
-- [ ] **Day 61 — reel — Basic respect isn't something you earn, it's something you're owed**
+- [x] **Day 61 — reel — Basic respect isn't something you earn, it's something you're owed**
       idea: Confusing earned respect with basic dignity gets used to justify mistreatment.
       angle: You were already qualified for the baseline the moment you existed.
       color: royal-blue
@@ -767,7 +767,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Comparing yourself to someone further along and feeling behind is comparing a chapter one to someone's chapter twenty and calling it a race.
       color: slate-navy
 
-- [ ] **Day 62 — reel — You're comparing chapter one to someone's chapter twenty, not falling behind**
+- [x] **Day 62 — reel — You're comparing chapter one to someone's chapter twenty, not falling behind**
       idea: You're reading two different pages of two different books and calling it a race.
       angle: That comparison was never useful information to begin with.
       color: warm-beige
@@ -779,7 +779,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Other people's disappointment can reflect the loss of a convenient performance rather than an actual decline in you, and conflating the two keeps people trapped in roles they've outgrown.
       color: mustard
 
-- [ ] **Day 63 — reel — Their disappointment might just be about the role you stopped playing**
+- [x] **Day 63 — reel — Their disappointment might just be about the role you stopped playing**
       idea: It's not always about your decline, sometimes it's about your refusal to keep performing.
       angle: Don't confuse someone missing your act with you actually declining.
       color: red
@@ -791,7 +791,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Resilience is frequently misdefined as invulnerability, when it's actually a measurable, trainable metric: the time between a setback and functional recovery, which does shrink with practice.
       color: lavender
 
-- [ ] **Day 64 — reel — Resilience is how short the gap is between falling and standing up**
+- [x] **Day 64 — reel — Resilience is how short the gap is between falling and standing up**
       idea: It's not about avoiding the fall, it's a trainable recovery window.
       angle: That window shrinks with practice, like any other skill.
       color: royal-blue
@@ -803,7 +803,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Framing resilience as innate removes the actual mechanism, which is exposure and recovery repetition; anyone with enough survived difficulty develops the same callus.
       color: slate-navy
 
-- [ ] **Day 65 — reel — Resilient people just have more reps at breaking and recovering**
+- [x] **Day 65 — reel — Resilient people just have more reps at breaking and recovering**
       idea: Resilience isn't innate, it's a callus built through repeated exposure.
       angle: Anyone with enough survived difficulty develops the same callus.
       color: warm-beige
@@ -815,7 +815,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Resilience is developed under load, similar to physical strength training; periods of ease are where it's spent or demonstrated, not where it's actually built.
       color: mustard
 
-- [ ] **Day 66 — reel — Resilience is built in the storm and spent during the calm**
+- [x] **Day 66 — reel — Resilience is built in the storm and spent during the calm**
       idea: The strength you rely on now was earned during a hard period.
       angle: Ease is where resilience gets demonstrated, not where it's built.
       color: red
@@ -827,7 +827,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Perceived finality during a crisis is almost always a temporary distortion caused by proximity to the event, which fades once enough time and distance accumulate.
       color: lavender
 
-- [ ] **Day 67 — reel — What feels like the ending is usually just the chapter break**
+- [x] **Day 67 — reel — What feels like the ending is usually just the chapter break**
       idea: Perceived finality during a crisis is almost always a temporary distortion.
       angle: Only the people who kept turning pages found out it wasn't the end.
       color: royal-blue
@@ -839,7 +839,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Fear signals stakes, not direction; using it to identify what matters while ignoring its advice on what to do about it separates its useful function from its unreliable one.
       color: slate-navy
 
-- [ ] **Day 68 — reel — Fear is a bad navigator but a great flag for what matters**
+- [x] **Day 68 — reel — Fear is a bad navigator but a great flag for what matters**
       idea: The intensity of your fear often reveals what actually matters more than any goal list.
       angle: Use it to spot what matters, not to decide what to do.
       color: warm-beige
@@ -851,7 +851,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Fear and action can coexist in the same moment; courage is defined by that coexistence, not by the fear's absence, which is why waiting for fear to disappear delays action indefinitely.
       color: mustard
 
-- [ ] **Day 69 — reel — Courage isn't the absence of fear, it's acting while it's still there**
+- [x] **Day 69 — reel — Courage isn't the absence of fear, it's acting while it's still there**
       idea: Waiting for fear to leave confuses courage with fearlessness.
       angle: Fear and action coexisting in the same moment is the actual definition.
       color: red
@@ -863,7 +863,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The brain simulates worst-case scenarios with more vividness and duration than reality typically delivers, which is why the anticipation is frequently the worst part of the entire experience.
       color: lavender
 
-- [ ] **Day 70 — reel — The fear in your head is almost always worse than the real event**
+- [x] **Day 70 — reel — The fear in your head is almost always worse than the real event**
       idea: Anticipation is nearly always more intense than the actual event.
       angle: The dread is frequently the worst part of the whole experience.
       color: royal-blue
@@ -875,7 +875,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Exposure, not avoidance, is what reduces fear over time; avoidance provides short-term relief at the cost of the fear never getting the chance to be disconfirmed.
       color: slate-navy
 
-- [ ] **Day 71 — reel — The thing you're avoiding is usually what would resolve the fear**
+- [x] **Day 71 — reel — The thing you're avoiding is usually what would resolve the fear**
       idea: Avoidance gives short-term relief and guarantees the fear stays intact.
       angle: Exposure, not avoidance, is what actually reduces fear over time.
       color: warm-beige
@@ -887,7 +887,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Behavioral science consistently shows environmental design outperforms willpower for sustained habit change, because it removes the decision point instead of relying on resisting it every time.
       color: mustard
 
-- [ ] **Day 72 — reel — Discipline is designing your environment, not punishing yourself into action**
+- [x] **Day 72 — reel — Discipline is designing your environment, not punishing yourself into action**
       idea: Willpower-based discipline burns out fast because it fights friction every time.
       angle: Environment-based discipline removes the decision point entirely.
       color: red
@@ -899,7 +899,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Habits get adopted partly for identity signaling and partly for function, and these two motivations can diverge without the person noticing, since the identity reward is immediate and the functional reward is delayed.
       color: lavender
 
-- [ ] **Day 73 — reel — A habit you're proud of isn't always a habit that actually works**
+- [x] **Day 73 — reel — A habit you're proud of isn't always a habit that actually works**
       idea: Some routines look impressive while quietly not producing the result you want.
       angle: Check the outcome, not how the habit looks from outside.
       color: royal-blue
@@ -911,7 +911,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Consistency compounds far more reliably than intensity, and a habit's survival depends more on how easy it is to start than on how impressive the full version looks.
       color: slate-navy
 
-- [ ] **Day 74 — reel — The smallest version done today beats the perfect version done someday**
+- [x] **Day 74 — reel — The smallest version done today beats the perfect version done someday**
       idea: A habit's survival depends on how easy it is to start.
       angle: The two-minute version today beats the one-hour version that keeps sliding.
       color: warm-beige
@@ -923,7 +923,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Discipline and motivation are functionally different systems; discipline is designed to operate precisely when the emotional state of motivation is absent, which is why waiting to feel it defeats its entire purpose.
       color: mustard
 
-- [ ] **Day 75 — reel — Discipline exists for the days motivation doesn't show up**
+- [x] **Day 75 — reel — Discipline exists for the days motivation doesn't show up**
       idea: You don't need to feel motivated to act with discipline.
       angle: Waiting to feel disciplined defeats the entire point of the trait.
       color: red
@@ -935,7 +935,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Unresolved anger consumes present attention and energy long after the original event, which means the cost of not forgiving is paid continuously by the person still carrying it.
       color: lavender
 
-- [ ] **Day 76 — reel — Forgiveness isn't saying it was okay, it's stopping the rent payments**
+- [x] **Day 76 — reel — Forgiveness isn't saying it was okay, it's stopping the rent payments**
       idea: Holding resentment costs the holder more than the target, most of the time.
       angle: You're paying rent on a room you no longer live in.
       color: royal-blue
@@ -947,7 +947,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Conflating emotional release with behavioral trust creates a false binary; releasing resentment doesn't obligate you to rebuild the exact same exposure that led to the harm.
       color: slate-navy
 
-- [ ] **Day 77 — reel — You can forgive someone without giving them the same access again**
+- [x] **Day 77 — reel — You can forgive someone without giving them the same access again**
       idea: Forgiveness and restored trust are two separate decisions.
       angle: Releasing resentment doesn't obligate you to rebuild the same exposure.
       color: warm-beige
@@ -959,7 +959,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Resentment is an internal, ongoing cost paid by the person holding it, often with no corresponding cost to the person it's directed at, making the trade fundamentally lopsided.
       color: mustard
 
-- [ ] **Day 78 — reel — A grudge is poison you drink hoping they feel it**
+- [x] **Day 78 — reel — A grudge is poison you drink hoping they feel it**
       idea: They're often living unaffected while you carry the weight daily.
       angle: The trade is fundamentally lopsided, and you're the one paying.
       color: red
@@ -971,7 +971,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The search for a singular purpose can become its own form of procrastination; purpose often reveals itself retroactively through a pattern of consistent choices rather than a single moment of clarity.
       color: lavender
 
-- [ ] **Day 79 — reel — Purpose is what you keep choosing to care about, not one grand calling**
+- [x] **Day 79 — reel — Purpose is what you keep choosing to care about, not one grand calling**
       idea: Searching for one dramatic purpose can become its own procrastination.
       angle: It usually reveals itself through a pattern of choices, not a single moment.
       color: royal-blue
@@ -983,7 +983,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Abstract reflection about purpose in isolation rarely produces clarity; engaging with real activities and noticing which ones generate energy versus depletion is a faster, more reliable signal.
       color: slate-navy
 
-- [ ] **Day 80 — reel — You don't need to know your purpose before acting like something matters**
+- [x] **Day 80 — reel — You don't need to know your purpose before acting like something matters**
       idea: Purpose is usually discovered through engagement, not isolated introspection.
       angle: Try things and notice what generates energy instead of depletion.
       color: warm-beige
@@ -995,7 +995,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The gap between correct action and visible result is where most people quit, mistaking a lag in feedback for a lack of effect, when the effect is simply still compounding unseen.
       color: mustard
 
-- [ ] **Day 81 — reel — Patience isn't waiting passively, it's acting right while results stay invisible**
+- [x] **Day 81 — reel — Patience isn't waiting passively, it's acting right while results stay invisible**
       idea: The gap between correct action and visible result is where most people quit.
       angle: The effect is often still compounding, just not visible yet.
       color: red
@@ -1007,7 +1007,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Rushing frequently correlates more with discomfort tolerance than with actual efficiency gains; the rush is often about relieving the anxious feeling of uncertainty, not about genuinely speeding up the outcome.
       color: lavender
 
-- [ ] **Day 82 — reel — Impatience is often just fear wearing a productivity costume**
+- [x] **Day 82 — reel — Impatience is often just fear wearing a productivity costume**
       idea: Rushing is often about relieving anxiety, not about actually speeding things up.
       angle: Check whether the urgency is real or just discomfort with uncertainty.
       color: royal-blue
@@ -1019,7 +1019,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The fear that boundaries will damage a relationship often gets it backwards; clear boundaries usually improve a relationship's stability because they remove the guesswork about what's acceptable.
       color: slate-navy
 
-- [ ] **Day 83 — reel — A boundary is a fence, not a wall — it shows people how to stay in**
+- [x] **Day 83 — reel — A boundary is a fence, not a wall — it shows people how to stay in**
       idea: Boundaries get framed as rejection when their function is actually clarity.
       angle: Clear boundaries usually make relationships more stable, not less.
       color: warm-beige
@@ -1031,7 +1031,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The two costs aren't equivalent in duration; a boundary conversation is a one-time discomfort while an unset boundary generates a recurring, compounding cost every time it's crossed again.
       color: mustard
 
-- [ ] **Day 84 — reel — A boundary's discomfort is temporary, unset resentment is permanent**
+- [x] **Day 84 — reel — A boundary's discomfort is temporary, unset resentment is permanent**
       idea: One is a one-time cost. The other compounds every time it's crossed.
       angle: Avoiding the short conversation trades it for a long, recurring one.
       color: red
@@ -1043,7 +1043,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Toxic positivity conflates gratitude with denial; genuine gratitude practice actually requires holding two true things at once, not replacing the hard truth with a comfortable one.
       color: lavender
 
-- [ ] **Day 85 — reel — Gratitude isn't pretending things are fine, it's noticing what still is**
+- [x] **Day 85 — reel — Gratitude isn't pretending things are fine, it's noticing what still is**
       idea: It's not denial of hardship, it's parallel awareness alongside it.
       angle: You can hold two true things — the hard part and the good part — at once.
       color: royal-blue
@@ -1055,7 +1055,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Attentional bias shapes perceived reality more than actual circumstances do; two people with identical resources can feel completely different levels of abundance based purely on where their attention habitually lands.
       color: slate-navy
 
-- [ ] **Day 86 — reel — What you keep attention on starts to feel like the whole picture**
+- [x] **Day 86 — reel — What you keep attention on starts to feel like the whole picture**
       idea: Two people with identical resources can feel totally different levels of abundance.
       angle: The difference is where their attention habitually lands, not what they have.
       color: warm-beige
@@ -1067,7 +1067,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The exhausting part of holding onto something is usually the ongoing argument with reality about how it should have happened, not the memory of the event itself.
       color: mustard
 
-- [ ] **Day 87 — reel — Letting go isn't forgetting, it's dropping the demand that it happened differently**
+- [x] **Day 87 — reel — Letting go isn't forgetting, it's dropping the demand that it happened differently**
       idea: The exhausting part is usually the ongoing argument with reality, not the memory.
       angle: You can remember it fully and still stop needing it to have gone another way.
       color: red
@@ -1079,7 +1079,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Suppressed grief doesn't disappear, it postpones itself; genuine release requires processing the loss honestly first, which is slower but far more permanent than bypassing it.
       color: lavender
 
-- [ ] **Day 88 — reel — You can't let go of what you haven't fully grieved yet**
+- [x] **Day 88 — reel — You can't let go of what you haven't fully grieved yet**
       idea: Suppressed grief doesn't disappear, it postpones itself.
       angle: Processing the loss honestly first is slower but far more permanent.
       color: royal-blue
@@ -1091,7 +1091,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Conflating a single action with total identity is a cognitive distortion; the distinction between 'I did something bad' and 'I am bad' determines whether repair or shame becomes the response.
       color: slate-navy
 
-- [ ] **Day 89 — reel — You're not the worst thing you've done, but you own the repair**
+- [x] **Day 89 — reel — You're not the worst thing you've done, but you own the repair**
       idea: A mistake reveals a moment, not your entire identity.
       angle: Avoiding the repair is what actually starts to define you.
       color: warm-beige
@@ -1103,7 +1103,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Identity feels stable because change happens incrementally and invisibly, but the rolling nature of it means deliberate new choices genuinely shift who you are, not just how you're perceived.
       color: mustard
 
-- [ ] **Day 90 — reel — Identity is a rolling average of your last hundred decisions**
+- [x] **Day 90 — reel — Identity is a rolling average of your last hundred decisions**
       idea: It feels stable because change happens incrementally and invisibly.
       angle: New choices genuinely shift who you are, not just how you're seen.
       color: red
@@ -1115,7 +1115,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Self-fulfilling prophecy operates through behavior alignment with repeated self-narrative; the label shapes subsequent choices, which then reinforce the label, creating a loop that started as a description and became a cause.
       color: lavender
 
-- [ ] **Day 91 — reel — The label you keep repeating about yourself becomes true over time**
+- [x] **Day 91 — reel — The label you keep repeating about yourself becomes true over time**
       idea: It doesn't describe you, it trains you.
       angle: The brain treats repeated self-talk as instruction, not observation.
       color: royal-blue
@@ -1127,7 +1127,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Sustainable achievement requires recovery cycles; treating rest as the opposite of ambition rather than a component of it produces short bursts of output followed by long recoveries or collapse.
       color: slate-navy
 
-- [ ] **Day 92 — reel — Ambition without rest is just burnout with better branding**
+- [x] **Day 92 — reel — Ambition without rest is just burnout with better branding**
       idea: Constant pushing without recovery isn't more ambitious, it's less sustainable.
       angle: Rest is a component of ambition, not the opposite of it.
       color: warm-beige
@@ -1139,7 +1139,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Comfortable goals require no real stretch, which means they don't generate the growth associated with genuine ambition; some fear is evidence the target is appropriately sized.
       color: mustard
 
-- [ ] **Day 93 — reel — If your ambition doesn't scare you a little, it's probably too small**
+- [x] **Day 93 — reel — If your ambition doesn't scare you a little, it's probably too small**
       idea: Comfortable goals require no real stretch and generate little growth.
       angle: Some fear is evidence the target is actually sized correctly.
       color: red
@@ -1151,7 +1151,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Framing failure as antithetical to success ignores that iterative failure is the literal mechanism by which most skill and knowledge is acquired, not an unfortunate detour from it.
       color: lavender
 
-- [ ] **Day 94 — reel — Failure isn't the opposite of success, it's part of the tuition**
+- [x] **Day 94 — reel — Failure isn't the opposite of success, it's part of the tuition**
       idea: Every skill you have now cost a series of failures to get there.
       angle: Failure isn't a detour from the process, it is the process.
       color: royal-blue
@@ -1163,7 +1163,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Survivorship narratives tend to omit the failure chapters, creating a false impression that the people you admire skipped the exact setback you're currently afraid of.
       color: slate-navy
 
-- [ ] **Day 95 — reel — The failure you fear has probably already happened to someone you admire**
+- [x] **Day 95 — reel — The failure you fear has probably already happened to someone you admire**
       idea: Survivorship stories tend to skip the failure chapters entirely.
       angle: They didn't avoid your fear, they just kept going after it happened.
       color: warm-beige
@@ -1175,7 +1175,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Low-cost kindness is common precisely because it's low-cost; the version that reveals something meaningful about a person is the kindness that required an actual sacrifice.
       color: mustard
 
-- [ ] **Day 96 — reel — Kindness that costs nothing is nice, kindness that costs something is character**
+- [x] **Day 96 — reel — Kindness that costs nothing is nice, kindness that costs something is character**
       idea: Being pleasant when it's easy is baseline decency, not virtue.
       angle: Real kindness shows up when it requires an actual sacrifice.
       color: red
@@ -1187,7 +1187,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Agreeableness and boundarylessness get conflated, but genuine kindness can and does coexist with clear limits; the confusion, not the kindness itself, is what causes the erosion.
       color: lavender
 
-- [ ] **Day 97 — reel — Kindness and being a pushover are different things**
+- [x] **Day 97 — reel — Kindness and being a pushover are different things**
       idea: Kindness doesn't require saying yes to everything.
       angle: The confusion between generosity and self-erasure is what costs you your boundaries.
       color: royal-blue
@@ -1199,7 +1199,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Social contact and emotional connection are separate variables; high quantity of interaction with low depth still produces the felt experience of loneliness, regardless of how full someone's schedule looks.
       color: slate-navy
 
-- [ ] **Day 98 — reel — Loneliness is the absence of being known, not the absence of people**
+- [x] **Day 98 — reel — Loneliness is the absence of being known, not the absence of people**
       idea: You can be surrounded constantly and still feel isolated.
       angle: Quantity of contact and depth of connection are separate variables.
       color: warm-beige
@@ -1211,7 +1211,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Superficial socializing can coexist with persistent loneliness because the underlying need is connection, not contact; adding more low-depth interactions doesn't address the actual deficit.
       color: mustard
 
-- [ ] **Day 99 — reel — The cure for loneliness is rarely more people, it's usually one honest talk**
+- [x] **Day 99 — reel — The cure for loneliness is rarely more people, it's usually one honest talk**
       idea: Superficial socializing can coexist with persistent loneliness.
       angle: The need is connection, not contact, and volume doesn't fix that gap.
       color: red
@@ -1223,7 +1223,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Linear-progress expectations set an unrealistic bar that any natural fluctuation will violate, which turns a normal part of the process into a false signal of regression.
       color: lavender
 
-- [ ] **Day 100 — reel — Healing isn't linear, and expecting it to be makes bad days feel like failure**
+- [x] **Day 100 — reel — Healing isn't linear, and expecting it to be makes bad days feel like failure**
       idea: A setback during recovery doesn't mean the recovery failed.
       angle: Recovery doesn't move in a straight line, and expecting it to sets a false bar.
       color: royal-blue
@@ -1235,7 +1235,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Healing gets misdefined as amnesia, when the more accurate marker is behavioral autonomy from the past event, regardless of whether the memory itself has faded.
       color: slate-navy
 
-- [ ] **Day 101 — reel — You heal by no longer being run by it, not by forgetting it**
+- [x] **Day 101 — reel — You heal by no longer being run by it, not by forgetting it**
       idea: The goal was never erasing the memory.
       angle: The real marker is whether the memory still dictates your choices today.
       color: warm-beige
@@ -1247,7 +1247,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Resistance intensifies as change nears completion because the old pattern is defending itself most strongly right before losing its grip, which people misread as evidence the change isn't working.
       color: mustard
 
-- [ ] **Day 102 — reel — The moment change feels impossible is usually right before it happens**
+- [x] **Day 102 — reel — The moment change feels impossible is usually right before it happens**
       idea: Resistance intensifies right before the old pattern actually loses its grip.
       angle: That final discomfort isn't a sign to stop, it's a sign it's working.
       color: red
@@ -1259,7 +1259,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Motivation research shows action frequently precedes the internal feeling of readiness rather than following it, which means waiting to feel ready can delay change indefinitely.
       color: lavender
 
-- [ ] **Day 103 — reel — Readiness is often the last thing to arrive, not the first**
+- [x] **Day 103 — reel — Readiness is often the last thing to arrive, not the first**
       idea: Waiting for the internal green light gets the order backward.
       angle: For most people, willingness to act comes before the feeling of readiness.
       color: royal-blue
@@ -1271,7 +1271,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Family patterns get inherited without consent by default; choosing to examine and revise them isn't a betrayal of the relationship, it's a separate decision about which parts to keep.
       color: slate-navy
 
-- [ ] **Day 104 — reel — You can love your family and still question what they taught you**
+- [x] **Day 104 — reel — You can love your family and still question what they taught you**
       idea: Loyalty to people doesn't require loyalty to every belief they passed down.
       angle: You can keep the relationship and still update the inheritance.
       color: warm-beige
@@ -1283,7 +1283,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Unnamed patterns repeat because nobody has interrupted the automatic transmission of behavior across generations; naming it explicitly is often the first real intervention point.
       color: mustard
 
-- [ ] **Day 105 — reel — A family pattern stops with the first person willing to name it out loud**
+- [x] **Day 105 — reel — A family pattern stops with the first person willing to name it out loud**
       idea: Cycles continue silently until someone interrupts the automatic transmission.
       angle: Naming it out loud is often the first real intervention point.
       color: red
@@ -1295,7 +1295,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Long-range certainty is rarer than it looks from outside; most forward movement happens through a series of locally reasonable decisions, not a fully mapped plan.
       color: lavender
 
-- [ ] **Day 106 — reel — You don't need your whole life figured out, just the next honest step**
+- [x] **Day 106 — reel — You don't need your whole life figured out, just the next honest step**
       idea: Total clarity about the future is a myth nobody actually has.
       angle: Most progress happens through the next reasonable step, not a full map.
       color: royal-blue
@@ -1307,7 +1307,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Outcomes are shaped by realized behavior, not stated intention; the gap between the two is where most disappointment about 'how things turned out' actually originates.
       color: slate-navy
 
-- [ ] **Day 107 — reel — Your life is the sum of what you repeated, not what you intended**
+- [x] **Day 107 — reel — Your life is the sum of what you repeated, not what you intended**
       idea: Intentions that never became repeated action don't show up in the result.
       angle: That gap between intention and repetition is where the disappointment lives.
       color: warm-beige
@@ -1319,7 +1319,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Verbal apology and behavioral change are separate signals; the words provide short-term relief but only the changed behavior provides evidence the underlying issue was actually addressed.
       color: mustard
 
-- [ ] **Day 108 — reel — An apology that matters changes behavior, not just wording**
+- [x] **Day 108 — reel — An apology that matters changes behavior, not just wording**
       idea: A well-worded sorry with no change is just a more articulate repeat.
       angle: Only changed behavior is evidence the issue was actually addressed.
       color: red
@@ -1331,7 +1331,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Prioritizing factual correctness over relational repair in a disagreement can technically win the argument while damaging the actual thing at stake, which was never the argument itself.
       color: lavender
 
-- [ ] **Day 109 — reel — You can win the argument and still lose the relationship**
+- [x] **Day 109 — reel — You can win the argument and still lose the relationship**
       idea: Being right and preserving the connection are sometimes competing goals.
       angle: The thing actually at stake was never the argument itself.
       color: royal-blue
@@ -1343,7 +1343,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Temptation is universal and not itself morally significant; the meaningful variable is the response pattern that follows it, repeated over time.
       color: slate-navy
 
-- [ ] **Day 110 — reel — Character isn't never being tempted, it's what you do with the temptation**
+- [x] **Day 110 — reel — Character isn't never being tempted, it's what you do with the temptation**
       idea: Everyone faces some version of the same pull toward the easy option.
       angle: The meaningful variable is the response pattern, not the temptation itself.
       color: warm-beige
@@ -1355,7 +1355,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: In-person behavior is shaped by the social pressure of an audience present; absent that pressure, speech about third parties is a purer, less filtered signal of actual regard for people.
       color: mustard
 
-- [ ] **Day 111 — reel — Character shows most in how you talk about people who aren't in the room**
+- [x] **Day 111 — reel — Character shows most in how you talk about people who aren't in the room**
       idea: Face-to-face behavior is shaped by the pressure of an audience present.
       angle: Talk about someone absent is a purer, less filtered signal.
       color: red
@@ -1367,7 +1367,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Curated self-presentation, even inside a close relationship, caps the depth of connection at whatever the edited version allows, which structurally limits how known you can actually be.
       color: lavender
 
-- [ ] **Day 112 — reel — Real intimacy requires the unedited version, not the curated one**
+- [x] **Day 112 — reel — Real intimacy requires the unedited version, not the curated one**
       idea: Curated self-presentation caps how deeply you can actually be known.
       angle: Show the version that isn't edited for anyone, including them.
       color: royal-blue
@@ -1379,7 +1379,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Presence during failure, not just presence during success, is the differentiating test of a close relationship, because it's the moment least incentivized by the relationship's upside.
       color: slate-navy
 
-- [ ] **Day 113 — reel — Real closeness is measured by who stayed through your failures**
+- [x] **Day 113 — reel — Real closeness is measured by who stayed through your failures**
       idea: Anyone can witness your highlights and call that closeness.
       angle: The smaller circle who watched you struggle and stayed is the real measure.
       color: warm-beige
@@ -1391,7 +1391,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Trust is inherently a decision made under uncertainty; demanding proof-level certainty before extending it confuses trust with guarantee, which is a category that doesn't apply to relationships.
       color: mustard
 
-- [ ] **Day 114 — reel — Trust doesn't require certainty, just enough evidence to take the risk**
+- [x] **Day 114 — reel — Trust doesn't require certainty, just enough evidence to take the risk**
       idea: Waiting for absolute certainty guarantees never trusting anyone.
       angle: Trust is a decision made under uncertainty, not a guarantee.
       color: red
@@ -1403,7 +1403,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The gap between promised and delivered behavior is the actual metric of trustworthiness; inflating the promise to sound impressive just schedules a future credibility loss.
       color: lavender
 
-- [ ] **Day 115 — reel — Overpromising just schedules a future credibility loss**
+- [x] **Day 115 — reel — Overpromising just schedules a future credibility loss**
       idea: The gap between promised and delivered behavior is the real trust metric.
       angle: Inflating a promise to sound impressive doesn't make it more deliverable.
       color: royal-blue
@@ -1415,7 +1415,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Future-self framing can become a form of procrastination if it delays the exact choice that would embody that future self today; the growth is available immediately, not later.
       color: slate-navy
 
-- [ ] **Day 116 — reel — The person you're trying to become exists in the choice you're avoiding now**
+- [x] **Day 116 — reel — The person you're trying to become exists in the choice you're avoiding now**
       idea: Future-self framing can become procrastination in disguise.
       angle: That growth is available immediately, in the choice you keep deferring.
       color: warm-beige
@@ -1427,7 +1427,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Motion and progress are frequently conflated; without a feedback loop of reflection, repeated action can reinforce the same ineffective pattern indefinitely instead of improving it.
       color: mustard
 
-- [ ] **Day 117 — reel — Growth without reflection is just motion, not progress**
+- [x] **Day 117 — reel — Growth without reflection is just motion, not progress**
       idea: Staying busy feels like development, but it isn't the same thing.
       angle: Without a feedback loop, repeated action can reinforce the same pattern.
       color: red
@@ -1439,7 +1439,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Approval-seeking operates on a hedonic treadmill that resets quickly, while connection satisfies a more stable underlying need, which is why one leaves you wanting more and the other doesn't.
       color: lavender
 
-- [ ] **Day 118 — reel — Needing approval and wanting connection are different needs**
+- [x] **Day 118 — reel — Needing approval and wanting connection are different needs**
       idea: Approval resets after every validation, connection actually stays filled.
       angle: One is a bottomless need. The other is satisfiable.
       color: royal-blue
@@ -1451,7 +1451,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Conflating temporary output with permanent worth turns every dip in performance into an existential threat instead of a normal, recoverable fluctuation.
       color: slate-navy
 
-- [ ] **Day 119 — reel — Your value doesn't fluctuate with your output, even though your mood does**
+- [x] **Day 119 — reel — Your value doesn't fluctuate with your output, even though your mood does**
       idea: A slow week makes the week slower, not you less valuable.
       angle: Conflating output with worth turns a normal dip into an identity crisis.
       color: warm-beige
@@ -1463,7 +1463,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Narrative structure requires contrast; the setback provides the tension that makes recovery meaningful, which reframes the difficult period as a structural requirement rather than an unfortunate detour.
       color: mustard
 
-- [ ] **Day 120 — reel — The comeback exists because the setback was real, not despite it**
+- [x] **Day 120 — reel — The comeback exists because the setback was real, not despite it**
       idea: You can't have a comeback narrative without an actual fall first.
       angle: The hard part is the necessary first half of the story, not a detour from it.
       color: red
@@ -1475,7 +1475,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Self-reliance gets overweighted as the core resilience trait, when the actual research on recovery consistently shows social support as one of the strongest predictors of bouncing back quickly.
       color: lavender
 
-- [ ] **Day 121 — reel — Resilience includes knowing when to ask for support, not just going solo**
+- [x] **Day 121 — reel — Resilience includes knowing when to ask for support, not just going solo**
       idea: Self-reliance gets overweighted as the core resilience trait.
       angle: Social support is one of the strongest predictors of recovering fast.
       color: royal-blue
@@ -1487,7 +1487,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The spotlight effect makes people overestimate how much others notice and remember their actions, which inflates social fear far beyond what the actual attention level justifies.
       color: slate-navy
 
-- [ ] **Day 122 — reel — The fear of judgment overestimates how closely anyone's actually watching**
+- [x] **Day 122 — reel — The fear of judgment overestimates how closely anyone's actually watching**
       idea: Most people are too busy with their own life to track yours that closely.
       angle: That inflated attention is a bias, not an accurate read of the room.
       color: warm-beige
@@ -1499,7 +1499,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Disentangling outcome-fear from exposure-fear reveals that privacy or reduced visibility can sometimes solve the actual anxiety without needing to solve the harder problem of eliminating risk itself.
       color: mustard
 
-- [ ] **Day 123 — reel — Fear of failing and fear of being seen failing are different fears**
+- [x] **Day 123 — reel — Fear of failing and fear of being seen failing are different fears**
       idea: A lot of that fear is really about visibility, not the outcome itself.
       angle: That's a more manageable problem than eliminating the risk of failing.
       color: red
@@ -1511,7 +1511,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Discipline gets narrowly associated with initiation and persistence, but the restraint to disengage from something no longer working is an equally demanding, underrated version of the same skill.
       color: lavender
 
-- [ ] **Day 124 — reel — The discipline to stop matters as much as the discipline to start**
+- [x] **Day 124 — reel — The discipline to stop matters as much as the discipline to start**
       idea: Discipline gets narrowly associated with starting and persisting.
       angle: Knowing when to disengage is an equally demanding version of the same skill.
       color: royal-blue
@@ -1523,7 +1523,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: External forgiveness only requires releasing judgment of someone else; self-forgiveness requires the more complex act of a single person simultaneously prosecuting and pardoning themselves.
       color: slate-navy
 
-- [ ] **Day 125 — reel — Forgiving yourself is harder because you're both judge and defendant**
+- [x] **Day 125 — reel — Forgiving yourself is harder because you're both judge and defendant**
       idea: Self-forgiveness requires holding both roles in the same process.
       angle: That's why it often takes longer than forgiving someone else entirely.
       color: warm-beige
@@ -1535,7 +1535,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Completed action generates real impact and feedback; a plan, however impressive, produces neither until it's executed, which makes the comparison between them lopsided in favor of the smaller, finished version.
       color: mustard
 
-- [ ] **Day 126 — reel — A small finished act of purpose beats a big unstarted plan for one**
+- [x] **Day 126 — reel — A small finished act of purpose beats a big unstarted plan for one**
       idea: A plan, however impressive, produces no impact until it's executed.
       angle: The comparison favors the smaller, finished version every time.
       color: red
@@ -1547,7 +1547,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Self-directed and other-directed patience draw on overlapping but distinct psychological resources; strength in one doesn't automatically transfer to the other, which explains why people can be gracious with others and harsh with themselves.
       color: lavender
 
-- [ ] **Day 127 — reel — Patience with others and patience with yourself are different muscles**
+- [x] **Day 127 — reel — Patience with others and patience with yourself are different muscles**
       idea: Being gracious with someone else's pace doesn't automatically transfer to your own.
       angle: Most people train one and neglect the other entirely.
       color: royal-blue
@@ -1559,7 +1559,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Boundaries function through consistent enforcement, not through the initial statement; an unenforced boundary trains the other person to keep testing it, since the stated consequence never actually materializes.
       color: slate-navy
 
-- [ ] **Day 128 — reel — An unenforced boundary is a suggestion, not a boundary**
+- [x] **Day 128 — reel — An unenforced boundary is a suggestion, not a boundary**
       idea: Saying you have a limit and not enforcing it teaches people it's negotiable.
       angle: It functions through consistent enforcement, not the initial statement.
       color: warm-beige
@@ -1571,7 +1571,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Boundaries are frequently misunderstood as attempts to control another person's actions, when they're actually a statement of your own behavior in response to theirs, which is the only part you actually control.
       color: mustard
 
-- [ ] **Day 129 — reel — A boundary is about your own response, not controlling their behavior**
+- [x] **Day 129 — reel — A boundary is about your own response, not controlling their behavior**
       idea: It was never a demand that someone change.
       angle: It's a decision about what you will and won't keep participating in.
       color: red
@@ -1583,7 +1583,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Gratitude confined to favorable circumstances is closer to a passive emotional response than an active practice, which is why it disappears exactly when it would be most useful, during hard times.
       color: lavender
 
-- [ ] **Day 130 — reel — Gratitude only during good times isn't gratitude, it's relief**
+- [x] **Day 130 — reel — Gratitude only during good times isn't gratitude, it's relief**
       idea: A passive emotional response disappears exactly when it would be most useful.
       angle: Real gratitude is a practiced lens, not a reaction to favorable circumstances.
       color: royal-blue
@@ -1595,7 +1595,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Static mental models of people don't update automatically; refusing to let go of an outdated version creates a persistent mismatch between perception and the person's current reality.
       color: slate-navy
 
-- [ ] **Day 131 — reel — Holding an old version of someone blinds you to who's in front of you now**
+- [x] **Day 131 — reel — Holding an old version of someone blinds you to who's in front of you now**
       idea: Static mental models of people don't update automatically.
       angle: That creates a mismatch between your perception and their current reality.
       color: warm-beige
@@ -1607,7 +1607,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Outcome and effort are separable in value; a released goal doesn't retroactively make the invested work meaningless, even though disappointment often makes it feel that way in the moment.
       color: mustard
 
-- [ ] **Day 132 — reel — You can release the outcome without erasing the value of the effort**
+- [x] **Day 132 — reel — You can release the outcome without erasing the value of the effort**
       idea: A released goal doesn't retroactively make the invested work meaningless.
       angle: Disappointment just makes it feel that way in the moment.
       color: red
@@ -1619,7 +1619,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Narrative framing of identical historical facts materially changes present behavior; the facts don't determine the frame, the person telling the story does, which means the frame itself is a choice.
       color: lavender
 
-- [ ] **Day 133 — reel — The story about your past self is either a cage or a launchpad**
+- [x] **Day 133 — reel — The story about your past self is either a cage or a launchpad**
       idea: The same facts can be framed as a limitation or as proof of progress.
       angle: The frame is a choice, not a fixed fact about the past.
       color: royal-blue
@@ -1631,7 +1631,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Extrinsic goals satisfy social metrics but not intrinsic psychological needs, which is why achieving them can produce a confusing emptiness instead of the expected satisfaction.
       color: slate-navy
 
-- [ ] **Day 134 — reel — Ambition aimed only at status can succeed and still feel empty**
+- [x] **Day 134 — reel — Ambition aimed only at status can succeed and still feel empty**
       idea: Extrinsic goals satisfy social metrics, not intrinsic psychological needs.
       angle: That's why achieving them can produce a confusing emptiness instead of relief.
       color: warm-beige
@@ -1643,7 +1643,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Sustainability is a component of long-term ambition, not a competing value against it; burning out to hit a short-term target can undermine the larger, longer-horizon goal entirely.
       color: mustard
 
-- [ ] **Day 135 — reel — Sometimes the most ambitious move is just protecting your ability to keep going**
+- [x] **Day 135 — reel — Sometimes the most ambitious move is just protecting your ability to keep going**
       idea: Ambition doesn't always look like acceleration.
       angle: Burning out for a short-term target can undermine the longer goal entirely.
       color: red
@@ -1655,7 +1655,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Attribution to external factors provides emotional protection but blocks the internal analysis needed for the failure to actually produce learning, which is why the most defensive explanations often accompany the least growth.
       color: lavender
 
-- [ ] **Day 136 — reel — The failure you're tempted to explain away is the one that teaches most**
+- [x] **Day 136 — reel — The failure you're tempted to explain away is the one that teaches most**
       idea: Justifying a failure immediately short-circuits the reflection that extracts the lesson.
       angle: The most defensive explanations often accompany the least growth.
       color: royal-blue
@@ -1667,7 +1667,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Superficial pleasantness that avoids necessary honesty prioritizes short-term comfort over the other person's actual interest, which is closer to self-protection than to genuine care.
       color: slate-navy
 
-- [ ] **Day 137 — reel — Kindness without honesty is often just conflict avoidance in disguise**
+- [x] **Day 137 — reel — Kindness without honesty is often just conflict avoidance in disguise**
       idea: Being agreeable to avoid discomfort isn't the same as being kind.
       angle: Real kindness sometimes requires saying the harder, truer thing instead.
       color: warm-beige
@@ -1679,7 +1679,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Quantity of social contact is a poor proxy for the quality of connection needed to resolve loneliness, which is why a packed social calendar and persistent isolation frequently coexist.
       color: mustard
 
-- [ ] **Day 138 — reel — You can fix the logistics of being alone and still feel lonely**
+- [x] **Day 138 — reel — You can fix the logistics of being alone and still feel lonely**
       idea: Quantity of social contact is a poor proxy for the connection you actually need.
       angle: A packed calendar and persistent isolation frequently coexist.
       color: red
@@ -1691,7 +1691,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Premature performance of resolution short-circuits the actual emotional work; acknowledgment, even when uncomfortable, tends to produce faster genuine recovery than a convincing display of being unaffected.
       color: lavender
 
-- [ ] **Day 139 — reel — An acknowledged wound heals faster than one performed as already fine**
+- [x] **Day 139 — reel — An acknowledged wound heals faster than one performed as already fine**
       idea: Pretending to have moved on delays the real processing recovery requires.
       angle: It looks like progress from outside while actually slowing the real work down.
       color: royal-blue
@@ -1703,7 +1703,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Social systems adapt more slowly than individual identity; other people's models of you lag behind your actual growth, which creates friction that's about their catch-up time, not about whether the change is real.
       color: slate-navy
 
-- [ ] **Day 140 — reel — People around you resist your change longer than you resist it yourself**
+- [x] **Day 140 — reel — People around you resist your change longer than you resist it yourself**
       idea: The environment has an investment in the old version of you.
       angle: That friction is about their catch-up time, not whether your change is real.
       color: warm-beige
@@ -1715,7 +1715,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Uncritical inheritance of family patterns perpetuates whatever worked and whatever didn't equally; deliberate discernment is what actually improves outcomes across generations rather than just repeating them.
       color: mustard
 
-- [ ] **Day 141 — reel — The best inheritance is the willingness to break what didn't work**
+- [x] **Day 141 — reel — The best inheritance is the willingness to break what didn't work**
       idea: Uncritical inheritance perpetuates the good and the bad patterns equally.
       angle: Discernment, not blind continuation, is the actual gift to the next generation.
       color: red
@@ -1727,7 +1727,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Emotional intensity is frequently mistaken for a mandate to act, when the more accurate framing treats the emotion as a signal to interpret before deciding on a response.
       color: lavender
 
-- [ ] **Day 142 — reel — An emotion is information, not an instruction**
+- [x] **Day 142 — reel — An emotion is information, not an instruction**
       idea: Feeling something intensely doesn't obligate you to act on it immediately.
       angle: The feeling is data to interpret, not a command to obey.
       color: royal-blue
@@ -1739,7 +1739,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The cost asymmetry between a brief regulation pause and the aftermath of an unregulated reaction strongly favors the pause, even though the pause feels harder in the moment.
       color: slate-navy
 
-- [ ] **Day 143 — reel — Five minutes of regulation saves hours of repair later**
+- [x] **Day 143 — reel — Five minutes of regulation saves hours of repair later**
       idea: A short pause before reacting is cheap. The cleanup afterward is expensive.
       angle: That cost asymmetry favors the pause, even though it feels harder in the moment.
       color: warm-beige
@@ -1751,7 +1751,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Attention naturally drifts to non-actionable timeframes under stress, which is precisely why redirecting it to the present, however difficult, is the only redirection that restores any actual agency.
       color: mustard
 
-- [ ] **Day 144 — reel — The present is the only place anything is actually solvable**
+- [x] **Day 144 — reel — The present is the only place anything is actually solvable**
       idea: Anxiety lives in an unhappened future. Regret lives in an unchangeable past.
       angle: Neither of those is a place where anything can actually be done.
       color: red
@@ -1763,7 +1763,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Ambition and contentment get framed as opposites, but the actual distinction is whether the present is treated as an obstacle to tolerate or a state that can coexist with continued pursuit of something more.
       color: lavender
 
-- [ ] **Day 145 — reel — Contentment isn't the absence of desire, it's peace with the present while you pursue more**
+- [x] **Day 145 — reel — Contentment isn't the absence of desire, it's peace with the present while you pursue more**
       idea: You can want more and still be at peace with where you are now.
       angle: Those two aren't mutually exclusive, despite how often they're treated that way.
       color: royal-blue
@@ -1775,7 +1775,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Utility of information matters more than delivery polish; an honest but awkward message still transfers accurate signal, while a smooth but dishonest one transfers none, regardless of how it's received emotionally.
       color: slate-navy
 
-- [ ] **Day 146 — reel — A clumsy true answer beats a smooth false one**
+- [x] **Day 146 — reel — A clumsy true answer beats a smooth false one**
       idea: An honest but awkward message still transfers accurate signal.
       angle: A smooth but dishonest one transfers none, no matter how well it's delivered.
       color: warm-beige
@@ -1787,7 +1787,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Curated content is structurally designed to show peaks, not averages, which makes any direct comparison between your average day and someone's highlight reel mathematically unfair before it even starts.
       color: mustard
 
-- [ ] **Day 147 — reel — You're comparing your daily life to someone's trailer, not their movie**
+- [x] **Day 147 — reel — You're comparing your daily life to someone's trailer, not their movie**
       idea: Curated content is designed to show peaks, not averages.
       angle: That comparison was mathematically unfair before it even started.
       color: red
@@ -1799,7 +1799,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: The instinct to seek validation for a life well-lived conflates external recognition with internal meaning, but the two are separable, and a life can be fully meaningful without ever being observed.
       color: lavender
 
-- [ ] **Day 148 — reel — A quiet, unremarkable good life is still a good life**
+- [x] **Day 148 — reel — A quiet, unremarkable good life is still a good life**
       idea: Meaning doesn't require witnesses, even though instinct suggests otherwise.
       angle: External recognition and internal meaning are separable things.
       color: royal-blue
@@ -1811,7 +1811,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Static and evolving relationships aren't different in effort required, they're different in the type of effort, which means the assumption that a stable relationship needs no work is usually mistaken.
       color: slate-navy
 
-- [ ] **Day 149 — reel — Relationships that grow with you take a different kind of work, not less work**
+- [x] **Day 149 — reel — Relationships that grow with you take a different kind of work, not less work**
       idea: Static and evolving relationships aren't different in effort, just in type.
       angle: The assumption that a stable relationship needs no work is usually mistaken.
       color: warm-beige
@@ -1823,7 +1823,7 @@ Only the `- [ ]` line is parsed. Indentation on the other lines is cosmetic.
       angle: Stress reveals default behavior patterns that politeness usually masks; disruption removes the buffer of things going well, exposing the trait underneath.
       color: mustard
 
-- [ ] **Day 150 — reel — Character shows most when the plan stops going your way**
+- [x] **Day 150 — reel — Character shows most when the plan stops going your way**
       idea: Anyone can stay pleasant when things go as expected.
       angle: Disruption removes the buffer that was masking the real trait.
       color: red
